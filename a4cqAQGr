@@ -1,0 +1,4 @@
+* :4cqAQGr: apparently, this is better than killing the screen process when screen is connected to a device like /dev/ttyS0, because it also frees that device.  If on the other hand you kill the screen process and try to reconnect, you have a problem.
+    @created 1328581375422
+    @sharability 0.75
+    @weight 0.5

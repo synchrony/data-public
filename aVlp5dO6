@@ -1,0 +1,4 @@
+* :Vlp5dO6: mvn -Dtest=CompareTest#testURIs+testNumericValues,TrimTest test
+    @created 1449879248517
+    @sharability 0.75
+    @weight 0.5

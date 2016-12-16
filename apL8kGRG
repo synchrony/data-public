@@ -1,0 +1,4 @@
+* :pL8kGRG: rm -s  -- fails (trying to delete directory named "-s")
+    @created 1338830648625
+    @sharability 0.75
+    @weight 0.5

@@ -1,0 +1,4 @@
+* :tfrm9Qn: selects a partition by determining if the partitioning key is inside a certain range
+    @created 1463280346973
+    @sharability 0.75
+    @weight 0.5

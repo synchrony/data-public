@@ -1,0 +1,4 @@
+* :BjdVf10: var myOtherUrl = "http://example.com/index.html?url=" + encodeURIComponent(myUrl);
+    @created 1340258644538
+    @sharability 0.75
+    @weight 0.5

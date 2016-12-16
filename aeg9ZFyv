@@ -1,0 +1,4 @@
+* :eg9ZFyv: the actual removal of versions is done upon major compaction, but gets and scans will stop returning versions whose TTL is passed immediately
+    @created 1397672481546
+    @sharability 0.75
+    @weight 0.5

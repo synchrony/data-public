@@ -1,0 +1,4 @@
+* :m1sRP8U: an algorithm for traversing or searching tree or graph data structures. One starts at the root (selecting some node as the root in the graph case) and explores as far as possible along each branch before backtracking
+    @created 1381030023900
+    @sharability 0.75
+    @weight 0.5

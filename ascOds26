@@ -1,0 +1,4 @@
+* :scOds26: Dstream applied to relation R contains a stream element <t, s> whenever tuple s is in R at time t-1 but not in R at time t
+    @created 1352146992630
+    @sharability 0.75
+    @weight 0.5

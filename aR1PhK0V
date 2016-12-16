@@ -1,0 +1,4 @@
+* :R1PhK0V: v <- read.table(file("/tmp/extendo-vertices.txt"), header=TRUE, sep="\t", quote="")
+    @created 1330373982923
+    @sharability 0.75
+    @weight 0.5

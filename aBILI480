@@ -1,0 +1,4 @@
+* :BILI480: use ^^20 as a non-breaking space in the name field.  Mendeley is supposed to have an Organization name option which prevents a name like Tintinnabulate Ensemble from becoming "Ensemble, T.", but it is missing from the current version as of 2015-12-11, and the filed bug report is from 2012.
+    @created 1449872082374
+    @sharability 0.75
+    @weight 0.5

@@ -1,0 +1,4 @@
+* :xnLRT-d: write_graph(g, file="/tmp/out.graphml", format="graphml")
+    @created 1471906231427
+    @sharability 0.75
+    @weight 0.5

@@ -1,0 +1,4 @@
+* :kb0Ty_I: an analog device that samples (captures, grabs) the voltage of a continuously varying analog signal and holds (locks, freezes) its value at a constant level for a specified minimum period of time
+    @created 1415244105486
+    @sharability 0.75
+    @weight 0.5

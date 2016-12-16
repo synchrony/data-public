@@ -1,0 +1,4 @@
+* :E1gMK8w: a design pattern similar to the singleton, which allows only one instance of a class to be created. The multiton pattern expands on the singleton concept to manage a map of named instances as key-value pairs
+    @created 1380992523655
+    @sharability 0.75
+    @weight 0.5

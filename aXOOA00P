@@ -1,0 +1,4 @@
+* :XOOA00P: a server must use one TCP connection for stanzas in one direction, another connection for stanzas in the other direction
+    @created 1341637920126
+    @sharability 0.75
+    @weight 0.5

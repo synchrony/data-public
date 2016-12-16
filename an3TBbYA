@@ -1,0 +1,4 @@
+* :n3TBbYA: a generalisation of network flow problems, with the added constraint of a lower bound on edge flows, and with flow conservation also being required for the source and sink (i.e. there are no special nodes). In variants of the problem, you have multiple commodities flowing through the network, and a cost on the flow
+    @created 1381081659639
+    @sharability 0.75
+    @weight 0.5

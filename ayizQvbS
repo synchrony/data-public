@@ -1,0 +1,4 @@
+* :yizQvbS: avoid noise-words, e.g. in ProductInfo vs. ProductData, which make no meaningful distinction
+    @created 1465953071235
+    @sharability 0.75
+    @weight 0.5

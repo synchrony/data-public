@@ -1,0 +1,4 @@
+* :fQ1X2Y_: a compressed, high performance, and proprietary data storage system built on Google File System, Chubby Lock Service, SSTable (log-structured storage like LevelDB) and a few other Google technologies
+    @created 1397146913957
+    @sharability 0.75
+    @weight 0.5

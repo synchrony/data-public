@@ -1,0 +1,4 @@
+* :YrmwfCo: Object.prototype.toString.call( someVar ) === '[object Array]'
+    @created 1363903875899
+    @sharability 0.75
+    @weight 0.5

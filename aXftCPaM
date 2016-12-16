@@ -1,0 +1,4 @@
+* :XftCPaM: this is particularly true if there is a strong timing component to the application, such as in games. Even in applications that do not have an intrinsic timing component, such as text entry, ambiguities in timing can yield incorrect results. For example, when switching from pinching with the index finger to the ring finger, a user passes through intermediate states, which may cause spurious or incorrect classifications of user intention.
+    @created 1374723452551
+    @sharability 0.75
+    @weight 0.5

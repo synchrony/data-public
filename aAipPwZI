@@ -1,0 +1,4 @@
+* :AipPwZI: consists of two or three elements: a lexical form, a datatype IRI, and (if and only if the datatype is rdf:langString), a non-empty language tag
+    @created 1447053937918
+    @sharability 0.75
+    @weight 0.5

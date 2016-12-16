@@ -1,0 +1,4 @@
+* :44binfb: start Arduino, select appropriate board (Nano with ATmega 328) and port, compile and run monitron.ino.  Now start the serial monitor, using 115200 baud (specified in the sketch)
+    @created 1383516729336
+    @sharability 0.75
+    @weight 0.5

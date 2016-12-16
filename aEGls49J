@@ -1,0 +1,4 @@
+* :EGls49J: curl https://bootstrap.pypa.io/ez_setup.py -o - | sudo python
+    @created 1474043538935
+    @sharability 0.75
+    @weight 0.5

@@ -1,0 +1,4 @@
+* :T_5pHn0: "the energy feature was calculated as the sum of the squared discrete FFT component magnitudes of the signal. The sum was divided by the window length for normalization. Additionally, the DC component of the FFT was excluded in this sum since the DC characteristic of the signal is already measured by another feature. Note that the FFT algorithm used produced 512 components for each 512 sample window"
+    @created 1428125391878
+    @sharability 0.75
+    @weight 0.5

@@ -1,0 +1,4 @@
+* :0JAbEcz: myprog 2>&1 | tee /tmp/myprog.out
+    @created 1341519602727
+    @sharability 0.75
+    @weight 0.5

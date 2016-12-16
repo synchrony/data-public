@@ -1,0 +1,4 @@
+* :V4Mq0uc: the Tapestry architecture consists of a document indexer, a document store, an annotation store, a document filterer which matches documents against queries, and for each user a little box (local computational queue), remailer, appraiser, and browser/reader
+    @created 1351454847822
+    @sharability 0.75
+    @weight 0.5

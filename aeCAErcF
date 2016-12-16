@@ -1,0 +1,4 @@
+* :eCAErcF: "We further distinguish between single thread events where all sub-events can be placed in a linear order and multithread events where at least some of the sub-events occur simultaneously; the former are typically performed by a single agent, the latter are typically, but not necessarily, performed by multiple agents."
+    @created 1444173603900
+    @sharability 0.75
+    @weight 0.5

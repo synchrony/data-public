@@ -1,0 +1,4 @@
+* :T1oqD-N: "The built-in OWL property owl:sameAs links an individual to an individual. Such an owl:sameAs statement indicates that two URI references actually refer to the same thing: the individuals have the same identity."
+    @created 1344140130225
+    @sharability 0.75
+    @weight 0.5

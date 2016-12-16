@@ -1,0 +1,4 @@
+* :3kva-SS: if the user provides the VIN with 5V, JP4 and JP8 must be set as "1-2 short" [the default configuration which connects VDDIO or VDD with 3V0, as opposed to "2-3 short" which connects VDDIO or VDD with VCC]
+    @created 1353532979426
+    @sharability 0.75
+    @weight 0.5

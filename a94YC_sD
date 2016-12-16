@@ -1,0 +1,4 @@
+* :94YC_sD: "The core board is further equipped with an RFM interface for wireless communication. The communication is based on detection of Smart-Its within sending range. All Smart-Its use RFM as shared broadcast medium, based on a simple carrier sense collision avoidance protocol (CS/CA)."
+    @created 1436023859296
+    @sharability 0.75
+    @weight 0.5

@@ -1,0 +1,4 @@
+* :KEamlCl: do this when dropboxd doesn't appear to be syncing (e.g. after reinstallation). It may actually be busy indexing.
+    @created 1429811093576
+    @sharability 0.75
+    @weight 0.5

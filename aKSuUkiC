@@ -1,0 +1,5 @@
+* :KSuUkiC: "check /sys/block/sdX/queue/rotational, where sdX is the drive name. If it's 0, you're dealing with an SSD, and 1 means plain old HDD"
+    @created 1414549795262
+    @sharability 0.75
+    @weight 0.5
+    * :YNUx5E8: 

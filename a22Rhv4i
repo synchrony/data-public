@@ -1,0 +1,4 @@
+* :22Rhv4i: NP -- can check if solution is correct in polynomial time.  There exists a polynomial-time "certifier" C(s, t) wuch that s is in X iff there exists t such that C(s, t) = yes
+    @created 1310234505300
+    @sharability 0.75
+    @weight 0.5

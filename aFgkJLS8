@@ -1,0 +1,4 @@
+* :FgkJLS8: curl -H "Accept: application/sparql-results+json" --data-urlencode query@src/main/sparql/datasets.rq http://example.com/sparql
+    @created 1348079017110
+    @sharability 0.75
+    @weight 0.5

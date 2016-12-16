@@ -1,0 +1,4 @@
+* :M5YeS4f: they are much safer than untagged unions, often simply called unions, which are similar but do not explicitly keep track of which member of the union is currently in use
+    @created 1381025768582
+    @sharability 0.75
+    @weight 0.5

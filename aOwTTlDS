@@ -1,0 +1,4 @@
+* :OwTTlDS: wget "http://example.org/post-test" --post-data 'foo=1&bar=2'
+    @created 1359186290855
+    @sharability 0.75
+    @weight 0.5

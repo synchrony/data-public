@@ -1,0 +1,4 @@
+* :EAm4IFO: gcc 3dbrot.c && ./a.out > result
+    @created 1314996066051
+    @sharability 0.75
+    @weight 0.5

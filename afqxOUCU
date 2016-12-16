@@ -1,0 +1,4 @@
+* :fqxOUCU: javac -cp ../lib/*:. SomeClass.java
+    @created 1382560060062
+    @sharability 0.75
+    @weight 0.5

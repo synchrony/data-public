@@ -1,0 +1,5 @@
+* :qFlj8o7: much more of the answer stream needs to be stored if the database is not append-only, or if group-by queries with aggregation are supported (so that there may be updates or deletions to tuples in the answer)
+    @created 1351785465759
+    @sharability 0.75
+    @weight 0.5
+    * :CxXj9JY: 

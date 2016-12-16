@@ -1,0 +1,4 @@
+* :BW1OjGh: /dev/hdc and /dev/hdd are the master and slave, respectively, on the secondary controller
+    @created 1327866074043
+    @sharability 0.75
+    @weight 0.5

@@ -1,0 +1,4 @@
+* :aSL9ZYN: "This document describes a new approach that explores the use of Semantic Web languages in building an architecture for supporting context-aware systems. This new architecture called Context Broker Architecture (CoBrA) differs from other architectures in using the Web Ontlogy Language OWL for modeling ontologies of context and for supporting context reasoning. Central to our architecture is a broker agent that maintains a shared model of context for all computing entities in the space and enforces the privacy policies defined by the users. We also describe the use of CoBrA and its associated ontologies in prototyping an intelligent meeting room."
+    @created 1435082456001
+    @sharability 0.75
+    @weight 0.5

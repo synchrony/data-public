@@ -1,0 +1,4 @@
+* :eNwbYqO: related threads run simultaneously (their time slices aligned) on different timeshared CPUs.  Reduces communication overhead among threads of a single process.
+    @created 1352924454326
+    @sharability 0.75
+    @weight 0.5

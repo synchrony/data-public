@@ -1,0 +1,4 @@
+* :uHDYAeL: if an owl:someValuesFrom owl:Restriction restricts a particular property to a particular type, and if an object has some values of the specificied type for the specified property, then that object has the Restriction as a type
+    @created 1349461828572
+    @sharability 0.75
+    @weight 0.5

@@ -1,0 +1,4 @@
+* :8BJOijU: although insertion sort takes O(n^2) in the worst case, it will perform considerably better if the data is almost sorted
+    @created 1381089168778
+    @sharability 0.75
+    @weight 0.5

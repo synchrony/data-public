@@ -1,0 +1,4 @@
+* :nrdbqKG: order edges by increasing cost, add in order except when a cycle would be formed
+    @created 1310234505226
+    @sharability 0.75
+    @weight 0.5

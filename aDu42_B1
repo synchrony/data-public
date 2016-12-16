@@ -1,0 +1,4 @@
+* :Du42_B1: zoom in to the desired degree of precision, positioning the target in the middle of the map.  Unfortunately, I don't know how to control the tilt of the map (apart from eyeballing it), which increases as you zoom in.  Click the Link icon and read the value of the "ll" parameter of the resulting URL.
+    @created 1345606415869
+    @sharability 0.75
+    @weight 0.5

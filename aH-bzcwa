@@ -1,0 +1,4 @@
+* :H-bzcwa: the architecture presented in the paper partitions query answers into a "stream", a "store", a "scratch", and a "throw" component, depending on the potential of the answer data to be affected by future appends or updates
+    @created 1351788962266
+    @sharability 0.75
+    @weight 0.5

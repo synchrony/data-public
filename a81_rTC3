@@ -1,0 +1,4 @@
+* :81_rTC3: TTL in Cassandra is set whenever a column is inserted
+    @created 1397672481543
+    @sharability 0.75
+    @weight 0.5

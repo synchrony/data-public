@@ -1,0 +1,4 @@
+* :rloHAnG: system exhibits Processor Consistency if the order in which other processors see the writes from any individual processor is the same as the order they were issued
+    @created 1463348067017
+    @sharability 0.75
+    @weight 0.5

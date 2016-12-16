@@ -1,0 +1,4 @@
+* :v41Lp5S: apparently you can use ALTER DATABASE syntax (RENAME DATABASE being deprecated), but it's quite easy to create a dump and import it using a different databse name, if permissions are not an issue.
+    @created 1330562466496
+    @sharability 0.75
+    @weight 0.5

@@ -1,0 +1,4 @@
+* :I1jm0-V: a self-adjusting binary search tree with the additional property that recently accessed elements are quick to access again. It performs basic operations such as insertion, look-up and removal in O(log n) amortized time
+    @created 1381027518323
+    @sharability 0.75
+    @weight 0.5

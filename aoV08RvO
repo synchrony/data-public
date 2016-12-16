@@ -1,0 +1,4 @@
+* :oV08RvO: without the database being append-only, no query is monotone since it is always possible to delete a record that has been previously returned as the result of a query, thereby reducing the query’s result set
+    @created 1351460006387
+    @sharability 0.75
+    @weight 0.5

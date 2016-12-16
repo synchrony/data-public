@@ -1,0 +1,4 @@
+* :HgSNPK6: because of this, query optimization focuses on memory management and predicate ordering rather than traditional I/O optimizations like access path selection and join optimizations
+    @created 1351812381193
+    @sharability 0.75
+    @weight 0.5

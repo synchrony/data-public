@@ -1,0 +1,5 @@
+* :ZiZP-TY: streams have the notion of an arrival order, they are unbounded, and they are append-only
+    @created 1352133949697
+    @sharability 0.75
+    @weight 0.5
+    * :xMDvSvC: 

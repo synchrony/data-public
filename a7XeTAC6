@@ -1,0 +1,4 @@
+* :7XeTAC6: a hybrid sorting algorithm that provides both fast average performance and (asymptotically) optimal worst-case performance. It begins with quicksort and switches to heapsort when the recursion depth exceeds a level based on (the logarithm of) the number of elements being sorted. This combines the good parts of both algorithms, with practical performance comparable to quicksort on typical data sets and worst-case O(n log n) runtime due to the heap sort
+    @created 1380988209803
+    @sharability 0.75
+    @weight 0.5

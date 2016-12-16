@@ -1,0 +1,4 @@
+* :R4LHlNX: a design pattern in which communication between objects is encapsulated with a mediator object. Objects no longer communicate directly with each other, but instead communicate through the mediator. This reduces the dependencies between communicating objects, thereby lowering the coupling
+    @created 1380997329798
+    @sharability 0.75
+    @weight 0.5

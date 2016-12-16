@@ -1,0 +1,4 @@
+* :0I2F2kN: a pseudo-random number generator (PRNG) with properties that make it suitable for use in cryptography
+    @created 1449543000905
+    @sharability 0.75
+    @weight 0.5

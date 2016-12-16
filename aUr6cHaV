@@ -1,0 +1,4 @@
+* :Ur6cHaV: right and left arm work relatively independently. The recognition rate can thus get confused, if either is temporarily engaged in another activity.  In order not to confuse the recognition by such effects both arms should be equipped with sensors
+    @created 1428124306815
+    @sharability 0.75
+    @weight 0.5

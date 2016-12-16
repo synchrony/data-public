@@ -1,0 +1,4 @@
+* :LHEqFFr: head -n | tail -1 -- get the nth line of a file
+    @created 1394807162062
+    @sharability 0.75
+    @weight 0.5

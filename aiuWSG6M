@@ -1,0 +1,4 @@
+* :iuWSG6M: connect G, B, R pins of the LED to (PWM) digital out pins 9, 10, and 11, respectively, and connect the anode (long pin) to ground through a 100Ω resistor
+    @created 1384383689919
+    @sharability 0.75
+    @weight 0.5

@@ -1,0 +1,4 @@
+* :jAPApp4: "we hypothesize that many queries will tend to be similar to one another and hope to be able to handle millions of continuous queries by grouping similar queries together"
+    @created 1351450051509
+    @sharability 0.75
+    @weight 0.5

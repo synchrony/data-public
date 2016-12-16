@@ -1,0 +1,4 @@
+* :65EaJtg: traditional offline join algorithms are designed to minimize the time to completion of the query. In contrast, ripple joins are designed to minimize the time until an acceptably precise estimate of the query result is available, as measured by the length of a confidence interval
+    @created 1351793454221
+    @sharability 0.75
+    @weight 0.5

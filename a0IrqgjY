@@ -1,0 +1,4 @@
+* :0IrqgjY: a property path is a possible route through a graph between two graph nodes [...] Property paths allow for more concise expressions for some SPARQL basic graph patterns and they also add the ability to match connectivity of two resources by an arbitrary length path.
+    @created 1351789957182
+    @sharability 0.75
+    @weight 0.5

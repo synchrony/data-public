@@ -1,0 +1,4 @@
+* :iAOdmbX: shutting off the Typeatron, killing and re-starting slip-to-udp with Rexster and the agent still running, then turning the Typeatron back on seems to work; the Typeatron's ping-out succeeds, the light stops blinking, and you can use the laser pointer
+    @created 1432329991734
+    @sharability 0.75
+    @weight 0.5

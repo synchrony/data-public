@@ -1,0 +1,4 @@
+* :ZGnSqk3: avoid single-letter names for variables except where conventional (e.g. loop variables)
+    @created 1465953897409
+    @sharability 0.75
+    @weight 0.5

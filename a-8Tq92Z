@@ -1,0 +1,6 @@
+* :-8Tq92Z: connect both external jumpers, power-cycle the Typeatron to put the modem in Inquiry state, start the slip-to-udp.py script (in extendo-demos), then start the typeatron-control.maxpat sketch (in typeatron)
+    @created 1415129085753
+    @sharability 0.75
+    @weight 0.5
+    * :PQiWoCj: 
+    * :Vq1iYmG: 

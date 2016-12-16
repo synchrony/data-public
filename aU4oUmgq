@@ -1,0 +1,4 @@
+* :U4oUmgq: it indicates how long downstream servers should cache a record before querying an authoritative name server for the record once again
+    @created 1428526205602
+    @sharability 0.75
+    @weight 0.5

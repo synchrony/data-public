@@ -1,0 +1,4 @@
+* :aZpSrn8: concurrent execution of transactions in a replicated database is one-copy-serializable if it is equivalent to a serial execution of these transactions over a single logical copy of the database
+    @created 1463348807586
+    @sharability 0.75
+    @weight 0.5

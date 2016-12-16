@@ -1,0 +1,4 @@
+* :7t8N5uL: <TAB> -- fold (expand/collapse) the item at point.  The tree beneath the item is expanded to all meaningful levels and eventually return to the original state.
+    @created 1364097139009
+    @sharability 0.75
+    @weight 0.5

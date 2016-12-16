@@ -1,0 +1,4 @@
+* :uOgRZ-3: find . -type f -perm -001 2>/dev/null
+    @created 1328556504558
+    @sharability 0.75
+    @weight 0.5

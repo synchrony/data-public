@@ -1,0 +1,4 @@
+* :WfBUmj-: python slip-to-udp.py /dev/tty.usb-serial-xxx 127.0.0.1 42002 42003
+    @created 1413225499566
+    @sharability 0.75
+    @weight 0.5

@@ -1,0 +1,4 @@
+* :63QUvM6: Cassandra takes advantage of its period compaction task, which touches everything in the database, for TTL
+    @created 1423466786648
+    @sharability 0.75
+    @weight 0.5

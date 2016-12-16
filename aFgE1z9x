@@ -1,0 +1,4 @@
+* :FgE1z9x: java -Dcom.sun.management.jmxremote -jar foo.jar
+    @created 1337483267656
+    @sharability 0.75
+    @weight 0.5

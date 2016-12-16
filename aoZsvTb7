@@ -1,0 +1,4 @@
+* :oZsvTb7: a single execution of the algorithm will find the lengths (summed weights) of the shortest paths between all pairs of vertices, though it does not return details of the paths themselves
+    @created 1381096031801
+    @sharability 0.75
+    @weight 0.5

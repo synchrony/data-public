@@ -1,0 +1,4 @@
+* :macfglB: the problem of visiting all the nodes in a graph in a particular manner, updating and/or checking their values along the way. Tree traversal is a special case of graph traversal
+    @created 1381030551896
+    @sharability 0.75
+    @weight 0.5

@@ -1,0 +1,4 @@
+* :Yap9rL8: e.g. don't have both a DeviceManager and a ProtocolController.  Make them both Managers or both Controllers
+    @created 1465954320782
+    @sharability 0.75
+    @weight 0.5

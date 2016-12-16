@@ -1,0 +1,4 @@
+* :S6zfIcV: a well-known multicast channel can be used to allow a newly restarting server to obtain current location information for all located-objects currently in its region.  All clients of the AMS are expected to be listening to this channel and will re-register their location and re-submit their subscriptions with the AMS whenever they receive a Server-Restart message
+    @created 1428523094708
+    @sharability 0.75
+    @weight 0.5

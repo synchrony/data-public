@@ -1,0 +1,4 @@
+* :oqSx509: unlike Git, Datomic has only one sequential trail of history, not a branching DAG
+    @created 1364751901016
+    @sharability 0.75
+    @weight 0.5

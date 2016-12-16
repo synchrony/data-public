@@ -1,0 +1,4 @@
+* :qfXL6HC: requires that all write operations to the same memory location are performed in some sequential order
+    @created 1463348164482
+    @sharability 0.75
+    @weight 0.5

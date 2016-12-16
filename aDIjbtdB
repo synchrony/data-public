@@ -1,0 +1,4 @@
+* :DIjbtdB: for i in {1..10}; do echo "hello #$i"; done
+    @created 1338533622546
+    @sharability 0.75
+    @weight 0.5

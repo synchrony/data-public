@@ -1,0 +1,4 @@
+* :rrbvjz9: concept C is subsumed by concept D if for all interpretations I of K, the interpretation of C is a subset of the interpretation of D
+    @created 1316540304870
+    @sharability 0.75
+    @weight 0.5

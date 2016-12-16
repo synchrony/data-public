@@ -1,0 +1,4 @@
+* :i-DVUVQ: as.data.frame(table(c("foo", "bar", "foo")))$Freq
+    @created 1339395718670
+    @sharability 0.75
+    @weight 0.5

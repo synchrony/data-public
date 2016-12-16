@@ -1,0 +1,4 @@
+* :mDDRUyl: one master, multiple chunkserver, typically with each on a separate Linux machine
+    @created 1401120722374
+    @sharability 0.75
+    @weight 0.5

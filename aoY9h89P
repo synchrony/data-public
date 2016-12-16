@@ -1,0 +1,4 @@
+* :oY9h89P: there is no standard way of assigning meaning to tag nesting in CCR XML instances. Instead, it is up to the applications that process the XML-documents to interpret the nesting of the tags
+    @created 1347917131269
+    @sharability 0.75
+    @weight 0.5

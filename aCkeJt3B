@@ -1,0 +1,5 @@
+* :CkeJt3B: a query that is issued once and then logically run continuously over the database (in contrast to traditional one-time queries which are run once to completion over the current data set)
+    @created 1351452624969
+    @sharability 0.75
+    @weight 0.5
+    * :PkbwLgD: 

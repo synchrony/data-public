@@ -1,0 +1,4 @@
+* :gMd2xn-: find . -type f -newermt 2014-04-20 ! -newermt 2014-05-20
+    @created 1417094742039
+    @sharability 0.75
+    @weight 0.5

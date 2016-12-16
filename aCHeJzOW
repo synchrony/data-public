@@ -1,0 +1,4 @@
+* :CHeJzOW: diffs due to changes of weight or sharability will be larger in the tab-separated format.  Perhaps a one-field-per-line format would make sense for version control (although it would be less human-readable).
+    @created 1327530591326
+    @sharability 0.75
+    @weight 0.5

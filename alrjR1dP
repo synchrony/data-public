@@ -1,0 +1,5 @@
+* :lrjR1dP: event queries have a hybrid semantic, because they use event operation algebra to detect events and they use SPARQL queries to include background knowledge about these events and their relationships
+    @created 1423911344169
+    @sharability 0.75
+    @weight 0.5
+    * :FC-9aNR: 

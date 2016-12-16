@@ -1,0 +1,5 @@
+* :8mOOVtU: merge sort is often the best choice for sorting a linked list.  Rival quicksort depends on random access, at which linked lists perform poorly
+    @created 1405786261877
+    @sharability 0.75
+    @weight 0.5
+    * :3wy__id: 

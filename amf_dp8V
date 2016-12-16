@@ -1,0 +1,4 @@
+* :mf_dp8V: df <- data.frame(x=c("a", "b", "c"), y=c(1, 2, 3))
+    @created 1413461848929
+    @sharability 0.75
+    @weight 0.5
