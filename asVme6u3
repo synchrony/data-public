@@ -1,0 +1,4 @@
+* :sVme6u3: to each voice assign a range, and (computationally next) to each voice a value in [0,1) mapped across that range
+    @created 1476248618385
+    @sharability 0.75
+    @weight 0.5

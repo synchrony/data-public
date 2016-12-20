@@ -1,0 +1,4 @@
+* :wpEfc0f: can index a rank-k matrix with fewer than k indices; the rest are ":"=all
+    @created 1477080073709
+    @sharability 0.75
+    @weight 0.5

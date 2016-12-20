@@ -1,0 +1,4 @@
+* :7E5LzTb: Import( <http://example.org/otherOntologies/families.owl> ) // imports a whole ontology
+    @created 1471477380411
+    @sharability 0.75
+    @weight 0.5

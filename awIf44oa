@@ -1,0 +1,4 @@
+* :wIf44oa: that is, if a -> b -> c -> d and a -> d also, because using a read head, would want to suppress the shorter path when looking backward (for ... purpose not recorded)
+    @created 1481698062880
+    @sharability 0.75
+    @weight 0.5

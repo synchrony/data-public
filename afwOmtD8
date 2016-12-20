@@ -1,0 +1,4 @@
+* :fwOmtD8: if underfit, high error both of train and test = bias. if overfit, low of train, high of test = "variance"
+    @created 1474360536048
+    @sharability 0.75
+    @weight 0.5

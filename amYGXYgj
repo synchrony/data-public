@@ -1,0 +1,4 @@
+* :mYGXYgj: notequeries provides a CRUD (create-remove-update-delete) layer to EOB for getting data in and out of neo4j.
+    @created 1470117573793
+    @sharability 0.75
+    @weight 0.5

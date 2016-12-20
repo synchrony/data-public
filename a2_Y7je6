@@ -1,0 +1,4 @@
+* :2_Y7je6: can pick the model that gives the least test set error -- but then we are choosing that metaparameter based on the test set ?(when we were trying to train only on the training set). that chosen model's performance on the test set is likely better than it would do on virgin data
+    @created 1474359730007
+    @sharability 0.75
+    @weight 0.5

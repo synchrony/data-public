@@ -1,0 +1,4 @@
+* :_RAOAEl: replace cursor position, perhaps, by moving to beginning of line, then moving right one space at a time
+    @created 1471072701322
+    @sharability 0.75
+    @weight 0.5

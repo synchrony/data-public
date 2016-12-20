@@ -1,0 +1,4 @@
+* :vXXkTC3: an arity-k Relationship must emits k edges, one to each of its k member Expressions, labeled [RelMember 1, RelMember 2, ... RelMember k]
+    @created 1469061944053
+    @sharability 0.75
+    @weight 0.5
