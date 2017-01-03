@@ -1,4 +1,19 @@
-* :Ke8KOca: ???
+* :Ke8KOca: {{{
+# first, edit config/orientdb-server-config.xml to create a user with
+# a reasonable password (unless you really care about security)
+
+# then in one terminal session
+bin/server.sh
+
+# and in another
+bin/console.sh
+
+# in the console
+connect remote:localhost admin admin
+create database remote:localhost/foo admin admin plocal
+
+# you can now connect to the DB from the Java client
+}}}
     @created 1421777858475
     @sharability 0.75
     @weight 0.5

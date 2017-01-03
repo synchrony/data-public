@@ -1,4 +1,9 @@
-* :QVjqUuO: ???
+* :QVjqUuO: {{{
+{{{
+cd clj-ripple
+lein
+}}}
+}}}
     @created 1364169288158
     @sharability 0.75
     @weight 0.5

@@ -1,4 +1,10 @@
-* :BqaHoch: ???
+* :BqaHoch: {{{
+{{{
+SELECT * WHERE {
+    <http://www4.wiwiss.fu-berlin.de/dailymed/resource/drugs/1> ?p ?o .
+}
+}}}
+}}}
     @created 1329400772516
     @sharability 0.75
     @weight 0.5

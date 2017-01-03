@@ -1,4 +1,18 @@
-* :W48DGP7: ???
+* :W48DGP7: {{{
+{{{
+import org.openrdf.rio.RDFFormat;
+import org.openrdf.repository.sail.SailRepository;
+
+g = new Neo4jGraph("/tmp/neo");
+s = new GraphSail(g);
+s.initialize();
+r = new SailRepository(s);
+rc = r.getConnection();
+rc.add(new File("/tmp/graph-example-1.ntriple"), "", RDFFormat.NTRIPLES);
+rc.close();
+s.shutDown();
+}}}
+}}}
     @created 1368685992380
     @sharability 0.75
     @weight 0.5

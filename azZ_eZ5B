@@ -1,4 +1,9 @@
-* :zZ_eZ5B: ???
+* :zZ_eZ5B: {{{
+gt = ...TitanGraph...
+gt.getProperties()
+config = gt.getProperties().get("configuration")
+config.getProperties()
+}}}
     @created 1395968140872
     @sharability 0.75
     @weight 0.5

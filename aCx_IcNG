@@ -1,4 +1,11 @@
-* :Cx_IcNG: ???
+* :Cx_IcNG: {{{
+{{{
+PREFIX ex: <http://example.org/ns#>
+SELECT DISTINCT * WHERE {
+    <http://fortytwo.net/tmp/foaf.rdf#bob> ex:isTaking ?drug1 .
+}
+}}}
+}}}
     @created 1329407525361
     @sharability 0.75
     @weight 0.5

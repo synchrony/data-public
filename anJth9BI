@@ -1,4 +1,11 @@
-* :nJth9BI: ???
+* :nJth9BI: {{{
+cd ~ && wget -O - "https://www.dropbox.com/download?plat=lnx.x86" | tar xzf -
+~/.dropbox-dist/dropboxd &
+# now visit the displayed URL in a browser to link the account
+
+# this is necessary before serving Dropbox-hosted content from Apache
+chmod +rx ~/Dropbox
+}}}
     @created 1358233258557
     @sharability 0.75
     @weight 0.5

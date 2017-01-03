@@ -1,4 +1,17 @@
-* :1sb0LXC: ???
+* :1sb0LXC: {{{
+public String toString(final InputStream in) throws IOException {
+    InputStreamReader is = new InputStreamReader(in);
+    BufferedReader br = new BufferedReader(is);
+    StringBuilder sb = new StringBuilder();
+
+    String read;
+    while ((read = br.readLine()) != null) {
+        sb.append(read);
+    }
+
+    return sb.toString();
+}
+}}}
     @created 1367486745033
     @sharability 0.75
     @weight 0.5

@@ -1,4 +1,8 @@
-* :WKOtOpw: ???
+* :WKOtOpw: {{{
+OPT(n, w) = max
+w_n + OPT(n-1, w-w_n),
+OPT(n-1, w)
+}}}
     @created 1310234505256
     @sharability 0.75
     @weight 0.5
