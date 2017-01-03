@@ -1,4 +1,8 @@
-* :bszcRS8: ???
+* :bszcRS8: {{{
+g = new LinkedDataSailGraph(new MemoryStoreSailGraph())
+v = g.v("http://dbpedia.org/resource/Berlin")
+v.outE
+}}}
     @created 1392744330577
     @sharability 0.75
     @weight 0.5

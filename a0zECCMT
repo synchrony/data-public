@@ -1,4 +1,12 @@
-* :0zECCMT: ???
+* :0zECCMT: {{{
+{{{
+//g = TitanFactory.open('conf/titan-cassandra-es.properties')
+g = TitanFactory.open('conf/titan-cassandra.properties')
+GraphOfTheGodsFactory.load(g)
+g.commit()
+g.shutdown()
+}}}
+}}}
     @created 1398177558858
     @sharability 0.75
     @weight 0.5

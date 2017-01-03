@@ -1,4 +1,34 @@
-* :z_YP69_: ???
+* :z_YP69_: {{{
+{{{
+var foo = false;
+
+var TwitLogic = {};
+
+TwitLogic.SparqlWidget = function(settings) {
+
+    var bar;
+
+    String.prototype.trim = function () {
+        return this.replace(/^\s*/, "").replace(/\s*$/, "");
+    };
+
+    function padNumber(n, digits) {
+
+    }
+
+    return {
+        baz: function() {
+
+        },
+        quux: function() {
+
+        }
+    };
+}
+
+var w = new TwitLogic.SparqlWidget({...});
+}}}
+}}}
     @created 1359586050085
     @sharability 0.75
     @weight 0.5

@@ -1,4 +1,7 @@
-* :hgI5pIe: ???
+* :hgI5pIe: {{{
+g = TinkerFactory.createClassic();
+g.V().values()
+}}}
     @created 1398525127464
     @sharability 0.75
     @weight 0.5

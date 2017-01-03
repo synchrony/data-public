@@ -1,4 +1,38 @@
-* :QMBQ9Fg: ???
+* :QMBQ9Fg: {{{
+{{{
+BTCTMP=/mnt/raid/tmp/shinaj
+TMPDIR=$BTCTMP/sort-tmp
+
+cd ~/data/btc/projects/btc-2014/data/crawls
+# almost 10 hours on gemini
+time gunzip -c `find . -name "data.nq-*.gz"` | sed 's/^[^ ]* <//' | sed 's/> .*//' > $BTCTMP/btc-predicates-raw.txt
+
+# almost 25 hours on gemini
+time sort $BTCTMP/btc-predicates-raw.txt > $BTCTMP/btc-predicates-sorted.txt
+
+# 27 minutes on gemini
+time uniq -c $BTCTMP/btc-predicates-sorted.txt | sort -nr | sed 's/^ *//' | sed 's/ /\t/' > $BTCTMP/btc-predicates-frequency.tsv
+
+# TODO: remove the temp files (which are huge)
+
+#########################################
+# frequency distribution of predicates
+
+cat btc-predicates-frequency.tsv |tr '\t' '_'|sed 's/_.*//' > /tmp/predicate-frequencies.tsv
+
+# the distribution is more or less scale-free if you subtract both the overabundant single-use predicates
+# and also a handful of super-predicates
+data <- read.table(file("/tmp/predicate-frequencies.tsv"), header=FALSE)
+freq <- data$V1
+h <- hist(freq, breaks=200)
+plot(h$counts, log="xy")
+
+# the adjusted frequency distribution
+freq2 <- freq[6:(which.min(freq)-1)]
+h <- hist(freq2, breaks=200)
+plot(h$counts, log="xy")
+}}}
+}}}
     @created 1418615635361
     @sharability 0.75
     @weight 0.5

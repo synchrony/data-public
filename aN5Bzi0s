@@ -1,4 +1,17 @@
-* :N5Bzi0s: ???
+* :N5Bzi0s: {{{
+# if necessary (e.g. on GL-AR150)
+opkg update
+opkg install openssl-util
+opkg install python-light
+opkg install python-distutils
+opkg install python-email
+
+cd /tmp
+wget --no-check-certificate https://pypi.python.org/packages/3c/d8/a9fa247ca60b02b3bebbd61766b4f321393b57b13c53b18f6f62cf172c08/pyserial-3.1.1.tar.gz#md5=2f72100de3e410b36d575e12e82e9d27
+tar -xzf pyserial-*.tar.gz*
+cd pyserial-*
+python setup.py install
+}}}
     @created 1474672166837
     @sharability 0.75
     @weight 0.5

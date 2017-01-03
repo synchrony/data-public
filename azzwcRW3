@@ -1,4 +1,12 @@
-* :zzwcRW3: ???
+* :zzwcRW3: {{{
+{{{
+g = new LinkedDataSailGraph(new MemoryStoreSailGraph())
+v = g.v('http://data.semanticweb.org/person/christian-bizer')
+v.outE
+g.addDefaultNamespaces()
+v.out('foaf:made')
+}}}
+}}}
     @created 1371149086844
     @sharability 0.75
     @weight 0.5

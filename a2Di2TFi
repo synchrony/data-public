@@ -1,4 +1,7 @@
-* :2Di2TFi: ???
+* :2Di2TFi: {{{
+# Default user has no password:
+mysql -u root
+}}}
     @created 1395163759802
     @sharability 0.75
     @weight 0.5

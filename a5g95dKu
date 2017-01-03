@@ -1,4 +1,13 @@
-* :5g95dKu: ???
+* :5g95dKu: {{{
+{{{
+String q11_cypher = "START publication=node(*)\n" +
+        "MATCH publication-[:`rdfs:seeAlso`]->ee\n" +
+        "RETURN ee.__id\n" +
+        "ORDER BY ee.__id\n" +
+        "SKIP 50\n" +
+        "LIMIT 10";
+}}}
+}}}
     @created 1383950249652
     @sharability 0.75
     @weight 0.5
