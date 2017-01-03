@@ -1,5 +1,4 @@
 * :QMBQ9Fg: {{{
-{{{
 BTCTMP=/mnt/raid/tmp/shinaj
 TMPDIR=$BTCTMP/sort-tmp
 
@@ -31,7 +30,6 @@ plot(h$counts, log="xy")
 freq2 <- freq[6:(which.min(freq)-1)]
 h <- hist(freq2, breaks=200)
 plot(h$counts, log="xy")
-}}}
 }}}
     @created 1418615635361
     @sharability 0.75

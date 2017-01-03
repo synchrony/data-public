@@ -1,10 +1,8 @@
 * :oEjUPzh: {{{
-{{{
 set of objects p1, ..., pn with distance d(p_i, p_j)
 d(p_i, p_i) = 0
 d(p_i, p_j) > 0
 d(p_i, p_j) = d(p_j, p_i)  -- symmetry
-}}}
 }}}
     @created 1421638504768
     @sharability 0.75

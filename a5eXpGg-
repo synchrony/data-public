@@ -1,5 +1,4 @@
 * :5eXpGg-: {{{
-{{{
 # default password is "logKext"
 sudo logKextClient
 set Password=[...]
@@ -8,7 +7,6 @@ set Encrypt=off
 quit
 # now delete the old log file
 sudo rm /Library/Preferences/com.fsb.logKext
-}}}
 }}}
     @created 1421637674675
     @sharability 0.75

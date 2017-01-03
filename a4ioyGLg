@@ -1,5 +1,4 @@
 * :4ioyGLg: {{{
-{{{
 @prefix b2r: <http://bio2rdf.org/bio2rdf_resource:>
 @prefix dm: <http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseasome/>
 

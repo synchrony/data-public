@@ -1,5 +1,4 @@
 * :vrrOkcl: {{{
-{{{
 PREFIX drugs: <http://www4.wiwiss.fu-berlin.de/dailymed/resource/drugs/>
 PREFIX dailymed: <http://www4.wiwiss.fu-berlin.de/dailymed/resource/dailymed/>
 SELECT DISTINCT * WHERE {
@@ -7,7 +6,6 @@ SELECT DISTINCT * WHERE {
     ?drug dailymed:activeIngredient / ^dailymed:activeIngredient ?drug2 .
     ?drug2 dailymed:routeOfAdministration ?route .
 }
-}}}
 }}}
     @created 1329401682809
     @sharability 0.75

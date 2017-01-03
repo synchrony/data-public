@@ -1,5 +1,4 @@
 * :9S3ucs5: {{{
-{{{
 PREFIX ex: <http://example.org/ns#>
 PREFIX drugs: <http://www4.wiwiss.fu-berlin.de/dailymed/resource/drugs/>
 PREFIX dailymed: <http://www4.wiwiss.fu-berlin.de/dailymed/resource/dailymed/>
@@ -18,7 +17,6 @@ SELECT DISTINCT * WHERE {
     }
     ?int drugbank:text ?text .
 }
-}}}
 }}}
     @created 1329407525358
     @sharability 0.75

@@ -1,5 +1,4 @@
 * :SLx2Vu8: {{{
-{{{
 rm -rf /tmp/ripple
 cp -r . /tmp/ripple
 cd /tmp/ripple
@@ -13,7 +12,6 @@ rm -rf `find . -name "*.iml"`
 cd ..
 zip -r ripple-1.0.zip ripple/
 [now save the zip somewhere safe.  This may be a good way to preserve dependencies which will be hard to find as years go by]
-}}}
 }}}
     @created 1314728709342
     @sharability 0.75
