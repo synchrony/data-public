@@ -71,7 +71,6 @@ g. drugbank:rxlistLink.
 
 # into SIDER and DBpedia
 g. owl:sameAs.
-}}}    
 }}}
     @created 1328324555329
     @sharability 0.75
