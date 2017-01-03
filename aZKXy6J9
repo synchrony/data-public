@@ -1,5 +1,4 @@
 * :ZKXy6J9: {{{
-{{{
 First normal form (1NF) sets the very basic rules for an organized database:
     * Eliminate duplicative columns from the same table.
     * Create separate tables for each group of related data and identify each row with a unique column or set of columns (the primary key). 
@@ -13,7 +12,6 @@ Third normal form (3NF) goes one large step further:
 Finally, fourth normal form (4NF) has one additional requirement:
     * Meet all the requirements of the third normal form.
     * A relation is in 4NF if it has no multi-valued dependencies.
-}}}
 }}}
     @created 1312618444446
     @sharability 0.75

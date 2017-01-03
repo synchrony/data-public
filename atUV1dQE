@@ -1,5 +1,4 @@
 * :tUV1dQE: {{{
-{{{
 Voltage [V] 3
 Frame Diameter [mm] 10
 Body Length [mm] 3.4
@@ -11,7 +10,6 @@ Start Voltage [V] 2.3
 Start Current [mA] 85
 Terminal Resistance [Ohm] 75
 Vibration Amplitude [G] 0.8
-}}}
 }}}
     @created 1421638496313
     @sharability 0.75

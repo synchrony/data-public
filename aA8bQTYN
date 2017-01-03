@@ -1,5 +1,4 @@
 * :A8bQTYN: {{{
-{{{
 PREFIX drugs: <http://www4.wiwiss.fu-berlin.de/dailymed/resource/drugs/>
 PREFIX dailymed: <http://www4.wiwiss.fu-berlin.de/dailymed/resource/dailymed/>
 PREFIX drugbank: <http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/>
@@ -16,7 +15,6 @@ SELECT DISTINCT * WHERE {
     ?int drugbank:text ?text .
 }
 LIMIT 10
-}}}
 }}}
     @created 1329406128948
     @sharability 0.75

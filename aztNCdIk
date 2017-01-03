@@ -1,5 +1,4 @@
 * :ztNCdIk: {{{
-{{{
 PREFIX drugs: <http://www4.wiwiss.fu-berlin.de/dailymed/resource/drugs/>
 PREFIX dailymed: <http://www4.wiwiss.fu-berlin.de/dailymed/resource/dailymed/>
 PREFIX drugbank: <http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/>
@@ -9,7 +8,6 @@ SELECT DISTINCT * WHERE {
     ?drug2 ^dailymed:genericDrug ?orig.
     ?orig dailymed:routeOfAdministration ?route .
 }
-}}}
 }}}
     @created 1329404880206
     @sharability 0.75

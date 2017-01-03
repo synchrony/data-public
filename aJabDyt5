@@ -1,9 +1,7 @@
 * :JabDyt5: {{{
-{{{
 g = new SailGraph(new GraphSail(new Neo4jGraph('/tmp/rdf-ex')))
 g.loadRDF('/tmp/neo.rdf', 'rdf-xml')
 g.E[0..5]
-}}}
 }}}
     @created 1369336638372
     @sharability 0.75

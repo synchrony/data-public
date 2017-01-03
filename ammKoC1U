@@ -1,5 +1,4 @@
 * :mmKoC1U: {{{
-{{{
 autoreconf -i
 ./configure
 
@@ -9,7 +8,6 @@ vim src/formats_i.c
 
 make -s
 sudo make install
-}}}
 }}}
     @created 1348123456135
     @sharability 0.75

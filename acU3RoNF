@@ -1,8 +1,6 @@
 * :cU3RoNF: {{{
-{{{
 java -cp "lib/*" jline.ConsoleRunner clojure.main
 [then just paste clj_ripple.clj contents into the REPL]
-}}}
 }}}
     @created 1364169297468
     @sharability 0.75

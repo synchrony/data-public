@@ -1,5 +1,4 @@
 * :wo1DeZx: {{{
-{{{
 cd /usr/local/
 sudo mkdir apache-maven
 cd apache-maven/
@@ -14,7 +13,6 @@ export M2_HOME="/usr/local/apache-maven/current"
 export MAVEN_HOME="/usr/local/apache-maven/current"
 export M2="/usr/local/apache-maven/current/bin"
 ]
-}}}
 }}}
     @created 1329762644578
     @sharability 0.75

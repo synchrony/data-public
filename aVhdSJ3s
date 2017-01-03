@@ -1,8 +1,6 @@
 * :VhdSJ3s: {{{
-{{{
 sudo apt-get update
 sudo apt-get dist-upgrade
-}}}
 }}}
     @created 1397082083799
     @sharability 0.75

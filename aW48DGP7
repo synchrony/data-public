@@ -1,5 +1,4 @@
 * :W48DGP7: {{{
-{{{
 import org.openrdf.rio.RDFFormat;
 import org.openrdf.repository.sail.SailRepository;
 
@@ -11,7 +10,6 @@ rc = r.getConnection();
 rc.add(new File("/tmp/graph-example-1.ntriple"), "", RDFFormat.NTRIPLES);
 rc.close();
 s.shutDown();
-}}}
 }}}
     @created 1368685992380
     @sharability 0.75

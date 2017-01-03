@@ -1,5 +1,4 @@
 * :z_YP69_: {{{
-{{{
 var foo = false;
 
 var TwitLogic = {};
@@ -27,7 +26,6 @@ TwitLogic.SparqlWidget = function(settings) {
 }
 
 var w = new TwitLogic.SparqlWidget({...});
-}}}
 }}}
     @created 1359586050085
     @sharability 0.75
