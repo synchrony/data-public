@@ -1,5 +1,5 @@
 * :TOqo19_: {{{
-        C = k-clustering created by Kruskal's
+C = k-clustering created by Kruskal's
 		C' = another k-clustering
 		If C != C', there must be points p_i, p_j which are in the same cluster in C, different clusters in C'.
 		Since p_i, p_j are in same cluster of C, they were connected at end of our algorithm.

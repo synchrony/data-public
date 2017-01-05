@@ -1,5 +1,5 @@
 * :5JP2g1z: {{{
-       exchange argument: take OPT (MST) T*. Suppose to the contrary, that e not in T*.
+exchange argument: take OPT (MST) T*. Suppose to the contrary, that e not in T*.
        Will show how to change T* so it does contain e, and becomes cheaper.
        For any u in S and v in (V-S), there is a path in T* from u to v.  Let f be the edge in this path in (S, V-S).  T*-f+e is a spanning tree.
        Must show all pairs {v, W} are connected by T*-f+e.

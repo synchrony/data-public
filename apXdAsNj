@@ -1,5 +1,5 @@
 * :pXdAsNj: {{{
- // Return RC high-pass filter output samples, given input samples,
+// Return RC high-pass filter output samples, given input samples,
  // time interval dt, and time constant RC
  function highpass(real[0..n] x, real dt, real RC)
    var real[0..n] y
