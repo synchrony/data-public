@@ -1,13 +1,4 @@
-* :Ztso4Os: {{{
-O(j) = best of {{j} + O(p(j)), O(j-1)}
-OPT(j) = max{w(j) + OPT(p(j)), OPT(j-1)}
-	
-compute OPT(j)
-if j = 0 then 0
-else
-    max{wj) + OPT(p(j)), OPT(j-1)}
-end
-}}}
+* :Ztso4Os: ???
     @created 1421637926183
     @sharability 0.75
     @weight 0.5

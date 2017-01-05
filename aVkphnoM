@@ -1,0 +1,4 @@
+* :VkphnoM: in emacs lisp $ to evaluate an expression $ first be in lisp mode (M-x emacs-lisp-mode), then eval expr before point with Cx Ce
+    @created 1483058987363
+    @sharability 0.75
+    @weight 0.5

@@ -1,16 +1,4 @@
-* :YjHe32A: {{{
-DELETE { GRAPH ?g1 { ?s ?p ?o } }
-WHERE { GRAPH ?g1 {
- FILTER ( strStarts(str(?g1),"Poststateless-Eve") )
- ?event1 ep:hasEventObjectSamplingTime ?time1 .
- ?s ?p ?o }
- FILTER EXISTS { GRAPH ?g2 {
- FILTER ( strStarts(str(?g2),"Poststateless-Eve") )
- ?event2 ep:hasEventObjectSamplingTime ?time2 .
- FILTER (?time1 < ?time2)
- } }
-} ;
-}}}
+* :YjHe32A: ???
     @created 1445389205543
     @sharability 0.75
     @weight 0.5

@@ -1,12 +1,4 @@
-* :VyEV1zD: {{{
-PREFIX drugs: <http://www4.wiwiss.fu-berlin.de/dailymed/resource/drugs/>
-PREFIX sider: <http://www4.wiwiss.fu-berlin.de/sider/resource/sider/>
-SELECT DISTINCT * WHERE {
-    drugs:1 owl:sameAs* ?drug .
-    ?drug sider:sideEffect ?effect .
-    ?effect rdfs:label ?label .
-}
-}}}
+* :VyEV1zD: ???
     @created 1329401456209
     @sharability 0.75
     @weight 0.5

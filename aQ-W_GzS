@@ -1,8 +1,4 @@
-* :Q-W_GzS: {{{
-t = new Table()
-root.in.as("l").in.as("a").table(t)
-t
-}}}
+* :Q-W_GzS: ???
     @created 1398130472019
     @sharability 0.75
     @weight 0.5

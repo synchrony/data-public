@@ -1,7 +1,4 @@
-* :mv2OKCs: {{{
-wget http://downloads.openwrt.org/attitude_adjustment/12.09/ar71xx/generic/packages/i2c-tools_3.0.3-1_ar71xx.ipk
-opkg install i2c-tools_3.0.3-1_ar71xx.ipk
-}}}
+* :mv2OKCs: ???
     @created 1473814884531
     @sharability 0.75
     @weight 0.5

@@ -1,10 +1,4 @@
-* :YYo4iMG: {{{
-newGraph = TinkerGraph.open();
-newGraph.io(IoCore.graphml()).readGraph("tinkerpop-modern.xml");
-
-graph = TinkerFactory.createModern();
-graph.io(IoCore.graphml()).writeGraph("/tmp/tinkerpop-modern.xml");
-}}}
+* :YYo4iMG: ???
     @created 1470696859288
     @sharability 0.75
     @weight 0.5

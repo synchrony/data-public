@@ -1,8 +1,4 @@
-* :b_q3zOZ: {{{
-GregorianCalendar c = new GregorianCalendar();
-c.setTime(yourDate);
-XMLGregorianCalendar date2 = DatatypeFactory.newInstance().newXMLGregorianCalendar(c);
-}}}
+* :b_q3zOZ: ???
     @created 1340264452307
     @sharability 0.75
     @weight 0.5

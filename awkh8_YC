@@ -1,11 +1,4 @@
-* :wkh8_YC: {{{
-# endpoint : http://api.talis.com/stores/wordnet/services/sparql
-PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
-SELECT ?s WHERE {
-    ?s rdfs:label "tenon"@en-us
-}
-LIMIT 10
-}}}
+* :wkh8_YC: ???
     @created 1343199424275
     @sharability 0.75
     @weight 0.5

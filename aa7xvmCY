@@ -1,14 +1,4 @@
-* :a7xvmCY: {{{
-cd /tmp
-mkdir javaxcomm; cd javaxcomm; rm -rf *
-
-# note: version mismatch between jar and native library (2.2pre1 vs. 2.2pre2)
-wget http://jlog.org/v4/linux/x86_64-unknown-linux-gnu/librxtxSerial.so
-wget http://jlog.org/v4/linux/x86_64-unknown-linux-gnu/RXTXcomm.jar
-
-sudo cp librxtxSerial.so /usr/lib/jvm/java-7-oracle/jre/lib/amd64/
-sudo cp RXTXcomm.jar /usr/lib/jvm/java-7-oracle/jre/lib/ext
-}}}
+* :a7xvmCY: ???
     @created 1404152257444
     @sharability 0.75
     @weight 0.5

@@ -1,13 +1,4 @@
-* :0YpQxca: {{{
-rm -rf /tmp/sesametools
-cp -r . /tmp/sesametools
-cd /tmp/sesametools
-mvn clean install
-rm -rf .git/ .idea/
-rm -rf `find . -name "*.iml"`
-cd ..
-zip -r sesametools-0.6.zip sesametools/
-}}}
+* :0YpQxca: ???
     @created 1331530962334
     @sharability 0.75
     @weight 0.5

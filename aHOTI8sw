@@ -1,7 +1,4 @@
-* :HOTI8sw: {{{
-g.V.type.groupCount
-hdfs.head('output/job-0/sideeffect*')
-}}}
+* :HOTI8sw: ???
     @created 1398533962402
     @sharability 0.75
     @weight 0.5

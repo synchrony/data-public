@@ -1,10 +1,4 @@
-* :H5Xq3lf: {{{
-cd ~/projects/notmine
-svn co http://emacspeak.googlecode.com/svn/trunk emacspeak
-cd emacspeak
-make config
-make emacspeak
-}}}
+* :H5Xq3lf: ???
     @created 1348117045590
     @sharability 0.75
     @weight 0.5

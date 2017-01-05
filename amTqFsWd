@@ -1,7 +1,4 @@
-* :mTqFsWd: {{{
-h <- hist(nchar(as.character(v$value)), breaks=500, plot=FALSE)
-plot(h$counts, log="xy")
-}}}
+* :mTqFsWd: ???
     @created 1333139634004
     @sharability 0.75
     @weight 0.5

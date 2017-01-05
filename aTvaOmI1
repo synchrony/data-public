@@ -1,19 +1,4 @@
-* :TvaOmI1: {{{
-Connect each node in X with an edge from the super-source.
-Each edge from X to Y shall be ordered in that direction.
-Connect each node in Y with an edge to the super-sink.
-Each edge has capacity 1.
-	
-Claim: Every integer flow... <==> a matching...
-Proof:
-    Every matching (of size m) corresponds to a flow (of size m).
-        ...
-    Every flow (of size m) corresponds to a matching (of size m).
-        ...
-    Time complexity:
-        O(m*C) flow algorithm is appropriate, as the flow is small (no bigger than the number of nodes)
-            --> O(m*n)
-}}}
+* :TvaOmI1: ???
     @created 1310234505277
     @sharability 0.75
     @weight 0.5

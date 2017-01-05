@@ -1,7 +1,4 @@
-* :8qWEXWO: {{{
-chmod 700 ~/.ssh
-chmod 600 ~/.ssh/authorized_keys
-}}}
+* :8qWEXWO: ???
     @created 1392956321541
     @sharability 0.75
     @weight 0.5

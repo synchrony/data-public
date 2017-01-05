@@ -1,8 +1,4 @@
-* :8EDsH06: {{{
-net.fortytwo.ripple.demo.sailType = org.openrdf.sail.memory.MemoryStore
-net.fortytwo.ripple.demo.memoryStorePersistFile = /tmp/ripple-ms-nt
-net.fortytwo.ripple.demo.memoryStorePersistFileFormat = ntriples
-}}}
+* :8EDsH06: ???
     @created 1455842157967
     @sharability 0.75
     @weight 0.5

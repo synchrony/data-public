@@ -1,11 +1,4 @@
-* :FiYXekJ: {{{
-dir = "/tmp/neo4j-test";
-g = new Neo4jGraph(dir);
-f = "../../blueprints/blueprints-test/src/main/resources/com/tinkerpop/blueprints/util/io/graphml/graph-example-1.xml";
-GraphMLReader.inputGraph(g, new FileInputStream(f));
-g.commit();
-g.shutdown();
-}}}
+* :FiYXekJ: ???
     @created 1395498249041
     @sharability 0.75
     @weight 0.5

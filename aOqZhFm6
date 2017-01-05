@@ -1,18 +1,4 @@
-* :OqZhFm6: {{{
-@prefix wni: <http://www.w3.org/2006/03/wn/wn20/instances/>
-@prefix wn20schema: <http://www.w3.org/2006/03/wn/wn20/schema/>
-
-wni:wordsense-bank-noun-1 = v
-v.
-v. wn20schema:derivationallyRelated.
-
-@list s word: "http://www.w3.org/2006/03/wn/wn20/instances/word-" s concat. to-uri.
-"jump" :word.
-
-@prefix wn20instances: <http://www.w3.org/2006/03/wn/wn20/instances/>
-
-wn20instances:synset-heavy-adjective-1
-}}}
+* :OqZhFm6: ???
     @created 1330384506737
     @sharability 0.75
     @weight 0.5

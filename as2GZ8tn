@@ -1,11 +1,4 @@
-* :s2GZ8tn: {{{
-# from Wikipedia, 2016-01-14
-# see https://en.wikipedia.org/wiki/Letter_frequency
-dist <- c(8.167,1.492,2.782,4.253,12.702,2.228,2.015,6.094,6.966,0.153,0.772,4.025,2.406,6.749,7.507,1.929,0.095,5.987,6.327,9.056,2.758,0.978,2.361,0.150,1.974,0.074)/100
-
-# -> 12: center-of-mass lies between K and L
-which.min(abs(cumsum(dist) - 0.5))
-}}}
+* :s2GZ8tn: ???
     @created 1452798438934
     @sharability 0.75
     @weight 0.5

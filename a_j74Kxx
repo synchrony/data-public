@@ -1,28 +1,4 @@
-* :_j74Kxx: {{{
-# necessary?
-install.packages("tm")
-
-install.packages("lattice")
-install.packages("zoo")
-install.packages("xts")
-install.packages("TTR")
-install.packages("quantmod")
-
-install.packages("tm.plugin.sentiment", repos="http://R-Forge.R-project.org", type="source")
-
-library(tm.plugin.sentiment)
-# avoid the error 'could not find function "tm_tag_score"'
-tm_tag_score <- tm_term_score
-
-values <- c("a set of" "textual values")
-corpus <- Corpus(VectorSource(values))
-s <- score(corpus)
-sent_scores <- meta(s)
-
-# get positive and negative terms from General Inquirer
-posterms_GI()
-negterms_GI()
-}}}
+* :_j74Kxx: ???
     @created 1416674067647
     @sharability 0.75
     @weight 0.5

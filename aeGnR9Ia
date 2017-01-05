@@ -1,11 +1,4 @@
-* :eGnR9Ia: {{{
-@prefix linkedct: <http://data.linkedct.org/vocab/>
-
-<http://data.linkedct.org/resource/condition/chronic-myeloproliferative-disorders> = c
-
-# encountered dereferencing errors here and went no further... but there is more data
-c. linkedct:trial_condition~.
-}}}
+* :eGnR9Ia: ???
     @created 1328341173294
     @sharability 0.75
     @weight 0.5

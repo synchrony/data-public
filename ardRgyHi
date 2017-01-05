@@ -1,9 +1,4 @@
-* :rdRgyHi: {{{
-pdf("/tmp/graphic.pdf", width=6.25, height=3)
-par(mar=c(4.5,5,2,1.5))
-[...]
-dev.off()
-}}}
+* :rdRgyHi: ???
     @created 1426269359971
     @sharability 0.75
     @weight 0.5

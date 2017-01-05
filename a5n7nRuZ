@@ -1,8 +1,4 @@
-* :5n7nRuZ: {{{
-x <- 0.02 * (1:100) - 1
-y <- dnorm(x, mean=0, sd=0.25)
-plot(x=x, y)
-}}}
+* :5n7nRuZ: ???
     @created 1441662731863
     @sharability 0.75
     @weight 0.5

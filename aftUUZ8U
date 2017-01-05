@@ -1,10 +1,4 @@
-* :ftUUZ8U: {{{
-as.POSIXlt(Sys.time(), tz="America/Los_Angeles")
-as.POSIXlt(Sys.time(), tz="America/New_York")
-as.POSIXlt(Sys.time(), tz="Asia/Singapore")
-as.POSIXlt(Sys.time(), tz="EST5EDT")
-as.POSIXlt(Sys.time(), tz="GMT+4")
-}}}
+* :ftUUZ8U: ???
     @created 1367641001031
     @sharability 0.75
     @weight 0.5

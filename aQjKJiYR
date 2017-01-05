@@ -1,7 +1,4 @@
-* :QjKJiYR: {{{
-library(stringr) 
-str_locate("aabcd", "bcd")
-}}}
+* :QjKJiYR: ???
     @created 1371176859298
     @sharability 0.75
     @weight 0.5

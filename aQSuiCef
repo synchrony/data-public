@@ -1,12 +1,4 @@
-* :QSuiCef: {{{
-#ifdef FOO
-    ...
-#elif defined(BAR)
-    ...
-#else
-    ...
-#endif
-}}}
+* :QSuiCef: ???
     @created 1384447773970
     @sharability 0.75
     @weight 0.5

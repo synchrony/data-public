@@ -1,21 +1,4 @@
-* :PEFPtpS: {{{
-mkdir .foo # this becomes a hidden directory
-mkdir _foo
-mkdir ./-foo # this directory requires special care
-mkdir foo.
-mkdir foo_
-mkdir foo-
-mkdir f.oo
-mkdir f-oo
-mkdir f_oo
-
-echo "hello world" > bar.txt
-for i in `ls`; do cp bar.txt $i; done
-cp bar.txt .foo
-cp bar.txt ./-foo
-
-# now verify that bar.txt in all directories is accessible via HTTP (it is)
-}}}
+* :PEFPtpS: ???
     @created 1412609633305
     @sharability 0.75
     @weight 0.5

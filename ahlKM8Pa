@@ -1,10 +1,4 @@
-* :hlKM8Pa: {{{
-# Dump a database to a text file:
-mysqldump -h localhost x2dg > file.txt
-
-# Load from a text file:
-mysql -h hostname -u user --password=password databasename < filename
-}}}
+* :hlKM8Pa: ???
     @created 1395163699439
     @sharability 0.75
     @weight 0.5

@@ -1,19 +1,4 @@
-* :wo1DeZx: {{{
-cd /usr/local/
-sudo mkdir apache-maven
-cd apache-maven/
-sudo wget http://ftp.wayne.edu/apache//maven/binaries/apache-maven-3.0.4-bin.tar.gz
-sudo tar -xzf apache-maven-3.0.4-bin.tar.gz 
-sudo ln -s /usr/local/apache-maven/apache-maven-3.0.4 current
-sudo ln -s /usr/local/apache-maven/current/bin/mvn /usr/bin/mvn
-
-sudo vim /etc/profile
-[add these lines:
-export M2_HOME="/usr/local/apache-maven/current"
-export MAVEN_HOME="/usr/local/apache-maven/current"
-export M2="/usr/local/apache-maven/current/bin"
-]
-}}}
+* :wo1DeZx: ???
     @created 1329762644578
     @sharability 0.75
     @weight 0.5
