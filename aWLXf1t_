@@ -1,4 +1,8 @@
-* :WLXf1t_: ???
+* :WLXf1t_: {{{
+def sayHello(name){
+    return 'Hello, ' + name
+}
+}}}
     @created 1377981365062
     @sharability 0.75
     @weight 0.5

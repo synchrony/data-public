@@ -1,4 +1,8 @@
-* :JBbvyha: ???
+* :JBbvyha: {{{
+(load-ntriples "/home/josh/tmp/result.nt")
+(commit-triple-store)
+(triple-count)
+}}}
     @created 1329169027191
     @sharability 0.75
     @weight 0.5

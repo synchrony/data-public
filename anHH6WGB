@@ -1,4 +1,8 @@
-* :nHH6WGB: ???
+* :nHH6WGB: {{{
+for i in $(ls -Rl@ | grep '^	' | awk '{print $1}' | sort -u); \
+   do echo Removing $i ... >&2;  \
+   find . | xargs xattr -d $i 2>/dev/null ; done
+}}}
     @created 1330574401834
     @sharability 0.75
     @weight 0.5

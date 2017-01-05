@@ -1,4 +1,15 @@
-* :6AkvrQ4: ???
+* :6AkvrQ4: {{{
+mkdir raw
+cd raw
+
+# create a file for each "what you've rated" page, and just copy and paste
+# the visible contents of the page into the file
+vim p1
+
+cd ..
+
+for i in `ls raw`; do cat raw/$i |tr '_' '-'|tr '\n' '_' | sed 's/^.*_Title_Title.Rating_//' | sed 's/_prev_.*//' | tr '_' '\n' | grep -v "^Clear$" | grep -v "^Not Interested$" | grep -v "Rate.*star" | sed 's/You rated this movie: //'; done > ratings.txt
+}}}
     @created 1352003360246
     @sharability 0.75
     @weight 0.5

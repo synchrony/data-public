@@ -1,4 +1,10 @@
-* :QAts22o: ???
+* :QAts22o: {{{
+cd ./examples
+make examples
+
+gcc example2.c -lrdf
+./a.out
+}}}
     @created 1326595358107
     @sharability 0.75
     @weight 0.5

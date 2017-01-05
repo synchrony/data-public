@@ -1,4 +1,8 @@
-* :8v3WPrC: ???
+* :8v3WPrC: {{{
+png("/tmp/mygraphic.png", width=1400, height=600) # pixels
+# do your plotting here
+dev.off()
+}}}
     @created 1470263958481
     @sharability 0.75
     @weight 0.5

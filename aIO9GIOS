@@ -1,4 +1,29 @@
-* :IO9GIOS: ???
+* :IO9GIOS: {{{
+# create a session in AG Web View, then
+./jig.sh config/drugbank-local-session.props
+
+store.name
+store.size
+
+g.triples.limit(10)
+g.triples.limit(10).label
+g.triples.limit(1000000).label.distinct
+
+# note: the index is different for each load of the data set
+type = g.triples.limit(1000000).label.distinct[22]
+
+g.triples(null, type, null).head.limit(100000).distinct
+
+drugs = g.triples(null, type, null).head.limit(100000).distinct[3]
+
+d = g.v(drugs).inE(type).limit(10).tail
+
+g.common(d[0], d[9])
+
+d0 = g.v(d[0]).nearby(2).aggr
+d9 = g.v(d[9]).nearby(2).aggr
+intersect(d0, d9)
+}}}
     @created 1345688436952
     @sharability 0.75
     @weight 0.5

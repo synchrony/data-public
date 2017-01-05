@@ -1,4 +1,12 @@
-* :1oH7xsW: ???
+* :1oH7xsW: {{{
+BufferedReader br = new BufferedReader(new FileReader(file));
+//BufferedReader br = new BufferedReader(new InputStreamReader(in));
+String line;
+while ((line = br.readLine()) != null) {
+   // process the line.
+}
+br.close();
+}}}
     @created 1357861236880
     @sharability 0.75
     @weight 0.5

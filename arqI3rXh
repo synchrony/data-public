@@ -1,4 +1,10 @@
-* :rqI3rXh: ???
+* :rqI3rXh: {{{
+library("igraph")
+
+gg <- sample_pa(n=10000, directed=TRUE)
+head(degree(gg, mode="out"))
+dist <- degree_distribution(gg)
+}}}
     @created 1445634062356
     @sharability 0.75
     @weight 0.5
