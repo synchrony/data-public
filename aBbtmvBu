@@ -1,4 +1,12 @@
-* :BbtmvBu: ???
+* :BbtmvBu: {{{
+DatatypeDefinition(
+   :majorAge
+   DataIntersectionOf(
+     :personAge 
+     DataComplementOf( :minorAge ) 
+   ) 
+ )
+}}}
     @created 1471476754096
     @sharability 0.75
     @weight 0.5

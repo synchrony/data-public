@@ -1,4 +1,12 @@
-* :5Eq-zYt: ???
+* :5Eq-zYt: {{{
+Id if needed | Promoted from | Text
+             |               | is grandma okay
+**           | *             | respond fast to [recruiter]
+*            |               | find a job
+**           |               | | respond fast to [recruiter]
+Top (leftmost) layer is priority-ranked.
+The node labeled ** is marked to be promoted from within "find a job" perhaps because it outranks the expected|perceived(an average over earlier folds of its descendents) value of <find a job>.
+}}}
     @created 1475809782569
     @sharability 0.75
     @weight 0.5

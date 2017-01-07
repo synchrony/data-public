@@ -1,4 +1,9 @@
-* :lnuAnVt: ???
+* :lnuAnVt: {{{
+SubClassOf(
+   :Grandfather
+   ObjectIntersectionOf( :Man :Parent )
+ )
+}}}
     @created 1471377907789
     @sharability 0.75
     @weight 0.5

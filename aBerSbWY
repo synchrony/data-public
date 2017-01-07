@@ -1,4 +1,9 @@
-* :BerSbWY: ???
+* :BerSbWY: {{{
+EquivalentClasses( 
+   :JohnsChildren 
+   ObjectHasValue( :hasParent :John )
+ )
+}}}
     @created 1471472379529
     @sharability 0.75
     @weight 0.5

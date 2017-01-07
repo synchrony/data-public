@@ -1,4 +1,9 @@
-* :oXjcC67: ???
+* :oXjcC67: {{{
+SubObjectPropertyOf( 
+   ObjectPropertyChain( :hasParent :hasParent ) 
+   :hasGrandparent 
+ )
+}}}
     @created 1471476278665
     @sharability 0.75
     @weight 0.5

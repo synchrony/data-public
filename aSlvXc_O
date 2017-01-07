@@ -1,4 +1,13 @@
-* :SlvXc_O: ???
+* :SlvXc_O: {{{
+,
+    void forFirstOf(Consumer<AtomList> consumer);
+
+    void addChildAt(final Atom child, int position);
+
+    void deleteChildAt(int position);
+
+    Collection<AtomList> getFirstOf();
+}}}
     @created 1472284832458
     @sharability 0.75
     @weight 0.5

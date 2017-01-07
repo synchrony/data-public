@@ -1,4 +1,9 @@
-* :Dd8PGZf: ???
+* :Dd8PGZf: {{{
+EquivalentClasses(
+   :NarcisticPerson 
+   ObjectHasSelf( :loves ) 
+ )
+}}}
     @created 1471472452059
     @sharability 0.75
     @weight 0.5
