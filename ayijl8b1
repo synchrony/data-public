@@ -1,4 +1,8 @@
-* :yijl8b1: ???
+* :yijl8b1: {{{
+./configure
+make
+make install
+}}}
     @created 1395067736444
     @sharability 0.75
     @weight 0.5

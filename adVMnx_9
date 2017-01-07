@@ -1,4 +1,14 @@
-* :dVMnx_9: ???
+* :dVMnx_9: {{{
+// Return RC low-pass filter output samples, given input samples,
+// time interval dt, and time constant RC
+function lowpass(real[0..n] x, real dt, real RC)
+   var real[0..n] y
+   var real α := dt / (RC + dt)
+   y[0] := x[0]
+   for i from 1 to n
+       y[i] := α * x[i] + (1-α) * y[i-1]
+   return y
+}}}
     @created 1411776286421
     @sharability 0.75
     @weight 0.5

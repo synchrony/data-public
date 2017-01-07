@@ -1,4 +1,7 @@
-* :3xcAYUy: ???
+* :3xcAYUy: {{{
+$ rapper -qo dot /path/to/data.rdf > data.dot
+$ dot -Tpng -o data.png data.dot
+}}}
     @created 1326595413238
     @sharability 0.75
     @weight 0.5

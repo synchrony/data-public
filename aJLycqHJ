@@ -1,4 +1,14 @@
-* :JLycqHJ: ???
+* :JLycqHJ: {{{
+# this patch is supposed to fix the issue, but it doesn't
+wget https://issues.apache.org/jira/secure/attachment/12602452/HADOOP-9350.patch
+patch < HADOOP-9350.patch
+
+# instead, create a symlink
+export JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk1.7.0_51.jdk/Contents/Home
+cd $JAVA_HOME
+sudo mkdir Classes
+sudo ln -s /Library/Java/JavaVirtualMachines/jdk1.7.0_51.jdk/Contents/Home/lib/tools.jar Classes/classes.jar
+}}}
     @created 1395069680914
     @sharability 0.75
     @weight 0.5

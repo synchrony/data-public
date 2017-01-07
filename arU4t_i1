@@ -1,4 +1,9 @@
-* :rU4t_i1: ???
+* :rU4t_i1: {{{
+import org.openrdf.sail.memory.MemoryStore;
+g = new SailGraph(new MemoryStore())
+g.loadRDF('/Users/marko/Desktop/neo.rdf', 'rdf-xml'))
+g.E[0..5]
+}}}
     @created 1373472237092
     @sharability 0.75
     @weight 0.5

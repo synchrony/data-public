@@ -1,4 +1,8 @@
-* :7HBL19S: ???
+* :7HBL19S: {{{
+sudo /system/bin/logcat -f /sdcard/logcat.log *:I
+
+sudo tail -f /sdcard/logcat.log
+}}}
     @created 1389492627315
     @sharability 0.75
     @weight 0.5

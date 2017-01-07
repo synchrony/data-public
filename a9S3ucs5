@@ -1,4 +1,23 @@
-* :9S3ucs5: ???
+* :9S3ucs5: {{{
+PREFIX ex: <http://example.org/ns#>
+PREFIX drugs: <http://www4.wiwiss.fu-berlin.de/dailymed/resource/drugs/>
+PREFIX dailymed: <http://www4.wiwiss.fu-berlin.de/dailymed/resource/dailymed/>
+PREFIX drugbank: <http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/>
+SELECT DISTINCT * WHERE {
+    <http://fortytwo.net/tmp/foaf.rdf#bob> ex:isTaking ?drug1 .
+    <http://fortytwo.net/tmp/foaf.rdf#bob> ex:isTaking ?drug2 .
+    ?drug1 dailymed:genericDrug ?gen1 .
+    ?drug2 dailymed:genericDrug ?gen2 .
+    {
+        ?int drugbank:interactionDrug1 ?gen1 .
+        ?int drugbank:interactionDrug2 ?gen2 .
+    } UNION {
+        ?int drugbank:interactionDrug2 ?gen2 .
+        ?int drugbank:interactionDrug1 ?gen1 .
+    }
+    ?int drugbank:text ?text .
+}
+}}}
     @created 1329407525358
     @sharability 0.75
     @weight 0.5

@@ -1,4 +1,8 @@
-* :8xDoI7M: ???
+* :8xDoI7M: {{{
+cp /usr/local/include/sox.h /Library/Frameworks/Python.framework/Versions/2.7/include/python2.7
+python setup.py build
+python setup.py install
+}}}
     @created 1348124354036
     @sharability 0.75
     @weight 0.5

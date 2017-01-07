@@ -1,4 +1,9 @@
-* :44KWkWe: ???
+* :44KWkWe: {{{
+m = [:]
+# note: iterate() or cap().next() not strictly necessary in the REPL
+g.V.type.groupCount(m).iterate()
+m
+}}}
     @created 1421638530048
     @sharability 0.75
     @weight 0.5

@@ -1,4 +1,8 @@
-* :Do_Qhdz: ???
+* :Do_Qhdz: {{{
+install.packages('gmp')
+library(gmp) 
+factorize(2^32+1)
+}}}
     @created 1412530297114
     @sharability 0.75
     @weight 0.5

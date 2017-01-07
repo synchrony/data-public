@@ -1,4 +1,7 @@
-* :dE6W31D: ???
+* :dE6W31D: {{{
+cd titan
+bin/gremlin.sh
+}}}
     @created 1370127794435
     @sharability 0.75
     @weight 0.5

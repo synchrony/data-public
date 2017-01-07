@@ -1,4 +1,8 @@
-* :Dv9I_bt: ???
+* :Dv9I_bt: {{{
+graph = TinkerGraph.open()
+g = graph.traversal()
+g.V()
+}}}
     @created 1470695508681
     @sharability 0.75
     @weight 0.5

@@ -1,4 +1,8 @@
-* :58UsDSO: ???
+* :58UsDSO: {{{
+tone(speakerPin, 440);
+delay(1000);
+noTone(speakerPin);
+}}}
     @created 1384276290450
     @sharability 0.75
     @weight 0.5
