@@ -1,0 +1,5 @@
+* :ysHZkSB: ffmpeg -i dark.mp4 -vf eq=2:+0.3:1:1:1:1:1:1 -vcodec libx264 bright.mp4
+    @created 1483913935247
+    @sharability 0.75
+    @weight 0.5
+    * :ZWarm-H: 
