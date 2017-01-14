@@ -1,0 +1,4 @@
+* :ceC8rXO: "an agent’s actions will affect the subsequent data it receives. For example, an agent’s action of moving left instead of right means that the agent will receive different input from the environment at the next time step"
+    @created 1484242997420
+    @sharability 0.75
+    @weight 0.5
