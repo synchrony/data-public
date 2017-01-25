@@ -1,0 +1,11 @@
+* :RFSnQRK: {{{
+Tools > Board > Board Manager > Type:Contributed
+
+[Arduino IDE] > File > Examples > DigisparkUSB
+[Arduino IDE] > File > Examples > DigisparkCDC
+
+sudo easy_install pyusb
+}}}
+    @created 1484965876842
+    @sharability 0.75
+    @weight 0.5
