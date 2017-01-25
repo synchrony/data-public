@@ -1,0 +1,8 @@
+* :xwFl82k: {{{
+module B where
+
+import A (class Fab)
+}}}
+    @created 1484983361584
+    @sharability 0.75
+    @weight 0.5

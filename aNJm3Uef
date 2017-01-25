@@ -1,0 +1,4 @@
+* :NJm3Uef: type Audio e = Eff (howler :: HOWLER, ref :: REF, timer :: TIMER | e)
+    @created 1484905382342
+    @sharability 0.75
+    @weight 0.5
