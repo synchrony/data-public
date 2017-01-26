@@ -1,0 +1,26 @@
+* :qfN6dMw: {{{
+A proposed solution (it's an online game) to a short list of problems
+---
+The problems include:
+  We like to learn.
+  Advertising is annoying.
+  We don't know who to believe about what.
+  The powerful control our media, including our elections.
+  We feel overloaded with information (which causes us to overlook easy, excellent opportunities).
+  We want more small, independent businesses, and we want more people to understand computers.
+
+The game provides incentives for journalism and for maintaining servers.
+
+Players get to:
+  Share posts, broadly or to specified receivers.
+  Create news feeds specific to chosen topics, or people, or person-topic pairs, or other post qualities. (AI classifies posts: sports, comedy, bicycles, etc.)
+  Praise things as useful, true, or beautiful.
+  Pledge regular donations to specific kinds of reporting: "Beautiful things about atheism," "True things about climate," etc. Donations support the reporters and the sharers.
+
+Still undetermined
+  I want a market to arise for independent servers, allowing users to fact-check their data. Fact-checking would come in two forms, human and machine. Machine fact-checking, that is the verification that an article's contents are what they should be, faces a memory challenge; however, since ad-free reporting can be encoded as text, the memory challenge is easier than it might sound.
+  Players will be reluctant to reward, say, the "truth" judgments of people they distrust. This could be overcome by letting them direct their donations toward the truth judgments of people they believed, but then there is the danger of creating information-bubbles (where people reinforce each others' beliefs without learning much).
+}}}
+    @created 1485148768255
+    @sharability 0.75
+    @weight 0.5

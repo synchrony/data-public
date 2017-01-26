@@ -1,0 +1,4 @@
+* :N-Whqre: Merge is a commutative monoid. Is there a library for those? (I looked.) Could I add two different monoid instances to the same type?
+    @created 1485040030257
+    @sharability 0.75
+    @weight 0.5
