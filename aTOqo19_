@@ -1,10 +1,10 @@
 * :TOqo19_: {{{
 C = k-clustering created by Kruskal's
-		C' = another k-clustering
-		If C != C', there must be points p_i, p_j which are in the same cluster in C, different clusters in C'.
-		Since p_i, p_j are in same cluster of C, they were connected at end of our algorithm.
-		C_r is a cluster of C'. Different clusters of C' ==> exists edge e in path p that crosses clusters in C'
-		Spacing of C' <= cost(e) < d*
+        C' = another k-clustering
+        If C != C', there must be points p_i, p_j which are in the same cluster in C, different clusters in C'.
+        Since p_i, p_j are in same cluster of C, they were connected at end of our algorithm.
+        C_r is a cluster of C'. Different clusters of C' ==> exists edge e in path p that crosses clusters in C'
+        Spacing of C' <= cost(e) < d*
 }}}
     @created 1421638587603
     @sharability 0.75

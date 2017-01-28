@@ -3,7 +3,7 @@ Connect each node in X with an edge from the super-source.
 Each edge from X to Y shall be ordered in that direction.
 Connect each node in Y with an edge to the super-sink.
 Each edge has capacity 1.
-	
+    
 Claim: Every integer flow... <==> a matching...
 Proof:
     Every matching (of size m) corresponds to a flow (of size m).

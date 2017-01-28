@@ -1,5 +1,5 @@
 * :nHH6WGB: {{{
-for i in $(ls -Rl@ | grep '^	' | awk '{print $1}' | sort -u); \
+for i in $(ls -Rl@ | grep '^    ' | awk '{print $1}' | sort -u); \
    do echo Removing $i ... >&2;  \
    find . | xargs xattr -d $i 2>/dev/null ; done
 }}}
