@@ -1,7 +1,14 @@
 * :euWqxFO: {{{
-here is some block text
-this is the body of the
-block text
+This is a paragraph of block text.
+It may span multiple lines.
+
+# This is a header
+
+This is the content
+
+## Subheader
+
+More content.
 }}}
     @created 1364185583172
     @sharability 0.75
