@@ -1,0 +1,4 @@
+* :kt3xg4e: given a complete lattice S, a subset T is sup-dense if for all a in S, there exists a subset T1 of T such that a is sup(T1)
+    @created 1485826229911
+    @sharability 0.75
+    @weight 0.5

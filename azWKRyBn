@@ -1,4 +1,4 @@
-* :zWKRyBn: a command for "parse this expression the way where (& |) < (< >) < $ < .
+* :zWKRyBn: a command for "parse this expression as nested nodes, e.g. first binding (& |) < (< >) < $ < ."
     @created 1484641562147
     @sharability 0.75
     @weight 0.5
