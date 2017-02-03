@@ -1,0 +1,16 @@
+* :V75JzSh: {{{
+# build
+gradle build
+
+## skip tests
+gradle build -x test
+
+## individual modules
+From the parent directory, use "gradle :moduleA:build"
+
+# install
+gradle install
+}}}
+    @created 1485884405543
+    @sharability 0.75
+    @weight 0.5
