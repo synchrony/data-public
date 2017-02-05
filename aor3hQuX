@@ -1,4 +1,8 @@
-* :or3hQuX: {{{
+* :or3hQuX: RenameMe
+    @created 1328590360673
+    @sharability 0.75
+    @weight 0.5
+
 cd /tmp
 mkdir javaxcomm; cd javaxcomm; rm -rf *
 
@@ -9,7 +13,3 @@ wget http://jlog.org/v4/macosx/mac-10.5/RXTXcomm.jar
 cp * /Library/Java/Extensions/
 
 mvn install:install-file -DgroupId=javax.comm -DartifactId=comm -Dversion=2.2pre1 -Dpackaging=jar -DcreateChecksum=true -Dfile=RXTXcomm.jar
-}}}
-    @created 1328590360673
-    @sharability 0.75
-    @weight 0.5

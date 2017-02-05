@@ -1,8 +1,8 @@
-* :pGRF3eC: {{{
-set M[0] = 0
-for j = 1 to n
-    M[j] = max{w(j) + M[p(j)], M[j-1]}
-}}}
+* :pGRF3eC: RenameMe
     @created 1310234505239
     @sharability 0.75
     @weight 0.5
+
+set M[0] = 0
+for j = 1 to n
+    M[j] = max{w(j) + M[p(j)], M[j-1]}

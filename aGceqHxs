@@ -1,7 +1,7 @@
-* :GceqHxs: {{{
-sudo apt-get install telnetd
-sudo /etc/init.d/openbsd-inetd restart
-}}}
+* :GceqHxs: RenameMe
     @created 1330899099189
     @sharability 0.75
     @weight 0.5
+
+sudo apt-get install telnetd
+sudo /etc/init.d/openbsd-inetd restart

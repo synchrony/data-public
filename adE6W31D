@@ -1,7 +1,7 @@
-* :dE6W31D: {{{
-cd titan
-bin/gremlin.sh
-}}}
+* :dE6W31D: RenameMe
     @created 1370127794435
     @sharability 0.75
     @weight 0.5
+
+cd titan
+bin/gremlin.sh

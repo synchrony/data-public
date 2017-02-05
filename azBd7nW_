@@ -1,4 +1,8 @@
-* :zBd7nW_: {{{
+* :zBd7nW_: RenameMe
+    @created 1422285367460
+    @sharability 0.75
+    @weight 0.5
+
 # export vertices from Brain-mode, then
 cat /tmp/joshkb-vertices.tsv |grep bibtex-reference|sed 's/.*bibtex-reference.....//'|grep "^@" > /tmp/bibtex-escaped.txt
 
@@ -17,7 +21,3 @@ for (i=1; i < a.length; i++) {
 
 ps = new PrintStream(new FileOutputStream(new File("/tmp/thesis.bib")));
 ps.println(sb.toString());
-}}}
-    @created 1422285367460
-    @sharability 0.75
-    @weight 0.5

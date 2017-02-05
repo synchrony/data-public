@@ -1,4 +1,8 @@
-* :JWRWx-o: {{{
+* :JWRWx-o: RenameMe
+    @created 1471377907789
+    @sharability 0.75
+    @weight 0.5
+
 ClassAssertion(
    ObjectIntersectionOf(
      :Person
@@ -6,7 +10,3 @@ ClassAssertion(
    )
    :Jack
  )
-}}}
-    @created 1471377907789
-    @sharability 0.75
-    @weight 0.5

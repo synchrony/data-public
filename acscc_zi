@@ -1,4 +1,8 @@
-* :cscc_zi: {{{
+* :cscc_zi: RenameMe
+    @created 1421638522252
+    @sharability 0.75
+    @weight 0.5
+
 k disjoint paths => flow of size k
 f(e) = 1 if e is in one of these paths
 cap constr
@@ -7,7 +11,3 @@ flow of size k => k disjoint paths
 
 Look at set of edges S with f(e) = 1 for e in S. Want to show that S contains k disjoint paths.  Alg1 gives us a path.
 O(m*n)
-}}}
-    @created 1421638522252
-    @sharability 0.75
-    @weight 0.5

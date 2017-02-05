@@ -1,4 +1,8 @@
-* :xqJy7zH: {{{
+* :xqJy7zH: RenameMe
+    @created 1329405293438
+    @sharability 0.75
+    @weight 0.5
+
 PREFIX drugs: <http://www4.wiwiss.fu-berlin.de/dailymed/resource/drugs/>
 PREFIX dailymed: <http://www4.wiwiss.fu-berlin.de/dailymed/resource/dailymed/>
 PREFIX drugbank: <http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/>
@@ -13,7 +17,3 @@ SELECT DISTINCT * WHERE {
     }
     ?int drugbank:text ?text .
 }
-}}}
-    @created 1329405293438
-    @sharability 0.75
-    @weight 0.5

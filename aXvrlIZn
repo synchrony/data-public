@@ -1,4 +1,8 @@
-* :XvrlIZn: {{{
+* :XvrlIZn: RenameMe
+    @created 1326232804069
+    @sharability 0.75
+    @weight 0.5
+
 # can take a very long time...
 (defun count-named-graphs ()
     (defparameter *h* (db.agraph.utility:make-upi-hash-table))
@@ -12,7 +16,3 @@
 (loop for key being the hash-keys of *h*
         using (hash-value value)
         do (format t "The value associated with the key ~S is ~S~%" key value))
-}}}
-    @created 1326232804069
-    @sharability 0.75
-    @weight 0.5

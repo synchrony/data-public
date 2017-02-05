@@ -1,8 +1,8 @@
-* :h8dhzeg: {{{
-ffmpeg -i left.mp4 -i right.mp4 -filter_complex \
-"[0:v]setpts=PTS-STARTPTS, pad=iw*2:ih[bg]; \
-[1:v]setpts=PTS-STARTPTS[fg]; [bg][fg]overlay=w" merged.mp4
-}}}
+* :h8dhzeg: RenameMe
     @created 1483922339661
     @sharability 0.75
     @weight 0.5
+
+ffmpeg -i left.mp4 -i right.mp4 -filter_complex \
+"[0:v]setpts=PTS-STARTPTS, pad=iw*2:ih[bg]; \
+[1:v]setpts=PTS-STARTPTS[fg]; [bg][fg]overlay=w" merged.mp4

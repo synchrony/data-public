@@ -1,4 +1,8 @@
-* :wo1DeZx: {{{
+* :wo1DeZx: RenameMe
+    @created 1329762644578
+    @sharability 0.75
+    @weight 0.5
+
 cd /usr/local/
 sudo mkdir apache-maven
 cd apache-maven/
@@ -13,7 +17,3 @@ export M2_HOME="/usr/local/apache-maven/current"
 export MAVEN_HOME="/usr/local/apache-maven/current"
 export M2="/usr/local/apache-maven/current/bin"
 ]
-}}}
-    @created 1329762644578
-    @sharability 0.75
-    @weight 0.5

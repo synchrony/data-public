@@ -1,8 +1,8 @@
-* :13-X1gJ: {{{
-g = new SparqlRepositorySailGraph("http://dbpedia.org/sparql");
-v = g.v('http://dbpedia.org/resource/Grateful_Dead')
-v.out()
-}}}
+* :13-X1gJ: RenameMe
     @created 1394458405070
     @sharability 0.75
     @weight 0.5
+
+g = new SparqlRepositorySailGraph("http://dbpedia.org/sparql");
+v = g.v('http://dbpedia.org/resource/Grateful_Dead')
+v.out()

@@ -1,10 +1,10 @@
-* :IlX1zpz: {{{
+* :IlX1zpz: RenameMe
+    @created 1468120147745
+    @sharability 0.75
+    @weight 0.5
+
 blower.data <- data.frame(
     height=c(2,5,7,10,13,15,17,20,25,30,40,45,50,55,60,65,70,75,80,85,90,95,100)-2,
     mass=c(25.0,23,23.8,21.5,20.0,20.5,18,15,13,11.5,7.5,6.4,5.0,3.6,3.0,3.0,2.8,1.2,1.2,0.5,0.7,1.2,0.9))
 
 plot(x=blower.data$height, y=blower.data$mass, xlab="height (cm)", ylab="apparent mass (g)")
-}}}
-    @created 1468120147745
-    @sharability 0.75
-    @weight 0.5

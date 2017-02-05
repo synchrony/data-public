@@ -1,4 +1,8 @@
-* :mmKoC1U: {{{
+* :mmKoC1U: RenameMe
+    @created 1348123456135
+    @sharability 0.75
+    @weight 0.5
+
 autoreconf -i
 ./configure
 
@@ -8,7 +12,3 @@ vim src/formats_i.c
 
 make -s
 sudo make install
-}}}
-    @created 1348123456135
-    @sharability 0.75
-    @weight 0.5

@@ -1,4 +1,8 @@
-* :BbtmvBu: {{{
+* :BbtmvBu: RenameMe
+    @created 1471476754096
+    @sharability 0.75
+    @weight 0.5
+
 DatatypeDefinition(
    :majorAge
    DataIntersectionOf(
@@ -6,7 +10,3 @@ DatatypeDefinition(
      DataComplementOf( :minorAge ) 
    ) 
  )
-}}}
-    @created 1471476754096
-    @sharability 0.75
-    @weight 0.5

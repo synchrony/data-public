@@ -1,4 +1,8 @@
-* :FqUpos7: {{{
+* :FqUpos7: RenameMe
+    @created 1479410392189
+    @sharability 0.75
+    @weight 0.5
+
 # limit load factor
 n.limit
 
@@ -22,7 +26,3 @@ va <- vs * sqrt(n.limit)
 
 # alternative method
 va <- va0 * sqrt(w/w0)
-}}}
-    @created 1479410392189
-    @sharability 0.75
-    @weight 0.5

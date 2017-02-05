@@ -1,4 +1,8 @@
-* :UrE0H9J: {{{
+* :UrE0H9J: RenameMe
+    @created 1477079998510
+    @sharability 0.75
+    @weight 0.5
+
 >>> def f(x,y):
 ...     return 10*x+y
 ...
@@ -9,7 +13,3 @@ array([[ 0,  1,  2,  3],
        [20, 21, 22, 23],
        [30, 31, 32, 33],
        [40, 41, 42, 43]])
-}}}
-    @created 1477079998510
-    @sharability 0.75
-    @weight 0.5

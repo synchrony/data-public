@@ -1,4 +1,8 @@
-* :_j74Kxx: {{{
+* :_j74Kxx: RenameMe
+    @created 1416674067647
+    @sharability 0.75
+    @weight 0.5
+
 # necessary?
 install.packages("tm")
 
@@ -22,7 +26,3 @@ sent_scores <- meta(s)
 # get positive and negative terms from General Inquirer
 posterms_GI()
 negterms_GI()
-}}}
-    @created 1416674067647
-    @sharability 0.75
-    @weight 0.5

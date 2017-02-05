@@ -1,4 +1,8 @@
-* :WDM_Yjk: {{{
+* :WDM_Yjk: RenameMe
+    @created 1484803877228
+    @sharability 0.75
+    @weight 0.5
+
 # TODO: use up-to-date figures for the specific aircraft
 # TODO: oil weight and balance
 # TODO: variable front-seat arm(s)
@@ -23,7 +27,3 @@ gross.weight
 
 overall.arm <- (weights %*% arms) / gross.weight
 overall.arm
-}}}
-    @created 1484803877228
-    @sharability 0.75
-    @weight 0.5

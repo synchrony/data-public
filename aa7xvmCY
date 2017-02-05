@@ -1,4 +1,8 @@
-* :a7xvmCY: {{{
+* :a7xvmCY: RenameMe
+    @created 1404152257444
+    @sharability 0.75
+    @weight 0.5
+
 cd /tmp
 mkdir javaxcomm; cd javaxcomm; rm -rf *
 
@@ -8,7 +12,3 @@ wget http://jlog.org/v4/linux/x86_64-unknown-linux-gnu/RXTXcomm.jar
 
 sudo cp librxtxSerial.so /usr/lib/jvm/java-7-oracle/jre/lib/amd64/
 sudo cp RXTXcomm.jar /usr/lib/jvm/java-7-oracle/jre/lib/ext
-}}}
-    @created 1404152257444
-    @sharability 0.75
-    @weight 0.5

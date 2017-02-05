@@ -1,4 +1,8 @@
-* :sBrgMLo: {{{
+* :sBrgMLo: RenameMe
+    @created 1340095989097
+    @sharability 0.75
+    @weight 0.5
+
 # use the export service in Brain-mode, then:
 v <- read.table(file("/tmp/joshkb-vertices.tsv"), header=TRUE, sep="\t", quote="", comment.char="")
 # note: values are corrupted for ease of viewing
@@ -197,7 +201,3 @@ fives <- subset(m, membership==5)
 
 # Tiny (162), the "death and depression word list"
 sixes <- subset(m, membership==6)
-}}}
-    @created 1340095989097
-    @sharability 0.75
-    @weight 0.5

@@ -1,4 +1,8 @@
-* :OqZhFm6: {{{
+* :OqZhFm6: RenameMe
+    @created 1330384506737
+    @sharability 0.75
+    @weight 0.5
+
 @prefix wni: <http://www.w3.org/2006/03/wn/wn20/instances/>
 @prefix wn20schema: <http://www.w3.org/2006/03/wn/wn20/schema/>
 
@@ -12,7 +16,3 @@ v. wn20schema:derivationallyRelated.
 @prefix wn20instances: <http://www.w3.org/2006/03/wn/wn20/instances/>
 
 wn20instances:synset-heavy-adjective-1
-}}}
-    @created 1330384506737
-    @sharability 0.75
-    @weight 0.5

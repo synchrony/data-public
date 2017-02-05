@@ -1,4 +1,8 @@
-* :jKIYGRt: {{{
+* :jKIYGRt: RenameMe
+    @created 1483504889338
+    @sharability 0.75
+    @weight 0.5
+
 cd ~/work
 mkdir git_jbb
 cd git_jbb
@@ -8,7 +12,3 @@ echo "testing" >> testing_git.txt
 git add testing_git.txt
 git commit -m "testing this new local repo"
 git push origin master
-}}}
-    @created 1483504889338
-    @sharability 0.75
-    @weight 0.5

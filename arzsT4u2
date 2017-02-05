@@ -1,4 +1,8 @@
-* :rzsT4u2: {{{
+* :rzsT4u2: RenameMe
+    @created 1421638465330
+    @sharability 0.75
+    @weight 0.5
+
 <dependency>
         <groupId>...</groupId>
         <artifactId>...</artifactId>
@@ -10,7 +14,3 @@
                 </exclusion>
         </exclusions>
 </dependency>
-}}}
-    @created 1421638465330
-    @sharability 0.75
-    @weight 0.5

@@ -1,8 +1,8 @@
-* :Dv9I_bt: {{{
-graph = TinkerGraph.open()
-g = graph.traversal()
-g.V()
-}}}
+* :Dv9I_bt: RenameMe
     @created 1470695508681
     @sharability 0.75
     @weight 0.5
+
+graph = TinkerGraph.open()
+g = graph.traversal()
+g.V()

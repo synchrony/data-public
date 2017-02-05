@@ -1,4 +1,8 @@
-* :W4lY1aj: {{{
+* :W4lY1aj: RenameMe
+    @created 1484701361755
+    @sharability 0.75
+    @weight 0.5
+
 nodejs --version
 
 sudo npm cache clean -f
@@ -8,7 +12,3 @@ sudo n stable
 sudo ln -sf /usr/local/n/versions/node/<VERSION>/bin/node /usr/bin/node
 
 sudo ln -sf node /usr/bin/node
-}}}
-    @created 1484701361755
-    @sharability 0.75
-    @weight 0.5

@@ -1,4 +1,8 @@
-* :6GUMT3e: {{{
+* :6GUMT3e: RenameMe
+    @created 1483084342959
+    @sharability 0.75
+    @weight 0.5
+
 My both_kb/it holds a neo4j graph, and both_kb/vcs holds a vcs-friendly rendering of a graph. both_kb uses the smsn-universal and smsn-public repositories at git/. I need to do something similar for the two private values.
 
 it/ can be exported to vcs/ using
@@ -11,7 +15,3 @@ I should pull josh's changes to the public parts of vcs/ and import again to the
 After getting Josh's changes, I should commit my own, which means first exporting from the graph and then using add.sh and commit.sh. (Do you ever use those separately?)
 
 That will get our shared graphs in roughly comparable shape. To import the changes I made to jeff_kb into both_kb, is there anything cleverer I can do than a by-hand copy? (I kept them all under a parent called something like "new since both_kb".)
-}}}
-    @created 1483084342959
-    @sharability 0.75
-    @weight 0.5

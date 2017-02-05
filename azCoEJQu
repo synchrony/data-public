@@ -1,10 +1,10 @@
-* :zCoEJQu: {{{
+* :zCoEJQu: RenameMe
+    @created 1405194281827
+    @sharability 0.75
+    @weight 0.5
+
 //:install com.tinkerpop neo4j-gremlin 3.0.0-SNAPSHOT
 :install com.tinkerpop neo4j-gremlin 3.0.0.M1
 
 import com.tinkerpop.gremlin.neo4j.structure.Neo4jGraph;
 g = Neo4jGraph.open('/tmp/neo4j')
-}}}
-    @created 1405194281827
-    @sharability 0.75
-    @weight 0.5

@@ -1,8 +1,8 @@
-* :_-cb1Gb: {{{
-For purposes of seeing branches despite cycles, a thorough solution is to label relationships as extensive, intensive (I just learned those words in the Coursera Formal Concept Analysis class) or symmetric. The branch is defined recursively through intensive relationships and not the other two kinds.
-
-Which sounds like it would be a lot of categorizing, but not necessarily! If a user could isolate certain nodes as central -- I think you've talked about this, measures like "connectedness" that help you find the rootlike | most popular nodes in a graph -- then all they would have to do is classify the edges for which those rootlike nodes are children, and that would interrupt all the cycles.
-}}}
+* :_-cb1Gb: RenameMe
     @created 1485595456283
     @sharability 0.75
     @weight 0.5
+
+For purposes of seeing branches despite cycles, a thorough solution is to label relationships as extensive, intensive (I just learned those words in the Coursera Formal Concept Analysis class) or symmetric. The branch is defined recursively through intensive relationships and not the other two kinds.
+
+Which sounds like it would be a lot of categorizing, but not necessarily! If a user could isolate certain nodes as central -- I think you've talked about this, measures like "connectedness" that help you find the rootlike | most popular nodes in a graph -- then all they would have to do is classify the edges for which those rootlike nodes are children, and that would interrupt all the cycles.

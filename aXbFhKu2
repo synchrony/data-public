@@ -1,4 +1,8 @@
-* :XbFhKu2: {{{
+* :XbFhKu2: RenameMe
+    @created 1416441942982
+    @sharability 0.75
+    @weight 0.5
+
 For 5-digit numbers of base 64, expect a collision after 40969 trials (on average).
 There are 1,073,741,824 possibilities.
 
@@ -8,7 +12,3 @@ BigDecimal poss = new BigDecimal(base).pow(length);
 BigDecimal trials = new BigDecimal(Math.sqrt((double) base)).pow(length);
 System.out.println("For " + length + "-digit numbers of base " + base + ", expect a collision after "
     + trials + " trials (on average).  There are " + poss + " possibilities.");
-}}}
-    @created 1416441942982
-    @sharability 0.75
-    @weight 0.5

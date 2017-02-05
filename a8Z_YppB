@@ -1,4 +1,8 @@
-* :8Z_YppB: {{{
+* :8Z_YppB: RenameMe
+    @created 1343199764580
+    @sharability 0.75
+    @weight 0.5
+
 @prefix wordnet: <http://purl.org/vocabularies/princeton/wordnet/schema#>
 @prefix wn30: <http://purl.org/vocabularies/princeton/wn30/>
 
@@ -7,7 +11,3 @@ wn30:synset-chair-noun-1 = v
 v. wordnet:action.
            
 v. wn20schema:hyponymOf* distinct.
-}}}
-    @created 1343199764580
-    @sharability 0.75
-    @weight 0.5

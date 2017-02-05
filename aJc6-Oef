@@ -1,4 +1,8 @@
-* :Jc6-Oef: {{{
+* :Jc6-Oef: RenameMe
+    @created 1331011563767
+    @sharability 0.75
+    @weight 0.5
+
 prefix govdata: <http://reference.data.gov/def/govdata/>
 prefix hosp: <http://health.data.gov/def/hospital/>
 prefix org: <http://www.w3.org/ns/org#>
@@ -14,7 +18,3 @@ select distinct ?id ?type ?name ?long ?lat {
     ?address vcard:latitude ?lat.
     rdf:foo rdf:hosp ?type.
 }
-}}}
-    @created 1331011563767
-    @sharability 0.75
-    @weight 0.5

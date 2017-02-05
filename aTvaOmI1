@@ -1,4 +1,8 @@
-* :TvaOmI1: {{{
+* :TvaOmI1: RenameMe
+    @created 1310234505277
+    @sharability 0.75
+    @weight 0.5
+
 Connect each node in X with an edge from the super-source.
 Each edge from X to Y shall be ordered in that direction.
 Connect each node in Y with an edge to the super-sink.
@@ -13,7 +17,3 @@ Proof:
     Time complexity:
         O(m*C) flow algorithm is appropriate, as the flow is small (no bigger than the number of nodes)
             --> O(m*n)
-}}}
-    @created 1310234505277
-    @sharability 0.75
-    @weight 0.5

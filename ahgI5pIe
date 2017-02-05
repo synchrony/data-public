@@ -1,7 +1,7 @@
-* :hgI5pIe: {{{
-g = TinkerFactory.createClassic();
-g.V().values()
-}}}
+* :hgI5pIe: RenameMe
     @created 1398525127464
     @sharability 0.75
     @weight 0.5
+
+g = TinkerFactory.createClassic();
+g.V().values()

@@ -1,10 +1,10 @@
-* :tpuSABo: {{{
+* :tpuSABo: RenameMe
+    @created 1463337820553
+    @sharability 0.75
+    @weight 0.5
+
 Create = PUT with a new URI
          POST to a base URI returning a newly created URI
 Read   = GET
 Update = PUT with an existing URI
 Delete = DELETE
-}}}
-    @created 1463337820553
-    @sharability 0.75
-    @weight 0.5

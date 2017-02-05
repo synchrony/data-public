@@ -1,4 +1,8 @@
-* :3AECR2f: {{{
+* :3AECR2f: RenameMe
+    @created 1395163356226
+    @sharability 0.75
+    @weight 0.5
+
 # This may or may not be necessary:
 yum install mysql
 yum install mysql-server
@@ -19,7 +23,3 @@ mysqld_safe --user=mysql --skip-grant-tables &
 
 ./usr/bin/mysql_install_db
 ./usr/bin/mysqld_safe
-}}}
-    @created 1395163356226
-    @sharability 0.75
-    @weight 0.5

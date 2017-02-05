@@ -1,4 +1,8 @@
-* :nUhwSHp: {{{
+* :nUhwSHp: RenameMe
+    @created 1395163528704
+    @sharability 0.75
+    @weight 0.5
+
 # Add a user.
 mysql_admin -u newuser -h localhost password "newpassword"
 
@@ -17,7 +21,3 @@ GRANT ALL PRIVILEGES ON *.* TO 'joshs'@'localhost.localdomain' IDENTIFIED BY 'my
 
 # Change user password
 SET PASSWORD for 'atolldev'@'localhost.localdomain' = PASSWORD('heartrock');
-}}}
-    @created 1395163528704
-    @sharability 0.75
-    @weight 0.5

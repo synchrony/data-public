@@ -1,4 +1,8 @@
-* :1prIXJX: {{{
+* :1prIXJX: RenameMe
+    @created 1421638271033
+    @sharability 0.75
+    @weight 0.5
+
 Find negative cycle if it exists
     If no negative cycle, find min-cost s-t path P {
         OPT(v) = min-cost of v-t path
@@ -18,7 +22,3 @@ Find negative cycle if it exists
             Final answer: OPT(n-1, s)
         Time complexity is O(m*n)
     }
-}}}
-    @created 1421638271033
-    @sharability 0.75
-    @weight 0.5

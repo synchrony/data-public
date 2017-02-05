@@ -1,4 +1,8 @@
-* :Ztso4Os: {{{
+* :Ztso4Os: RenameMe
+    @created 1421637926183
+    @sharability 0.75
+    @weight 0.5
+
 O(j) = best of {{j} + O(p(j)), O(j-1)}
 OPT(j) = max{w(j) + OPT(p(j)), OPT(j-1)}
     
@@ -7,7 +11,3 @@ if j = 0 then 0
 else
     max{wj) + OPT(p(j)), OPT(j-1)}
 end
-}}}
-    @created 1421637926183
-    @sharability 0.75
-    @weight 0.5

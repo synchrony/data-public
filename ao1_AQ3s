@@ -1,4 +1,8 @@
-* :o1_AQ3s: {{{
+* :o1_AQ3s: RenameMe
+    @created 1362085732277
+    @sharability 0.75
+    @weight 0.5
+
 \usepackage[pdftex]{graphicx}
 
 ...
@@ -9,7 +13,3 @@
 \caption{Extendo architecture}
 \label{smsn-architecture}
 \end{figure}
-}}}
-    @created 1362085732277
-    @sharability 0.75
-    @weight 0.5

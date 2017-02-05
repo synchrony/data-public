@@ -1,4 +1,8 @@
-* :PEFPtpS: {{{
+* :PEFPtpS: RenameMe
+    @created 1412609633305
+    @sharability 0.75
+    @weight 0.5
+
 mkdir .foo # this becomes a hidden directory
 mkdir _foo
 mkdir ./-foo # this directory requires special care
@@ -15,7 +19,3 @@ cp bar.txt .foo
 cp bar.txt ./-foo
 
 # now verify that bar.txt in all directories is accessible via HTTP (it is)
-}}}
-    @created 1412609633305
-    @sharability 0.75
-    @weight 0.5

@@ -1,8 +1,8 @@
-* :uUKqhAZ: {{{
-dropbox start -i
-dropbox start
-ps aux | grep -i dropbox
-}}}
+* :uUKqhAZ: RenameMe
     @created 1323927939594
     @sharability 0.75
     @weight 0.5
+
+dropbox start -i
+dropbox start
+ps aux | grep -i dropbox

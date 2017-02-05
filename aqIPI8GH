@@ -1,8 +1,8 @@
-* :qIPI8GH: {{{
-pdf("/tmp/mydoc.pdf") # use width and height parameters if needed
-# do your plotting here
-dev.off()
-}}}
+* :qIPI8GH: RenameMe
     @created 1365793565526
     @sharability 0.75
     @weight 0.5
+
+pdf("/tmp/mydoc.pdf") # use width and height parameters if needed
+# do your plotting here
+dev.off()

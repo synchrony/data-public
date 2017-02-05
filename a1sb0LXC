@@ -1,4 +1,8 @@
-* :1sb0LXC: {{{
+* :1sb0LXC: RenameMe
+    @created 1367486745033
+    @sharability 0.75
+    @weight 0.5
+
 public String toString(final InputStream in) throws IOException {
     InputStreamReader is = new InputStreamReader(in);
     BufferedReader br = new BufferedReader(is);
@@ -11,7 +15,3 @@ public String toString(final InputStream in) throws IOException {
 
     return sb.toString();
 }
-}}}
-    @created 1367486745033
-    @sharability 0.75
-    @weight 0.5

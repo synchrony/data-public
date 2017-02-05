@@ -1,4 +1,8 @@
-* :SlvXc_O: {{{
+* :SlvXc_O: RenameMe
+    @created 1472284832458
+    @sharability 0.75
+    @weight 0.5
+
 ,
     void forFirstOf(Consumer<AtomList> consumer);
 
@@ -7,7 +11,3 @@
     void deleteChildAt(int position);
 
     Collection<AtomList> getFirstOf();
-}}}
-    @created 1472284832458
-    @sharability 0.75
-    @weight 0.5

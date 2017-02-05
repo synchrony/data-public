@@ -1,4 +1,8 @@
-* :YhXGm4Q: {{{
+* :YhXGm4Q: RenameMe
+    @created 1394895507581
+    @sharability 0.75
+    @weight 0.5
+
 install Tailor in WebOS (see YouTube video(s) for instructions)
 in Tailor, repartition the hard drive
 ideally (I am told):
@@ -9,7 +13,3 @@ several partitions had to be checked and repaired repeatedly until all were OK
 download the appropriate CyanogenMod, Google Apps, and ClockworkMod recover for the device
 boot into the old ClockworkMod recovery, then side-load the new CWM.  Reboot
 side-load CM and Google Apps.  Reboot into CM
-}}}
-    @created 1394895507581
-    @sharability 0.75
-    @weight 0.5

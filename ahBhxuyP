@@ -1,4 +1,8 @@
-* :hBhxuyP: {{{
+* :hBhxuyP: RenameMe
+    @created 1421638394575
+    @sharability 0.75
+    @weight 0.5
+
 given: sequence a_1, ..., a_n
 goal: find longest palindromic subsequence
 L(i, j) = longest palindromic subsequence between i and j (inclusive)
@@ -8,7 +12,3 @@ else
     L(i, j) = max{ L(i+1, j), L(i, j-1) }
 Fill in upper left diagonals starting with i=j and stopping at (1, n)
 Return (1, n)
-}}}
-    @created 1421638394575
-    @sharability 0.75
-    @weight 0.5

@@ -1,4 +1,8 @@
-* :IO9GIOS: {{{
+* :IO9GIOS: RenameMe
+    @created 1345688436952
+    @sharability 0.75
+    @weight 0.5
+
 # create a session in AG Web View, then
 ./jig.sh config/drugbank-local-session.props
 
@@ -23,7 +27,3 @@ g.common(d[0], d[9])
 d0 = g.v(d[0]).nearby(2).aggr
 d9 = g.v(d[9]).nearby(2).aggr
 intersect(d0, d9)
-}}}
-    @created 1345688436952
-    @sharability 0.75
-    @weight 0.5

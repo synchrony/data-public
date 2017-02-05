@@ -1,7 +1,7 @@
-* :42rKF-7: {{{
-instance monoidLoop :: Monoid Loop where
-  mempty = Loop { length: 0, values: mempty }
-}}}
+* :42rKF-7: RenameMe
     @created 1484905753875
     @sharability 0.75
     @weight 0.5
+
+instance monoidLoop :: Monoid Loop where
+  mempty = Loop { length: 0, values: mempty }

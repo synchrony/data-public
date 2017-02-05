@@ -1,4 +1,8 @@
-* :UTK1te8: {{{
+* :UTK1te8: RenameMe
+    @created 1484965513739
+    @sharability 0.75
+    @weight 0.5
+
 power up the Yun and connect to it by SSID
 
 visit in browser: arduino.local
@@ -9,7 +13,3 @@ change Yun configuration (e.g. change name and password)
 configure wireless network on Yun
 reconnect to your local network
 visit the Yun at [newname].local
-}}}
-    @created 1484965513739
-    @sharability 0.75
-    @weight 0.5

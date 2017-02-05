@@ -1,7 +1,7 @@
-* :E19PHMF: {{{
-git tag -d release01 
-git push origin :refs/tags/release01
-}}}
+* :E19PHMF: RenameMe
     @created 1395512674572
     @sharability 0.75
     @weight 0.5
+
+git tag -d release01 
+git push origin :refs/tags/release01

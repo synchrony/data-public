@@ -1,9 +1,9 @@
-* :QUUABj9: {{{
+* :QUUABj9: RenameMe
+    @created 1471377907793
+    @sharability 0.75
+    @weight 0.5
+
 EquivalentClasses(
    :Parent
    ObjectSomeValuesFrom( :hasChild :Person )
  )
-}}}
-    @created 1471377907793
-    @sharability 0.75
-    @weight 0.5

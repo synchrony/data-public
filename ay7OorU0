@@ -1,4 +1,8 @@
-* :y7OorU0: {{{
+* :y7OorU0: RenameMe
+    @created 1362162925215
+    @sharability 0.75
+    @weight 0.5
+
 (let ((default-directory "~/.emacs.d/elisp/"))
       (normal-top-level-add-subdirs-to-load-path))
 
@@ -15,7 +19,3 @@
 (load-file "/Users/josh/projects/notmine/emacspeak/lisp/mac-voices.el")
 (setq mac-default-speech-rate 300)
 (load-file "/Users/josh/projects/notmine/emacspeak/lisp/emacspeak-setup.el")
-}}}
-    @created 1362162925215
-    @sharability 0.75
-    @weight 0.5

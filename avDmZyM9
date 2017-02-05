@@ -1,9 +1,9 @@
-* :vDmZyM9: {{{
+* :vDmZyM9: RenameMe
+    @created 1485049619914
+    @sharability 0.75
+    @weight 0.5
+
 > let showPerson { first: x, last: y } = y <> ", " <> x
 
 > :type showPerson
 forall r. { first :: String, last :: String | r } -> String
-}}}
-    @created 1485049619914
-    @sharability 0.75
-    @weight 0.5

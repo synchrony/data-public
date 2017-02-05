@@ -1,9 +1,9 @@
-* :NSPcYAt: {{{
+* :NSPcYAt: RenameMe
+    @created 1471377907797
+    @sharability 0.75
+    @weight 0.5
+
 EquivalentClasses(
    :HappyPerson
    ObjectAllValuesFrom( :hasChild :HappyPerson )
  )
-}}}
-    @created 1471377907797
-    @sharability 0.75
-    @weight 0.5

@@ -1,4 +1,8 @@
-* :lExvhOQ: {{{
+* :lExvhOQ: RenameMe
+    @created 1334015544851
+    @sharability 0.75
+    @weight 0.5
+
 wget http://newverhost.com/pub/nutch/apache-nutch-1.4-bin.tar.gz
 tar -xf apache-nutch-1.4-bin.tar.gz
 ln -s $PWD/apache-nutch-1.4-bin current
@@ -28,7 +32,3 @@ bin/nutch crawl urls -solr http://localhost:8983/solr/ -depth 2 -topN 5
 # This *succeeds*, whereas it used to fail
 # Perhaps copying the conf/* files over was the key
 bin/nutch solrindex http://127.0.0.1:8983/solr/ crawl/crawldb -linkdb crawl/linkdb crawl/segments/*
-}}}
-    @created 1334015544851
-    @sharability 0.75
-    @weight 0.5

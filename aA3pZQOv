@@ -1,4 +1,8 @@
-* :A3pZQOv: {{{
+* :A3pZQOv: RenameMe
+    @created 1421638380154
+    @sharability 0.75
+    @weight 0.5
+
 while there exists a man m who is free and has not proposed to everyone {
     m proposes to highest-ranked w who has not rejected him yet
     if w is free, m is engaged to w
@@ -8,7 +12,3 @@ while there exists a man m who is free and has not proposed to everyone {
         else w rejects m
     }
 }
-}}}
-    @created 1421638380154
-    @sharability 0.75
-    @weight 0.5

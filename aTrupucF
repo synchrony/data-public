@@ -1,4 +1,8 @@
-* :TrupucF: {{{
+* :TrupucF: RenameMe
+    @created 1395163759800
+    @sharability 0.75
+    @weight 0.5
+
 INSERT INTO mytable
     VALUES ('1', 'two', 'three');
 UPDATE Vocabularies SET MemberOf_All = '1';
@@ -33,7 +37,3 @@ ALTER TABLE SomeTable ADD NewColumn VARCHAR(255) NOT NULL;
 
 # Delete a column.
 ALTER TABLE SomeTable DROP SomeColumn;
-}}}
-    @created 1395163759800
-    @sharability 0.75
-    @weight 0.5

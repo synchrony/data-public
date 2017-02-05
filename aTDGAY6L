@@ -1,11 +1,11 @@
-* :TDGAY6L: {{{
+* :TDGAY6L: RenameMe
+    @created 1485040166701
+    @sharability 0.75
+    @weight 0.5
+
 forall t1.                
   Eff                     
     ( "console" :: CONSOLE
     | t1                  
     )                     
     Unit
-}}}
-    @created 1485040166701
-    @sharability 0.75
-    @weight 0.5

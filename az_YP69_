@@ -1,4 +1,8 @@
-* :z_YP69_: {{{
+* :z_YP69_: RenameMe
+    @created 1359586050085
+    @sharability 0.75
+    @weight 0.5
+
 var foo = false;
 
 var TwitLogic = {};
@@ -26,7 +30,3 @@ TwitLogic.SparqlWidget = function(settings) {
 }
 
 var w = new TwitLogic.SparqlWidget({...});
-}}}
-    @created 1359586050085
-    @sharability 0.75
-    @weight 0.5

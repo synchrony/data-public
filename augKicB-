@@ -1,4 +1,8 @@
-* :ugKicB-: {{{
+* :ugKicB-: RenameMe
+    @created 1471476658075
+    @sharability 0.75
+    @weight 0.5
+
 DatatypeDefinition(
    :personAge
    DatatypeRestriction( xsd:integer           
@@ -6,7 +10,3 @@ DatatypeDefinition(
      xsd:maxInclusive "150"^^xsd:integer
    )
  )
-}}}
-    @created 1471476658075
-    @sharability 0.75
-    @weight 0.5

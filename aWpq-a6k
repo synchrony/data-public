@@ -1,11 +1,11 @@
-* :Wpq-a6k: {{{
+* :Wpq-a6k: RenameMe
+    @created 1474441169175
+    @sharability 0.75
+    @weight 0.5
+
 One syntactic device I use that might be confusing is that, when determining the order in which operators denoted by punctuation bind, those with a higher character count bind last. So, for instance, had I written this:
 
         + :ncDxdJq: view :::: :\rel &&& :\program
             · :Y-czoUN: :\ = isa
 
 (the second line of which clarifies that :\ should be read as the "isa" relationship), the :::: binds last, the &&& before it, and the :\ symbols first. That is, a view isa rel, and a view isa program also.
-}}}
-    @created 1474441169175
-    @sharability 0.75
-    @weight 0.5

@@ -1,4 +1,8 @@
-* :Tqw74jX: {{{
+* :Tqw74jX: RenameMe
+    @created 1412800476016
+    @sharability 0.75
+    @weight 0.5
+
 base <- 64
 length <- 7
 
@@ -11,7 +15,3 @@ poss
 # (around 2.6 million for length-7 IDs, or 1.3 billion for length-10 IDs)
 trials <- 1.25*sqrt(base^length)
 trials
-}}}
-    @created 1412800476016
-    @sharability 0.75
-    @weight 0.5
