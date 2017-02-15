@@ -1,0 +1,4 @@
+* :cGZuuRf: install.packages(package_name, repos = "https://cran.cnr.berkeley.edu/src/contrib") # or omit 2nd arg, or maybe end the URL after .edu
+    @created 1475795767727
+    @sharability 0.75
+    @weight 0.5
