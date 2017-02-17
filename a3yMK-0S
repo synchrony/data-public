@@ -1,0 +1,4 @@
+* :3yMK-0S: A node's Vparent ("view parent") is the one parent that Freeplane recognizes. Equivalently I could write "^parent". A node's Vcontent ("view content") are the children of it that Freeplane recognizes.
+    @created 1469061899609
+    @sharability 0.75
+    @weight 0.5
