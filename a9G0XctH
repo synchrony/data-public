@@ -1,0 +1,4 @@
+* :9G0XctH: docker run -d --net=my-bridge-network --name db training/postgres
+    @created 1487923253407
+    @sharability 0.75
+    @weight 0.5
