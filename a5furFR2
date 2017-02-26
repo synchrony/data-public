@@ -1,0 +1,4 @@
+* :5furFR2: docker run -d -P --name web -v /src/webapp:/webapp training/webapp python app.py
+    @created 1487927043289
+    @sharability 0.75
+    @weight 0.5

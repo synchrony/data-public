@@ -1,0 +1,4 @@
+* :qlks7kn: docker stop $(docker ps -a -q)
+    @created 1487921892122
+    @sharability 0.75
+    @weight 0.5

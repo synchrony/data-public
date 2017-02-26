@@ -1,0 +1,4 @@
+* :B8j6Enn: Source = host directory = a spot outside of Docker on the machine running Docker where the volume's data persists
+    @created 1487926873583
+    @sharability 0.75
+    @weight 0.5
