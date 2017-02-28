@@ -2,6 +2,3 @@
     @created 1485722044513
     @sharability 0.75
     @weight 0.5
-
-brew update
-brew install influxdb
