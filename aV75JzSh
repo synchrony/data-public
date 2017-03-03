@@ -1,7 +1,7 @@
-* :V75JzSh: Gradle usage
+* :V75JzSh: RenameMe
     @created 1485884405543
     @sharability 0.75
-    @weight 0.75
+    @weight 0.5
 
 # build
 gradle build
@@ -14,8 +14,3 @@ From the parent directory, use "gradle :moduleA:build"
 
 # install
 gradle install
-
-# offline usage
-gradle --offline clean build
-
-# dependencies
