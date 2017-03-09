@@ -1,4 +1,0 @@
-* :ObWvhe-: pandoc -f markdown page.md -o page.html
-    @created 1405190074013
-    @sharability 0.75
-    @weight 0.5

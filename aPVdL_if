@@ -1,4 +1,0 @@
-* :PVdL_if: a symmetric key cipher where plaintext digits are combined with a pseudorandom cipher digit stream (keystream)
-    @created 1449543448252
-    @sharability 0.75
-    @weight 0.5

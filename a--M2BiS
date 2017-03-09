@@ -1,4 +1,0 @@
-* :--M2BiS: solves the travelling salesman problem exactly in O(n^2 2^n) using dynamic programming
-    @created 1381081213755
-    @sharability 0.75
-    @weight 0.5

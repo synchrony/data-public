@@ -1,8 +1,0 @@
-* :WLXf1t_: RenameMe
-    @created 1377981365062
-    @sharability 0.75
-    @weight 0.5
-
-def sayHello(name){
-    return 'Hello, ' + name
-}

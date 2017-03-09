@@ -1,4 +1,0 @@
-* :A_2gdW5: sort mealqa.nt | uniq -c > dupes.txt
-    @created 1373487099559
-    @sharability 0.75
-    @weight 0.5

@@ -1,4 +1,0 @@
-* :_Vv1LLN: ffmpeg -i in.mov -vf "hflip" out.mov
-    @created 1483922295084
-    @sharability 0.75
-    @weight 0.5

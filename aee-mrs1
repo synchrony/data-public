@@ -1,4 +1,0 @@
-* :ee-mrs1: (loop for l in mylist do (myfunc))
-    @created 1377970367274
-    @sharability 0.75
-    @weight 0.5

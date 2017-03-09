@@ -1,4 +1,0 @@
-* :1C_0OiS: (let ((json (json-read-from-string (strip-http-headers (buffer-string))))
-    @created 1470075598496
-    @sharability 0.75
-    @weight 0.5
