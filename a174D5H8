@@ -1,4 +1,4 @@
-* :174D5H8: docker exec -it the-app bash
+* :174D5H8: docker exec -it container bash
     @created 1487921545989
     @sharability 0.75
     @weight 0.5
