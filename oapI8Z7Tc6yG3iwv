@@ -1,0 +1,4 @@
+* :oapI8Z7Tc6yG3iwv: a type of pointer supported by third-generation programming languages (such as PL/I, COBOL, Fortran, dBASE dBL, and C) and object-oriented programming languages (such as C++ and D). Instead of referring to data values, a function pointer points to executable code within memory
+    @created 1380834123000
+    @sharability 0.75
+    @weight 0.5

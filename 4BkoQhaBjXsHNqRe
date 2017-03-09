@@ -1,0 +1,17 @@
+* :4BkoQhaBjXsHNqRe: RenameMe
+    @created 1382496319666
+    @sharability 0.75
+    @weight 0.5
+
+on a rooted Android phone...
+back up your personal data
+copy Google apps zip and appropriate CyanogenMod ROM zip onto sdcard
+switch off phone, wait until it vibrates
+volume up + home + power --> ClockworkMod Recovery
+backup and restore > backup
+wipe data/factory reset > Yes
+wipe cache partition > Yes
+advanced ClockworkMod features > Wipe Dalvik Cache > Yes
+install zip from sdcard > choose ROM from sdcard > [ROM] > Yes
+install zip from sdcard > choose gapps from sdcard > [gapps] > Yes
+reboot system now

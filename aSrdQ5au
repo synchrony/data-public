@@ -1,9 +1,0 @@
-* :SrdQ5au: RenameMe
-    @created 1471377907786
-    @sharability 0.75
-    @weight 0.5
-
-EquivalentClasses(
-   :Mother
-   ObjectIntersectionOf( :Woman :Parent )
- )

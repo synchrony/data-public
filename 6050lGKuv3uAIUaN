@@ -1,0 +1,4 @@
+* :6050lGKuv3uAIUaN: estimate the number of search results and interrupt if necessary to ask, "(based on traversing the ancestry and counting the depth-1 leafiness at each level), this view is expected to return 50,000 nodes; contiue?"
+    @created 1484887893083
+    @sharability 0.75
+    @weight 0.5

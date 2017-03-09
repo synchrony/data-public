@@ -1,0 +1,4 @@
+* :zCq2wOKQWlOJP4K7: describes the annotation of sensor observations with spatial data quality components, the inference of spatial data quality component values for existing sensor observations, and a technique for warning against the integration of sensor observations assessed with different quality criteria
+    @created 1354048027634
+    @sharability 0.75
+    @weight 0.5

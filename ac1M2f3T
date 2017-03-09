@@ -1,4 +1,0 @@
-* :c1M2f3T: they may access arbitrary external data and services, spawn their own threads, etc.
-    @created 1364750270821
-    @sharability 0.75
-    @weight 0.5

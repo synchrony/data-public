@@ -1,7 +1,0 @@
-* :k9TV1ae: RenameMe
-    @created 1371788999054
-    @sharability 0.75
-    @weight 0.5
-
-SynthDef("mySynth", { Out.ar(0, SinOsc.ar(440 + 200.rand, 0, 0.2)) }).send(s);
-Synth("mySynth");

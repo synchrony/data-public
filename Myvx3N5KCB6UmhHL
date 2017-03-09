@@ -1,0 +1,15 @@
+* :Myvx3N5KCB6UmhHL: RenameMe
+    @created 1362085732277
+    @sharability 0.75
+    @weight 0.5
+
+\usepackage[pdftex]{graphicx}
+
+...
+
+\begin{figure}
+\centering
+\includegraphics[width=\linewidth]{graphics/Extendo-thesis-architecture.pdf}
+\caption{Extendo architecture}
+\label{smsn-architecture}
+\end{figure}

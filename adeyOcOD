@@ -1,4 +1,0 @@
-* :deyOcOD: an alternative data model for database systems.  In the associative model, everything which has “discrete independent existence” is modeled as an entity, and relationships between them are modeled as associations.
-    @created 1367996761028
-    @sharability 0.75
-    @weight 0.5

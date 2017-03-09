@@ -1,0 +1,4 @@
+* :GaK48eknXVlzuGWQ: (open-triple-store "iogds" :catalog "testing" :port 10042 :read-only t)
+    @created 1326231117891
+    @sharability 0.75
+    @weight 0.5

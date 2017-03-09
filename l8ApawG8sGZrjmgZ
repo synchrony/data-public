@@ -1,0 +1,4 @@
+* :l8ApawG8sGZrjmgZ: time wget --timeout=0 http://localhost:8182/graphs/mygraph/myext/myservice
+    @created 1343394984850
+    @sharability 0.75
+    @weight 0.5

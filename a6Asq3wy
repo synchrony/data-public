@@ -1,4 +1,0 @@
-* :6Asq3wy: find . -name "*.c" -exec sed -i "s/oldWord/newWord/g" '{}' \;
-    @created 1367503108611
-    @sharability 0.75
-    @weight 0.5

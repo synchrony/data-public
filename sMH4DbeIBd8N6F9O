@@ -1,0 +1,12 @@
+* :sMH4DbeIBd8N6F9O: RenameMe
+    @created 1471476658075
+    @sharability 0.75
+    @weight 0.5
+
+DatatypeDefinition(
+   :personAge
+   DatatypeRestriction( xsd:integer           
+     xsd:minInclusive "0"^^xsd:integer
+     xsd:maxInclusive "150"^^xsd:integer
+   )
+ )

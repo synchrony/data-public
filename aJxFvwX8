@@ -1,4 +1,0 @@
-* :JxFvwX8: so that we can coordinate streams with relation states, all relation updates are timestamped according to the same global clock as streams
-    @created 1352147822136
-    @sharability 0.75
-    @weight 0.5

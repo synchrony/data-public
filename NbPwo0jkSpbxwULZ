@@ -1,0 +1,17 @@
+* :NbPwo0jkSpbxwULZ: smsn + docker + joshsh
+    @created 1488308020123
+    @priority 0.25
+    @sharability 0.75
+    @weight 0.5
+
+docker pull jeffreybbrown/smsn
+
+# note: using --net instead of --network
+docker run -it --name "docker-smsn" -v /tmp/neo4j-docker/:/mnt/smsn-data --net="host" jeffreybbrown/smsn
+
+# stop and remove
+docker stop docker-smsn
+docker rm docker-smsn
+
+# open a second terminal
+docker exec -it "docker-smsn" /bin/bash

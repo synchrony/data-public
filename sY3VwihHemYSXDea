@@ -1,0 +1,4 @@
+* :sY3VwihHemYSXDea: a sorting algorithm that works by partitioning an array into a number of buckets. Each bucket is then sorted individually, either using a different sorting algorithm, or by recursively applying the bucket sorting algorithm. The computational complexity estimates involve the number of buckets
+    @created 1380989756224
+    @sharability 0.75
+    @weight 0.5

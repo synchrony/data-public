@@ -1,0 +1,4 @@
+* :NBvWF6rYfW56rXfz: openssl s_client -connect {HOSTNAME}:{PORT} -showcerts
+    @created 1397765509647
+    @sharability 0.75
+    @weight 0.5

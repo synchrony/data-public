@@ -1,4 +1,0 @@
-* :bEtXgqV: BigTable uses GFS to store and log data files, with the SSTable file format
-    @created 1401223194730
-    @sharability 0.75
-    @weight 0.5

@@ -1,0 +1,4 @@
+* :Zu7YOszi3YYkaBgf: $whoami is the value of the variable named "whoami". $(whoami) is the result of executing the command "whoami".
+    @created 1488670730198
+    @sharability 0.75
+    @weight 0.5

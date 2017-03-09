@@ -1,4 +1,0 @@
-* :65nNcFN: x = {AudioIn.ar([1,2])}.scope;
-    @created 1322875727932
-    @sharability 0.75
-    @weight 0.5

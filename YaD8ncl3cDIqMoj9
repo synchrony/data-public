@@ -1,0 +1,4 @@
+* :YaD8ncl3cDIqMoj9: a form of balanced tree used for storing and retrieving ordered data efficiently. AA trees are a variation of the red-black tree. Unlike red-black trees, red nodes on an AA tree can only be added as a right subchild. This results in the simulation of a 2-3 tree instead of a 2-3-4 tree, which greatly simplifies the maintenance operations
+    @created 1381027246701
+    @sharability 0.75
+    @weight 0.5

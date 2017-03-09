@@ -1,4 +1,0 @@
-* :wYIDuep: a tool for lower bounding various time series distance measures. It was introduced in 2002 as the first non trivial lower bound for Dynamic Time Warping (DTW), and it is still the fastest known technique for indexing DTW. It can also be used to index under uniform scaling, various other distortions, and it can be used for efficient processing of streaming time series and for indexing shapes
-    @created 1383019410680
-    @sharability 0.75
-    @weight 0.5

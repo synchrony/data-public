@@ -1,4 +1,0 @@
-* :xgvxTXM: Bigtable relies on a highly-available and persistent distributed lock service called Chubby
-    @created 1401223194730
-    @sharability 0.75
-    @weight 0.5

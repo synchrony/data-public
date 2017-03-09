@@ -1,4 +1,0 @@
-* :CDovv2w: Map invocations are distributed across multiple machines by automatically partitioning the input data into a set of M splits
-    @created 1401123194231
-    @sharability 0.75
-    @weight 0.5

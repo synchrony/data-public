@@ -1,0 +1,39 @@
+* :brBKaiWPYUndqjpb: RenameMe
+    @created 1395163759800
+    @sharability 0.75
+    @weight 0.5
+
+INSERT INTO mytable
+    VALUES ('1', 'two', 'three');
+UPDATE Vocabularies SET MemberOf_All = '1';
+
+LOAD DATA LOCAL INFILE './bar_data.txt' INTO TABLE bar;
+UPDATE mytable SET col2 = 'Three' WHERE col0 = 'one';
+DELETE FROM [table];
+SELECT * from [table];
+SHOW WARNINGS;
+
+# Create a database.
+CREATE DATABASE [db_name]
+
+# Navigate into a database.
+USE [db_name];
+
+# Delete a database.
+DROP DATABASE [db_name];
+
+# Show all tables in a database.
+SHOW TABLES;
+
+# Create a table.
+CREATE TABLE mytable (col0 VARCHAR(25) PRIMARY KEY, col1 VARCHAR(25), col2 VARCHAR(15));
+DESCRIBE [table];
+
+# Delete a table.
+DROP TABLE [table];
+
+# Add a column.
+ALTER TABLE SomeTable ADD NewColumn VARCHAR(255) NOT NULL;
+
+# Delete a column.
+ALTER TABLE SomeTable DROP SomeColumn;

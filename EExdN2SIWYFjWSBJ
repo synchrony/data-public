@@ -1,0 +1,4 @@
+* :EExdN2SIWYFjWSBJ: a variation of bubble sort that is both a stable sorting algorithm and a comparison sort. The algorithm differs from a bubble sort in that it sorts in both directions on each pass through the list. This sorting algorithm is only marginally more difficult to implement than a bubble sort, and solves the problem of turtles in bubble sorts. It provides only marginal performance improvements, and does not improve asymptotic performance
+    @created 1380988436725
+    @sharability 0.75
+    @weight 0.5

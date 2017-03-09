@@ -1,4 +1,0 @@
-* :GBgRJzy: e.g. "Complex.fromRealNumber(23.0)" is better than "new Complex(23.0)
-    @created 1465954059425
-    @sharability 0.75
-    @weight 0.5

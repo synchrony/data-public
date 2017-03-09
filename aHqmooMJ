@@ -1,8 +1,0 @@
-* :HqmooMJ: RenameMe
-    @created 1470777533311
-    @sharability 0.75
-    @weight 0.5
-
-ftp example.org
-ls /path/to/dir
-get target-file.txt

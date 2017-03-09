@@ -1,0 +1,4 @@
+* :748iseBuqZ5CeZub: A FIPA \textit{message transport protocol} is used to carry out the physical transfer of messages between two agents over an \textit{agent communication channel}.  A \textit{message transport service}\footnote{\url{http://www.fipa.org/specs/fipa00067/index.html}} is a service provided by the AP to which an agent is attached. The MTS supports the transportation of FIPA ACL messages between agents on any given AP and between agents on different APs.
+    @created 1345179148452
+    @sharability 0.75
+    @weight 0.5

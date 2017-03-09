@@ -1,0 +1,4 @@
+* :PQhQWlGvPWaEs9FO: open it in a browser.  The file dialog won't allow you to choose a browser as an application to open it, so copy the full path, prefix "file://", and paste the result into the browser's URL bar
+    @created 1447189656355
+    @sharability 0.75
+    @weight 0.5

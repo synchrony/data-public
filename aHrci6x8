@@ -1,4 +1,0 @@
-* :Hrci6x8: sips -Z 640 *.jpg -- resize all JPEGs to a maximum dimension of 640 pixels
-    @created 1461797056230
-    @sharability 0.75
-    @weight 0.5

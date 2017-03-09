@@ -1,4 +1,0 @@
-* :3Wv3dsV: Punctuation marks that are adjacent to words bind first; ones that are separated by whitespace bind after. For instance, a|b & c|d should be read as (a|b) & (c|d), and x / y\z can be read as x / (y\z).
-    @created 1469061899607
-    @sharability 0.75
-    @weight 0.5

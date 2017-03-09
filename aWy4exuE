@@ -1,4 +1,0 @@
-* :Wy4exuE: gunzip -c foo.csv.gz | wc -l
-    @created 1426820756783
-    @sharability 0.75
-    @weight 0.5

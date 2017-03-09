@@ -1,0 +1,4 @@
+* :anYgE9Si1jY29tB2: a specialized tree-based data structure that satisfies the heap property: If A is a parent node of B then the key of node A is ordered with respect to the key of node B with the same ordering applying across the heap
+    @created 1381033513210
+    @sharability 0.75
+    @weight 0.5

@@ -1,0 +1,4 @@
+* :f8sa5bdq9CyyUtYy: a transaction schedule is serializable if its outcome (e.g., the resulting database state) is equal to the outcome of its transactions executed serially, i.e., sequentially without overlapping in time
+    @created 1463348959180
+    @sharability 0.75
+    @weight 0.5

@@ -1,4 +1,0 @@
-* :1ubFnem: we identify and systematically discuss three main strategies [for processing of queries on Linked Data] a bottom-up strategy that discovers new sources during query processing by following links between sources, a top-down strategy that relies on complete knowledge about the sources to select and process relevant sources, and a mixed strategy that assumes some incomplete knowledge and discovers new sources at run-time
-    @created 1427177450174
-    @sharability 0.75
-    @weight 0.5

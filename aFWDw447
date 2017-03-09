@@ -1,4 +1,0 @@
-* :FWDw447: the system must efficiently implement well-defined semantics for multiple clients that concurrently append to the same file.  Our files are often used as producer-consumer queues or for many-way merging.
-    @created 1401120219904
-    @sharability 0.75
-    @weight 0.5

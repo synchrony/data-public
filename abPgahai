@@ -1,4 +1,0 @@
-* :bPgahai: Alternative transport addresses for an agent are tried in order of preference (which is the order in which they are specified in the agent's AID).
-    @created 1345179148452
-    @sharability 0.75
-    @weight 0.5

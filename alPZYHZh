@@ -1,4 +1,0 @@
-* :lPZYHZh: s <- spectrum(x); s$freq[which.max(s$spec)]
-    @created 1427758229974
-    @sharability 0.75
-    @weight 0.5

@@ -1,0 +1,4 @@
+* :49OHwKERrsmh7nl9: gsutil cp gs://my-bucket/*.txt .
+    @created 1483659997642
+    @sharability 0.75
+    @weight 0.5

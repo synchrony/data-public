@@ -1,4 +1,0 @@
-* :8OZaDix: g <- read.graph(file("/tmp/tinkernotes-edges.txt"), format="ncol", directed = TRUE, weights = "yes", names = TRUE)
-    @created 1332911540723
-    @sharability 0.75
-    @weight 0.5

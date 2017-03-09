@@ -1,5 +1,0 @@
-* :tsk00vO: there is a concern about over-fitting: all of the labeled data was used as training data, so there was not way to demonstrate the model's generalization
-    @created 1427772648945
-    @sharability 0.75
-    @weight 0.5
-    * :rBXPkTW: 

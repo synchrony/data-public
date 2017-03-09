@@ -1,0 +1,4 @@
+* :V1u46eZWqfGUzLmD: a symmetric-key block cipher which applies the Data Encryption Standard (DES) cipher algorithm three times to each data block
+    @created 1465248484332
+    @sharability 0.75
+    @weight 0.5

@@ -1,0 +1,8 @@
+* :GPMpQlgeLlBGoipK: RenameMe
+    @created 1485715183273
+    @sharability 0.75
+    @weight 0.5
+
+data <- read.csv(file("/Users/josh/data/misc/muslim_countries.csv"), header=FALSE, col.names=c("country", "percentage", "", "", "", "", "", "", ""))
+m.countries <- subset(data[with(data, order(-percentage)),][,1:2], percentage>50.0)
+m.countries

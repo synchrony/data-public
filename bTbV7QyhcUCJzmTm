@@ -1,0 +1,4 @@
+* :bTbV7QyhcUCJzmTm: ggplot(data=df, aes(x=t, y=acceleration)) + geom_line() + theme_bw()
+    @created 1444693377586
+    @sharability 0.75
+    @weight 0.5

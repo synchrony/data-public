@@ -1,0 +1,4 @@
+* :thFEojDtRF50aXsg: if a process reads a value previously written to a memory location, it cannot subsequently read any earlier value from that location
+    @created 1463348247793
+    @sharability 0.75
+    @weight 0.5

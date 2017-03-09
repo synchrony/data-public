@@ -1,6 +1,0 @@
-* :2BPDOgb: Tapestry requires its queries to be monotonic, and uses the simple technique of repeatedly executing the query and returning new results, incrementally, over successive time steps
-    @created 1351457469927
-    @sharability 0.75
-    @weight 0.5
-    * :6z0oT6q: 
-    * :HGPcpkl: 

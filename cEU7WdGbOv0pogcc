@@ -1,0 +1,4 @@
+* :cEU7WdGbOv0pogcc: (debug-message (concat "received JSON: " (json-encode json)))
+    @created 1470075598496
+    @sharability 0.75
+    @weight 0.5

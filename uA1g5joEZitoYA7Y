@@ -1,0 +1,4 @@
+* :uA1g5joEZitoYA7Y: docker rm $(docker ps -a -q)
+    @created 1487921892123
+    @sharability 0.75
+    @weight 0.5

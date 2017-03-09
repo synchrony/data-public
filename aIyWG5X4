@@ -1,4 +1,0 @@
-* :IyWG5X4: each activation vector a^(l) for layer l has 1 grafted into the first place, ahead of all the matrix products
-    @created 1479368458497
-    @sharability 0.75
-    @weight 0.5

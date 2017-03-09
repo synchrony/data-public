@@ -1,9 +1,0 @@
-* :Dd8PGZf: RenameMe
-    @created 1471472452059
-    @sharability 0.75
-    @weight 0.5
-
-EquivalentClasses(
-   :NarcisticPerson 
-   ObjectHasSelf( :loves ) 
- )

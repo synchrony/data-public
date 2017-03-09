@@ -1,4 +1,0 @@
-* :9aaB4rX: if a class A is owl:oneOf a list of objects, say X, Y, and Z, then each of X, Y, and Z has rdf:type A
-    @created 1349461828570
-    @sharability 0.75
-    @weight 0.5

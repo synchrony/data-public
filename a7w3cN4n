@@ -1,4 +1,0 @@
-* :7w3cN4n: an owl:hasValue owl:Restriction A subsumes another owl:hasValue restriction B if the property restricted by B is a rdfs:subPropertyOf the property restricted by A, and the restricted value is the same
-    @created 1349461921851
-    @sharability 0.75
-    @weight 0.5

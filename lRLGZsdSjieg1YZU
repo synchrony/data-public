@@ -1,0 +1,4 @@
+* :lRLGZsdSjieg1YZU: if a class A is the owl:unionOf a list of constituent classes and a class B is the owl:unionOf a list of constituent classes, then A is a rdfs:subClassOf B if every constituent of B is a superclass of some constituent of A
+    @created 1349461921850
+    @sharability 0.75
+    @weight 0.5

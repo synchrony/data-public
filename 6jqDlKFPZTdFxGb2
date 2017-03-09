@@ -1,0 +1,9 @@
+* :6jqDlKFPZTdFxGb2: RenameMe
+    @created 1373472237092
+    @sharability 0.75
+    @weight 0.5
+
+import org.openrdf.sail.memory.MemoryStore;
+g = new SailGraph(new MemoryStore())
+g.loadRDF('/Users/marko/Desktop/neo.rdf', 'rdf-xml'))
+g.E[0..5]

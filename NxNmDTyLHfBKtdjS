@@ -1,0 +1,14 @@
+* :NxNmDTyLHfBKtdjS: RenameMe
+    @created 1483504889338
+    @sharability 0.75
+    @weight 0.5
+
+cd ~/work
+mkdir git_jbb
+cd git_jbb
+mkdir priv_kb.git && cd priv_kb.git && git init --bare --shared=all
+git clone file:///home/jeff/work/git_jbb/priv_kb.git && cd priv_kb
+echo "testing" >> testing_git.txt
+git add testing_git.txt
+git commit -m "testing this new local repo"
+git push origin master

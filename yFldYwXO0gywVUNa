@@ -1,0 +1,4 @@
+* :yFldYwXO0gywVUNa: An \textit{ontology} (indicated with the \texttt{ontology} attribute of a message) provides a vocabulary for representing and communicating knowledge about some topic and a set of relationships and properties that hold for the entities denoted by that vocabulary.  Ontologies must be nameable, discoverable and manageable.\footnote{How are ontologies discovered and managed?  Is there a canonical format for ontologies in FIPA?}
+    @created 1345179148420
+    @sharability 0.75
+    @weight 0.5

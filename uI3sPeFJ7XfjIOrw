@@ -1,0 +1,4 @@
+* :uI3sPeFJ7XfjIOrw: a design pattern in which an iterator is used to traverse a container and access the container's elements. The iterator pattern decouples algorithms from containers
+    @created 1380997001552
+    @sharability 0.75
+    @weight 0.5

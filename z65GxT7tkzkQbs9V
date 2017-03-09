@@ -1,0 +1,4 @@
+* :z65GxT7tkzkQbs9V: a consistency model used in distributed computing that informally guarantees that, if no new updates are made to a given data item, eventually all accesses to that item will return the last updated value
+    @created 1394225111482
+    @sharability 0.75
+    @weight 0.5

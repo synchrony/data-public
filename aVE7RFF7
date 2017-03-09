@@ -1,4 +1,0 @@
-* :VE7RFF7: the device's input and outputs are always potentially active (even if it has a power-saving sleep mode)
-    @created 1337101273842
-    @sharability 0.75
-    @weight 0.5

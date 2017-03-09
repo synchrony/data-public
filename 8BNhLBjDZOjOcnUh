@@ -1,0 +1,4 @@
+* :8BNhLBjDZOjOcnUh: sp <- splinefun(tailav$x, tailav$y); plot(sp(tailav$x), x=tailav$x, type="l")
+    @created 1339996072097
+    @sharability 0.75
+    @weight 0.5

@@ -1,0 +1,4 @@
+* :07q0j4v8yQdau7T6: place the library's folder (containing *.h and *.cpp files) under ~/Documents/Arduino/library.  After that, you can import the library into a specific sketch with "Sketch > Import Library"
+    @created 1340231190794
+    @sharability 0.75
+    @weight 0.5

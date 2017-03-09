@@ -1,0 +1,4 @@
+* :FspnWTeZVEMBSyGt: If you cut something from one document and paste it into another, all the links internal to the thing moved will stay in place, but all the links that went to something left behind will be broken.
+    @created 1469061899606
+    @sharability 0.75
+    @weight 0.5

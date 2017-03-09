@@ -1,5 +1,0 @@
-* :6LZEFFe: the result of running a sequence of incremental queries is the same as executing the original user query after every update to the database, but the computation cost is drastically reduced
-    @created 1351459616319
-    @sharability 0.75
-    @weight 0.5
-    * :NyjeoNV: 

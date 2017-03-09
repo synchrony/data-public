@@ -1,0 +1,15 @@
+* :8EJkzEdvK00P78x2: RenameMe
+    @created 1466354575343
+    @sharability 0.75
+    @weight 0.5
+
+sudo mkdir -p /opt/java
+cd /opt/java
+# [get gz}
+sudo tar -xzf jdk-*.tar.gz 
+sudo ln -s /opt/java/jdk1.8.0_91/ current
+sudo vim /etc/profile
+{
+export JAVA_HOME=/opt/java/current
+export PATH=$PATH:$JAVA_HOME/bin
+}

@@ -1,4 +1,0 @@
-* :pSdU2Ld: the processor's view of a particular portion of shared memory becomes consistent with the most recent update only when it enters the associated critical section
-    @created 1463348385395
-    @sharability 0.75
-    @weight 0.5

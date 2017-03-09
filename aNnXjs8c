@@ -1,4 +1,0 @@
-* :NnXjs8c: /* reload and reindex */ long before = System.currentTimeMillis(); IdGraph g2 = new IdGraph(g); java.io.InputStream inp = new java.io.FileInputStream(new File("/home/josh/data/joshkb/joshkb-full.xml")); com.tinkerpop.blueprints.util.io.graphml.GraphMLReader r = new com.tinkerpop.blueprints.util.io.graphml.GraphMLReader(g2); r.inputGraph(inp); inp.close(); g.commit(); net.fortytwo.extendo.brain.BrainGraph bg = new net.fortytwo.extendo.brain.BrainGraph(g); for (Vertex v : bg.getPropertyGraph().getVertices()) { String value = (String) v.getProperty(net.fortytwo.extendo.Extendo.VALUE); if (null != value) bg.indexForSearch(bg.getAtom(v), value); ((TransactionalGraph) g).commit();}; long after = System.currentTimeMillis(); System.out.println("finished in " + (after-before) + "ms");
-    @created 1331871937183
-    @sharability 0.75
-    @weight 0.25

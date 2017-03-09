@@ -1,9 +1,0 @@
-* :yYj1oUz: RenameMe
-    @created 1329401210409
-    @sharability 0.75
-    @weight 0.5
-
-PREFIX drugs: <http://www4.wiwiss.fu-berlin.de/dailymed/resource/drugs/>
-SELECT * WHERE {
-    drugs:1 owl:sameAs* ?drug .
-}

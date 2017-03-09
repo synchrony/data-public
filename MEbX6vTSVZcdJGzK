@@ -1,0 +1,4 @@
+* :MEbX6vTSVZcdJGzK: a property that defines how/when the changes made by one operation become visible to other concurrent operations
+    @created 1394223874035
+    @sharability 0.75
+    @weight 0.5

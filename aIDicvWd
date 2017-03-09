@@ -1,4 +1,0 @@
-* :IDicvWd: MySQL accepts free-format input: it collects input lines but does not execute them until it sees the semicolon
-    @created 1395163802511
-    @sharability 0.75
-    @weight 0.5

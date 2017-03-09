@@ -1,0 +1,8 @@
+* :Jx7QCfPkANHa4Hh0: RenameMe
+    @created 1329169027191
+    @sharability 0.75
+    @weight 0.5
+
+(load-ntriples "/home/josh/tmp/result.nt")
+(commit-triple-store)
+(triple-count)

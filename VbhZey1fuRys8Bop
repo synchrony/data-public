@@ -1,0 +1,4 @@
+* :VbhZey1fuRys8Bop: start with OPT (optimal solution) then repetitively change OPT a bit at a time, making it more like Greedy, but not making solution worse
+    @created 1381041564182
+    @sharability 0.75
+    @weight 0.5

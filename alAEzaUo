@@ -1,4 +1,0 @@
-* :lAEzaUo: know how to sort. Don't do bubble-sort. You should know the details of at least one n*log(n) sorting algorithm, preferably two (say, quicksort and merge sort). Merge sort can be highly useful in situations where quicksort is impractical, so take a look at it
-    @created 1380747689601
-    @sharability 0.75
-    @weight 0.5

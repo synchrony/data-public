@@ -1,4 +1,0 @@
-* :WWFizTW: a type of data structure, a tree where every node with children (internal node) has either two children (2-node) and one data element or three children (3-nodes) and two data elements. Nodes on the outside of the tree (leaf nodes) have no children and one or two data elements
-    @created 1381027246700
-    @sharability 0.75
-    @weight 0.5

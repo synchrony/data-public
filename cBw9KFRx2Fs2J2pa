@@ -1,0 +1,4 @@
+* :cBw9KFRx2Fs2J2pa: in breadth-first search, the queue stores all the nodes at the current level, which is proportional to the width of the search tree.  For most interesting problems, the width of the tree will grow exponentially in its height.  In contrast, the number of nodes in the current state of the search in depth-first search is proportional to the height of the tree
+    @created 1381077181659
+    @sharability 0.75
+    @weight 0.5

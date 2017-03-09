@@ -1,0 +1,4 @@
+* :uI2XB35rLTazSDjj: if two arrays have the same dims, and they are handed to a function, it might pair them rather than crossing them
+    @created 1477094287247
+    @sharability 0.75
+    @weight 0.5

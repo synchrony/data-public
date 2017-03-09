@@ -1,0 +1,4 @@
+* :WcvkTGfXIthBuknB: an anonymous key agreement protocol that allows two parties, each having an elliptic curve public–private key pair, to establish a shared secret over an insecure channel
+    @created 1449541686505
+    @sharability 0.75
+    @weight 0.5

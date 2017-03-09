@@ -1,4 +1,0 @@
-* :Vg5mDK4: the analysis verified the possible performance benefit of caching Linked Data, but also reveals a few cases in which it negatively impacts performance (by overwhelming the query engine with data).  It is suggested that better indexing structures can help in the latter cases.
-    @created 1366061559585
-    @sharability 0.75
-    @weight 0.5

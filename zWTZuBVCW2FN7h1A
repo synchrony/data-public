@@ -1,0 +1,16 @@
+* :zWTZuBVCW2FN7h1A: RenameMe
+    @created 1421638465330
+    @sharability 0.75
+    @weight 0.5
+
+<dependency>
+        <groupId>...</groupId>
+        <artifactId>...</artifactId>
+        <version>...</version>
+        <exclusions>
+                <exclusion>
+                        <groupId>org.slf4j</groupId>
+                        <artifactId>slf4j-api</artifactId>
+                </exclusion>
+        </exclusions>
+</dependency>

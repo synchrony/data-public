@@ -1,4 +1,0 @@
-* :AT6dpft: numpy.array.ndim = "rank"(python, not linear algebra) = number of dimensions of the array -- e.g. vectors are ndim=1
-    @created 1477038301481
-    @sharability 0.75
-    @weight 0.5

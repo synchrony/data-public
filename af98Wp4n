@@ -1,4 +1,0 @@
-* :f98Wp4n: the supply voltage range is 2.0V to 3.6V, while I/O voltage may range from 1.7V to the supply voltage.  The SparkFun 9 DOF sensor stick appears to put a KB33 3.3V regulator in front of the sensor.
-    @created 1418333420213
-    @sharability 0.75
-    @weight 0.5

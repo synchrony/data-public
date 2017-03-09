@@ -1,4 +1,0 @@
-* :Jtz8wyQ: array has homogeneous type, specificable at creation with dtype arg : c = np.array( [ [1,2], [3,4] ], dtype=complex )
-    @created 1477038561672
-    @sharability 0.75
-    @weight 0.5

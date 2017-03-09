@@ -1,4 +1,0 @@
-* :zH8aCbz: example: "play [figure] repeatedly over [cyc range]. now replace [subrange] with [other figure]. now reduce any notes that fall close to each other at a boundary to one of them."
-    @created 1476252044428
-    @sharability 0.75
-    @weight 0.5

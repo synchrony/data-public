@@ -1,0 +1,4 @@
+* :NF3Mgm079FFznARZ: timestamps are monotonically non-decreasing in the stream, but consecutive triples may have the same timestamp.
+    @created 1368776645172
+    @sharability 0.75
+    @weight 0.5

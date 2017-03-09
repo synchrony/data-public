@@ -1,4 +1,0 @@
-* :zvteu6l: move mode ! hide the builtin commands (at least the serial singleton combinations like C-s) behind an accessor combination
-    @created 1472007372460
-    @sharability 0.75
-    @weight 0.5

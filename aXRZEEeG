@@ -1,4 +1,0 @@
-* :XRZEEeG: These auxiliary lists allow item lookup with efficiency comparable to balanced binary search trees (that is, with number of probes proportional to log n instead of n)
-    @created 1380766037285
-    @sharability 0.75
-    @weight 0.5

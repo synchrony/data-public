@@ -1,0 +1,4 @@
+* :NucoFmAH8kRwQuX9: if an object is a type of owl:maxCardinality owl:Restriction where the specified property is restricted to a maximum of 1 value, then all values of which the object has for the specified property are owl:sameAs one another
+    @created 1349461921852
+    @sharability 0.75
+    @weight 0.5

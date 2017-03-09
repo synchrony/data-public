@@ -1,4 +1,0 @@
-* :GUFE1is: grep "^.\{121\}" foo.txt -- find lines longer than 120 chars
-    @created 1414259101239
-    @sharability 0.75
-    @weight 0.5

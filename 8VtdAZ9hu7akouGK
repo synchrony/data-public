@@ -1,0 +1,4 @@
+* :8VtdAZ9hu7akouGK: don't return null, as this forces you to check nulls, and causes bad things to happen if you don't.  Consider throwing an exception or returning a "special case" object instead
+    @created 1471571476841
+    @sharability 0.75
+    @weight 0.5

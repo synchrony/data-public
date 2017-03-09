@@ -1,0 +1,12 @@
+* :x07DtD4s8Rv7A90L: RenameMe
+    @created 1363128809437
+    @sharability 0.75
+    @weight 0.5
+
+e.g. in
+PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+SELECT ?p ?p1 ?p2 WHERE {
+    ?p foaf:knows ?p1 .
+    ?p foaf:knows ?p2 .
+    FILTER(?p1 != ?p2)
+}

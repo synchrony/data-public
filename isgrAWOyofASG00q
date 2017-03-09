@@ -1,0 +1,4 @@
+* :isgrAWOyofASG00q: creates an RDF view of a graph in which vertices are first-class objects, connected by properties derived from edges and also annotated with properties derived from Blueprints properties.  Edge properties are lost in this model.
+    @created 1450732316199
+    @sharability 0.75
+    @weight 0.5

@@ -1,0 +1,4 @@
+* :tALuNjg7FDaHSM3w: as time progresses, comparison windows of the same size are periodically sampled, sub-windowed, compared to all of the sub-windows from each of the candidate windows, and finally discarded
+    @created 1354601716115
+    @sharability 0.75
+    @weight 0.5

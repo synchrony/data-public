@@ -1,4 +1,0 @@
-* :6lwVoxE: When we started (night of 14th), we checked out a fresh vcs, and rolled back public and universal to the last time I had cycled, which was Feb 5. Then I exported onto that vcs folder, added, committed. Then I pulled, and got some conflicts, like 50. Somehow the titles of nodes had disappeared, and they had new creation timestamps. We reverted (by editing the files by hand) to the version that included the titles. In at least one case actually we kept the new title. And a few missing-title atoms did not conflict with anything.
-    @created 1487495514519
-    @sharability 0.75
-    @weight 0.5

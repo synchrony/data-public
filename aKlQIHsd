@@ -1,4 +1,0 @@
-* :KlQIHsd: network traffic analysis does not require fast random access, transactional update, or relational joins. Rather, it needs fast sequential access to a stream of traffic records and the ability to filter, aggregate, define windows, demultiplex, and remultiplex the stream
-    @created 1351811830250
-    @sharability 0.75
-    @weight 0.5

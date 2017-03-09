@@ -1,0 +1,4 @@
+* :seg2qddEziIMHmRr: a set of processes is deadlocked if each process in the set is waiting for an event that only another process in the set can cause
+    @created 1399226885483
+    @sharability 0.75
+    @weight 0.5
