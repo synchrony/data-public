@@ -1,4 +1,0 @@
-* :8rnDN-I: if a class A is the owl:intersectionOf a list of constituent classes and a class B is the owl:unionOf a list of constituent classes, then A is a rdfs:subClassOf B if every constituent of A is a rdfs:subClassOf every constituent of B
-    @created 1349461921851
-    @sharability 0.75
-    @weight 0.5

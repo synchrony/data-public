@@ -1,0 +1,4 @@
+* :4S9TAyWYP3U87jQ9: this is usually much higher than the forward voltage. As with forward voltage, a current will flow if the connected voltage exceeds this value. This is called a "breakdown". Common diodes are usually destroyed but with Z and Zener diodes this effect is used deliberately
+    @created 1388264123097
+    @sharability 0.75
+    @weight 0.5

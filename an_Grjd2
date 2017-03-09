@@ -1,4 +1,0 @@
-* :n_Grjd2: a server SHOULD respond to a client's stream with a stream back to the client (but SHOULD leaves the possibility of single-directional communication)
-    @created 1341637920122
-    @sharability 0.75
-    @weight 0.5

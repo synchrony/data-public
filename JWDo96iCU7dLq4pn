@@ -1,0 +1,4 @@
+* :JWDo96iCU7dLq4pn: C-<RET> -- like M-<RET> but respects content, inserting the new item after the content of the current item, rather than in the middle
+    @created 1364101126566
+    @sharability 0.75
+    @weight 0.5

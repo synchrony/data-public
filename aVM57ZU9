@@ -1,4 +1,0 @@
-* :VM57ZU9: wget -O- http://localhost:8042/conf | sort conf | grep property | sed 's/.property..name.//' | sed 's/..name..value./>/' | sed 's/..value..source./>/' | sed 's/<.*//' | tr '>' '\t'
-    @created 1395721650140
-    @sharability 0.75
-    @weight 0.5

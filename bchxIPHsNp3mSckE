@@ -1,0 +1,4 @@
+* :bchxIPHsNp3mSckE: mounts the external text file (test.txt) as /external.txt in the continer
+    @created 1487929371180
+    @sharability 0.75
+    @weight 0.5

@@ -1,0 +1,4 @@
+* :GiOaOQoKMEwNhiAG: so that we can evaluate row-based (Rows) and timebased (Range) sliding windows, all stream elements arrive in order, timestamped according to a global clock
+    @created 1352147774744
+    @sharability 0.75
+    @weight 0.5

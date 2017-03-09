@@ -1,4 +1,0 @@
-* :OegEXTz: "It is generally easier to fix the current state by starting from the state at the time of the partition and rolling forward both sets of operations in some manner, maintaining consistent state along the way."
-    @created 1463287016334
-    @sharability 0.75
-    @weight 0.5

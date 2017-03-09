@@ -1,0 +1,6 @@
+* :jrWpedhT8hjABdhJ: move one Git repository into another, preserving history
+    @created 1487976536438
+    @sharability 0.75
+    @weight 0.5
+
+git filter-branch --tree-filter 'mkdir moved; git ls-tree --name-only $GIT_COMMIT | xargs -I files mv files moved'

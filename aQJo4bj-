@@ -1,4 +1,0 @@
-* :QJo4bj-: forall e. Eff (console :: CONSOLE, random :: RANDOM | e) Unit
-    @created 1485050017865
-    @sharability 0.75
-    @weight 0.5

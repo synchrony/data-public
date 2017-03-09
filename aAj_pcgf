@@ -1,4 +1,0 @@
-* :Aj_pcgf: To process a grid requires one to carry a lot of meta-data not encoded in the grid itself. The 120 numbers are not all the data; the table would be meaningless unless it was somehow related to the concepts of country, year and corn. Those three relationships, which explain the data, are stored external to the data.
-    @created 1469061944057
-    @sharability 0.75
-    @weight 0.5

@@ -1,4 +1,0 @@
-* :clhmEC0: write.table(t, file("/tmp/r-out.csv"), sep=",");
-    @created 1342034286277
-    @sharability 0.75
-    @weight 0.5

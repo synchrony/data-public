@@ -1,0 +1,7 @@
+* :y1TNRe96A07UDLKM: RenameMe
+    @created 1455843868231
+    @sharability 0.75
+    @weight 0.5
+
+net.fortytwo.ripple.demo.sailType = org.openrdf.sail.nativerdf.NativeStore
+net.fortytwo.ripple.demo.nativeStoreDirectory = /Users/josh/data/mydata-ns

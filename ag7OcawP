@@ -1,4 +1,0 @@
-* :g7OcawP: any node-based binary search tree that automatically keeps its height (maximal number of levels below the root) small in the face of arbitrary item insertions and deletions
-    @created 1381026961771
-    @sharability 0.75
-    @weight 0.5

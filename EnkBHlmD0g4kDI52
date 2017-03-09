@@ -1,0 +1,11 @@
+* :EnkBHlmD0g4kDI52: RenameMe
+    @created 1485040166701
+    @sharability 0.75
+    @weight 0.5
+
+forall t1.                
+  Eff                     
+    ( "console" :: CONSOLE
+    | t1                  
+    )                     
+    Unit

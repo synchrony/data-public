@@ -1,0 +1,4 @@
+* :KjdOWHyKJPWyIZ2F: plot(cumsum(db$hours), x=db$date)
+    @created 1341258465426
+    @sharability 0.75
+    @weight 0.5

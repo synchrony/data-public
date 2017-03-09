@@ -1,0 +1,12 @@
+* :heVBpM7u15lggsKd: RenameMe
+    @created 1371631012710
+    @sharability 0.75
+    @weight 0.5
+
+g = TinkerGraphFactory.createTinkerGraph()
+pg = new PropertyGraphSail(g)
+// or with the compact style
+// pg = new PropertyGraphSail(g, false)
+g2 = new SailGraph(pg)
+g2.saveRDF('/tmp/out.ttl', 'turtle');
+//g2.saveRDF('/tmp/out.nt', 'n-triples');

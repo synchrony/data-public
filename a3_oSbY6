@@ -1,4 +1,0 @@
-* :3_oSbY6: eval $(docker-machine env default)
-    @created 1488279306163
-    @sharability 0.75
-    @weight 0.5

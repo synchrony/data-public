@@ -1,0 +1,4 @@
+* :pTfevzwNy3LH9ykC: stop dropboxd, remove ~/.dropbox, re-install and re-link.  It would appear that dropboxd simply becomes out-of-date w.r.t. the service
+    @created 1426885913935
+    @sharability 0.75
+    @weight 0.5

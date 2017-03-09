@@ -1,4 +1,0 @@
-* :cMW42y3: XJoin extends SHJ to use less memory by allowing parts of the hash tables to be moved to secondary storage.  It does this by partitioning its inputs, similar in spirit to the way that hybrid hash join solves the memory problems of classic hash join
-    @created 1351736313375
-    @sharability 0.75
-    @weight 0.5

@@ -1,4 +1,0 @@
-* :Ne43Uz5: a partition is assigned a list of values. If the partitioning key has one of these values, the partition is chosen
-    @created 1463280368347
-    @sharability 0.75
-    @weight 0.5

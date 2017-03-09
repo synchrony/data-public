@@ -1,0 +1,14 @@
+* :E2wxEJNAgjByALGt: RenameMe
+    @created 1348123456135
+    @sharability 0.75
+    @weight 0.5
+
+autoreconf -i
+./configure
+
+# this file had to be tweaked (!)
+# replace "uint64_t" on line 142 with "sox_uint64_t"
+vim src/formats_i.c 
+
+make -s
+sudo make install

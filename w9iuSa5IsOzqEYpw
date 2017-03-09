@@ -1,0 +1,14 @@
+* :w9iuSa5IsOzqEYpw: RenameMe
+    @created 1397619144133
+    @sharability 0.75
+    @weight 0.5
+
+conf = new BaseConfiguration();
+conf.setProperty("storage.backend", "cassandra");
+conf.setProperty("storage.hostname", "127.0.0.1");
+g = TitanFactory.open(conf)
+
+sail = new GraphSail(g)
+sg = new SailGraph(sail)
+sg.loadRDF("/tmp/graph-example-1.ntriple", "n-triples")
+sg.E[0..5]

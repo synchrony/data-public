@@ -1,4 +1,0 @@
-* :9xgVbhU: x = {AudioIn.ar([1]).clip2(0.3)}.play
-    @created 1322875842748
-    @sharability 0.75
-    @weight 0.5

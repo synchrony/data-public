@@ -1,4 +1,0 @@
-* :bp0S_vZ: queries are evaluated periodically, according to conditions specified in the query itself.  Queries may also be triggered by notifications sent by the subscription processor.
-    @created 1351468169808
-    @sharability 0.75
-    @weight 0.5

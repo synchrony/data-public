@@ -1,0 +1,4 @@
+* :0KOr3InLzs3sgAEK: jeff@jbb-thinkpad:~$ sudo tcpdump -s 0 -A -v -i lo port 8182
+    @created 1469833624147
+    @sharability 0.75
+    @weight 0.5

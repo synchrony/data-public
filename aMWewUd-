@@ -1,4 +1,0 @@
-* :MWewUd-: switch off Extend-o-Hand's battery power, unplug the Bluetooth modem's RX/TX jumper from the Arduino board, and connect the USB cable to a computer.  Note: the modem has power and will blink even though it is not communicating with the Nano.  Now upload the firmware with Arduino
-    @created 1383578836151
-    @sharability 0.75
-    @weight 0.5

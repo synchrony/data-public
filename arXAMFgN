@@ -1,7 +1,0 @@
-* :rXAMFgN: InfluxDB installation
-    @created 1485722038327
-    @sharability 0.75
-    @weight 0.5
-
-brew update
-brew install influxdb

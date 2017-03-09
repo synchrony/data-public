@@ -1,0 +1,10 @@
+* :w1Fm56DPcMEyHPm1: RenameMe
+    @created 1477086062793
+    @sharability 0.75
+    @weight 0.5
+
+set all values in x > 4 to 0
+x = np.arange(12).reshape(3,4)
+b = x > 4
+x[b] = 0
+x

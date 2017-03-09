@@ -1,0 +1,4 @@
+* :hk4PjikgdMkXqVxu: every read or write of data under a single row key is atomic (regardless of the number of different columns being read or written in the row)
+    @created 1401222014870
+    @sharability 0.75
+    @weight 0.5

@@ -1,0 +1,4 @@
+* :ovnoTH85NMbZnvwt: open zTerm and connect to the modem (you need to have paired with the device once in the Mac's Bluetooth preferences, but you don't need to connect there every time).  A baud rate of 57600 seems to work well.
+    @created 1443820652700
+    @sharability 0.75
+    @weight 0.5

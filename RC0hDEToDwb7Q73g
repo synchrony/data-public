@@ -1,0 +1,4 @@
+* :RC0hDEToDwb7Q73g: g.V().each{v-> v.property("foo").remove()}
+    @created 1470719634860
+    @sharability 0.75
+    @weight 0.5

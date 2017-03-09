@@ -1,0 +1,4 @@
+* :sge9ELVM2RR3WVEH: a strategy for searching in a graph when search is limited to essentially two operations: (a) visit and inspect a node of a graph; (b) gain access to visit the nodes that neighbor the currently visited node
+    @created 1381029981784
+    @sharability 0.75
+    @weight 0.5

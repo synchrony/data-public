@@ -1,0 +1,4 @@
+* :EAVLNA0guJSPITLH: x = {AudioIn.ar([1])}.scope;
+    @created 1322875787068
+    @sharability 0.75
+    @weight 0.5

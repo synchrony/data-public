@@ -1,0 +1,4 @@
+* :HcmBtF7CTV0exE0o: a synchronization construct that allows threads to have both mutual exclusion and the ability to wait (block) for a certain condition to become true. Monitors also have a mechanism for signalling other threads that their condition has been met
+    @created 1381000704642
+    @sharability 0.75
+    @weight 0.5

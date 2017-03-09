@@ -1,0 +1,4 @@
+* :CV9N5G5IgXPKiUVI: make a backup, delete the old Neo4j tinkernotes directory, then import from the GraphML file using the new TinkerNotes
+    @created 1379353362233
+    @sharability 0.75
+    @weight 0.5

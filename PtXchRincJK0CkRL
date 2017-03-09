@@ -1,0 +1,9 @@
+* :PtXchRincJK0CkRL: RenameMe
+    @created 1421638327053
+    @sharability 0.75
+    @weight 0.5
+
+divide: O(1)
+sort: 2*T(n/2)
+merge: O(n)
+T(n) = { 1 if n=1, else 2 T(n/2) + c*n }

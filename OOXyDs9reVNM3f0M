@@ -1,0 +1,4 @@
+* :OOXyDs9reVNM3f0M: a data structure used to hold a value that could take on several different, but fixed types. Only one of the types can be in use at any one time, and a tag field explicitly indicates which one is in use
+    @created 1381025768582
+    @sharability 0.75
+    @weight 0.5

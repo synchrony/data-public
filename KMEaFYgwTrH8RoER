@@ -1,0 +1,4 @@
+* :KMEaFYgwTrH8RoER: a binary search tree which maintains a dynamic set of ordered keys and allow binary searches among the keys. After any sequence of insertions and deletions of keys, the shape of the tree is a random variable with the same probability distribution as a random binary tree; in particular, with high probability its height is proportional to the logarithm of the number of keys, so that each search, insertion, or deletion operation takes logarithmic time to perform
+    @created 1381027595262
+    @sharability 0.75
+    @weight 0.5

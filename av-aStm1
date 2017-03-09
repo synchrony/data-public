@@ -1,4 +1,0 @@
-* :v-aStm1: pipelined execution delivers result tuples as soon as they are computable from input tuples while allowing the delays to be overlapped by othe work
-    @created 1351491605035
-    @sharability 0.75
-    @weight 0.5

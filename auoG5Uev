@@ -1,9 +1,0 @@
-* :uoG5Uev: create, attach, and mount an EBS volume
-    @created 1488084636924
-    @sharability 0.75
-    @weight 0.5
-
-# first create and attach the volume, then
-sudo mkfs -t ext4 /dev/xvdg
-sudo mkdir /joshsh
-sudo mount /dev/xvdg /joshsh

@@ -1,0 +1,4 @@
+* :N5n2xeGThuNzjic5: the result of a query Q at time t is obtained by taking all relations at time t, all streams up to time t converted to relations by their window speciﬁcations, and applying conventional relational semantics. If the outermost operator is Istream or Dstream then the query result is converted to a stream, otherwise it remains as a relation
+    @created 1352147143961
+    @sharability 0.75
+    @weight 0.5

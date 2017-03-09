@@ -1,4 +1,0 @@
-* :2fQUBas: if an object is rdf:type an owl:hasValue owl:Restriction, then the object has the specified value for the specified property
-    @created 1349461828571
-    @sharability 0.75
-    @weight 0.5

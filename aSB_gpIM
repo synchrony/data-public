@@ -1,4 +1,0 @@
-* :SB_gpIM: Last year, using Haskell's Functional Graph Library, I wrote a data framework for what could be called a higher-order triplestore: a graph in which relationships can themselves belong to other relationships (as well as permitting arbitrary arity in them).[2]
-    @created 1487119747653
-    @sharability 0.75
-    @weight 0.5

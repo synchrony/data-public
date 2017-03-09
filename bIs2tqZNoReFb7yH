@@ -1,0 +1,4 @@
+* :bIs2tqZNoReFb7yH: an instrument: (definst bar [amp 1, freq 220] (* amp (saw freq)))
+    @created 1487569659195
+    @sharability 0.75
+    @weight 0.5

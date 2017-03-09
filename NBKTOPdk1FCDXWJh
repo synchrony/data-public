@@ -1,0 +1,4 @@
+* :NBKTOPdk1FCDXWJh: an abstract data type that implements a finite ordered collection of values, where the same value may occur more than once. An instance of a list is a computer representation of the mathematical concept of a finite sequence; the (potentially) infinite analog of a list is a stream
+    @created 1381026475438
+    @sharability 0.75
+    @weight 0.5

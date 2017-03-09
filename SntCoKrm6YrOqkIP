@@ -1,0 +1,4 @@
+* :SntCoKrm6YrOqkIP: "Travel Agent Game in Agentcities (TAGA) is the framework that extends and enhances Trading Agent Competition (TAC) scenario to work in Agentcities, an open multi agent environment based on FIPA compliant platforms. TAGA uses the semantic web languages and tools (RDF and OWL) to specify and publish the underlying common ontologies; as a content language within the FIPA ACL messages; as the basis for agent knowledge bases via XSB-based reasoning tools; to describe and reason about services. TAGA extends the FIPA protocols  support open market auctions and enriches the Agentcities with auction services."
+    @created 1444634898427
+    @sharability 0.75
+    @weight 0.5

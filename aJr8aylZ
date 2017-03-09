@@ -1,4 +1,0 @@
-* :Jr8aylZ: the "right" side of a node graph which performs joins between different WMEs.  Optional, and only included if required.  Consists of 2-input nodes where each node has a "left" and "right" input.  Each beta node sends its output to a beta memory.
-    @created 1354818048568
-    @sharability 0.75
-    @weight 0.5

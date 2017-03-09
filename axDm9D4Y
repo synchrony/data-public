@@ -1,4 +1,0 @@
-* :xDm9D4Y: most multi-master replication systems are only loosely consistent, i.e. lazy and asynchronous, violating ACID properties
-    @created 1463343354817
-    @sharability 0.75
-    @weight 0.5

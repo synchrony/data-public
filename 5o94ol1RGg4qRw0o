@@ -1,0 +1,4 @@
+* :5o94ol1RGg4qRw0o: independent optimization of database requests overlooks potential savings which can be achieved when they are optimized collectively
+    @created 1351795100214
+    @sharability 0.75
+    @weight 0.5

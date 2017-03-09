@@ -1,0 +1,7 @@
+* :xolW20mSQx6bg36r: RenameMe
+    @created 1371176859298
+    @sharability 0.75
+    @weight 0.5
+
+library(stringr) 
+str_locate("aabcd", "bcd")

@@ -1,4 +1,0 @@
-* :4fxsAk0: sudo usermod -aG docker $(whoami) # then logout/login
-    @created 1488642283198
-    @sharability 0.75
-    @weight 0.5

@@ -1,5 +1,0 @@
-* :pGylJ1-: in previous work, we discussed a conceptually cleaner strategy called push- and stream-based query processing based on the symmetric hash join (SHJ), where source data is treated as finite streams that can arrive at any time in any order
-    @created 1427163708388
-    @sharability 0.75
-    @weight 0.5
-    * :my38F6v: 

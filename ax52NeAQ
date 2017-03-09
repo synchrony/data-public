@@ -1,4 +1,0 @@
-* :x52NeAQ: allows for certain combinations of the above partitioning schemes, by for example first applying a range partitioning and then a hash partitioning
-    @created 1463280396283
-    @sharability 0.75
-    @weight 0.5

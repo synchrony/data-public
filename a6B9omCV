@@ -1,4 +1,0 @@
-* :6B9omCV: a simplifying representation used in natural language processing and information retrieval. In this model, a text is represented as the bag (multiset) of its words, disregarding grammar and even word order but keeping multiplicity
-    @created 1431966840621
-    @sharability 0.75
-    @weight 0.5

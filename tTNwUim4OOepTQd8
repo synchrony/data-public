@@ -1,0 +1,4 @@
+* :tTNwUim4OOepTQd8: considered as an abstract model of computation, the finite state machine is weak; it has less computational power than some other models of computation such as the Turing machine.[1] That is, there are tasks which no FSM can do, but some Turing machines can. This is because the FSM has limited memory. The memory is limited by the number of states
+    @created 1381094475834
+    @sharability 0.75
+    @weight 0.5

@@ -1,0 +1,4 @@
+* :JKBSzUpcCvt20Hp0: similar to a deadlock, except that the states of the processes involved in the livelock constantly change with regard to one another, none progressing
+    @created 1399227030116
+    @sharability 0.75
+    @weight 0.5

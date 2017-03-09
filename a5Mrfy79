@@ -1,4 +1,0 @@
-* :5Mrfy79: C-SPARQL queries may be executed over a combination of static and streaming data.  Queries are first registered, after which results are pushed to the client in a streaming fashion.
-    @created 1368776645171
-    @sharability 0.75
-    @weight 0.5

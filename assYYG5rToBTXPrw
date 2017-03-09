@@ -1,0 +1,4 @@
+* :assYYG5rToBTXPrw: an in-place comparison sort. It generalizes an exchanging sort, such as insertion or bubble sort, by starting the comparison and exchange of elements with elements that are far apart before finishing with neighboring elements. Starting with far apart elements can move some out-of-place elements into position faster than a simple nearest neighbor exchange
+    @created 1380989113377
+    @sharability 0.75
+    @weight 0.5

@@ -1,0 +1,4 @@
+* :kJ1pTbgnRXAr1cfd: the system design relies on a centralized active map server, implying that the AMS will stop functioning whenever the server crashes
+    @created 1428523094708
+    @sharability 0.75
+    @weight 0.5

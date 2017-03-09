@@ -1,4 +1,0 @@
-* :sTH3q14: if a class A is the owl:unionOf a list of classes, say B, C, and D, then each of B, C, and D, is rdfs:subClassOf A
-    @created 1349461921849
-    @sharability 0.75
-    @weight 0.5

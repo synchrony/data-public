@@ -1,4 +1,0 @@
-* :Qa2qHPM: if a property Q is owl:inverseOf of a property P, and P is an owl:TransitiveProperty, then Q is also an owl:TransitiveProperty
-    @created 1349461828573
-    @sharability 0.75
-    @weight 0.5

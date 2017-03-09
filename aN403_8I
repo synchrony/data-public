@@ -1,4 +1,0 @@
-* :N403_8I: the tactic of delaying the creation of an object, the calculation of a value, or some other expensive process until the first time it is needed
-    @created 1380991364408
-    @sharability 0.75
-    @weight 0.5

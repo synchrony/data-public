@@ -1,4 +1,0 @@
-* :74LW5kr: describe cluster | schema | keyspace [<keyspace_name>] | columnfamilies | columnfamily <columnfamily_name>
-    @created 1392230865211
-    @sharability 0.75
-    @weight 0.5

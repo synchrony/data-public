@@ -1,4 +1,0 @@
-* :sAs4u5_: a parser generator that is part of the GNU Project. Bison reads a specification of a context-free language, warns about any parsing ambiguities, and generates a parser (either in C, C++, or Java) which reads sequences of tokens and decides whether the sequence conforms to the syntax specified by the grammar
-    @created 1380832910780
-    @sharability 0.75
-    @weight 0.5

@@ -1,0 +1,11 @@
+* :jjIkFhOB1TgSCvY7: RenameMe
+    @created 1348167055870
+    @sharability 0.75
+    @weight 0.5
+
+(setq load-path (cons "/Users/josh/projects/notmine/emacspeak/lisp" load-path))
+(setq emacspeak-directory "/Users/josh/projects/notmine/emacspeak")
+(setq dtk-program "mac")
+(load-file "/Users/josh/projects/notmine/emacspeak/lisp/mac-voices.el")
+(setq mac-default-speech-rate 300)
+(load-file "/Users/josh/projects/notmine/emacspeak/lisp/emacspeak-setup.el")

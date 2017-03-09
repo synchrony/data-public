@@ -1,4 +1,0 @@
-* :MQoCC3s: git -c http.sslVerify=false clone https://example.org/path/to/repo.git
-    @created 1412344753911
-    @sharability 0.75
-    @weight 0.5

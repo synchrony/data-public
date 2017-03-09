@@ -1,0 +1,4 @@
+* :tjGcbseq6e1c9zt9: "if a function f(x) yields any of H different outputs with equal probability and H is sufficiently large, then we expect to obtain a pair of different arguments x1 and x2 with f(x1) = f(x2) after evaluating the function for about 1.25*sqrt(H) different arguments on average"
+    @created 1309959804641
+    @sharability 0.75
+    @weight 0.5

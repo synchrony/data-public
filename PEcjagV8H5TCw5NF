@@ -1,0 +1,4 @@
+* :PEcjagV8H5TCw5NF: files are divided into fixed-sized chunks, each of which has a globally unique 64 bit chunk handle.  Chunks are stored on replaced on multiple chunkservers (by default, three replicas are stored)
+    @created 1401120847796
+    @sharability 0.75
+    @weight 0.5

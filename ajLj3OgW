@@ -1,4 +1,0 @@
-* :jLj3OgW: x = {AudioIn.ar([1]).distort}.play
-    @created 1322875842748
-    @sharability 0.75
-    @weight 0.5

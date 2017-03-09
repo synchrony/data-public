@@ -1,4 +1,0 @@
-* :e5QId63: "n <- Lazy.iterate (_ + 1) 0" ? Does _ mean something else in purescript?
-    @created 1484906098910
-    @sharability 0.75
-    @weight 0.5

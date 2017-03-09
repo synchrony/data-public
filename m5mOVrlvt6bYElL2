@@ -1,0 +1,4 @@
+* :m5mOVrlvt6bYElL2: with checked exceptions, "a change at a low level of the software can force signature changes on many higher levels".  They break encapsulation.
+    @created 1471570892328
+    @sharability 0.75
+    @weight 0.5

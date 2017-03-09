@@ -1,4 +1,0 @@
-* :w2K6ZOj: mvn install:install-file -DgroupId=com.franz -DartifactId=agraph-repository -Dversion=4.14 -Dpackaging=jar -DcreateChecksum=true -Dfile=agraph-4.14.jar
-    @created 1410616907671
-    @sharability 0.75
-    @weight 0.5

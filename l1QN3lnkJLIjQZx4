@@ -1,0 +1,4 @@
+* :l1QN3lnkJLIjQZx4: you need to declare the frame "fragile" first, e.g. "\begin{frame}[fragile]{Some code}"
+    @created 1368744550550
+    @sharability 0.75
+    @weight 0.5

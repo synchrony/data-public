@@ -1,4 +1,0 @@
-* :T__8FMt: Tapestry cannot handle queries involving aggregates, such as "select messages that have been voted on by more than 5 people"
-    @created 1351466209107
-    @sharability 0.75
-    @weight 0.5

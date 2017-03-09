@@ -1,4 +1,0 @@
-* :5lwb6-u: attach the protective sticker, connect the wire ends to the Arduino (black to GND, red to either +3V or +5V, and purple to A0), download the Arduino and Processing sketches, and run them after attaching the Arduino's USB cable to a laptop and disconnecting the laptop from AC power.
-    @created 1373726350133
-    @sharability 0.75
-    @weight 0.5

@@ -1,4 +1,0 @@
-* :Fyv5NOH: a type of atomic commitment protocol (ACP). It is a distributed algorithm that coordinates all the processes that participate in a distributed atomic transaction on whether to commit or abort (roll back) the transaction (it is a specialized type of consensus protocol)
-    @created 1463354165917
-    @sharability 0.75
-    @weight 0.5

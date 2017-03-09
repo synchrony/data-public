@@ -1,0 +1,4 @@
+* :5tkEVnKG7FqIswpP: all processes see memory writes from one process in the order they were issued from the process
+    @created 1463348124193
+    @sharability 0.75
+    @weight 0.5

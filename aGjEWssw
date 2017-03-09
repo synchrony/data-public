@@ -1,4 +1,0 @@
-* :GjEWssw: introducing a federation infrastructure allows queries to be evaluated directly on the original data sources, using data indices and statistics for efficient query execution and returning complete results
-    @created 1427075783185
-    @sharability 0.75
-    @weight 0.5

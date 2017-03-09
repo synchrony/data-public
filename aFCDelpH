@@ -1,9 +1,0 @@
-* :FCDelpH: RenameMe
-    @created 1484681601065
-    @sharability 0.75
-    @weight 0.5
-
-file = new File("lines.txt")
-file.eachLine {
-  line -> println("length: " + line.length())
-}

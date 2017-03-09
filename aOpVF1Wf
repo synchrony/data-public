@@ -1,4 +1,0 @@
-* :OpVF1Wf: for evaluating the query according to the query plan, we run each operator in a separate thread
-    @created 1427181613366
-    @sharability 0.75
-    @weight 0.5

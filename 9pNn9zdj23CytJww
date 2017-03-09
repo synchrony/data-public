@@ -1,0 +1,5 @@
+* :9pNn9zdj23CytJww: include both the current directory and another directory full of JARs in the classpath (note colons in Linux, semicolons in Windows)
+    @created 1338843357376
+    @sharability 0.75
+    @weight 0.5
+    * :2N2mKlbJGz8UhjaP: 

@@ -1,0 +1,4 @@
+* :HZijEzJ3azrFDxCE: "The -d flag tells Docker to use the bridge driver for the new network. You could have left this flag off as bridge is the default value for this flag."
+    @created 1487920468086
+    @sharability 0.75
+    @weight 0.5

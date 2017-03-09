@@ -1,0 +1,12 @@
+* :Kp82E04aXrjss0qG: RenameMe
+    @created 1471377907789
+    @sharability 0.75
+    @weight 0.5
+
+ClassAssertion(
+   ObjectIntersectionOf(
+     :Person
+     ObjectComplementOf( :Parent )
+   )
+   :Jack
+ )

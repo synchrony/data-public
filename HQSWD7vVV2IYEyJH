@@ -1,0 +1,4 @@
+* :HQSWD7vVV2IYEyJH: good to process the whole graph at once, so that two sorted lists can be compared, because that's faster than comparing each to the list
+    @created 1487224808646
+    @sharability 0.75
+    @weight 0.5

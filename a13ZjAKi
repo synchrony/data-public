@@ -1,4 +1,0 @@
-* :13ZjAKi: "We can read the new type signature of showPerson as “takes any record with first and last fields which are Strings and any other fields, and returns a String”."
-    @created 1485049650842
-    @sharability 0.75
-    @weight 0.5

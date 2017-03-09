@@ -1,0 +1,4 @@
+* :TgFF6X9k6vGQOAI1: ig.v("\"Journal 1 (1940)\"").in("dc:title").as("journal").out("rdf:type").filter{it.id.equals("bench:Journal")}.back("journal")
+    @created 1382990279779
+    @sharability 0.75
+    @weight 0.5

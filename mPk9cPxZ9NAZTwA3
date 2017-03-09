@@ -1,0 +1,4 @@
+* :mPk9cPxZ9NAZTwA3: unlike most other self-balancing binary search trees that provide worst case O(log n) lookup time, scapegoat trees have no additional per-node memory overhead compared to a regular binary search tree: a node stores only a key and two pointers to the child nodes. This makes scapegoat trees easier to implement and, due to data structure alignment, can reduce node overhead by up to one-third
+    @created 1381027482418
+    @sharability 0.75
+    @weight 0.5

@@ -1,5 +1,0 @@
-* :hNaOdkn: for execution, OpenCQ relies on underlying relational database triggers where available, and when unavailable, uses polling (e.g. every 30 seconds)
-    @created 1351478043892
-    @sharability 0.75
-    @weight 0.5
-    * :1d25Lpf: 

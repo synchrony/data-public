@@ -1,0 +1,4 @@
+* :j2ZgzRhTbmUpiG3b: sudo cp /var/root/.ssh/id_rsa.pub /var/root/.ssh/authorized_keys
+    @created 1395087692036
+    @sharability 0.75
+    @weight 0.5

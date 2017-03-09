@@ -1,0 +1,4 @@
+* :ZKpyOVOrZwHz58Xg: docker inspect --format='{{range .NetworkSettings.Networks}}{{.IPAddress}}{{end}}' web
+    @created 1487921443723
+    @sharability 0.75
+    @weight 0.5

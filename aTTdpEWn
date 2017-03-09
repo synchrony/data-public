@@ -1,4 +1,0 @@
-* :TTdpEWn: high variance: jtrain stays pretty low, but rises with ddata like in the other case. jcv falls like in the other case, but slow. they stay far apart. that gap identifies the variance (overfit) problem.
-    @created 1474361858197
-    @sharability 0.75
-    @weight 0.5

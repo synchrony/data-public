@@ -1,0 +1,8 @@
+* :zVISB2jDnySVcJas: RenameMe
+    @created 1395067736444
+    @sharability 0.75
+    @weight 0.5
+
+./configure
+make
+make install

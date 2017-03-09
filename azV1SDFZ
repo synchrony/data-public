@@ -1,4 +1,0 @@
-* :zV1SDFZ: XJoin is a non-blocking join operator with a small memory footprint.  It is optimized to produce initial results quickly and can hide intermittent delays in data arrival by reactively scheduling background processing
-    @created 1351735817166
-    @sharability 0.75
-    @weight 0.5

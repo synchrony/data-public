@@ -1,0 +1,13 @@
+* :vypvEu12B8wpoumS: RenameMe
+    @created 1334015392432
+    @sharability 0.75
+    @weight 0.5
+
+wget http://mirrors.ibiblio.org/apache/lucene/solr/3.5.0/apache-solr-3.5.0.tgz
+tar -xzf apache-solr-3.5.0.tgz
+ln -s $PWD/apache-solr-3.5.0 current
+
+# Standalone example
+cd current/example
+java -jar start.jar
+# Now visit http://localhost:8983/solr/admin

@@ -1,4 +1,0 @@
-* :U1tXsIo: "Implicit connection based on context proximity means that artefacts will be automatically connected if their individual contexts are within certain proximity, depending on a suitable distance metric. For example, artefacts or devices worn by a person will experience similar context (e.g. same movement patterns) which could be used to establish a private body network that is not easily fooled to provide information access to other devices that may be detected near-by."
-    @created 1436022460825
-    @sharability 0.75
-    @weight 0.5

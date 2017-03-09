@@ -1,4 +1,0 @@
-* :bdXln2S: grouping makes it possible to test the “firing” conditions of many continuous queries together, avoiding unnecessary invocations
-    @created 1351450421785
-    @sharability 0.75
-    @weight 0.5

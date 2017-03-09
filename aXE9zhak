@@ -1,4 +1,0 @@
-* :XE9zhak: a form of automatic memory management. The garbage collector, or just collector, attempts to reclaim garbage, or memory occupied by objects that are no longer in use by the program
-    @created 1380832059394
-    @sharability 0.75
-    @weight 0.5

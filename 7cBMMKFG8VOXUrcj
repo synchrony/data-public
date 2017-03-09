@@ -1,0 +1,4 @@
+* :7cBMMKFG8VOXUrcj: select * from system.schema_keyspaces;
+    @created 1392090831250
+    @sharability 0.75
+    @weight 0.5

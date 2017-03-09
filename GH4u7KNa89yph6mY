@@ -1,0 +1,4 @@
+* :GH4u7KNa89yph6mY: "Data is self-describing. If an application consuming Linked Data encounters data described with an unfamiliar vocabulary, the application can dereference the URIs that identify vocabulary terms in order to find their definition."
+    @created 1444303595080
+    @sharability 0.75
+    @weight 0.5

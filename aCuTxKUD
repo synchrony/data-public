@@ -1,4 +1,0 @@
-* :CuTxKUD: a design pattern in which a number of threads are created to perform a number of tasks, which are usually organized in a queue
-    @created 1381001006590
-    @sharability 0.75
-    @weight 0.5
