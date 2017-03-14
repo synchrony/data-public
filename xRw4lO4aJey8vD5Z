@@ -1,0 +1,4 @@
+* :xRw4lO4aJey8vD5Z: ideally, attach items in SmSn to parts of the code without having to duplicate the code. for instance attach a SmSn note to a function by referring in SmSn to the library folder and the fully-qualified name of the function in that library
+    @created 1489473357876
+    @sharability 0.75
+    @weight 0.5
