@@ -1,0 +1,4 @@
+* :8hpdbVF4iWwR5n1J: for example, when I trigger the "log of medication use" script, I am led through the process of choosing the medication and dosage and adding a comment if I choose.  A log event with the current date and the comment is then added to the appropriate medication-specific log.
+    @created 1370679939713
+    @sharability 0.75
+    @weight 0.5
