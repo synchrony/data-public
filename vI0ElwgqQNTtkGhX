@@ -1,0 +1,4 @@
+* :vI0ElwgqQNTtkGhX: I give the purchase log event a weight of 0.75 when I place the order, so as to make it stand out in the log, then I downgrade it to 0.5 after I have received the order
+    @created 1371591394154
+    @sharability 0.75
+    @weight 0.5

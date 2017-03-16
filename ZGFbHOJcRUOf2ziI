@@ -1,5 +1,5 @@
-* :ZGFbHOJcRUOf2ziI: JeffreyBenjaminBrown/docker-smsn: Install Semantic Synchrony (SmSn) via Docker (web page)
-    @alias https://github.com/JeffreyBenjaminBrown/docker-smsn
+* :ZGFbHOJcRUOf2ziI: synchrony/docker-smsn: Install Semantic Synchrony (SmSn) via Docker (web page)
+    @alias https://github.com/synchrony/docker-smsn
     @created 1488425713315
     @sharability 0.75
     @weight 0.5

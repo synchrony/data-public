@@ -3,4 +3,28 @@
     @sharability 0.75
     @weight 0.5
 
-git filter-branch --tree-filter 'mkdir moved; git ls-tree --name-only $GIT_COMMIT | xargs -I files mv files moved'
+* Moving Files from one Git Repository to Another, Preserving History | Greg Bayer (web page)
+                @alias http://gbayer.com/development/moving-files-from-one-git-repository-to-another-preserving-history/
+                
+# Get files ready for the move
+
+```
+git clone <git repository A url>
+cd <git repository A directory>
+git remote rm origin
+git filter-branch --subdirectory-filter <directory 1> -- --all
+mkdir <directory 1>
+mv * <directory 1>
+git add .
+git commit
+```
+
+# Merge files into the new repository
+
+```
+git clone <git repository B url>
+cd <git repository B directory>
+git remote add repo-A-branch <git repository A directory>
+git pull repo-A-branch master
+git remote rm repo-A-branch
+```
