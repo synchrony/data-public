@@ -1,0 +1,4 @@
+* :NiL7t99jRnMAX4ze: The user can create a new note by starting it with a bullet (which can be any character; we usually use (.) but it could be x or 7 instead), following that with a space, and following that with the text it should contain. When the user pushes that to the graph, a new address will be created for it.
+    @created 1490247288824
+    @sharability 0.75
+    @weight 0.5

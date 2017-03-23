@@ -1,0 +1,4 @@
+* :2iO3IMolA78Fr5BB: The user can cut or copy the note, by highlighting everything in it -- the bullet, the text, and the space between them. They can then paste it into another forward-view, to make it a child of something else. If the user copies only the text, but not the leading bullet and space, then the user only has the text. They can paste that somewhere, but it will not be recognized as the note it was copied from.
+    @created 1490247798095
+    @sharability 0.75
+    @weight 0.5

@@ -1,0 +1,4 @@
+* :wOIft64XgOVvurc2: Pulling from the graph can be important, too. If the user creates a first buffer, then leaves it open and makes edits in a different buffer, the contents of the first buffer can become out of date. When the user returns to it, they can be sure they are looking at the latest data by pulling from the graph. We could have called this refreshing the view. Note that any unsaved changes in the buffer will be lost when the user pulls from the graph.
+    @created 1490246948496
+    @sharability 0.75
+    @weight 0.5

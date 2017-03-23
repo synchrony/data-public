@@ -1,0 +1,4 @@
+* :LwQEcmoBfm0JNg4U: If you are in public and don't want your private notes visible, you can set a minimum sharability level. If the minimum is 0.5, for instance, then anything with a sharability below 0.5 will be invisible.
+    @created 1490251939115
+    @sharability 0.75
+    @weight 0.5
