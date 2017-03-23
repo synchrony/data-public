@@ -1,20 +1,43 @@
-* :NbPwo0jkSpbxwULZ: smsn + docker + joshsh
+* :NbPwo0jkSpbxwULZ: docker-smsn for the SmSn Sandbox
     @created 1488308020123
     @priority 0.25
     @sharability 0.75
     @weight 0.5
 
+# do the following within a screen session
+screen -S docker
+
 docker pull jeffreybbrown/smsn
-docker pull jeffreybbrown/smsn.2017-03-04
+#docker pull jeffreybbrown/smsn.2017-03-04
 
-export IMAGE=jeffreybbrown/smsn.2017-03-04
+export IMAGE=jeffreybbrown/smsn
+#export IMAGE=jeffreybbrown/smsn.2017-03-04
 
-# note: using --net instead of --network
-docker run -it --name "docker-smsn" -v /tmp/neo4j-docker/:/mnt/smsn-data --net="host" $IMAGE
+# on Hactar
+docker run --expose=8182 -p 127.0.0.1:8182:8182 --name "smsn-sandbox" -v /joshsh/data/smsn/sandbox/:/mnt/smsn-data -it jeffreybbrown/smsn
+
+
+
+# note: using --net instead of --network on Mac
+docker run -it --name "smsn-sandbox" -v /tmp/neo4j-docker/:/mnt/smsn-data --net="host" $IMAGE
 
 # stop and remove
-docker stop docker-smsn
-docker rm docker-smsn
+docker stop smsn-sandbox
+docker rm smsn-sandbox
 
 # open a second terminal
-docker exec -it "docker-smsn" /bin/bash
+docker exec -it "smsn-sandbox" /bin/bash
+
+# inspect the published port
+docker port smsn-sandbox 8182
+
+
+docker network create -d bridge mybridge
+
+docker network connect bridge smsn-sandbox
+
+iptables -t nat -A DOCKER -p tcp --dport 8182 -j DNAT --to-destination <CONTAINERIP>:<PORT>
+
+docker inspect smsn-sandbox
+
+sudo docker build -t joshsh/smsn:{2017-03-20} .

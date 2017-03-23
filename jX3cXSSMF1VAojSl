@@ -1,4 +1,4 @@
-* :jX3cXSSMF1VAojSl: Extendo Server receives subscription requests by default on this port
+* :jX3cXSSMF1VAojSl: SmSn Server receives P2P subscription requests by default on this port; also used as Gremlin Server's WebSocket port
     @created 1417730122624
     @sharability 0.75
     @weight 0.5
