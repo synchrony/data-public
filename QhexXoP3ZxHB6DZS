@@ -1,0 +1,4 @@
+* :QhexXoP3ZxHB6DZS: A window can be split horizontally with C-x 2, or vertically with C-x 3. That can be repeated. To make the current window occupy the entire screen, use C-x 1. To move the cursor from one window to another (in the same frame), use `C-x o`, or in move-submode, simply `o`.
+    @created 1490252292716
+    @sharability 0.75
+    @weight 0.5

@@ -1,0 +1,4 @@
+* :nWSvgzIdUoNl5ISO: smsn-mode has two submodes: edit-mode (the default) and move-submode. Every shortcut available in edit-submode is available in move-submode. Move-submode provides a few additional ones, for speed. The submode can be toggled with (C-c m).
+    @created 1490248627115
+    @sharability 0.75
+    @weight 0.5

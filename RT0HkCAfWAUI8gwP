@@ -1,0 +1,4 @@
+* :RT0HkCAfWAUI8gwP: The first space after the bullet contains some hidden text, which specifies the note's address. For instance, I might see a note that looks like `· groceries`, but if I paste it into another application, I will instead see `· :UbllhFaDamiTeUcm: groceries`. The address is there in Emacs too, but it's invisible. Since two notes can have the same text, the text is not enough to distinguish notes, but the addresses leave no ambiguity.
+    @created 1490247277536
+    @sharability 0.75
+    @weight 0.5

@@ -1,0 +1,4 @@
+* :J90KXRg7RO4mBfLt: A user can have multiple buffers (they're like windows) open at once, with unsaved changes in each. When they push their changes, they push only the changes made to the current buffer.
+    @created 1490246414467
+    @sharability 0.75
+    @weight 0.5

@@ -1,0 +1,4 @@
+* :tUV6e5wojhD4T8Dd: A note's text can have any length. The note also has an `address`, a set of 16 alphanumeric characters. Addresses are usually provided between ":" marks, so they look something like this: `:axMIDS0EmKQXqMnm:`. In addition to text and address, notes have other properties, described later.
+    @created 1490246339619
+    @sharability 0.75
+    @weight 0.5

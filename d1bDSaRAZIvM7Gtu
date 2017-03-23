@@ -1,0 +1,4 @@
+* :d1bDSaRAZIvM7Gtu: Take characters until stopped by a trailing period. Exception: it's not a trailing period if it follows v. or etc. or et. or al. or e.g. (but yes after e., that's tricky, easy hack is to include e.) or i.e. (sim) or sim.
+    @created 1490240949109
+    @sharability 0.75
+    @weight 0.5
