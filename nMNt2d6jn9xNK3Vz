@@ -1,4 +1,4 @@
-* :nMNt2d6jn9xNK3Vz: In backward-view, the root (and buffer title) remains the same, but the buffer now displays the root's parents.
+* :nMNt2d6jn9xNK3Vz: Backward-view displays the root's parents instead of its children. The root (and therefore the buffer title) remain the same.
     @created 1490246398733
     @sharability 0.75
     @weight 0.5

@@ -1,4 +1,4 @@
-* :4ih5MfG87YVUPRih: Each arrow starts at one note and ends at another. If there is an edge from x to y, we say that x is the `parent` of y, y is the `child` of x.
+* :4ih5MfG87YVUPRih: There is (currently) only one kind of relationship. Each relationship starts at one note and ends at another. If there is a relationship from x to y, we say that x is the `parent` of y, and y is the `child` of x.
     @created 1490246339619
     @sharability 0.75
     @weight 0.5

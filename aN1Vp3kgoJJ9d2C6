@@ -1,4 +1,4 @@
-* :aN1Vp3kgoJJ9d2C6: Emacs starts with one window, but it lets you create more, and lets you split one window into many, horizontally or vertically. The same window can be used first to view one buffer, then to view another. A window is always viewing a buffer, but a buffer is not necessarily always visible in some window; there can be more `open` buffers than windows.
+* :aN1Vp3kgoJJ9d2C6: Emacs starts with one window. (It lets you create more, as described in a later section.) A window in Emacs provides a view of a "buffer". A window only views one buffer at a time. There can be many open buffers even when there is only one window.
     @created 1490246487591
     @sharability 0.75
     @weight 0.5

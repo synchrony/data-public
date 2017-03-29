@@ -1,4 +1,4 @@
-* :DwVNp6i5ugOO6Wvg: In Emacs a `frame` is something that holds windows. When you start Emacs, you see a single frame, with a single window, but you can divide the frame into more windows, and you can create more frames.
+* :DwVNp6i5ugOO6Wvg: In Emacs a `frame` is something that holds windows. When you start Emacs, you see a single frame, with a single window. You can divide the frame into more windows, and you can create more frames.
     @created 1490252443792
     @sharability 0.75
     @weight 0.5
