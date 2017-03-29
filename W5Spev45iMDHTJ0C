@@ -1,0 +1,29 @@
+* :W5Spev45iMDHTJ0C: more precise pressure altitude formula, in R
+    @created 1489762329338
+    @sharability 0.75
+    @weight 0.5
+
+# set to station pressure.  Note that this is not the altimeter setting.
+p.sta.inhg <- 29.92
+
+oat.f <- 59
+
+
+########################################
+# station pressure to pressure altitude
+
+p.sta.mmhg <- p.sta.inhg * 25.4
+p.sta.mb <- 1.333224 * p.sta.mmhg
+
+h.alt.ft <- (1-(p.sta.mb/1013.25)^0.190284) * 145366.45
+
+h.alt.m <- 0.3048 * h.alt.ft
+
+
+########################################
+# pressure altitude and OAT to density altitude
+
+isa.c <- 15
+oat.c <- (oat.f - 32) * 5/9
+
+d.alt.ft <- h.alt.ft + 120*(oat.c - isa.c)
