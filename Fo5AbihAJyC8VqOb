@@ -1,4 +1,4 @@
-* :Fo5AbihAJyC8VqOb: We discussed two properties already: address and text. Notes also have a time of creation. Address and time of creation are immutable -- the user can't change them.
+* :Fo5AbihAJyC8VqOb: We discussed two properties already: address and text. Those are mandatory. Notes also have a time of creation. Address and time of creation are immutable -- the user does not choose them, and the user cannot change them.
     @created 1490250705346
     @sharability 0.75
     @weight 0.5

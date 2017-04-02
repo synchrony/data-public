@@ -1,0 +1,4 @@
+* :pDHKOvJGMUmJpzRk: You will know which submode you are in by the color of the cursor: It is black in edit-submode, and green in move-submode. Toggle between them with C-c m.
+    @created 1490306335025
+    @sharability 0.75
+    @weight 0.5

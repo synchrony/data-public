@@ -1,0 +1,4 @@
+* :aQ64qGAfR9cKtCIp: If a note is its own parent, then when it is the root of the view, it will be both the title of the view and one of the members of the view.
+    @created 1490305293275
+    @sharability 0.75
+    @weight 0.5
