@@ -1,4 +1,4 @@
-* :NbPwo0jkSpbxwULZ: docker-smsn for the SmSn Sandbox
+* :NbPwo0jkSpbxwULZ: initial setup of the SmSn Sandbox
     @created 1488308020123
     @priority 0.25
     @sharability 0.75
@@ -20,10 +20,6 @@ docker run --expose=8182 -p 127.0.0.1:8182:8182 --name "smsn-sandbox" -v /joshsh
 
 # note: using --net instead of --network on Mac
 docker run -it --name "smsn-sandbox" -v /tmp/neo4j-docker/:/mnt/smsn-data --net="host" $IMAGE
-
-# stop and remove
-docker stop smsn-sandbox
-docker rm smsn-sandbox
 
 # open a second terminal
 docker exec -it "smsn-sandbox" /bin/bash
