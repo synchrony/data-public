@@ -1,0 +1,11 @@
+* :pYwo3IV94ld9n9h0: data fields
+    @created 1491189854234
+    @sharability 0.75
+    @weight 0.5
+
+public class EnumTest {
+    Day day;
+    
+    public EnumTest(Day day) {
+        this.day = day;
+    }
