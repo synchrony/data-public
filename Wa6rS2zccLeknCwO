@@ -1,5 +1,10 @@
-* :Wa6rS2zccLeknCwO: :remote connect tinkerpop.server conf/remote.yaml
+* :Wa6rS2zccLeknCwO: Gremlin remote console
     @created 1488838284713
     @sharability 0.75
     @weight 0.5
-    * :L85j3tb2ExopW8AF: 
+
+:remote connect tinkerpop.server conf/remote.yaml
+
+:remote console
+
+g.V().count()
