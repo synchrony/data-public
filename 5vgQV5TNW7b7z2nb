@@ -18,7 +18,7 @@ Note: do *not* remove the previous image
 docker stop smsn-sandbox
 docker rm smsn-sandbox
 
-# run the container
+# run the container (see variables below)
 
 sudo docker run --name $NAME -p 8182:8182 -d -h $HOST -v /joshsh/data/smsn/sandbox/:/mnt/smsn-data $IMAGE:$VERSION
 
