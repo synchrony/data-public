@@ -1,0 +1,7 @@
+* :qxfiPsCtcMkSFf0A: example from smsn.Note
+    @created 1472282712968
+    @sharability 0.75
+    @weight 0.5
+
+public Note(final Note copy) {
+        this();

@@ -1,0 +1,4 @@
+* :KbIW12ajyxa94zqn: oneMoveAway :: Position -> LSpec (explains how the knight can move) -> BoardSpec -> [Position]
+    @created 1491340523637
+    @sharability 0.75
+    @weight 0.5

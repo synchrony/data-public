@@ -1,0 +1,17 @@
+* :Wq3OInUAJUpIJWyl: ? revert this node
+    @created 1491833483014
+    @sharability 0.75
+    @weight 0.5
+
+jeff@jbb-thinkpad:~/smsn+/kb/vcs/personal$ git diff
+diff --git a/e5rXp2NpiBdNuRAh b/e5rXp2NpiBdNuRAh
+index 84be7f2..d8d10a1 100644
+--- a/e5rXp2NpiBdNuRAh
++++ b/e5rXp2NpiBdNuRAh
+@@ -1,4 +1,4 @@
+-* :e5rXp2NpiBdNuRAh: ?
++* :e5rXp2NpiBdNuRAh: this node's text used to be a single question mark
+     @created 1469061934319
+     @sharability 0.5
+     @weight 0.5
+jeff@jbb-thinkpad:~/smsn+/kb/vcs/personal$ cd ..

@@ -1,0 +1,4 @@
+* :knO20eL4Wx1VhTGW: The first call to previous returns the same element as the last call to next. Similarly, the first call to next after a sequence of calls to previous returns the same element as the last call to previous.
+    @created 1469061912093
+    @sharability 0.75
+    @weight 0.5

@@ -1,0 +1,4 @@
+* :DnEd6EGD99L2HCFC: also works for calling the parent class constructor, but there needn't be such a parent if it's in a copy constructor
+    @created 1472282829335
+    @sharability 0.75
+    @weight 0.5

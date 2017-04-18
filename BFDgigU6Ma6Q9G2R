@@ -1,0 +1,5 @@
+* :BFDgigU6Ma6Q9G2R: iterate through the cells. for each, test if it has a neighbor in one of the sets. if so, add it. if not, create a new region.
+    @created 1491343445734
+    @sharability 0.75
+    @weight 0.5
+    * :zPiLKXe3BI96saom: 

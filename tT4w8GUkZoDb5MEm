@@ -1,0 +1,4 @@
+* :tT4w8GUkZoDb5MEm: I could have sworn that sometimes you need to run nextLine() just to get to the next line, before reading it. Hackerrank even warned me about it, and I marked the code "// critical".
+    @created 1491359288047
+    @sharability 0.75
+    @weight 0.5

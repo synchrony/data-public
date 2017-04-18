@@ -1,0 +1,9 @@
+* :USXcpVSpQV8ZaIge: declare one
+    @created 1491189976795
+    @sharability 0.75
+    @weight 0.5
+
+public enum Day {
+    SUNDAY, MONDAY, TUESDAY, WEDNESDAY,
+    THURSDAY, FRIDAY, SATURDAY 
+}
