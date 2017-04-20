@@ -1,0 +1,7 @@
+* :MXnvyuj52g8FlIMC: [already exists!] "copy focus id to clipboard" shortcut
+    @created 1492667229392
+    @priority 0.5
+    @sharability 0.75
+    @weight 0.25
+
+(define-key smsn-mode-map (kbd "C-c .")           'smsn-copy-root-reference-to-clipboar) ;; yes!
