@@ -39,6 +39,6 @@ docker inspect smsn-sandbox
 sudo docker build -t joshsh/smsn:{2017-03-20} .
 
 # test Websocket connection
-host=localhost
-port=8182
-curl -i -N -vv -H "Connection: Upgrade" -H "Upgrade: websocket" -H "Host: $host" -H "Origin: http://$host" -k "http://$host:$port/gremlin"
+HOST=localhost
+PORT=8182
+curl -i -N -vv -H "Connection: Upgrade" -H "Upgrade: websocket" -H "Host: $host" -H "Origin: http://$HOST" -k "http://$HOST:$PORT/gremlin"
