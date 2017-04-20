@@ -1,0 +1,21 @@
+* :ymhkuCeky6Wmy7Hx: check_for_module.py
+    @created 1492716634576
+    @sharability 0.75
+    @weight 0.5
+
+import sys
+import imp
+
+if len(sys.argv) < 2:
+    print "missing argument"
+    exit()
+
+module = sys.argv[1]
+
+try:
+    imp.find_module(module)
+    found = True
+except ImportError:
+    found = False
+
+print "found: " + str(found)
