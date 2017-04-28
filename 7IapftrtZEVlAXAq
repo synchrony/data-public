@@ -1,0 +1,11 @@
+* :7IapftrtZEVlAXAq: What is AtomBase?
+    @created 1492976127368
+    @sharability 0.75
+    @weight 0.5
+
+It has a bunch of empty-looking functions that suggest it is never used, for instance
+
+    @Override
+    public EntityList<Atom> getChildren() {
+        return null;
+    }

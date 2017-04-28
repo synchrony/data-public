@@ -1,0 +1,4 @@
+* :E8emnMCapVf2JOzz: To merge nodes losslessly.: prepend into the text of the discarded node "merged with x", where x = the address of the node that received its content.
+    @created 1492842515424
+    @sharability 0.75
+    @weight 0.5
