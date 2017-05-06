@@ -1,0 +1,6 @@
+* :JZMCmK0zXxvy5ydH: only build connections you want to follow
+    @created 1494043392219
+    @sharability 0.75
+    @weight 0.5
+
+the implicit "boring" property, helpful to ((?at most) recognize and) not record

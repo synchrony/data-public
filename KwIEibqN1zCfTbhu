@@ -1,0 +1,9 @@
+* :KwIEibqN1zCfTbhu: <> is like /
+    @created 1493537197143
+    @priority 0.5
+    @sharability 0.75
+    @weight 0.5
+
+equivalent:
+d1 $ sound "bd <arpy:1 arpy:2 arpy:3>"
+d1 $ sound "bd [arpy:1 arpy:2 arpy:3]/3"
