@@ -1,4 +1,4 @@
-* :Txvea03YJC68Y5CX: Each view of the graph generated in smsn-mode is assigned its own buffer. If you view the buffer list (`C-x C-b`), it can look like you've got a lot of files open, but they're all just views onto the same graph. When you run a search in smsn, its search results are presented in a new buffer.
+* :Txvea03YJC68Y5CX: [markdown]Each view of the graph generated in smsn-mode is assigned its own buffer. If you view the buffer list (`C-x C-b`), it can look like you've got a lot of files open, but they're all just views onto the same graph. When you run a search in smsn, its search results are presented in a new buffer.
     @created 1490246379805
     @sharability 0.75
     @weight 0.5

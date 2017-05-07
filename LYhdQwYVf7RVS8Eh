@@ -1,0 +1,4 @@
+* :LYhdQwYVf7RVS8Eh: sed 's/^\[markdown\]/\n/' medit.2.md > medit.3.md
+    @created 1494130934229
+    @sharability 0.75
+    @weight 0.5

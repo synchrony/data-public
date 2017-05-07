@@ -1,4 +1,4 @@
-* :D4hnJoA9KCiKdLXq: A note can have an `alias`, or URL, associated with it. From such a note in SmSn, you can open the alias in your browser by pressing `C-c C-a C-t b`. Moreover, if you have the SmSn Chrome Plugin installed, from a page in Chrome you can create a note formatted for SmSn, with an alias and a human-readable text field.
+* :D4hnJoA9KCiKdLXq: [markdown]A note can have an `alias`, or URL, associated with it. From such a note in SmSn, you can open the alias in your browser by pressing `C-c C-a C-t b`. Moreover, if you have the SmSn Chrome Plugin installed, from a page in Chrome you can create a note formatted for SmSn, with an alias and a human-readable text field.
     @created 1490250824403
     @sharability 0.75
     @weight 0.5
