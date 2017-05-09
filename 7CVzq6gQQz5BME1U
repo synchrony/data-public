@@ -1,4 +1,4 @@
-* :7CVzq6gQQz5BME1U: Edit-submode shortcuts begin with `C-c`, and are always available. If a comand involves a modifier key (`C` or `M`) and does not start with `C-c`, then it is built into Emacs, and works both in smsn-mode and in other modes. If a shortcut does not involve a modifier key, it is only available while in move-submode.
+* :7CVzq6gQQz5BME1U: [markdown]Edit-submode shortcuts begin with `C-c`, and are always available. If a comand involves a modifier key (`C` or `M`) and does not start with `C-c`, then it is built into Emacs, and works both in smsn-mode and in other modes. If a shortcut does not involve a modifier key, it is only available while in move-submode.
     @created 1490248990862
     @sharability 0.75
     @weight 0.5

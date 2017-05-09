@@ -1,0 +1,9 @@
+* :9UEG7ippAZOazv68: "marking out feet" with .
+    @created 1493537095885
+    @priority 0.5
+    @sharability 0.75
+    @weight 0.5
+
+equivalent:
+d1 $ sound "bd bd . sd sd sd . bd sd"
+d1 $ sound "[bd bd] [sd sd sd] [bd sd]"

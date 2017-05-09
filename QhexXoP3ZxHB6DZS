@@ -1,4 +1,4 @@
-* :QhexXoP3ZxHB6DZS: A window can be split horizontally with `C-x 2`, or vertically with `C-x 3`. That can be repeated. To make the current window occupy the entire frame, use `C-x 1`. To switch between windows in a frame, use `C-x o`, or in move-submode, simply `o`.
+* :QhexXoP3ZxHB6DZS: [markdown]A window can be split horizontally with `C-x 2`, or vertically with `C-x 3`. That can be repeated. To make the current window occupy the entire frame, use `C-x 1`. To switch between windows in a frame, use `C-x o`, or in move-submode, simply `o`.
     @created 1490252292716
     @sharability 0.75
     @weight 0.5

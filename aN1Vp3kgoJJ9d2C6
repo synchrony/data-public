@@ -1,4 +1,4 @@
-* :aN1Vp3kgoJJ9d2C6: Emacs starts with one window. (It lets you create more, as described in a later section.) A window in Emacs provides a view of a "buffer". A window only views one buffer at a time. There can be many open buffers even when there is only one window.
+* :aN1Vp3kgoJJ9d2C6: [markdown]Emacs starts with one window. (It lets you create more, as described in a later section.) A window in Emacs provides a view of a "buffer". A window only views one buffer at a time. There can be many open buffers even when there is only one window.
     @created 1490246487591
     @sharability 0.75
     @weight 0.5

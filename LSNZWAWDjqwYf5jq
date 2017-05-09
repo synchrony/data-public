@@ -1,0 +1,9 @@
+* :LSNZWAWDjqwYf5jq: Recipe
+    @created 1493448730064
+    @sharability 0.75
+    @weight 0.5
+
+Make a new string property, "freeplane font".
+Set it for a test atom, using Gremlin.
+Add a column for it.
+For each font, for each of its parents, assign the font node's title to its font property.

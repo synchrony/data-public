@@ -1,4 +1,4 @@
-* :2duC6n1308KxyJU4: if lost, consider the path history, rather than starting it over. (it=the path history)
+* :2duC6n1308KxyJU4: if lost, review (depth-first, depth bounded to taste) the path history, rather than starting it over. (it=the path history)
     @created 1492408282061
     @sharability 0.75
     @weight 0.5
