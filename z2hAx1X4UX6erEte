@@ -1,0 +1,4 @@
+* :z2hAx1X4UX6erEte: when retrieve buffer from list without reloading, warn user, prompt(allowing exploration of file before answering) to choose reload or find changes
+    @created 1494471983706
+    @sharability 0.75
+    @weight 0.5
