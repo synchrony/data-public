@@ -2,4 +2,27 @@
     @created 1479410392188
     @sharability 0.75
     @weight 0.5
-    * :ePpCRJIRLM7n42BW: 
+
+# limit load factor
+n.limit
+
+# reference weight
+w0
+
+# actual weight
+w
+
+# stall speed at reference weight
+vs0
+
+* maneuvering speed at reference weight
+va0
+
+# stall speed
+vs <- vs0 * sqrt(w/w0)
+
+# maneuvering speed
+va <- vs * sqrt(n.limit)
+
+# alternative method
+va <- va0 * sqrt(w/w0)
