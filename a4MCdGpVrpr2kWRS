@@ -1,4 +1,3 @@
 * :a4MCdGpVrpr2kWRS: a creational design pattern in software development first described in Design Patterns, the book. It is used when the type of objects to create is determined by a prototypical instance, which is cloned to produce new objects
     @created 1380992747339
-    @sharability 0.75
     @weight 0.5

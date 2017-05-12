@@ -1,4 +1,3 @@
 * :WAUytRSnKeY7iZlp: sensors behave very differently from traditional database sources: they have intermittent connectivity, are limited by severe power constraints, and typically sample periodically and push immediately, keeping no record of historical information
     @created 1351484980937
-    @sharability 0.75
     @weight 0.5

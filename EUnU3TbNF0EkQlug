@@ -1,4 +1,3 @@
 * :EUnU3TbNF0EkQlug: the process of abstracting disparate systems (databases, applications, file repositories, websites, data services vendors, etc.) through a single data access layer (which may be any of several data access mechanisms)
     @created 1352695165010
-    @sharability 0.75
     @weight 0.5

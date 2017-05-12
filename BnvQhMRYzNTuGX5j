@@ -1,7 +1,6 @@
 * :BnvQhMRYzNTuGX5j: the bug (from an email)
-    @alias https://mail.google.com/mail/u/0/#sent/15b745cfbff0cfa6
     @created 1492307134018
-    @sharability 0.75
+    @alias https://mail.google.com/mail/u/0/#sent/15b745cfbff0cfa6
     @weight 0.5
 
 I can reliably repeat it now. I have a big collection somewhere, of nodes that I suspect might be broken; I'm reading through them to see if in fact they have the parents they should have. I'll read through the top few, decide they're okay, and delete them. After that I'll visit the node N that's at the top of the list. Close that, return to the big list. Now I switch to forward view (I'm already in it) and the view reverts to a view of N.

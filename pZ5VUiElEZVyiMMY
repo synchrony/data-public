@@ -1,4 +1,3 @@
 * :pZ5VUiElEZVyiMMY: the master maintains all file system metadata.  It stores three major types of metadata: the file and chunknamespaces, the mapping from ﬁles to chunks, and the locations of each chunk’s replicas
     @created 1401120928147
-    @sharability 0.75
     @weight 0.5

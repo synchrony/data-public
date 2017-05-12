@@ -1,4 +1,3 @@
 * :2qWoomPt404X6MLl: "When a new notification arrives at the super-peer, it is first matched against the root subscriptions of its local subscription poset (see also figure 2). In case of a match with the subscription stored in a root node R, the notification is further matched against the children of R, which contain subscriptions refining the subscription from R. For each match, the notification is sent to a group of peers/super-peers (those where the subscription came from), thus following backwards the exact path of the subscription."
     @created 1329775180195
-    @sharability 0.75
     @weight 0.5

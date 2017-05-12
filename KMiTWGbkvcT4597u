@@ -1,6 +1,5 @@
 * :KMiTWGbkvcT4597u: Weather Underground API
     @created 1489252085574
-    @sharability 0.75
     @weight 0.5
 
 export WUKEY=...

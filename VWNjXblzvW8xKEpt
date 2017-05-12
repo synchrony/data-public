@@ -1,4 +1,3 @@
 * :VWNjXblzvW8xKEpt: String encoded = s.bytes.encodeBase64().toString()
     @created 1440541630478
-    @sharability 0.75
     @weight 0.5

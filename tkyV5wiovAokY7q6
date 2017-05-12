@@ -1,6 +1,5 @@
 * :tkyV5wiovAokY7q6: RenameMe
     @created 1421637926183
-    @sharability 0.75
     @weight 0.5
 
 O(j) = best of {{j} + O(p(j)), O(j-1)}

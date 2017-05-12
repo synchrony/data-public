@@ -1,6 +1,5 @@
 * :U4eL6xgnv3ZdNIxF: RenameMe
     @created 1416441942982
-    @sharability 0.75
     @weight 0.5
 
 For 5-digit numbers of base 64, expect a collision after 40969 trials (on average).

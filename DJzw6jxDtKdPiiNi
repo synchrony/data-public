@@ -1,4 +1,3 @@
 * :DJzw6jxDtKdPiiNi: stated differently, recursive searches can be more easily guaranteed to terminate if there is a variety of edges to follow and some are treated differently. for instance, when you are searching for "sugar" and "x uses sugar", unfolding x is not needed.
     @created 1485301191659
-    @sharability 0.75
     @weight 0.5

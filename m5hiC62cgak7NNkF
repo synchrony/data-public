@@ -1,4 +1,3 @@
 * :m5hiC62cgak7NNkF: when using Extend-o-Brain in front of other people, or a new set of people, first close Emacs without viewing it, then start a fresh session.  This gets rid of buffers which may be too private or which might not suit the context, starts you off with personal sharability rather than private, and generally avoids the awkward situation of having to divert the audience or remove content you don't want to be seen, sometimes too late
     @created 1432059139160
-    @sharability 0.75
     @weight 0.5

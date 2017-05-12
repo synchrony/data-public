@@ -1,4 +1,3 @@
 * :wGy3M8G9PXmhkzUy: cat chrY.fa | tr '[actgACTG]' '\n' | grep "."
     @created 1329517502460
-    @sharability 0.75
     @weight 0.5

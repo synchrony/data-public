@@ -1,6 +1,5 @@
 * :L4ouD7gpDjgdYlyq: example from SmSn
     @created 1472283425259
-    @sharability 0.75
     @weight 0.5
 
 public void setValue(final String value) {

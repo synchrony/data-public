@@ -1,4 +1,3 @@
 * :xs8HXlrobWWnT7Xs: windows may be either physical (defined in terms number of triples) or logical (defined in terms of time frame).  Logical windows are further subdivided into sliding and tumbling windows, the latter of which are non-overlapping because they advance by exactly their time interval at each iteration
     @created 1368776645170
-    @sharability 0.75
     @weight 0.5

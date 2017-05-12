@@ -1,4 +1,3 @@
 * :LCNxK10FfnKQkFdO: two contexts overlap if and only if they share a part that is not identical to the empty (i.e., non-existing) context, while two contexts underlap if and only if they are both part of a context that is not identical to the whole domain. A connection can be introduced between two contexts, which is a reflexive and symmetric relation. These relations are considered crucial in modelling the notions of reachability in a conceptual hierarchy.
     @created 1444160477876
-    @sharability 0.75
     @weight 0.5

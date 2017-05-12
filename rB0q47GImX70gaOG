@@ -1,4 +1,3 @@
 * :rB0q47GImX70gaOG: the switch in the rain gauge closes only momentarily, connecting to GND, when the bucket tips and one hears a click; the output floats the rest of the time
     @created 1473308873879
-    @sharability 0.75
     @weight 0.5

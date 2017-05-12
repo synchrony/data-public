@@ -1,5 +1,4 @@
 * :4EqxPdls9ydvL20k: RDF 1.1 Turtle (web page)
-    @alias http://www.w3.org/TR/turtle/
     @created 1420654909409
-    @sharability 0.75
+    @alias http://www.w3.org/TR/turtle/
     @weight 0.5

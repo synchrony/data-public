@@ -1,4 +1,3 @@
 * :OQUct6qlKlFMZA9C: when an owl:sameAs relationship is asserted or inferred between two entities that are known to be classes, an owl:equivalentClass relationship is inferred between the classes. Similarly, when an owl:sameAs relationship is asserted or inferred between two entities that are known to be properties, an owl:equivalentProperty relationship is inferred between the classes
     @created 1349461828568
-    @sharability 0.75
     @weight 0.5

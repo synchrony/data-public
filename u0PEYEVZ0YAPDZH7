@@ -1,4 +1,3 @@
 * :u0PEYEVZ0YAPDZH7: for speed, could mark leaves, compute the ancestry from each leaf, then reuse it (rather than recompute it) by dropping the leaf
     @created 1491344183316
-    @sharability 0.75
     @weight 0.5

@@ -1,4 +1,3 @@
 * :owMhmyMwukOOICLm: matrix[ seq(matrix,matrix) ] works unless seq = np.array. (seq = list, for instance, works)
     @created 1477085335574
-    @sharability 0.75
     @weight 0.5

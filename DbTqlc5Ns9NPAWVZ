@@ -1,6 +1,5 @@
 * :DbTqlc5Ns9NPAWVZ: RenameMe
     @created 1367641001031
-    @sharability 0.75
     @weight 0.5
 
 as.POSIXlt(Sys.time(), tz="America/Los_Angeles")

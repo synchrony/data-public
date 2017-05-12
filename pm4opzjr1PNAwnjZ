@@ -1,5 +1,4 @@
 * :pm4opzjr1PNAwnjZ: for 5V, the current limiting resistor should be 100 ohm (going by the datasheet for the common-cathode model)
     @created 1453447207111
-    @sharability 0.75
     @weight 0.5
     * :V1it44J4P568AQty: 

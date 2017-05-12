@@ -1,4 +1,3 @@
 * :5t0BPbvvzAAzagr7: "docker build ." uses . as the context, and expects a Dockerfile to be there
     @created 1487982332927
-    @sharability 0.75
     @weight 0.5

@@ -1,4 +1,3 @@
 * :OS1YFL7mV622jGGc: docker exec -t bsa-postgres sh -c 'mkdir /tmp/foo'
     @created 1446598119212
-    @sharability 0.75
     @weight 0.5

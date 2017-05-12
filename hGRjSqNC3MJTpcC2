@@ -1,6 +1,5 @@
 * :hGRjSqNC3MJTpcC2: replace one branch entirely with another
     @created 1487547095333
-    @sharability 0.75
     @weight 0.5
 
 git checkout replacement

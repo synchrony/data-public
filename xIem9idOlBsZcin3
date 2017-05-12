@@ -1,4 +1,3 @@
 * :xIem9idOlBsZcin3: each process performs its own operations in the order defined by its program. There is no constraint on the ordering in which the write operations of other processes appear to be performed
     @created 1463348528084
-    @sharability 0.75
     @weight 0.5

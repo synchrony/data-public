@@ -1,6 +1,5 @@
 * :MSIUWYUVChCjCVBb: RenameMe
     @created 1392744330577
-    @sharability 0.75
     @weight 0.5
 
 g = new LinkedDataSailGraph(new MemoryStoreSailGraph())

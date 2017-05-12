@@ -1,4 +1,3 @@
 * :gajnATyTk9yGMYnN: a type of sorting algorithm that only reads the list elements through a single abstract comparison operation (often a "less than or equal to" operator or a three-way comparison) that determines which of two elements should occur first in the final sorted list
     @created 1380914744095
-    @sharability 0.75
     @weight 0.5

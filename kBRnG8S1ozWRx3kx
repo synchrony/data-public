@@ -1,6 +1,5 @@
 * :kBRnG8S1ozWRx3kx: RenameMe
     @created 1398177558858
-    @sharability 0.75
     @weight 0.5
 
 //g = TitanFactory.open('conf/titan-cassandra-es.properties')

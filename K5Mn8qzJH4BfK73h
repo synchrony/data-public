@@ -1,4 +1,3 @@
 * :K5Mn8qzJH4BfK73h: read.table(file("/tmp/dblp-article-makers.tsv"), header=FALSE, col.names=c("article", "person"))
     @created 1445979294636
-    @sharability 0.75
     @weight 0.5

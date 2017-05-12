@@ -1,4 +1,3 @@
 * :zuvZRegQXktvvc7X: a graph analysis algorithm for finding shortest paths in a weighted graph with positive or negative edge weights (but with no negative cycles, see below) and also for finding transitive closure of a relation R
     @created 1381095909765
-    @sharability 0.75
     @weight 0.5

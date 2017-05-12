@@ -1,4 +1,3 @@
 * :4klYVWxhszpBQgGQ: An example of a stronger generalization: the (/)-operated-on "note" is assigned a process that plays pitch E, then bends into F#, then silent for a beat -- but it only applies during the first four beats of the 8-beat superpattern (and it freezes state for the other four)
     @created 1489635458940
-    @sharability 0.75
     @weight 0.5

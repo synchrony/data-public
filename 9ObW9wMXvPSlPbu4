@@ -1,4 +1,3 @@
 * :9ObW9wMXvPSlPbu4: the transformation of trajectory sample points into stops and moves reduces the search space in two main parts: (i) stops, where a set of sample points is transformed into a geographic object that has a meaning; (ii) moves, where the sample points are reduced to a small part of a trajectory between two stops
     @created 1427736986668
-    @sharability 0.75
     @weight 0.5

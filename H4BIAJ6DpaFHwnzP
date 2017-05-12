@@ -1,4 +1,3 @@
 * :H4BIAJ6DpaFHwnzP: a software architecture based on the idea that changing the value of a variable should automatically force recalculation of the values of variables which depend on its value
     @created 1362500498563
-    @sharability 0.75
     @weight 0.5

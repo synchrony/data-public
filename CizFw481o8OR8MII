@@ -1,6 +1,5 @@
 * :CizFw481o8OR8MII: RenameMe
     @created 1394295433656
-    @sharability 0.75
     @weight 0.5
 
 File f = new File("/tmp/twitlogic-full.trig.gz");

@@ -1,6 +1,5 @@
 * :7UTezramxdYqjE3r: RenameMe
     @created 1412530297114
-    @sharability 0.75
     @weight 0.5
 
 install.packages('gmp')

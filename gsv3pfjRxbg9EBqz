@@ -1,4 +1,3 @@
 * :gsv3pfjRxbg9EBqz: each triple store directory hard-codes its own location in parameters.dat.  You must edit that file when moving the directory
     @created 1327629353718
-    @sharability 0.75
     @weight 0.5

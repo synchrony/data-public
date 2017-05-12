@@ -1,6 +1,5 @@
 * :3TKW9o9x0Fxmo644: create, attach, and mount an EBS volume
     @created 1488084636924
-    @sharability 0.75
     @weight 0.5
 
 # first create and attach the volume, then

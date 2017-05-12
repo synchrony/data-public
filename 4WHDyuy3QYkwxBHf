@@ -1,4 +1,3 @@
 * :4WHDyuy3QYkwxBHf: a messaging pattern where senders of messages, called publishers, do not program the messages to be sent directly to specific receivers, called subscribers. Instead, published messages are characterized into classes, without knowledge of what, if any, subscribers there may be. Similarly, subscribers express interest in one or more classes, and only receive messages that are of interest, without knowledge of what, if any, publishers there are
     @created 1380997740111
-    @sharability 0.75
     @weight 0.5

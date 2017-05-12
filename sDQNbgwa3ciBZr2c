@@ -1,4 +1,3 @@
 * :sDQNbgwa3ciBZr2c: java -Xms1G -Xmx1G -d64 -server -XX:+UseConcMarkSweepGC -jar foo.jar
     @created 1337482429987
-    @sharability 0.75
     @weight 0.5

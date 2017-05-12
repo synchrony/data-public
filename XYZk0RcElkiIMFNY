@@ -1,6 +1,5 @@
 * :XYZk0RcElkiIMFNY: multiple Dockerfiles sharing a context
     @created 1493933749587
-    @sharability 0.75
     @weight 0.5
 
 Specify the Dockerfile separately from, and in a subfolder of, the context:

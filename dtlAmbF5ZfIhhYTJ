@@ -1,4 +1,3 @@
 * :dtlAmbF5ZfIhhYTJ: a Bigtable is a sparse, distributed, persistent multi-dimensional sorted map. Each value in the map is an uninterpreted array of bytes
     @created 1401221861848
-    @sharability 0.75
     @weight 0.5

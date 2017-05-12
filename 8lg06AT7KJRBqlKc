@@ -1,4 +1,3 @@
 * :8lg06AT7KJRBqlKc: a light switch can similarly be thought of as a discrete-state machine: states intermediate between "on" and "off" do exist, but for practical purposes, we can forget about them
     @created 1344487380174
-    @sharability 0.75
     @weight 0.5

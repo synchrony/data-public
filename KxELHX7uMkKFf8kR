@@ -1,4 +1,3 @@
 * :KxELHX7uMkKFf8kR: keep a tally of how many slots are represented so far. it starts at 0. each word-slot will be labeled with an integer, starting at 1
     @created 1491344824964
-    @sharability 0.75
     @weight 0.5

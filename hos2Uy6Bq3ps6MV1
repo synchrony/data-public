@@ -1,4 +1,3 @@
 * :hos2Uy6Bq3ps6MV1: truncate edgeindex; truncate edgestore; truncate edgestore_lock_; truncate system_properties; truncate titan_ids; truncate vertexindex; truncate vertexindex_lock_;
     @created 1392672410931
-    @sharability 0.75
     @weight 0.5

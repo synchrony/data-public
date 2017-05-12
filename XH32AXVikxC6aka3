@@ -1,6 +1,5 @@
 * :XH32AXVikxC6aka3: arraycopy: for fast cloning|growing
     @created 1491191471516
-    @sharability 0.75
     @weight 0.5
 
 int[] values = {5, 4, 3, 2, 1}; // A 5-element int array

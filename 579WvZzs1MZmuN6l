@@ -1,4 +1,3 @@
 * :579WvZzs1MZmuN6l: the number of times in a second that a display hardware updates its buffer. This is distinct from the measure of frame rate in that the refresh rate includes the repeated drawing of identical frames, while frame rate measures how often a video source can feed an entire frame of new data to a display
     @created 1448931935600
-    @sharability 0.75
     @weight 0.5

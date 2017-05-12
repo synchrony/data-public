@@ -1,4 +1,3 @@
 * :AH48OVagY2BoSjAl: a design pattern that translates one interface for a class into a compatible interface. An adapter allows classes to work together that normally could not because of incompatible interfaces, by providing its interface to clients while using the original interface
     @created 1380993069184
-    @sharability 0.75
     @weight 0.5

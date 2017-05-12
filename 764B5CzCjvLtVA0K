@@ -1,5 +1,4 @@
 * :764B5CzCjvLtVA0K: instead of blocking, Hartig et al. proposed a non-blocking iterator-based join operator (NBIJ) that employs a busy-waiting strategy. Basically, it is a workaround that temporarily rejects inputs when the other inputs needed for the join are not available
     @created 1427163609980
-    @sharability 0.75
     @weight 0.5
     * :9cbECzuwwvF7Q1LR: 

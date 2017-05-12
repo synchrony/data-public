@@ -1,4 +1,3 @@
 * :qSa91eW70xr5kBmq: ffmpeg -i candle.mp4 -ss 00:00:03 -t 00:00:08 -async 1 cut.mp4
     @created 1483072495365
-    @sharability 0.75
     @weight 0.5

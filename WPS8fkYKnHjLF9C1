@@ -1,4 +1,3 @@
 * :WPS8fkYKnHjLF9C1: given a twitlogic.props containing the consumer key and consumer secret for the application (e.g. TwitLogic), copy it to /tmp and run TwitterCredentials.main()
     @created 1379393435727
-    @sharability 0.75
     @weight 0.5

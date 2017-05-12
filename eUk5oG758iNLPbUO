@@ -1,4 +1,3 @@
 * :eUk5oG758iNLPbUO: we consider the disadvantages (e.g. higher filtering load due to the absence of a central "traffic router" that has extensive knowledge about who is interested and not interested in what) to outweigh the advantages (e.g. potentially very high availability), especially given the ability of the central server to quickly recover from failure
     @created 1428523398851
-    @sharability 0.75
     @weight 0.5

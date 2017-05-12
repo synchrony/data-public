@@ -1,6 +1,5 @@
 * :P2ARQj73vMdKKIGC: RenameMe
     @created 1485049619914
-    @sharability 0.75
     @weight 0.5
 
 > let showPerson { first: x, last: y } = y <> ", " <> x

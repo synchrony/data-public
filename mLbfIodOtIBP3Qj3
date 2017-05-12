@@ -1,6 +1,5 @@
 * :mLbfIodOtIBP3Qj3: RenameMe
     @created 1368685992380
-    @sharability 0.75
     @weight 0.5
 
 import org.openrdf.rio.RDFFormat;

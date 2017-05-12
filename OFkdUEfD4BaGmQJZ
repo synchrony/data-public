@@ -1,4 +1,3 @@
 * :OFkdUEfD4BaGmQJZ: a simple implementation using an adjacency matrix graph representation and searching an array of weights to find the minimum weight edge to add requires O(|V|^2) running time. Using a simple binary heap data structure and an adjacency list representation, Prim's algorithm can be shown to run in time O(|E| log |V|) where |E| is the number of edges and |V| is the number of vertices.  With a Fibonacci heap and adjacency list, this can be brought down to O(|E| + |V| log |V|)
     @created 1381033994867
-    @sharability 0.75
     @weight 0.5

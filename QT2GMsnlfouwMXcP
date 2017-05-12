@@ -1,4 +1,3 @@
 * :QT2GMsnlfouwMXcP: "We first show how applications can dynamically modify their behavior to conserve energy. We then show how the Linux operating system can guide such adaptation to yield a battery life of desired duration. By monitoring energy supply and demand, it is able to select the correct tradeoff between energy conservation and application quality"
     @created 1435156263836
-    @sharability 0.75
     @weight 0.5

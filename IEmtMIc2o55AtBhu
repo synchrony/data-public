@@ -1,4 +1,3 @@
 * :IEmtMIc2o55AtBhu: the common execution plans of grouped queries can reside in memory, significantly saving on I/O costs compared to executing each query separately
     @created 1351450421785
-    @sharability 0.75
     @weight 0.5

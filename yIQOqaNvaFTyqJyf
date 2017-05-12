@@ -1,6 +1,5 @@
 * :yIQOqaNvaFTyqJyf: model : rsync -av --delete source/ sink/
     @created 1469061891501
-    @sharability 0.75
     @weight 0.5
 
 Trying, after deleting bk and then recreating it empty:

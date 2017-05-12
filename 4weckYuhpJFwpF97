@@ -1,5 +1,4 @@
 * :4weckYuhpJFwpF97: from gottabeme: "Anyway, I really like the idea of storing nodes as separate documents, and storing their parent-child relationships as nodes on a graph. If you could do this with Org nodes, and transform them into a single buffer view, maybe using overlays or text-properties to keep the underlying structure, that would be amazing."
     @created 1493565201343
-    @sharability 0.75
     @weight 0.5
     * :Fl8h6kY9ldB36uft: 

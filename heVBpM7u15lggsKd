@@ -1,6 +1,5 @@
 * :heVBpM7u15lggsKd: RenameMe
     @created 1371631012710
-    @sharability 0.75
     @weight 0.5
 
 g = TinkerGraphFactory.createTinkerGraph()

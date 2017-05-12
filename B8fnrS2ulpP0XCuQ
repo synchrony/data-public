@@ -1,4 +1,3 @@
 * :B8fnrS2ulpP0XCuQ: the pipelining hash-join algorithm aims at producing its output tuples as early as possible in the process of calculating the join, without decreasing the performance of the join operation itself. During the join process a hash-table for both operands is built. The join process consists of only one phase. As a tuple comes in, it is first hashed and used to probe that part of the hash-table of the other operand that has already been constructed. If a match is found, a result tuple is formed. Finally, the tuple is inserted in the hash-table of its own operand.
     @created 1427175191218
-    @sharability 0.75
     @weight 0.5

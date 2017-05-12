@@ -1,4 +1,3 @@
 * :DXNsI4sPLC4OBGlV: never use Logic with devices that are not electrically isolated from MAINs (wall power)
     @created 1352923522394
-    @sharability 0.75
     @weight 0.5

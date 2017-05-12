@@ -1,4 +1,3 @@
 * :0QR0dVjEY7cSwDC8: using acceleration measurements at the chest and thigh, the Physilog system classifies activities in four categories with around 90% accuracy: lying, sitting, standing, and locomotion.  The misclassification between categories is negligible.
     @created 1427741930329
-    @sharability 0.75
     @weight 0.5

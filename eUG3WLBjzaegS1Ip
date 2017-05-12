@@ -1,5 +1,4 @@
 * :eUG3WLBjzaegS1Ip: Asset Description Metadata Schema (ADMS) (web page)
-    @alias http://www.w3.org/ns/adms
     @created 1342244160914
-    @sharability 0.75
+    @alias http://www.w3.org/ns/adms
     @weight 0.75

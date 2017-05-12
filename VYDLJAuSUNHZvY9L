@@ -1,6 +1,5 @@
 * :VYDLJAuSUNHZvY9L: RenameMe
     @created 1369336638372
-    @sharability 0.75
     @weight 0.5
 
 g = new SailGraph(new GraphSail(new Neo4jGraph('/tmp/rdf-ex')))

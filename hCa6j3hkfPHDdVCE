@@ -1,4 +1,3 @@
 * :hCa6j3hkfPHDdVCE: if aggregates are used in the query level in SELECT, HAVING or ORDER BY but the GROUP BY term is not used, then this is taken to be a single implicit group, to which all solutions belong
     @created 1440360861731
-    @sharability 0.75
     @weight 0.5

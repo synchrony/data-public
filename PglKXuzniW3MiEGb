@@ -1,4 +1,3 @@
 * :PglKXuzniW3MiEGb: Ubi-Finger allows you to control external devices by means of pointing and gesture.  It contains a 2-axis accelerometer, bend sensors, and two switches accessed by the thumb, as well as an IR sensor/transmitter to identify the object pointed to.
     @created 1411614785973
-    @sharability 0.75
     @weight 0.5

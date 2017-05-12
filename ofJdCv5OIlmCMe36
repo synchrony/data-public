@@ -1,4 +1,3 @@
 * :ofJdCv5OIlmCMe36: a system provides causal consistency if memory operations that potentially are causally related are seen by every node of the system in the same order
     @created 1463347997139
-    @sharability 0.75
     @weight 0.5

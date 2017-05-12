@@ -1,4 +1,3 @@
 * :xgqGD6cfSb5shK69: "The data together with the Smart-Its ID is then broadcast over the shared medium to all other Smart-Its in listening range. A Smart-It that receives movement data from another device compares the data to its own most recent movement pattern. If the difference is below a specified threshold then it accepts the other Smart-It as Friend and establishes a dedicated connection. It is up to specific applications, how such a connection will then be used."
     @created 1436024453023
-    @sharability 0.75
     @weight 0.5

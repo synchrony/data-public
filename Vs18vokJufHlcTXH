@@ -1,4 +1,3 @@
 * :Vs18vokJufHlcTXH: Each of those /-separated expressions is meant to represent a node in the tree. The children of the node "projects" specify particular members of that category. "things to buy" is one of those children. In turn, the children of "things to buy" are things to buy for fixing the fridge. "things to buy" in that path would not include milk, even if you had to buy milk, because the milk is not for fixing the fridge.
     @created 1469061899598
-    @sharability 0.75
     @weight 0.5

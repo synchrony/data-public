@@ -1,4 +1,3 @@
 * :qVoZaMxr5Wq26iL1: if the size of the values stored in the columns is small compared to the number of columns and rows themselves (sometimes called skinny rows), this overhead can be substantial. Thus, the optimal tuning for this type of data is quite different than the optimal tuning for a small numbers of columns with more data (fat rows)
     @created 1397147400384
-    @sharability 0.75
     @weight 0.5

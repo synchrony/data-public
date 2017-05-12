@@ -1,5 +1,4 @@
 * :u2Qa2X70B5jcmSxh: per RDF 1.1, and RDF dataset is a collection of RDF graphs, and comprises exactly one default graph (which has no name and may be empty) and zero or more named graphs.  Graph names are unique within an RDF dataset
     @created 1423763019931
-    @sharability 0.75
     @weight 0.5
     * :8HegksAp3rb186pT: 

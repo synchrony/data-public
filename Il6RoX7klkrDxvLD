@@ -1,4 +1,3 @@
 * :Il6RoX7klkrDxvLD: ax <- smooth.spline(tailav$x, tailav$y); plot(ax$y, x=ax$x, type="l")
     @created 1339997303704
-    @sharability 0.75
     @weight 0.5

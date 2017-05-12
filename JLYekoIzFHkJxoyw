@@ -1,6 +1,5 @@
 * :JLYekoIzFHkJxoyw: RenameMe
     @created 1384276290450
-    @sharability 0.75
     @weight 0.5
 
 tone(speakerPin, 440);

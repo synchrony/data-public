@@ -1,4 +1,3 @@
 * :DXnnEqOTdPsKQLy1: tmp <- as.data.frame(t); t.df <- tmp[with(tmp, order(-Freq)),]
     @created 1445302324907
-    @sharability 0.75
     @weight 0.5

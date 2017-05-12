@@ -1,4 +1,3 @@
 * :XeqaV687XZlQIzZe: "In the discriminative approach, one only models the mapping from inputs (data) to outputs (activity labels). Discriminative approaches include many heuristic (rule-based) approaches, neural networks, conditional random fields (CRFs), and linear or nonlinear discriminative learning (e.g., support vector machines)."
     @created 1444117945805
-    @sharability 0.75
     @weight 0.5

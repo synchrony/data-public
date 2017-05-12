@@ -1,6 +1,5 @@
 * :W5Spev45iMDHTJ0C: more precise pressure altitude formula, in R
     @created 1489762329338
-    @sharability 0.75
     @weight 0.5
 
 # set to station pressure.  Note that this is not the altimeter setting.

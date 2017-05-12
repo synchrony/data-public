@@ -1,4 +1,3 @@
 * :VJliPiSmmdqfcgys: currently, Extend-o-Hand must not sense a USB connection when it runs setup(), else it will use that rather than UART, and you will get nothing over Bluetooth.  Power up ExoHand with the battery.  You can then plug it into a power source with the USB cable and turn off the battery.
     @created 1430981467398
-    @sharability 0.75
     @weight 0.5

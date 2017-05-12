@@ -1,6 +1,5 @@
 * :TW8VvR5zxPp74BHo: RenameMe
     @created 1340264452307
-    @sharability 0.75
     @weight 0.5
 
 GregorianCalendar c = new GregorianCalendar();

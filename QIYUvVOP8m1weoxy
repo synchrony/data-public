@@ -1,6 +1,5 @@
 * :QIYUvVOP8m1weoxy: RenameMe
     @created 1394458405070
-    @sharability 0.75
     @weight 0.5
 
 g = new SparqlRepositorySailGraph("http://dbpedia.org/sparql");

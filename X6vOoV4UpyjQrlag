@@ -1,4 +1,3 @@
 * :X6vOoV4UpyjQrlag: where E is the number of edges in the graph and V is the number of vertices, Kruskal's algorithm can be shown to run in O(E log E) time, or equivalently, O(E log V) time, all with simple data structures
     @created 1381034109948
-    @sharability 0.75
     @weight 0.5

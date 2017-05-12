@@ -1,5 +1,4 @@
 * :TU1JoVxu6TImaOhw: Memory (web page)
-    @alias http://docs.basho.com/riak/latest/ops/advanced/backends/memory/
     @created 1428547124178
-    @sharability 0.75
+    @alias http://docs.basho.com/riak/latest/ops/advanced/backends/memory/
     @weight 0.5

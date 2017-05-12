@@ -1,6 +1,5 @@
 * :fRIIADTPEC9VSNiH: RenameMe
     @created 1357861236880
-    @sharability 0.75
     @weight 0.5
 
 BufferedReader br = new BufferedReader(new FileReader(file));

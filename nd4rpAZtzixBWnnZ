@@ -1,4 +1,3 @@
 * :nd4rpAZtzixBWnnZ: [markdown]Within a window, one way to change which buffer is being viewed is to press `C-x b`. The menu bar will ask for the name of the buffer to switch to. Tab completion is available.
     @created 1490252601404
-    @sharability 0.75
     @weight 0.5

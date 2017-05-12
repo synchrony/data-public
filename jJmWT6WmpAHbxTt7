@@ -1,6 +1,5 @@
 * :jJmWT6WmpAHbxTt7: RenameMe
     @created 1349461828575
-    @sharability 0.75
     @weight 0.5
 
 (=> (and (owl:complementOf ?c1 ?c2)

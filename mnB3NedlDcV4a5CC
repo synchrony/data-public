@@ -1,4 +1,3 @@
 * :mnB3NedlDcV4a5CC: a synchronization primitive that solves one of the readers-writers problems. A readers-writer lock is like a mutex, in that it controls access to a shared resource, allowing concurrent access to multiple threads for reading but restricting access to a single thread for writes (or other changes) to the resource
     @created 1381000928348
-    @sharability 0.75
     @weight 0.5

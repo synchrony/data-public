@@ -1,6 +1,5 @@
 * :jjIkFhOB1TgSCvY7: RenameMe
     @created 1348167055870
-    @sharability 0.75
     @weight 0.5
 
 (setq load-path (cons "/Users/josh/projects/notmine/emacspeak/lisp" load-path))

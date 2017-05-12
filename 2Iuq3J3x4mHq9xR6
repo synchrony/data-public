@@ -1,4 +1,3 @@
 * :2Iuq3J3x4mHq9xR6: best-case complexity is less commonly studied, but it does have uses: for example, where the best cases of individual tasks are known, they can be used to improve the accuracy of an overall worst-case analysis
     @created 1380908015179
-    @sharability 0.75
     @weight 0.5

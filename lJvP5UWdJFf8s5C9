@@ -1,4 +1,3 @@
 * :lJvP5UWdJFf8s5C9: For rule-based mechanisms to work on the Web, they must be able to scale both in terms of performance and distribution.  It must be possible to link rule sets together, and to use them in unanticipated contexts.  They must also be able to deal with inconsistency arising from error, disagreement, or malicious behavior.
     @created 1345177643883
-    @sharability 0.75
     @weight 0.5

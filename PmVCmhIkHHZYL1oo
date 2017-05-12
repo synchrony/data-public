@@ -1,4 +1,3 @@
 * :PmVCmhIkHHZYL1oo: I use the $ as it is used in Haskell, to indicate the order in which an expression should be evaluated. The $ symbol binds late, after all whitespace. For instance:
     @created 1469061899608
-    @sharability 0.75
     @weight 0.5

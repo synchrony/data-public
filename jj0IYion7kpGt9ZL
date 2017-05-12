@@ -1,4 +1,3 @@
 * :jj0IYion7kpGt9ZL: g.getTypes(TitanKey.class).toList().collectEntries({ [it, it.getDataType()] })
     @created 1396060457837
-    @sharability 0.75
     @weight 0.5

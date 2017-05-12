@@ -1,4 +1,3 @@
 * :VA3x9nvFLoffndF0: each context information has an associated scale defining the range of valid instances of that type of context information. Context information characterizing the content of another context information is a meta information and thus a context information of higher order and expresses the quality of the lower order context information
     @created 1428434791485
-    @sharability 0.75
     @weight 0.5

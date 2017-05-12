@@ -1,6 +1,5 @@
 * :DHJ1sVIKzLL3Onmk: RenameMe
     @created 1367486745033
-    @sharability 0.75
     @weight 0.5
 
 public String toString(final InputStream in) throws IOException {

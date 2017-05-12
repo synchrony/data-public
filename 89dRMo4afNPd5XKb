@@ -1,5 +1,4 @@
 * :89dRMo4afNPd5XKb: N-Triples (web page)
-    @alias http://www.w3.org/2001/sw/RDFCore/ntriples/
     @created 1395265138709
-    @sharability 0.75
+    @alias http://www.w3.org/2001/sw/RDFCore/ntriples/
     @weight 0.5

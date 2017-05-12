@@ -1,4 +1,3 @@
 * :GxkOzzJS2fAMAKmH: turn a list of levels into a list of cumulative sums; then the sum from a to b can be computed as cum(b) - cum(a-1)
     @created 1491341671884
-    @sharability 0.75
     @weight 0.5

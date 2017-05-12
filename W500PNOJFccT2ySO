@@ -1,4 +1,3 @@
 * :W500PNOJFccT2ySO: g <- graph.adjacency(G,diag=FALSE,weighted=TRUE,mode="undirected")
     @created 1445657225463
-    @sharability 0.75
     @weight 0.5

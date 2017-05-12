@@ -1,4 +1,3 @@
 * :6aErhh0Cy8HloFrW: a type of specially-designed data structure used to achieve strong eventual consistency (SEC) and monotonicity (absence of rollbacks)
     @created 1463287425005
-    @sharability 0.75
     @weight 0.5

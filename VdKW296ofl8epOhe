@@ -1,4 +1,3 @@
 * :VdKW296ofl8epOhe: Note.java : children.addAll(copy.children.stream().map(Note::new).collect(Collectors.toList()));
     @created 1472282983916
-    @sharability 0.75
     @weight 0.5

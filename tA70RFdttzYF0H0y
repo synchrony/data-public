@@ -1,5 +1,4 @@
 * :tA70RFdttzYF0H0y: Exchange rates (web page)
-    @alias http://www.dna.lth.se/cgi-bin/kurt/rates
     @created 1310539747619
-    @sharability 0.75
+    @alias http://www.dna.lth.se/cgi-bin/kurt/rates
     @weight 0.25

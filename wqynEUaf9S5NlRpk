@@ -1,4 +1,3 @@
 * :wqynEUaf9S5NlRpk: accelerometer data was sampled at 47.8Hz and stored in text files.  The magnitude of the acceleration was computed and a small 64-element FFT window (spanning 1.34 seconds, with 32 samples of overlap) was used, after analysis in Matlab suggested that a power spectrum of the acceleration magnitude might be a good feature for classifying motion state
     @created 1427772357698
-    @sharability 0.75
     @weight 0.5

@@ -1,4 +1,3 @@
 * :6bBXrHdCKGB8DfDf: as of 2013-02-28, the ordered-ness of lists is essential in Extend-o-Brain for organizational purposes.  To a certain extent, order is also used in class-specific ways, constraining the child notes of a topic much like a data type in C constrains its members.  However, what has not yet emerged is a language-like use of order, in which the items in a list conform to some non-trivial grammar.  Is this because I haven't been trying hard enough to find uses for such expressions, or because they don't make sense in EoB?
     @created 1362030095095
-    @sharability 0.75
     @weight 0.5

@@ -1,4 +1,3 @@
 * :j9JnfE8h9TLm2uLz: if an owl:hasValue owl:Restriction restricts a particular property to a particular value, and an object has that value for that property, then the object has the Restriction as a type
     @created 1349461828571
-    @sharability 0.75
     @weight 0.5

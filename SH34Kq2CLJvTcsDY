@@ -1,4 +1,3 @@
 * :SH34Kq2CLJvTcsDY: a general algorithm for finding all (or some) solutions to some computational problem, that incrementally builds candidates to the solutions, and abandons each partial candidate c ("backtracks") as soon as it determines that c cannot possibly be completed to a valid solution
     @created 1381077009694
-    @sharability 0.75
     @weight 0.5

@@ -1,5 +1,4 @@
 * :XWIk8yBG2h9wX4K6: similar to the index nested-loop join operator, where tuples (i.e., bindings) of one input are used to access indexes available for the other input
     @created 1427171779573
-    @sharability 0.75
     @weight 0.5
     * :4h0glOrwaBjgW3i8: 

@@ -1,4 +1,3 @@
 * :h0dt7VexDm6npfxH: lsof -i :8182 -- check for listening processes on a port
     @created 1395933105916
-    @sharability 0.75
     @weight 0.5

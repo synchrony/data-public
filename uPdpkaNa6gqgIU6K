@@ -1,6 +1,5 @@
 * :uPdpkaNa6gqgIU6K: RenameMe
     @created 1364169297468
-    @sharability 0.75
     @weight 0.5
 
 java -cp "lib/*" jline.ConsoleRunner clojure.main

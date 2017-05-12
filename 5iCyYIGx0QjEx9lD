@@ -1,5 +1,4 @@
 * :5iCyYIGx0QjEx9lD: e.g. for the fBasics package, first download and unpack it, then: install.packages("/tmp/fBasics", repos = NULL, type="source")
     @created 1339622254480
-    @sharability 0.75
     @weight 0.5
     * :rhqwARHIXGalPTeA: 

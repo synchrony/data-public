@@ -1,4 +1,3 @@
 * :V1RxIC9AHBkCNEoJ: a naive approach for grouping continuous queries would be to apply these methods directly by reoptimizing all queries whenever a new query is added. We contend that such an approach is not acceptable for large dynamic environments because of the associated performance overhead
     @created 1351451283793
-    @sharability 0.75
     @weight 0.5

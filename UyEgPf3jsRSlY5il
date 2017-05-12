@@ -1,6 +1,5 @@
 * :UyEgPf3jsRSlY5il: RenameMe
     @created 1330574401834
-    @sharability 0.75
     @weight 0.5
 
 for i in $(ls -Rl@ | grep '^    ' | awk '{print $1}' | sort -u); \

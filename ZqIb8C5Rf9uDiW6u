@@ -1,4 +1,3 @@
 * :ZqIb8C5Rf9uDiW6u: iterator A wraps iterator B, but does not return a result for every item in B (so it is necessary to look ahead to the next item which will be returned)
     @created 1377203176985
-    @sharability 0.75
     @weight 0.5

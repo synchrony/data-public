@@ -1,4 +1,3 @@
 * :t4PJbbMy0cjEL2wP: limited to broadcast (probe) packets, because multiple APs need to receive.  Broadcast packets may occur once per minute or so, and energy-conscious phones send as few as possible
     @created 1467056386924
-    @sharability 0.75
     @weight 0.5

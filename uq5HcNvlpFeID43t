@@ -1,4 +1,3 @@
 * :uq5HcNvlpFeID43t: makes use of knowledge available beforehand to do query planning and optimization. However, the plan built at compile time might be corrected according to newly acquired knowledge about sources
     @created 1427181417256
-    @sharability 0.75
     @weight 0.5

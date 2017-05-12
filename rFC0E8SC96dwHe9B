@@ -1,4 +1,3 @@
 * :rFC0E8SC96dwHe9B: when a ticket is triggered, a specified period of time is waited before notifications begin.  The goal is to get the user to close the ticket within a specific interval of time.
     @created 1349885104882
-    @sharability 0.75
     @weight 0.5

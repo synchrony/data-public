@@ -1,4 +1,3 @@
 * :GkvOaS1sWMV2taNK: geom_vline(data=events, aes(xintercept=t,linetype=Events,colour=Events), show_guide = TRUE)
     @created 1444714791113
-    @sharability 0.75
     @weight 0.5

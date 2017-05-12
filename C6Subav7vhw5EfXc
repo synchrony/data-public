@@ -1,4 +1,3 @@
 * :C6Subav7vhw5EfXc: the Cartesian product of rows from tables in the join. In other words, it will produce rows which combine each row from the first table with each row from the second table
     @created 1455061834316
-    @sharability 0.75
     @weight 0.5

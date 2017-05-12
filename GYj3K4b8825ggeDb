@@ -1,4 +1,3 @@
 * :GYj3K4b8825ggeDb: use XEP-0016 (Privacy Lists) to block all incoming <presence> stanzas whenever the machine goes to sleep (cutting down on "background noise" which drains the battery by waking up the phone unnecessarily)
     @created 1313804883879
-    @sharability 0.75
     @weight 0.5

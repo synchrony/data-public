@@ -1,6 +1,5 @@
 * :qf15xVXB3O912y2l: [done]. two Docker images for smsm: master and develop
     @created 1493933364445
-    @sharability 0.75
     @weight 0.25
 
 Move the extant smsn images to smsn-develop.

@@ -1,4 +1,3 @@
 * :MBTAulVJzApYtbGI: curl --data-binary '{"value":"content"}' -H "Content-Type: application/json" http://example.org/post-json
     @created 1393597375905
-    @sharability 0.75
     @weight 0.5

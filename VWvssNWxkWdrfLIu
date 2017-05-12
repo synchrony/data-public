@@ -1,6 +1,5 @@
 * :VWvssNWxkWdrfLIu: explicit type checks
     @created 1491192394585
-    @sharability 0.75
     @weight 0.5
 
 if( param instanceof Double) {

@@ -1,5 +1,4 @@
 * :wVlxqLq2iwQZqig4: cider = clojure + emacs (web page)
-    @alias https://github.com/clojure-emacs/cider
     @created 1487568598893
-    @sharability 0.75
+    @alias https://github.com/clojure-emacs/cider
     @weight 0.5

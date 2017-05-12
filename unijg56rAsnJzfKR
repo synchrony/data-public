@@ -1,6 +1,5 @@
 * :unijg56rAsnJzfKR: RenameMe
     @created 1383950249652
-    @sharability 0.75
     @weight 0.5
 
 String q11_cypher = "START publication=node(*)\n" +

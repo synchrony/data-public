@@ -1,5 +1,4 @@
 * :Jp8cUAsgbcg4RODc: RDF/OWL Representation of WordNet (web page)
-    @alias http://www.w3.org/TR/wordnet-rdf/
     @created 1330384616638
-    @sharability 0.75
+    @alias http://www.w3.org/TR/wordnet-rdf/
     @weight 0.5

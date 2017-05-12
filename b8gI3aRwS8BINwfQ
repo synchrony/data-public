@@ -1,6 +1,5 @@
 * :b8gI3aRwS8BINwfQ: RenameMe
     @created 1483084342959
-    @sharability 0.75
     @weight 0.5
 
 My both_kb/it holds a neo4j graph, and both_kb/vcs holds a vcs-friendly rendering of a graph. both_kb uses the smsn-universal and smsn-public repositories at git/. I need to do something similar for the two private values.

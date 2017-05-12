@@ -1,6 +1,5 @@
 * :JeFDnzfukbPkiUuh: RenameMe
     @created 1477088297708
-    @sharability 0.75
     @weight 0.5
 
 >>> from numpy import poly1d

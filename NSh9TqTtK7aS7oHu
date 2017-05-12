@@ -1,6 +1,5 @@
 * :NSh9TqTtK7aS7oHu: RenameMe
     @created 1326230537698
-    @sharability 0.75
     @weight 0.5
 
 (in-package :db.agraph.user)  

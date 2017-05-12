@@ -1,4 +1,3 @@
 * :yHGcA7pSKDhOgapl: a DTO does not have any behavior except for storage and retrieval of its own data (mutators and accessors)
     @created 1471550971002
-    @sharability 0.75
     @weight 0.5

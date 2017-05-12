@@ -1,4 +1,3 @@
 * :traTqHgwFkmxkR0r: each thread has an ID, and multiple URLs depending on how you arrive at it in the UI.  Choosing the URL by searching on text content seems like a good way to get a stable URL.
     @created 1319385969542
-    @sharability 0.75
     @weight 0.5

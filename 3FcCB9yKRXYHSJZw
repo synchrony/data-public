@@ -1,6 +1,5 @@
 * :3FcCB9yKRXYHSJZw: RenameMe
     @created 1445389205543
-    @sharability 0.75
     @weight 0.5
 
 DELETE { GRAPH ?g1 { ?s ?p ?o } }

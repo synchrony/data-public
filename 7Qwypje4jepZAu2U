@@ -1,4 +1,3 @@
 * :7Qwypje4jepZAu2U: an object-oriented database for transparently and persistently storing Python objects. It is included as part of the Zope web application server, but can also be used independently of Zope
     @created 1386355798018
-    @sharability 0.75
     @weight 0.5

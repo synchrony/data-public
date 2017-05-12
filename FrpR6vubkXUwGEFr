@@ -1,4 +1,3 @@
 * :FrpR6vubkXUwGEFr: hybrid views are a great thing.  Since introducing them, I haven't even thought to use pure "link" or "target" views, although they are still available. Hybrid views solve the issue of not knowing whether to look at links or metalinks at any given time, and having them in the same view does not introduce new issues (e.g. clutter or confusion) that I have noticed.
     @created 1312214988215
-    @sharability 0.75
     @weight 0.5

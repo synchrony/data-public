@@ -1,6 +1,5 @@
 * :r4RgbUxnB9yLXZc3: RenameMe
     @created 1474441169175
-    @sharability 0.75
     @weight 0.5
 
 One syntactic device I use that might be confusing is that, when determining the order in which operators denoted by punctuation bind, those with a higher character count bind last. So, for instance, had I written this:

@@ -1,4 +1,3 @@
 * :UOtSGfvUqXGgVgx4: for fast float ranges (with stepsize), use linspace(), not arange()
     @created 1477038784129
-    @sharability 0.75
     @weight 0.5

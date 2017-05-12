@@ -1,4 +1,3 @@
 * :Pa7Nl3vRyUV25JZj: Extend-o-Hand can recognize its interactions using a three-axis motion sensor combined with serial and network communication.  Additional sensor data may be useful in future, but is not necessary.  Feedback consists of basic haptic, audio, and RGB visual cues.
     @created 1419657733051
-    @sharability 0.75
     @weight 0.5

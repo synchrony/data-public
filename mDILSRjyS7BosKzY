@@ -1,5 +1,4 @@
 * :mDILSRjyS7BosKzY: Check For valid Bitcoin address (web page)
-    @alias http://uncaptcha.net/bitcoin.php
     @created 1394761882423
-    @sharability 0.75
+    @alias http://uncaptcha.net/bitcoin.php
     @weight 0.5

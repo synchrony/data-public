@@ -1,6 +1,5 @@
 * :37P8cVGxLnqPPWFT: RenameMe
     @created 1412609633305
-    @sharability 0.75
     @weight 0.5
 
 mkdir .foo # this becomes a hidden directory

@@ -1,4 +1,3 @@
 * :bDhrQNSKhjCxreuV: a server must allow client and server to share the same TCP connection for communicating stanzas in either direction
     @created 1341637920125
-    @sharability 0.75
     @weight 0.5

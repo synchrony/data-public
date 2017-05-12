@@ -1,4 +1,3 @@
 * :lQXhOgPvKQusdpd1: Istream applied to relation R contains a stream element <t, s> whenever tuple s is in R at time t but not in R at time t-1
     @created 1352146902908
-    @sharability 0.75
     @weight 0.5

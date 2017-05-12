@@ -1,6 +1,5 @@
 * :oeT5jlBPXNfwzysg: RenameMe
     @created 1484905753875
-    @sharability 0.75
     @weight 0.5
 
 instance monoidLoop :: Monoid Loop where

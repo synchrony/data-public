@@ -1,4 +1,3 @@
 * :lyYspliqS5GgTxSo: C-SPARQL evaluation can be implemented using a combination of existing SPARQL query tools with existing relational stream tools.  Streaming data is logically contained in special graphs, of which there may be several in a query.
     @created 1345178302475
-    @sharability 0.75
     @weight 0.5

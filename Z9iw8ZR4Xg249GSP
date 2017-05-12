@@ -1,4 +1,3 @@
 * :Z9iw8ZR4Xg249GSP: "Another sensor, a simple ball switch, is integrated on the core board and directly connected to an interrupt on the core processor. This enables the device to go into an energy preserving mode when no movement occurs, and to wake up instantly on movement."
     @created 1436022781362
-    @sharability 0.75
     @weight 0.5

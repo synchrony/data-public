@@ -1,6 +1,5 @@
 * :1kZZQ7sKKpLmNTf1: RenameMe
     @created 1362162925215
-    @sharability 0.75
     @weight 0.5
 
 (let ((default-directory "~/.emacs.d/elisp/"))

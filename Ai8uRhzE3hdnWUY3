@@ -1,4 +1,3 @@
 * :Ai8uRhzE3hdnWUY3: a behavioral software design pattern, also known as the objects for states pattern. This pattern is used in computer programming to encapsulate varying behavior for the same routine based on an object's state object. This can be a cleaner way for an object to change its behavior at runtime without resorting to large monolithic conditional statements
     @created 1380998594291
-    @sharability 0.75
     @weight 0.5

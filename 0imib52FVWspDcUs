@@ -1,4 +1,3 @@
 * :0imib52FVWspDcUs: subset(v, nchar(as.character(v$value)) == 1)
     @created 1333139925259
-    @sharability 0.75
     @weight 0.5

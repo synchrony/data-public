@@ -1,4 +1,3 @@
 * :L06B833SZTXyhmBP: curl --data-binary @request.json -H "Content-Type: application/json" http://example.org/post-json
     @created 1393597306245
-    @sharability 0.75
     @weight 0.5

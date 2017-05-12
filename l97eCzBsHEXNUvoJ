@@ -1,5 +1,4 @@
 * :l97eCzBsHEXNUvoJ: "In particular, the accelerometer on the node is sampled at a sampling time of 10ms, and the features (zero crossing, RMS, amplitude, mean, standard deviation, total energy) are computed over a window of 32 samples with an overlap of 50% (16 samples). Features are therefore computed each 160ms and evaluated on a time frame window (or simply frame) of 320ms. Such parameters have been experimentally defined to trade off fast detection and good classification accuracy."
     @created 1444287951831
-    @sharability 0.75
     @weight 0.5
     * :e9URXmVuo0CvZ33a: 

@@ -1,4 +1,3 @@
 * :eoNPOV2pHnlSSNWq: EP provides on-the-fly analysis of event streams, but cannot combine streams with background knowledge and cannot perform reasoning tasks.  On the other hand, SW tools can handle background knowledge and perform reasoning, but cannot deal with rapidly changing data provided by event streams.  EP-SPARQL bridges this gap.
     @created 1335041824289
-    @sharability 0.75
     @weight 0.5

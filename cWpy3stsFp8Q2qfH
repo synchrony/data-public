@@ -1,4 +1,3 @@
 * :cWpy3stsFp8Q2qfH: the '&' and '@' characters have been used as the last two symbols of the Base64 character set because they appear somewhat letter-like; they blend in with the other characters (unlike '+' and '\', for example).  Neither do they collide with special characters in MyOtherBrain wiki syntax, such as ':'
     @created 1381932909584
-    @sharability 0.75
     @weight 0.5
