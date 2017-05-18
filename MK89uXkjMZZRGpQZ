@@ -1,0 +1,3 @@
+* :MK89uXkjMZZRGpQZ: "Yes, if the server were unable to write to a file (due to permissions), the write operation would fail. You would have to refresh your directory(s) at that point, as the exported graph could be out of sync with the database."
+    @created 1494914128973
+    @weight 0.5

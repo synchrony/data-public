@@ -1,0 +1,5 @@
+* :k6vMui1cYFWH3439: update with "conda update _"
+    @created 1495009194558
+    @weight 0.5
+
+"conda update --all" pulls in a lot of stuff, e.g. pyqt, python itself, new )to this computer) packages ..
