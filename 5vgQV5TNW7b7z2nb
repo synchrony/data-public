@@ -21,6 +21,8 @@ docker rm smsn-sandbox
 
 sudo docker run --name $NAME -p 8182:8182 -d -h $HOST -v /joshsh/data/smsn/sandbox/:/mnt/smsn-data $IMAGE:$VERSION
 
+docker ps
+
 ## with production image
 
 IMAGE=jeffreybbrown/smsn
