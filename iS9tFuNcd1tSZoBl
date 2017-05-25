@@ -13,16 +13,20 @@ merge(tmp, v, by="alias")
 l <- subset(v, nchar(as.character(v$alias)) > 0)
 # 4806 non-trivial links as of 2013-04-23
 * 7849 as of 2015-01-03
+* 11298 as of 2017-05-21
 nrow(l)
 
 # DBpedia links
 d <- subset(v, substr(alias, 1, 28) == "http://dbpedia.org/resource/")
 # 3561 DBpedia links as of 2013-04-23
 # 5792 as of 2015-01-03
+# 7841 as of 2017-05-21
 nrow(d)
 
 #########################################
 # top domains of alias links
+
+library(stringr)
 
 domain <- function(url) {
     tmp <- str_locate(url, "://")
