@@ -1,3 +1,3 @@
-* :PSkKpj73qQMt0W6I: class.out.dist <- degree.distribution(class.g, mode="out")
+* :PSkKpj73qQMt0W6I: out.dist <- degree.distribution(g, mode="out")
     @created 1344446085415
     @weight 0.5
