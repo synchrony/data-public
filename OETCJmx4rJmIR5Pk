@@ -3,5 +3,6 @@
     @weight 0.5
 
 sed 's/^ *. \:[a-zA-Z0-9]\{16\}\: /\n/' input.auto.md \
-  | egrep "^\[markdown\]" \
-  | sed 's/^\[markdown\]/\n/' > "output.auto.md"
+  | egrep "^\[markdown"                  	      \
+  | sed 's/^\[markdown-code\]//' 		      \
+  | sed -E 's/^\[(markdown|markdown-code-start)\]/\n/' > "output.auto.md"

@@ -1,0 +1,3 @@
+* :UVOncXXaxFgzMPm9: [markdown]Modify the file [neo4j-example.properties](https://github.com/synchrony/smsn/blob/master/smsn-server/doc/neo4j-example.properties) and put it in Gremlin Server's conf directory, replacing the value of `gremlin.neo4j.directory` with the file system location of your graph. If this directory does not already exist, it will be created.
+    @created 1495925080699
+    @weight 0.5
