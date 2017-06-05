@@ -1,0 +1,10 @@
+* :phJvSqx6NhvHuvJt: jbb smsn config
+    @created 1495778079135
+    @weight 0.5
+
+Before updating smsn-mode today (2017-05-25) it was at:
+
+commit 7c0aece56c1c0ac4256b79d06f3e4ea88cf53847
+Merge: 301868c c9f6b70
+Author: Joshua Shinavier <josh@fortytwo.net>
+Date:   Tue May 16 12:48:29 2017 -0700

@@ -1,0 +1,3 @@
+* :w1mXirrsm8bEw10y: [markdown]Now we need to tell Gremlin Server about your graph and how you want to access it. There will be one configuration file for the graph, and another for the plugin.
+    @created 1495925080698
+    @weight 0.5

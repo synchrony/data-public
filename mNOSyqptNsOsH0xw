@@ -1,0 +1,3 @@
+* :mNOSyqptNsOsH0xw: [markdown]For both smsn and smsn-mode, there are two branches: "master" and "develop". Master is stable, develop is newer. If you use the master branch of smsn, you'll need to use the master branch of smsn-mode, and vice-versa. If you use the develop branch of smsn, you'll need to use the develop branch of smsn-mode, and vice-versa.
+    @created 1495925080670
+    @weight 0.5

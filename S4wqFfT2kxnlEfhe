@@ -1,0 +1,3 @@
+* :S4wqFfT2kxnlEfhe: [markdown]Finally, modify the file [gremlin-server-smsn-example.yaml](https://github.com/synchrony/smsn/blob/master/smsn-server/doc/gremlin-server-smsn-example.yaml) and put it in Gremlin Server's `conf` directory, replacing the `graphs/graph` and `scriptEngines/smsn/scripts` values with the names of the two files created above, if different.
+    @created 1495925080701
+    @weight 0.5

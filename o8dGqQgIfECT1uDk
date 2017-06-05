@@ -1,0 +1,9 @@
+* :o8dGqQgIfECT1uDk: DANGER ! python v. conda/python ,, pip v. conda/pip
+    @created 1495243208319
+    @weight 0.5
+
+I installed miniconda at ~/installs. That installed conda. When it asked me whether to prepend that folder to my PATH I agreed. Via that conda I installed pip, and via that pip, virtualenv.
+
+Then I installed pip in the global place, via apt. I changed the PATH )in my .bashrc file) so miniconda comes last, not first.
+
+I installed python3.6 via apt (after adding a special repo for it). Conda already has 3.6. python3 in miniconda/bin points to python3.6 in the same place; python3 in /usr/bin points to python3.5 in the same place.

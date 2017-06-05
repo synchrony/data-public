@@ -1,0 +1,3 @@
+* :g0gwnLwgIUANihmj: [markdown]It is best to start Gremlin Server, which should now be running and serving the graph you have configured, in a screen session or as a background process. You should see some output like this:
+    @created 1495925080706
+    @weight 0.5
