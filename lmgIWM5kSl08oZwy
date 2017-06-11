@@ -8,11 +8,14 @@ mvn clean
 vim `grep -Rl SNAPSHOT .|grep pom`
 :bufdo %s/1.x-SNAPSHOT/1.x/gc|w
 
-# tweak the CHANGELOG, then commit
-vim CHANGELOG.md
-
 # check that there are no SNAPSHOT versions or dependencies left
 mvn dependency:tree | grep SNAPSHOT
+
+# make sure the project still builds
+mvn clean install
+
+# tweak the CHANGELOG, then commit
+vim CHANGELOG.md
 
 # download and trust the SonaType certificate if you haven't already
 openssl s_client -showcerts -connect oss.sonatype.org:443 </dev/null 2>/dev/null|openssl x509 -outform PEM > mycertfile.pem
