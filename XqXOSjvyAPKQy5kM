@@ -1,0 +1,3 @@
+* :XqXOSjvyAPKQy5kM: I have found that associating *.rdfa files with the XML file type causes IntelliJ to auto-indent RDFa+HTML such as schema.org's schema.rdfa appropriately.  Associating it with the HTML file type, for some reason, does not.
+    @created 1496182891504
+    @weight 0.5
