@@ -33,6 +33,6 @@ HOST=fortytwo.net
 ## with locally-built image
 
 IMAGE=joshsh/smsn
-VERSION=2017-03-20
+VERSION=latest
 NAME=smsn-sandbox
 HOST=fortytwo.net

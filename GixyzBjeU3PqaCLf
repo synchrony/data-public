@@ -1,3 +1,3 @@
-* :GixyzBjeU3PqaCLf: sudo docker logs smsn-sandbox
+* :GixyzBjeU3PqaCLf: docker logs [container]
     @created 1489931860787
     @weight 0.5
