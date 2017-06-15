@@ -1,0 +1,3 @@
+* :PdGOt73Ftx1itfYk: dataGen = pd.read_stata("data/general.dta")
+    @created 1496703764064
+    @weight 0.5
