@@ -1,3 +1,3 @@
-* :tHQD4uo9degh3NFH: [markdown]* The easiest way: Use the online graph. This way you don't have to run the server. Just install Emacs, then install smsn-mode for Emacs, then use the shared graph hosted at fortytwo.net. (You can download ("export") a copy of the data if you want.) To install this way, skip to step 6 (Install Emacs). Note that the online graph uses the master branch of smsn, so you'll need to use the master branch of smsn-mode to access it.
+* :tHQD4uo9degh3NFH: [markdown]* The next easiest way to try smsn is by using the online graph. This way you don't have to run the server, and you don't need Docker. You'll just install Emacs, then install smsn-mode for Emacs, then use the shared graph hosted at fortytwo.net. To install this way, skip to step 6 (Install Emacs) on this page.
     @created 1495925080672
     @weight 0.5
