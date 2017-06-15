@@ -1,3 +1,3 @@
-* :7Z17QBBTGMGF0X6S: [markdown]The latest master branch of smsn-mode dates back to a time when it was called brain-mode, not smsn-mode. These instructions are otherwise accurate, but to start smsn-mode (if you're using the master branch) you'll have to type `M-x brain-mode` instead of `M-x smsn-mode`.
+* :7Z17QBBTGMGF0X6S: [obsolete].  [markdown]The latest master branch of smsn-mode dates back to a time when it was called brain-mode, not smsn-mode. These instructions are otherwise accurate, but to start smsn-mode (if you're using the master branch) you'll have to type `M-x brain-mode` instead of `M-x smsn-mode`.
     @created 1495925080671
-    @weight 0.5
+    @weight 0.25

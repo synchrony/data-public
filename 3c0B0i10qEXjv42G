@@ -1,0 +1,8 @@
+* :3c0B0i10qEXjv42G: then do this
+    @created 1496703573372
+    @weight 0.5
+
+b_vals = x.b.unique()
+slices = []
+for i in b_vals: slices.append(x[x['b']==i])
+slices[0]

@@ -1,0 +1,3 @@
+* :LwHhWKqv2B1TqMxL: current idiom: start from .tidal file with C-c C-s, which loads tidal.el, which loads init.hs. Then can load custom.interactive.tidal by hand. But some stuff breaks.
+    @created 1496998373582
+    @weight 0.5

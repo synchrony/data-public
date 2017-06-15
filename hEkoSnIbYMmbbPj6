@@ -1,0 +1,9 @@
+* :hEkoSnIbYMmbbPj6: then do this
+    @created 1496703629884
+    @weight 0.5
+
+plt.figure()
+plt.boxplot(
+    [ s['a'] for s in slices ]
+    ,labels=b_vals)
+plt.show()
