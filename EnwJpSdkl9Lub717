@@ -1,0 +1,3 @@
+* :EnwJpSdkl9Lub717: [markdown]Emacs "frames" contain Emacs "windows", which display Emacs "buffers". The buffer is some text, the window is the thing that shows you a buffer, and the frame holds some windows. ("What everyone else in the world calls [windows are called “frames” by emacs](https://blasphemousbits.wordpress.com/2007/05/04/learning-emacs-part-4-buffers-windows-and-frames/).")
+    @created 1498193121757
+    @weight 0.5

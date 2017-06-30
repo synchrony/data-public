@@ -1,0 +1,6 @@
+* :b7pdtNpAOhFE29fN: setting with prisms uses the lens .~ operator
+    @created 1497568861253
+    @weight 0.5
+
+Prelude Control.Lens> [1,2,3] & ix 1 .~ 20
+[1,20,3]

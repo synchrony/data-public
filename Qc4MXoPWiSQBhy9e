@@ -1,0 +1,3 @@
+* :Qc4MXoPWiSQBhy9e: [markdown]Each line of the buffer lists a note's title. The two numbers on the right count "backward branches" (the number of notes to which that note belongs) and "forward branches" (the number which belong to it). A backward branch count is highlighted in yellow if greater than 1. Notes with markdown content carry a purple flag. Notes with markdown content and forward-branches carry a red flag.
+    @created 1498195566052
+    @weight 0.5

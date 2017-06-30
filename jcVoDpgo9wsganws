@@ -1,0 +1,5 @@
+* :jcVoDpgo9wsganws: jeffreybbrown/smsn:2017-06-06.58dc35b=latest + smsn-mode:master:(june 6 14:12) // not working
+    @created 1497514357316
+    @weight 0.5
+
+Error (websocket): in callback `on-message': error: "request failed: tried to access method net.fortytwo.smsn.server.SmSnScriptEngine.createObjectMapper()Lorg/apache/tinkerpop/shaded/jackson/databind/ObjectMapper; from class net.fortytwo.smsn.server.actions.GetConfiguration"

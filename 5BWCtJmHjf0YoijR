@@ -1,6 +1,6 @@
-* :5BWCtJmHjf0YoijR: most of the essay, yet to extract from
+* :5BWCtJmHjf0YoijR: [obsolete].  most of the essay
     @created 1493420090299
-    @weight 0.75
+    @weight 0.25
 
 # Now anyone can process information nonlinearly!
 
@@ -26,7 +26,7 @@ A knowledge graph lets you connect all the knowledge you have collected, or what
 
 I'm not saying it's all critical information -- one of the things I wrote down today was "the chosen capillary", which I connected to "funny" and "pride".
 
-The genius of a nonlinear collection is that you only see what you care about. If you're not interested in the "funny" node or the "pride" node, you'll never see what I write there. If you like the "funny" node but you don't think what I write is funny, you can exclude my contributions.
+In a nonlinear collection you only see what you care about. If you're not interested in the "funny" node or the "pride" node, you'll never see what I write there. If you like the "funny" node but you don't think what I write is funny, you can exclude my contributions.
 
 With a knowledge graph, the incremental future traversal cost of adding data is low, so more data can be collected and used.
 

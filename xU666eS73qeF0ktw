@@ -1,0 +1,9 @@
+* :xU666eS73qeF0ktw: remove all|stopped docker containers
+    @created 1497505068773
+    @weight 0.5
+
+sudo docker stop $(sudo docker ps -a -q)97d99c8eaa6e
+sudo docker rm $(sudo docker ps -a -q)97d99c8eaa6e
+
+or only the stopped ones:
+sudo docker rm $(sudo docker ps -a -f status=exited -q)97d99c8eaa6e

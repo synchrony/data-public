@@ -1,0 +1,6 @@
+* :i0NAUmZ2v56HMeJs: elemOf
+    @created 1497581129329
+    @weight 0.5
+
+Prelude Control.Lens Data.Monoid> elemOf (traverse._2) 2 [(1,2),(3,4)]
+True
