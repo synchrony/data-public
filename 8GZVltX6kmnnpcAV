@@ -7,9 +7,9 @@
 # then you can create|update file "speech" with "make speech".
 
 speech : thought1 thought2 # target name : dependencies
-	cat thought1 >> speech
-	echo "no seriously" >> speech
-	cat thought2 >> speech
+    cat thought1 >> speech
+    echo "no seriously" >> speech
+    cat thought2 >> speech
 
 clean : # usual is to delete intermediate dependencies and not final output
-	rm thought1 thought2
+    rm thought1 thought2
