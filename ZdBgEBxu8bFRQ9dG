@@ -1,0 +1,5 @@
+* :ZdBgEBxu8bFRQ9dG: unix / find -regex //  search targets include (relative)path prefix
+    @created 1497505309224
+    @weight 0.5
+
+So, for instance, to find 8-char names in ., must use something like find . -regextype posix-extended -regex "^\./.{8}$"

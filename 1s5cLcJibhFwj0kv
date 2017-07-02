@@ -1,0 +1,3 @@
+* :1s5cLcJibhFwj0kv: parse a Pattern string to not String, but e.g. Pair(a,b), with momentum for each field
+    @created 1498187954823
+    @weight 0.5

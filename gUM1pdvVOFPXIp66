@@ -1,0 +1,3 @@
+* :gUM1pdvVOFPXIp66: add one deep in a nested record: v & foo.bar.baz +~ 1  (or use '%~ f ' to apply an arbitrary f)
+    @created 1497567726455
+    @weight 0.5

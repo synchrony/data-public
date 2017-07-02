@@ -1,3 +1,3 @@
-* :Sg0IUVtIKmflqyxQ: [markdown]The view can be assigned a minimum sharability -- useful when viewing notes that have private contents in a public place. New views inherit the minimum from the relative they were opened from.
+* :Sg0IUVtIKmflqyxQ: [not-markdown]The view can be assigned a minimum sharability -- useful when viewing notes that have private contents in a public place. New views inherit the minimum from the relative they were opened from.
     @created 1490602186156
-    @weight 0.5
+    @weight 0.25

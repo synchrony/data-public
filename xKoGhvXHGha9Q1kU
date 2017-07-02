@@ -1,0 +1,3 @@
+* :xKoGhvXHGha9Q1kU: docker inspect --format='{{.LogPath}}' containername
+    @created 1498799998664
+    @weight 0.5
