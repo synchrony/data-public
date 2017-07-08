@@ -1,6 +1,3 @@
 * :eq3eGeTlGmoXA0nO: RenameMe
     @created 1485030599425
     @weight 0.5
-
-apply f x = f x
-infixr 0 apply as $

@@ -1,7 +1,3 @@
 * :QIYUvVOP8m1weoxy: RenameMe
     @created 1394458405070
     @weight 0.5
-
-g = new SparqlRepositorySailGraph("http://dbpedia.org/sparql");
-v = g.v('http://dbpedia.org/resource/Grateful_Dead')
-v.out()

@@ -1,6 +1,3 @@
 * :dY71Aaygc97V4FqJ: RenameMe
     @created 1473814884531
     @weight 0.5
-
-wget http://downloads.openwrt.org/attitude_adjustment/12.09/ar71xx/generic/packages/i2c-tools_3.0.3-1_ar71xx.ipk
-opkg install i2c-tools_3.0.3-1_ar71xx.ipk

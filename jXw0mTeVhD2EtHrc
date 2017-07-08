@@ -1,6 +1,3 @@
 * :jXw0mTeVhD2EtHrc: find shared column names
     @created 1496703846052
     @weight 0.5
-
-set(dataGen.columns.values).intersection(
-    set(dataHealth.columns.values))

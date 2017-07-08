@@ -1,26 +1,3 @@
 * :as1S9UvBP4tAEAPu: RenameMe
     @created 1371079470622
     @weight 0.5
-
-# Make sure you have the right sample size.
-# Expand to three levels and paste into Vim.
-echo "" > /tmp/notes && vim /tmp/notes
-cat /tmp/notes | grep "^        . :.......: " | wc -l
-
-# For each category (procedural, episodic, etc.),
-# expand to two levels and paste into Vim.
-echo "" > /tmp/notes && vim /tmp/notes
-cat /tmp/notes | grep "^    . :.......: " | wc -l
-
-proc <-
-epi <-
-sem <-
-dec <-
-
-tot <- proc + epi + sem + dec
-
-proc / tot
-epi / tot
-sem / tot
-dec / tot
-(epi + sem + dec) / tot

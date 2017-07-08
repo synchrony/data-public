@@ -1,6 +1,3 @@
 * :0lZ6o6dMYTD40DUD: RenameMe
     @created 1333139634004
     @weight 0.5
-
-h <- hist(nchar(as.character(v$value)), breaks=500, plot=FALSE)
-plot(h$counts, log="xy")

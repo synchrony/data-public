@@ -1,8 +1,3 @@
 * :wx6R7ztP6FCsmGV5: files to measure
     @created 1484254319307
     @weight 0.5
-
-time,
-total-atom-files,
-git-dir-size,
-neo4j-dir-size

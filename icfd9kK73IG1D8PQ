@@ -1,9 +1,3 @@
 * :icfd9kK73IG1D8PQ: RenameMe
     @created 1326595358107
     @weight 0.5
-
-cd ./examples
-make examples
-
-gcc example2.c -lrdf
-./a.out

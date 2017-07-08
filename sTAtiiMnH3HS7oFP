@@ -1,11 +1,3 @@
 * :sTAtiiMnH3HS7oFP: RenameMe
     @created 1329771240295
     @weight 0.5
-
-<http://aquarius.tw.rpi.edu/projects/datafaqs/epoch> = v
-
-# Find the subset tree
-v. void:subset* distinct.
-
-# How many data dumps?
-v. void:subset* distinct. void:dataDump. distinct count. top.

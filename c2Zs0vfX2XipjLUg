@@ -1,8 +1,3 @@
 * :c2Zs0vfX2XipjLUg: RenameMe
     @created 1471377907786
     @weight 0.5
-
-EquivalentClasses(
-   :Mother
-   ObjectIntersectionOf( :Woman :Parent )
- )

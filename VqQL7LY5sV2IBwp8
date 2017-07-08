@@ -1,9 +1,3 @@
 * :VqQL7LY5sV2IBwp8: RenameMe
     @created 1395163699439
     @weight 0.5
-
-# Dump a database to a text file:
-mysqldump -h localhost x2dg > file.txt
-
-# Load from a text file:
-mysql -h hostname -u user --password=password databasename < filename

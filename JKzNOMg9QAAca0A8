@@ -1,7 +1,3 @@
 * :JKzNOMg9QAAca0A8: the code
     @created 1472519374793
     @weight 0.5
-
-foldl v. foldr
-rev l = foldl (\acc elt -> elt:acc) [] l
-revBad l = foldr (\elt acc -> elt:acc) [] l

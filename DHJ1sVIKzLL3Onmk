@@ -1,16 +1,3 @@
 * :DHJ1sVIKzLL3Onmk: RenameMe
     @created 1367486745033
     @weight 0.5
-
-public String toString(final InputStream in) throws IOException {
-    InputStreamReader is = new InputStreamReader(in);
-    BufferedReader br = new BufferedReader(is);
-    StringBuilder sb = new StringBuilder();
-
-    String read;
-    while ((read = br.readLine()) != null) {
-        sb.append(read);
-    }
-
-    return sb.toString();
-}

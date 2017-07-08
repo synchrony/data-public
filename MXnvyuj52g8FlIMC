@@ -2,5 +2,3 @@
     @created 1492667229392
     @weight 0.25
     @priority 0.5
-
-(define-key smsn-mode-map (kbd "C-c .")           'smsn-copy-root-reference-to-clipboar) ;; yes!

@@ -1,9 +1,3 @@
 * :f1PFSi9gHhzXwpBr: RenameMe
     @created 1436700952695
     @weight 0.5
-
-g = new TinkerGraph();
-sail = new GraphSail(g, "");
-sg = new SailGraph(sail)
-sg.loadRDF("/tmp/graph-example-1.ntriple", "n-triples")
-GraphSONWriter.outputGraph(g, new FileOutputStream('/tmp/mygraph.json'))
