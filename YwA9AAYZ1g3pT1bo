@@ -1,12 +1,3 @@
 * :YwA9AAYZ1g3pT1bo: RenameMe
     @created 1395071750444
     @weight 0.5
-
-# this is supposed to work, but fails with a test error (timeout)
-mvn clean install assembly:assembly -Pnative
-
-# this fails anyway, due to a missing assembly descriptor
-mvn clean install assembly:assembly -Pnative -DskipTests
-
-# this succeeds
-mvn package -Pdist -DskipTests=true -Dtar

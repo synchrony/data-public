@@ -1,9 +1,3 @@
 * :GX47KYkAGdje7yHI: write to a file in Groovy
     @created 1484700883918
     @weight 0.5
-
-file = new File('/tmp/out.txt')
-
-file.withWriter('UTF-8') { writer ->
-    writer.write('Hello, world!')
-}

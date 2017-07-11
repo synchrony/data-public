@@ -1,7 +1,3 @@
 * :7UTezramxdYqjE3r: RenameMe
     @created 1412530297114
     @weight 0.5
-
-install.packages('gmp')
-library(gmp) 
-factorize(2^32+1)

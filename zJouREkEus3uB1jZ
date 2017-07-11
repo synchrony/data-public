@@ -1,5 +1,3 @@
 * :zJouREkEus3uB1jZ: return cursor to line with same node-id
     @created 1493601630490
     @weight 0.5
-
-Beware multi-edges to a single parent.

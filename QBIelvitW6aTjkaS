@@ -1,25 +1,3 @@
 * :QBIelvitW6aTjkaS: text of that post
     @created 1496965325117
     @weight 0.5
-
-I installed Haskell-emacs by running "package-list-packages" and selecting it. That compiled and initialized it. When I started a new Emacs session, the haskell-emacs package was no longer initialized. 
-
-My .emacs file includes some auto-generated code that seems intended to load haskell-emacs on startup:
-
-```
-(custom-set-variables
- ;; custom-set-variables was added by Custom.
- ;; If you edit it by hand, you could mess it up, so be careful.
- ;; Your init file should contain only one such instance.
- ;; If there is more than one, they won't work right.
- '(package-archives
-   (quote
-    (("gnu" . "http://elpa.gnu.org/packages/")
-     ("melpa-stable" . "http://stable.melpa.org/packages/"))))
- '(package-selected-packages (quote (haskell-emacs haskell-mode))))
-(package-initialize)
-```
-
-One of the examples suggested in the haskell-emacs README is to run  `(Matrix.identity 1)`. In the (still-open) Emacs session from which I installed haskell-emacs, I can go to *scratch* and evaluate that, and it prints `((1))` to the *Messages* buffer.
-
-However, in any new Emacs session, if I go to the *scratch* buffer and evaluate the same expression, I get an `eval: Symbol’s function definition is void: Matrix\.identity` error.

@@ -1,7 +1,3 @@
 * :ULJvdbGHWp7f4l7k: RenameMe
     @created 1455842157967
     @weight 0.5
-
-net.fortytwo.ripple.demo.sailType = org.openrdf.sail.memory.MemoryStore
-net.fortytwo.ripple.demo.memoryStorePersistFile = /tmp/ripple-ms-nt
-net.fortytwo.ripple.demo.memoryStorePersistFileFormat = ntriples

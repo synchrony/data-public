@@ -1,7 +1,3 @@
 * :UyEgPf3jsRSlY5il: RenameMe
     @created 1330574401834
     @weight 0.5
-
-for i in $(ls -Rl@ | grep '^    ' | awk '{print $1}' | sort -u); \
-   do echo Removing $i ... >&2;  \
-   find . | xargs xattr -d $i 2>/dev/null ; done
