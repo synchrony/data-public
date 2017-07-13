@@ -1,7 +1,3 @@
 * :PVdl5jXTlU81PC3q: why is pib/pobl insane?
     @created 1497171289238
     @weight 0.5
-
-> summary(colombia$pib_total / colombia$pobl_tot)
-   Min. 1st Qu.  Median    Mean 3rd Qu.    Max.    NA's 
-      0       4       6     Inf       8     Inf   14837

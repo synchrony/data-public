@@ -1,12 +1,3 @@
 * :58L6uWkcdc8VAoqG: range of Int32 \ haskell
     @created 1497161941529
     @weight 0.5
-
-Prelude Data.WAVE Data.Int> doubleToSample 1
-2147483647
-Prelude Data.WAVE Data.Int> doubleToSample 1.01
-2147483647
-Prelude Data.WAVE Data.Int> doubleToSample 1.03
-2147483647
-Prelude Data.WAVE Data.Int> doubleToSample (-1)
--2147483648

@@ -1,7 +1,3 @@
 * :aZB1XY6MYSdZqhcJ: in bash, at ~/sms+,  evaluate this script
     @created 1494188335142
     @weight 0.5
-
-sed 's/^ *. \:[a-zA-Z0-9]\{16\}\: /\n/' input.auto.md \
-  | egrep "^\[markdown\]" \
-  | sed 's/^\[markdown\]/\n/' > "why/contempl, expr, transc.md"

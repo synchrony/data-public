@@ -1,7 +1,3 @@
 * :2RjofE7KahahXBOH: RenameMe
     @created 1323927939594
     @weight 0.5
-
-dropbox start -i
-dropbox start
-ps aux | grep -i dropbox

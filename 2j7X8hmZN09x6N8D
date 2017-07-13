@@ -1,9 +1,3 @@
 * :2j7X8hmZN09x6N8D: RenameMe
     @created 1471477133102
     @weight 0.5
-
-SubClassOf( 
-   Annotation( rdfs:comment "States that every man is a person." )
-   :Man 
-   :Person 
- )

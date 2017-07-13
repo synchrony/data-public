@@ -1,7 +1,3 @@
 * :zVISB2jDnySVcJas: RenameMe
     @created 1395067736444
     @weight 0.5
-
-./configure
-make
-make install

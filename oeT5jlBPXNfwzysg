@@ -1,6 +1,3 @@
 * :oeT5jlBPXNfwzysg: RenameMe
     @created 1484905753875
     @weight 0.5
-
-instance monoidLoop :: Monoid Loop where
-  mempty = Loop { length: 0, values: mempty }

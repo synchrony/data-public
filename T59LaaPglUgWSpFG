@@ -1,7 +1,3 @@
 * :T59LaaPglUgWSpFG: RenameMe
     @created 1484983361584
     @weight 0.5
-
-module B where
-
-import A (class Fab)

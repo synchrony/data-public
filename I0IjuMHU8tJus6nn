@@ -1,9 +1,3 @@
 * :I0IjuMHU8tJus6nn: RenameMe
     @created 1485598443528
     @weight 0.5
-
-Thinking more about it, the extensional|intensional divide is not enough information. Consider the statement "logic helps kindness". Implicitly it creates a relationship between logic and kindness, but neither of those is clearly intensional or extensional to (i.e. neither should cover) the other. 
-
-I believe such a statement would most naturally descend from the two members it relates, without making either of those members descend from the other.
-
-Nodes of the form "see also" could be like this, to avoid cycles. If one for instance had made "optics" a child of "vision" and felt uncomfortable because neither should really descend from the other, one could instead make a node, "vision depends on optics" and made it a child of both.

@@ -1,8 +1,3 @@
 * :MKmSQHUU1QJKtQDr: parse a file line by line in Groovy
     @created 1484681601064
     @weight 0.5
-
-file = new File("/tmp/foo.csv")
-file.eachLine { line ->
-    System.out.println("line: " + line);
-}
