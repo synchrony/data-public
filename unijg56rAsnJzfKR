@@ -1,3 +1,10 @@
 * :unijg56rAsnJzfKR: RenameMe
     @created 1383950249652
     @weight 0.5
+
+String q11_cypher = "START publication=node(*)\n" +
+        "MATCH publication-[:`rdfs:seeAlso`]->ee\n" +
+        "RETURN ee.__id\n" +
+        "ORDER BY ee.__id\n" +
+        "SKIP 50\n" +
+        "LIMIT 10";

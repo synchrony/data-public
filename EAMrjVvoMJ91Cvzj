@@ -1,3 +1,6 @@
 * :EAMrjVvoMJ91Cvzj: instantiate TinkerGraph
     @created 1398525127464
     @weight 0.5
+
+g = TinkerFactory.createClassic();
+g.V().values()

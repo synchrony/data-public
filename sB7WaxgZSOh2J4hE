@@ -1,3 +1,7 @@
 * :sB7WaxgZSOh2J4hE: RenameMe
     @created 1470695508681
     @weight 0.5
+
+graph = TinkerGraph.open()
+g = graph.traversal()
+g.V()

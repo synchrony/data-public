@@ -1,3 +1,13 @@
 * :MPoQl6wvLiRiNqjd: RenameMe
     @created 1421638394575
     @weight 0.5
+
+given: sequence a_1, ..., a_n
+goal: find longest palindromic subsequence
+L(i, j) = longest palindromic subsequence between i and j (inclusive)
+if a_i = a_j
+    L(i, j) = 2 + L(i+1, j-1)
+else
+    L(i, j) = max{ L(i+1, j), L(i, j-1) }
+Fill in upper left diagonals starting with i=j and stopping at (1, n)
+Return (1, n)

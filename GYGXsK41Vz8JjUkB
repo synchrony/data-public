@@ -2,3 +2,5 @@
     @created 1495244999575
     @weight 0.25
     @priority 0.0
+
+Must activate the virtualenv first (and in each konsole tab): "source activate [name of environment]"

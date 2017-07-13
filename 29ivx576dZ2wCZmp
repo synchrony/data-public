@@ -1,3 +1,8 @@
 * :29ivx576dZ2wCZmp: RenameMe
     @created 1471377907786
     @weight 0.5
+
+EquivalentClasses(
+   :Parent
+   ObjectUnionOf( :Mother :Father )
+ )

@@ -1,3 +1,10 @@
 * :KqUv3q4MGjZQY3Ss: RenameMe
     @created 1358233258557
     @weight 0.5
+
+cd ~ && wget -O - "https://www.dropbox.com/download?plat=lnx.x86" | tar xzf -
+~/.dropbox-dist/dropboxd &
+# now visit the displayed URL in a browser to link the account
+
+# this is necessary before serving Dropbox-hosted content from Apache
+chmod +rx ~/Dropbox

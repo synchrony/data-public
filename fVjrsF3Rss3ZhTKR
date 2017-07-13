@@ -1,3 +1,23 @@
 * :fVjrsF3Rss3ZhTKR: Bellman-Ford algorithm
     @created 1421638271033
     @weight 0.5
+
+Find negative cycle if it exists
+    If no negative cycle, find min-cost s-t path P {
+        OPT(v) = min-cost of v-t path
+        
+        OPT(i, v) = min-cost v-t path of length at most i
+        OPT(i, v) = best of {
+            OPT(i-1, w) + v, w)  for all (v, w)
+        OPT(i-1, v)
+        }
+        
+        Claim: if there are no min-cost cycles, min-cost path will never cisit the same node twice
+        So paths have length at most n-1.
+        
+        Base cases:
+            OPT(0, v) = infinity (unless v = t, then 0)
+        OPT(i, t) = 0        
+            Final answer: OPT(n-1, s)
+        Time complexity is O(m*n)
+    }

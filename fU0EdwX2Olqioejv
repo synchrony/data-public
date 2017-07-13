@@ -1,3 +1,9 @@
 * :fU0EdwX2Olqioejv: RenameMe
     @created 1348117045590
     @weight 0.5
+
+cd ~/projects/notmine
+svn co http://emacspeak.googlecode.com/svn/trunk emacspeak
+cd emacspeak
+make config
+make emacspeak

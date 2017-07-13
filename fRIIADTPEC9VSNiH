@@ -1,3 +1,11 @@
 * :fRIIADTPEC9VSNiH: RenameMe
     @created 1357861236880
     @weight 0.5
+
+BufferedReader br = new BufferedReader(new FileReader(file));
+//BufferedReader br = new BufferedReader(new InputStreamReader(in));
+String line;
+while ((line = br.readLine()) != null) {
+   // process the line.
+}
+br.close();

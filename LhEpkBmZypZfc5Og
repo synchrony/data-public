@@ -1,3 +1,7 @@
 * :LhEpkBmZypZfc5Og: RenameMe
     @created 1389492627315
     @weight 0.5
+
+sudo /system/bin/logcat -f /sdcard/logcat.log *:I
+
+sudo tail -f /sdcard/logcat.log

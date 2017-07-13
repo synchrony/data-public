@@ -1,3 +1,14 @@
 * :dfDs0pXh6qAjBysc: select rows based on a column
     @created 1496704058998
     @weight 0.5
+
+>>> x
+array([[ 0,  1,  2,  3],
+       [ 4,  5,  6,  7],
+       [ 8,  9, 10, 11]])
+>>> b = x[:,1]>3 # rows where column 2 is > 3
+>>> b
+array([False,  True,  True], dtype=bool)
+>>> x[b]
+array([[ 4,  5,  6,  7],
+       [ 8,  9, 10, 11]])

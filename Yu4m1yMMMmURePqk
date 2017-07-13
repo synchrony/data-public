@@ -1,3 +1,5 @@
 * :Yu4m1yMMMmURePqk: loading multiple files
     @created 1493802179596
     @weight 0.5
+
+The filenames can be anything (.hs). Internally, though, they must have module names. Call one of them Main, list it first in the :load statement, and that will be the namespace.

@@ -1,3 +1,290 @@
 * :WFZQzYdavDONAfDO: RenameMe
     @created 1337641606142
     @weight 0.5
+
+########################################
+# common functions
+
+hour <- 60*60*1000   # milliseconds per hour
+day <- 24*hour       # milliseconds per day
+
+to.time <- function(time.raw) {
+  as.POSIXct(as.numeric(as.vector(time.raw))/1000, origin="1970-01-01 GMT", tz="GMT")
+}
+
+read.vertices <- function() {
+  vertex.data <- read.table(file("/tmp/joshkb-vertices.tsv"), header=TRUE, sep="\t", quote="", comment.char="")
+  data.frame(vertex.data, time=to.time(vertex.data$created))
+}
+
+# Note: occasionally, activity.log becomes corrupted (due to a killed process)
+# and needs to be manually cleaned up (by deleting an invalid line).
+read.activity <- function() {
+  activity.data <- read.table(file("/Volumes/encrypted/joshkb/stats/activity.log"), header=FALSE, sep="\t", fill=TRUE, col.names=c("time.raw", "action", "atom1", "atom2"))
+  time <- to.time(activity.data$time.raw)
+  activity.data <- subset(activity.data, !is.na(time))
+  activity.data <- data.frame(activity.data, time=to.time(activity.data$time.raw))
+}
+
+hist.of.frequency <- function(atoms) {
+  freq <- subset(as.data.frame(table(atoms)), Freq > 0)$Freq
+  h <- hist(freq, breaks=100, xlab="events per atom", ylab="number of atoms", main="distribution of events per atom")
+  plot(h$counts, log="xy", xlab="events per note", ylab="intensity", main="distribution of events per atom")
+  h
+}
+
+hist.of.timestamps <- function(time) {
+  h <- hist(as.POSIXlt(time), breaks="days", freq=TRUE)
+}
+
+
+########################################
+# read data
+
+vertex.data <- read.vertices()
+
+activity.data <- read.activity()
+views <-subset(activity.data, action=="view")
+creates <-subset(activity.data, action=="create")
+
+
+########################################
+# view and create events
+
+# Clearly a power-law distribution.
+# View and create frequency apparently fall off exponentially from the most-frequently
+# viewed atoms to the least
+hist.of.frequency(views$atom1)
+
+views.hist <- hist.of.timestamps(views$time)
+creates.hist <- hist.of.timestamps(creates$time)
+times <- rbind(views.hist$counts, creates.hist$counts)
+barplot(times, xlab="date", ylab="number of views")
+
+# Show ratio of creates to views (it's pretty random)
+plot(ch$counts / vh$counts)
+
+
+########################################
+# activity plotting (use with either activity log or atom timestamps)
+
+# these events capture time zone changes as well as factors affecting activity
+events <- as.data.frame(t(matrix(c(
+"2010-09-01", "trip from San Francisco to Beijing", 8, "Asia/Singapore", "red",
+"2011-08-16", "trip from Beijing to San Francisco", -8, "America/Los_Angeles", "orange",
+"2011-08-27", "trip from San Francisco to Albany", -5, "America/New_York", "orange",
+"2011-10-14", "trip from Albany to Beijing", 8, "Asia/Singapore", "red",
+"2011-11-14", "trip from Beijing to Albany with Xixi and Leon", -5, "America/New_York", "red",
+"2011-12-20", "trip from Albany to Spokane with Xixi and Leon", -8, "America/New_York", "green",
+"2011-12-29", "trip from Spokane to Albany with Xixi and Leon", -5, "America/New_York", "green",
+"2012-05-23", "trip from Albany to Orlando with Xixi and Leon", -5, "America/New_York", "yellow",
+"2012-05-29", "trip from Orlando to Albany with Xixi and Leon", -5, "America/New_York", "yellow",
+"2012-08-26", "start of missing activity data zone", -5, "America/New_York", "gray",
+"2012-08-31", "end of missing activity data zone", -5, "America/New_York", "gray",
+"2012-09-06", "started taking Topamax", -5, "America/New_York", "orange",
+"2012-10-11", "stopped taking O", -5, "America/New_York", "blue",
+"2012-11-06", "started using T heavily", -5, "America/New_York", "purple",
+"2012-12-17", "trip from Albany to Orlando with Xixi and Leon", -5, "America/New_York", "green",
+"2012-12-28", "trip from Orlando to Albany with Xixi and Leon", -5, "America/New_York", "green",
+"2013-02-21", "last T", -5, "America/New_York", "blue",
+"2013-03-11", "resumed T", -5, "America/New_York", "purple",
+"2013-10-07", "Google X phone interview", -5, "America/New_York", "red",
+"2014-02-02", "started work at Aurelius", -5, "America/New_York", "yellow",
+"2014-08-25", "start of semester at RPI", -5, "America/New_York", "yellow",
+"2015-07-07", "PhD defense", -5, "America/New_York", "red",
+"2015-08-02", "start of job at Cisco", -8, "America/Los_Angeles", "blue",
+"2015-12-23", "PhD thesis accepted", -5, "America/New_York", "red"), nrow=5)))
+
+# notes on specific dates:
+# 2012-11-06: I can't explain the abrupt bedtime shift which occurs here. It's a little suspect.
+# 2013-10-05: the peak just before my Google X interview.  Just afterwards is the great
+#     MyOtherBrain desert, which was very clearly caused by that event, and not only correlated.
+# 2013-11-08: 1000+ new notes, but nothing special; I just created a lot of numbers
+
+events.day <- as.numeric(as.POSIXct(events$V1)) * 1000
+events.tz.hour <- as.numeric(as.vector(events$V3))
+events.tz.name <- as.vector(events$V4)
+events.colors <- as.vector(events$V5)
+
+find.offset <- function(time) {
+    timezone <- events.tz.hour[which.max(1 / (time - events.day))]
+    offset <- timezone * hour
+    #if (timezone < 0)
+    offset
+}
+
+# note: this function is currently not used.
+# It has the advantage of taking daylight savings time into account, but its use of
+# native POSIXct and POSIXlt objects turned out to be prohibitively slow.
+as.date <- function(time) {
+    timezone <- events.tz.name[which.max(1 / (time - events.day))]
+    d <- as.POSIXct(time / 1000, origin="1970-01-01 GMT", tz="GMT")
+    as.POSIXlt(d, tz=timezone)
+}
+
+days <- function(date.str) {
+    time <- as.numeric(as.POSIXct(date.str), origin="1970-01-01 GMT", tz="GMT") * 1000
+    offset <- find.offset(time);
+    (time - offset) / day;
+}
+
+# Show a timeline of timestamps by time of day
+plot.activity <- function(tstamps.raw) {
+    # The artificial 6-hour offset diminishes the visual effect of all-nighters,
+    # but makes many other properties more apparent, such as length of working
+    # day and relative intensity of morning versus evening activity.
+    # Note: all-nighters may be wrapped unrealistically due to the offset.
+    # However, as this plot grows, it will become harder and harder to visually
+    # match up the top and bottom portions of an all-nighter anyway.
+    tstamps <- tstamps.raw + sapply(tstamps.raw, find.offset) - 6 * hour
+
+    plot(1, xlim=c(min(tstamps %/% day)-0.5, max(tstamps %/% day)+0.5), ylim=c(0,24), xlab="date", ylab="time of day", axes=FALSE)
+    axis(2, at=c(0,4,8,12,16,20,24), lab=c("06:00","10:00","14:00","18:00","22:00", "02:00", "06:00"))
+    #axis(2, at=c(0,4,8,12,16,20,24), lab=c("0:00","4:00","8:00","12:00","16:00", "20:00", "24:00"))
+    segments(x0=(tstamps %/% day)-0.5, x1=(tstamps %/% day)+0.5, y0=24*(tstamps %% day) / day, col="black")
+    segments(x0=days(events$V1), x1=days(events$V1), y0=-4, y1=28, col=events.colors);
+}
+
+plot.daily.activity <- function(tstamps.raw) {
+    tstamps <- tstamps.raw + sapply(tstamps.raw, find.offset) - 6 * hour
+    td <- (tstamps %/% day)
+    df <- as.data.frame(table(td))
+    barplot(df$Freq, ylim=c(0,500))
+}
+
+
+########################################
+
+ctimes <- vertex.data$created
+
+#par(cex=2)
+plot.activity(ctimes);
+#plot.activity(vtimes);
+
+tmp <- as.numeric(as.POSIXct(events$V1))*1000
+# list of indices in tstamps corresponding to the events
+tmp2 <- c(1, sapply(1:length(tmp), function(i){which.min(abs(tmp[i]-tstamps))}), length(tstamps))
+# number of timestamps in each interval
+w <- tmp2[2:length(tmp2)] - tmp2[1:(length(tmp2) - 1)]
+# length (in milliseconds) of each interval
+l <- tstamps[tmp2[2:length(tmp2)]] - tstamps[tmp2[1:(length(tmp2) - 1)]]
+d <- w / l
+# items created per day
+density <- d * day
+density
+
+
+#########################################
+# activity by day of week
+
+sunday.morning <- as.numeric(as.POSIXct("2012-01-01 05:00:00")) * 1000
+by.day <- floor((activity.data$time - sunday.morning) / day) %% 7
+rel <- table(by.day) / nrow(activity)
+
+# Oddly enough, the result indicates high activity on Monday and Thursday, low
+# activity on Friday, medium activity on Sunday, Tuesday, Wednesday, and Saturday.
+plot(rel * 100, type="h", xlab="day of week", ylab="percent of weekly activity", xaxt="n")
+axis(1, at=0:6, labels=c("Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"))
+
+
+#########################################
+# views by hour of day
+
+t <- 24*(vtimes %% day) / day
+t1 <- t - 24
+t2 <- t + 24
+t3 <- c(t1, t, t2)
+plot(density(t3, from=0, to=24, bw=0.75), main="density of MOB views by hour of day")
+
+
+#########################################
+# analysis of linking and unlinking
+
+cat /Volumes/encrypted/mob-stats/activity.log |grep link > /tmp/mob-linking
+
+linking <- read.table(file("/tmp/mob-linking"))
+links <- subset(linking, V2 == "link")
+unlinks <- subset(linking, V2 == "unlink")
+
+# There are almost 10 times as many "link" as "unlink" events
+lc <- nrow(links)
+uc <- nrow(unlinks)
+lc / uc
+uc / (lc + uc)
+
+ltimes <- links[,1] - offset
+utimes <- unlinks[,1] - offset
+
+# this activity pattern is visually indistinguishable from that of views and creates
+plot(1, xlim=c(min(ltimes %/% day)-0.5, max(ltimes %/% day)+0.5), ylim=c(0,24), xlab="date", ylab="time of day", axes=FALSE)
+axis(2, at=c(0,4,8,12,16,20,24), lab=c("0:00","4:00","8:00","12:00","16:00", "20:00", "24:00"))
+#abline(v=(c(min(vtimes %/% day):(max(vtimes %/% day)+1))-0.5), col="gray")
+segments(x0=(ltimes %/% day)-0.5, x1=(ltimes %/% day)+0.5, y0=24*(ltimes %% day) / day, col="blue")
+segments(x0=(utimes %/% day)-0.5, x1=(utimes %/% day)+0.5, y0=24*(utimes %% day) / day, col="red")
+
+
+#########################################
+# use atom creation timestamps rather than the activity log
+
+vertex.data <- read.vertices()
+
+vertex.data <- read.table(file("/tmp/joshkb-vertices.tsv"), header=TRUE, sep="\t", quote="", comment.char="")
+
+#########################################
+# atom survival/decay
+
+# use the export service in TinkerNotes, then:
+v <- read.table(file("/tmp/joshkb-vertices.tsv"), header=TRUE, sep="\t", quote="", comment.char="")
+
+survival <- data.frame(id=creates$V3, created=creates$V1, alive=(creates$V3 %in% v$id))
+alive <- subset(survival, alive==TRUE)
+dead <- subset(survival, alive==FALSE)
+
+# 96.9% survival overall, as of 2013-03-14
+nrow(alive) / nrow(survival)
+
+mn <- min(survival$created)
+mx <- max(survival$created)
+
+survival.rate <- function(start.time, end.time) {
+  nrow(subset(alive, created >= start.time & created < end.time)) / nrow(subset(survival, created >= start.time & created < end.time));
+}
+df <- data.frame(min = mn + (0:9)*(mx-mn)/10, max = mn + (1:10)*(mx-mn)/10)
+sr <- function(i) { survival.rate(df$min[i], df$max[i]) }
+# there must be a better way to do this...
+s <- c(sr(1), sr(2), sr(3), sr(4), sr(5), sr(6), sr(7), sr(8), sr(9), sr(10))
+
+# Hard to say, but it looks roughly linear.
+# You would expect it to be exponential, but not exponential approaching zero
+# (since many atoms "burn in" and are never destroyed).
+# In any case, the rate of decay is low: projecting a little, it is around 7.5% per year.
+
+
+#########################################
+# atom timestamps as extended activity log
+
+# the activity log timestamps start on 2012-05-19...
+ISOdatetime(1970,1,1,0,0,0, tz="GMT") + min(ctimes)/1000
+# but the KB timestamps go all the way back to 2011-06-22
+ISOdatetime(1970,1,1,0,0,0, tz="GMT") + min(v$created)/1000
+# based on the above, we can expect only a small amount of decay, so the KB
+# timestamps are a reasonable substitute for the activity log
+
+# To create the diagram in my dissertation, expand the window to fit the (Marvin V) screen,
+# take a screen shot, crop to the plot and the y axis with label, then resize to 50%.
+# First increase the font size.
+#par(cex=2)
+plot.activity(v$created)
+
+# this is rather sad as of 2015-01-03; my activity has decreased quite a lot since the
+# good old days, although it is picking up somewhat
+plot.daily.activity(v$created)
+
+
+#########################################
+# viewing activity for a specific interval
+
+vertex.data <- read.table(file("/tmp/joshkb-vertices.tsv"), header=TRUE, sep="\t", quote="", comment.char="")
+c <- data.frame(creates, date=as.POSIXct(creates$V1 / 1000, origin="1970-01-01 GMT", tz="GMT"))
+cs <- subset(c, date > as.POSIXct("2013-07-28") & date < as.POSIXct("2013-07-30"))
+m <- merge(cs, v, by.x="V3", by.y="id")

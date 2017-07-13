@@ -1,3 +1,9 @@
 * :B6a84IuMj2ZFIYGD: RenameMe
     @created 1371149086844
     @weight 0.5
+
+g = new LinkedDataSailGraph(new MemoryStoreSailGraph())
+v = g.v('http://data.semanticweb.org/person/christian-bizer')
+v.outE
+g.addDefaultNamespaces()
+v.out('foaf:made')

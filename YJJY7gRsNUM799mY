@@ -1,3 +1,11 @@
 * :YJJY7gRsNUM799mY: RenameMe
     @created 1471476754096
     @weight 0.5
+
+DatatypeDefinition(
+   :majorAge
+   DataIntersectionOf(
+     :personAge 
+     DataComplementOf( :minorAge ) 
+   ) 
+ )

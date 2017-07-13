@@ -1,3 +1,9 @@
 * :lCzu6Ahphz9CLIm6: RenameMe
     @created 1445634062356
     @weight 0.5
+
+library("igraph")
+
+gg <- sample_pa(n=10000, directed=TRUE)
+head(degree(gg, mode="out"))
+dist <- degree_distribution(gg)

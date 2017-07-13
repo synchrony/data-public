@@ -1,3 +1,20 @@
 * :cKCN1BDtXxJrFuly: Gradle usage
     @created 1485884405543
     @weight 0.75
+
+# build
+gradle build
+
+## skip tests
+gradle build -x test
+
+## individual modules
+From the parent directory, use "gradle :moduleA:build"
+
+# install
+gradle install
+
+# offline usage
+gradle --offline clean build
+
+# dependencies

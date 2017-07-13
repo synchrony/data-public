@@ -1,3 +1,27 @@
 * :jHkWNMFSBMkTtVrj: RenameMe
     @created 1486030461662
     @weight 0.5
+
+jbb after meeting phil
+  use the Tidal samples for bd, sn, hh
+    remap volume levels to fit them
+  rename go to play
+    => qualifying the Howler imports as H
+  
+  merge :: Passage -> Passage -> Passage
+    => new import: Data.List
+  rename Loop -> Passage
+    The loop function is unchanged, but Passages don't have to be looped.
+  
+together
+  add
+    Playable (a newtype)
+    go = play a Playable
+    degrade = drop Events randomly
+      => new import: Data.Random
+  rewrite track in terms of Playable
+  
+jbb before meeting phil
+  fix in loop function: millis = 60000 / unwrap bpm
+    rather than 36000
+  briefer comments

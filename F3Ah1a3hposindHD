@@ -1,3 +1,7 @@
 * :F3Ah1a3hposindHD: while. (skipping: do while)
     @created 1469061912082
     @weight 0.5
+
+while (expression) {
+     statement(s)
+}

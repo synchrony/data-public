@@ -1,3 +1,9 @@
 * :J8OXmqWIbTWMo8v9: RenameMe
     @created 1397082083799
     @weight 0.5
+
+sudo apt-get update
+sudo apt-get dist-upgrade
+
+# alternatively
+sudo do-release-upgrade

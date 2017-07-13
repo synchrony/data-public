@@ -1,3 +1,8 @@
 * :OETCJmx4rJmIR5Pk: [common to all *wiki* files] in bash, at ~/sms+,  evaluate this script
     @created 1494134462037
     @weight 0.5
+
+sed 's/^ *. \:[a-zA-Z0-9]\{16\}\: /\n/' input.auto.md \
+  | egrep "^\[markdown"                            \
+  | sed 's/^\[markdown-code\]//'               \
+  | sed -E 's/^\[(markdown|markdown-code-start)\]/\n/' > "output.auto.md"

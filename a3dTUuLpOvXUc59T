@@ -1,3 +1,19 @@
 * :a3dTUuLpOvXUc59T: RenameMe
     @created 1331011563767
     @weight 0.5
+
+prefix govdata: <http://reference.data.gov/def/govdata/>
+prefix hosp: <http://health.data.gov/def/hospital/>
+prefix org: <http://www.w3.org/ns/org#>
+prefix vcard: <http://www.w3.org/2006/vcard/ns#>
+select distinct ?id ?type ?name ?long ?lat {
+    ?id govdata:stateCode ?state.
+    ?state rdfs:label "NY".
+    ?id rdf:type <http://health.data.gov/def/hospital/Hospital>.
+    ?id rdfs:label ?name.
+    ?id hosp:site ?site.
+    ?site org:siteAddress ?address.
+    ?address vcard:longitude ?long.
+    ?address vcard:latitude ?lat.
+    rdf:foo rdf:hosp ?type.
+}

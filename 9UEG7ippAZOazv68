@@ -2,3 +2,7 @@
     @created 1493537095885
     @weight 0.5
     @priority 0.5
+
+equivalent:
+d1 $ sound "bd bd . sd sd sd . bd sd"
+d1 $ sound "[bd bd] [sd sd sd] [bd sd]"

@@ -1,3 +1,6 @@
 * :bR1s02AQJ5Z3alRu: RenameMe
     @created 1383244296156
     @weight 0.5
+
+git tag 0.7 -m '0.7 release (retrospective)' 6d2859ac0fd83b51a1ac3cb724aacc84271014f2
+git push --tags

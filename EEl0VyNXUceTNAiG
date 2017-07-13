@@ -1,3 +1,11 @@
 * :EEl0VyNXUceTNAiG: RenameMe
     @created 1384447773970
     @weight 0.5
+
+#ifdef FOO
+    ...
+#elif defined(BAR)
+    ...
+#else
+    ...
+#endif

@@ -1,3 +1,14 @@
 * :FpwV3fJq4sByEohE: RenameMe: some code that [verb missing]
     @created 1452109199813
     @weight 0.5
+
+vim events.rq
+{
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX dc: <http://purl.org/dc/terms/>
+SELECT ?date ?label WHERE {
+   ?event dc:date ?date .
+   ?event rdfs:label ?label .
+}
+}
+roqet -r xml events.rq -D joshkb.nt|tr '\n' ' '|tr '_' '-'|sed 's/XMLSchema.date../_/g'|tr '_' '\n'|sed 's/<.literal...binding. *.binding name..label...literal./_/'|sed 's/..literal.*//'|sed 's/_/_______/'|sed 's/-/_/'|sed 's/-/_/'|tr '_' '\t'|grep -v "xml version"|tee /tmp/events.txt

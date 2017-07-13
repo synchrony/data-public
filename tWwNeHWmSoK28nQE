@@ -1,3 +1,17 @@
 * :tWwNeHWmSoK28nQE: the problem description, written up for tidal list (not sent)
     @created 1496998315286
     @weight 0.5
+
+maybe post at http://ask.tidalcycles.org/questions/ask/
+
+Can I add a custom module hierarchy to what Emacs loads when Tidal starts?
+
+When Tidal starts in Atom, it defines a lot of things -- getNow, for instance, or the synthesizers d1 through d10, in a file I can find. In Emacs there must be a similar file defining those things, but I can't find it.
+
+I believe I need to modify that file, because if I load a separate one (using the :l preprocessor command in GHCI), it forgets what it had already loaded.
+
+I would also like to add code that's not just in a file, but in a module hierarchy. Is it possible?
+
+(There is a similar question here:
+http://ask.tidalcycles.org/question/61/how-and-where-do-i-define-and-use-custom-functions/
+It focuses on Atom, and doesn't mention modules.)

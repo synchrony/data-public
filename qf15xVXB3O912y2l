@@ -1,3 +1,17 @@
 * :qf15xVXB3O912y2l: [done]. two Docker images for smsm: master and develop
     @created 1493933364445
     @weight 0.25
+
+Move the extant smsn images to smsn-develop.
+Create a new dockerhub repo, smsn-develop.
+Push to hub.
+
+Delete all the smsn (master) images.
+Build the new one.
+Push to hub.
+
+Edit documentation on smsn wiki.
+Edit documentation on dockerhub, inc. develop.
+
+Report: master doesn't work.
+  I changed require smsn-mode to require brain-mode, and then it would load, but when I searched for some text it cycled forever (i.e. 30 seconds).

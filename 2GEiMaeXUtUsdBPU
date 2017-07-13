@@ -1,3 +1,14 @@
 * :2GEiMaeXUtUsdBPU: RenameMe
     @created 1394895507581
     @weight 0.5
+
+install Tailor in WebOS (see YouTube video(s) for instructions)
+in Tailor, repartition the hard drive
+ideally (I am told):
+    600mb system, 200mb cache, 400mb media, rest goes to data
+Tailor insisted on at least 4gb or so for media, so I settled for:
+    600mb system, 200mb cache, 4883mb media, 6953 data, 32mb unused
+several partitions had to be checked and repaired repeatedly until all were OK
+download the appropriate CyanogenMod, Google Apps, and ClockworkMod recover for the device
+boot into the old ClockworkMod recovery, then side-load the new CWM.  Reboot
+side-load CM and Google Apps.  Reboot into CM

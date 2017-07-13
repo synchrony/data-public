@@ -1,3 +1,6 @@
 * :BJDrwECsE1RbnVvT: synths "sy" and "sya" :: beware: can't _
     @created 1493706776120
     @weight 0.5
+
+qf ->rename speed
+  speed has effects elsewhere; if qf is renamed to speed, they interact badly

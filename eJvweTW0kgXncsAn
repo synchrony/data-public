@@ -1,3 +1,11 @@
 * :eJvweTW0kgXncsAn: RenameMe
     @created 1396375464683
     @weight 0.5
+
+g = TitanFactory.open("/tmp/test")
+g.makeKey(IdGraph.ID).single().unique().indexed(Vertex.class).indexed(Edge.class).dataType(String.class).make()
+ig = new IdGraph(g)
+hercules = ig.addVertex("hercules")
+g.v("hercules")
+zeus = ig.addVertex("zeus")
+ig.addEdge("hercules-father", hercules, zeus, "father");

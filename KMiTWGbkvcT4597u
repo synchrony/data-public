@@ -1,3 +1,7 @@
 * :KMiTWGbkvcT4597u: Weather Underground API
     @created 1489252085574
     @weight 0.5
+
+export WUKEY=...
+
+wget http://api.wunderground.com/api/$WUKEY/conditions/q/CA/San_Francisco.json
