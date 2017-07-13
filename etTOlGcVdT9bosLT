@@ -1,0 +1,7 @@
+* :etTOlGcVdT9bosLT: Sample random rows in dataframe \ Stack Overflow
+    @created 1499638657755
+    @alias https://stackoverflow.com/questions/8273313/sample-random-rows-in-dataframe
+    @weight 0.5
+
+df[ sample( nrow(df), 3) , ]
+sample() is weird: the first argument is either a source of data to sample from, or an integer, the maximum for the generated sample numbers.
