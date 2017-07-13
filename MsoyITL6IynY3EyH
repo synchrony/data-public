@@ -1,3 +1,10 @@
 * :MsoyITL6IynY3EyH: join (unlike-type) columns
     @created 1496703508467
     @weight 0.5
+
+x = pd.DataFrame(
+    { 'a': np.random.normal(size=10)
+    , 'c': np.array( range(10) ) * 2 + 5
+    }
+    , index = np.array( range(10) )
+)

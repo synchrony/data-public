@@ -1,3 +1,8 @@
 * :6jA961Xwaqet383z: RenameMe
     @created 1329407525361
     @weight 0.5
+
+PREFIX ex: <http://example.org/ns#>
+SELECT DISTINCT * WHERE {
+    <http://fortytwo.net/tmp/foaf.rdf#bob> ex:isTaking ?drug1 .
+}

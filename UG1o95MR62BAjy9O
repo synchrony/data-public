@@ -1,3 +1,8 @@
 * :UG1o95MR62BAjy9O: strip rows with NaN values
     @created 1496704003799
     @weight 0.5
+
+a = np.array([[1,2,3], [4,5,np.nan], [7,8,9]]);
+a[~np.isnan(a).any(axis=1)]
+  # ~ is the not operator
+  # axis=1 means "rows"

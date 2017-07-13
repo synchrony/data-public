@@ -1,3 +1,8 @@
 * :XG37bhXXkeNxQfRI: RenameMe
     @created 1395968140872
     @weight 0.5
+
+gt = ...TitanGraph...
+gt.getProperties()
+config = gt.getProperties().get("configuration")
+config.getProperties()

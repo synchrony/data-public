@@ -1,3 +1,7 @@
 * :oLxQBG3ZlOMktdMy: RenameMe
     @created 1482195205390
     @weight 0.5
+
+An almost natural way to share data of the sort "X wishes to share Y with Z" would be on Git, signed with X's public key, encrypted to Y's public key.
+
+I can imagine (although honestly it's to me an uncertain and little-explored math question) hash functions that would provide a kind of group public key for any known set of individual public keys, so that you could encode to the group once on Github rather than once per member you're sharing to.

@@ -1,3 +1,8 @@
 * :6gs4p0nBvTZ63tzx: RenameMe
     @created 1471472452059
     @weight 0.5
+
+EquivalentClasses(
+   :NarcisticPerson 
+   ObjectHasSelf( :loves ) 
+ )

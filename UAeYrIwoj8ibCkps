@@ -1,3 +1,7 @@
 * :UAeYrIwoj8ibCkps: RenameMe
     @created 1484963632329
     @weight 0.5
+
+npm install -g bower pulp
+bower update
+pulp -w build -O --to html/index.html

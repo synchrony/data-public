@@ -1,3 +1,18 @@
 * :CjAG8pSapqekMW35: RenameMe
     @created 1329405293438
     @weight 0.5
+
+PREFIX drugs: <http://www4.wiwiss.fu-berlin.de/dailymed/resource/drugs/>
+PREFIX dailymed: <http://www4.wiwiss.fu-berlin.de/dailymed/resource/dailymed/>
+PREFIX drugbank: <http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/>
+SELECT DISTINCT * WHERE {
+    drugs:1 dailymed:genericDrug? ?drug .
+    {
+        ?int drugbank:interactionDrug1 ?drug .
+        ?int drugbank:interactionDrug2 ?drug2 .
+    } UNION {
+        ?int drugbank:interactionDrug2 ?drug .
+        ?int drugbank:interactionDrug1 ?drug2 .
+    }
+    ?int drugbank:text ?text .
+}

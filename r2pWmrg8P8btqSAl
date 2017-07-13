@@ -1,3 +1,8 @@
 * :r2pWmrg8P8btqSAl: RenameMe
     @created 1421638530048
     @weight 0.5
+
+m = [:]
+# note: iterate() or cap().next() not strictly necessary in the REPL
+g.V.type.groupCount(m).iterate()
+m

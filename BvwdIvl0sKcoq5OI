@@ -1,3 +1,8 @@
 * :BvwdIvl0sKcoq5OI: RenameMe
     @created 1421638504768
     @weight 0.5
+
+set of objects p1, ..., pn with distance d(p_i, p_j)
+d(p_i, p_i) = 0
+d(p_i, p_j) > 0
+d(p_i, p_j) = d(p_j, p_i)  -- symmetry

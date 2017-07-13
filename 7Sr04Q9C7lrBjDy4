@@ -1,3 +1,12 @@
 * :7Sr04Q9C7lrBjDy4: RenameMe
     @created 1331012537142
     @weight 0.5
+
+prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+prefix schools: <http://logd.tw.rpi.edu/source/p12-nysed-gov/dataset/new_york_state_school_report_cards_2008-09_school_year/vocab/raw/>
+select ?id ?type ?name ?long ?lat {
+  ?id schools:entity_name ?name.
+  ?id schools:lng ?long.
+  ?id schools:lat ?lat.
+  rdf:foo rdf:school ?type.
+}

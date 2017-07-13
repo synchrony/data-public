@@ -1,3 +1,6 @@
 * :JdsBhRuZZ0Isv9Nd: RenameMe
     @created 1370127794435
     @weight 0.5
+
+cd titan
+bin/gremlin.sh

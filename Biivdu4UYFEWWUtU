@@ -1,3 +1,8 @@
 * :Biivdu4UYFEWWUtU: RenameMe
     @created 1471377907793
     @weight 0.5
+
+EquivalentClasses(
+   :Parent
+   ObjectSomeValuesFrom( :hasChild :Person )
+ )

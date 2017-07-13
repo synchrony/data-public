@@ -1,3 +1,8 @@
 * :mn1lAwO5W36S125i: RenameMe
     @created 1471472379529
     @weight 0.5
+
+EquivalentClasses( 
+   :JohnsChildren 
+   ObjectHasValue( :hasParent :John )
+ )

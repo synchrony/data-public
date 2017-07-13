@@ -1,3 +1,9 @@
 * :a3hDLB0TCedsJY5q: merge data sets on common columns
     @created 1496703887236
     @weight 0.5
+
+import functools as functools
+dataAll = functools.reduce(
+    lambda left,right: pd.merge(left,right,how='inner'
+             ,on=['ano','codmpio'])
+    , [dataGen,dataHealth]) # can add datasets here

@@ -1,3 +1,38 @@
 * :5vgQV5TNW7b7z2nb: updating the SmSn Sandbox
     @created 1491077120270
     @weight 0.5
+
+# use a screen session
+
+screen -S docker
+
+# pull the image
+
+docker pull jeffreybbrown/smsn
+
+Note: do *not* remove the previous image
+
+# stop and remove the current container
+
+docker stop smsn-sandbox
+docker rm smsn-sandbox
+
+# run the container (see variables below)
+
+sudo docker run --name $NAME -p 8182:8182 -d -h $HOST -v /joshsh/data/smsn/sandbox/:/mnt/smsn-data $IMAGE:$VERSION
+
+docker ps
+
+## with production image
+
+IMAGE=jeffreybbrown/smsn
+VERSION=latest
+NAME=smsn-sandbox
+HOST=fortytwo.net
+
+## with locally-built image
+
+IMAGE=joshsh/smsn
+VERSION=latest
+NAME=smsn-sandbox
+HOST=fortytwo.net

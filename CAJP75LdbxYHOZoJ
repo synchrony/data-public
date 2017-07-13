@@ -1,3 +1,6 @@
 * :CAJP75LdbxYHOZoJ: RenameMe
     @created 1395163759802
     @weight 0.5
+
+# Default user has no password:
+mysql -u root

@@ -1,3 +1,7 @@
 * :FbmoF2mwuKVdT32M: tidal / atom + (reinstall)supercollider
     @created 1493248047663
     @weight 0.5
+
+If it doesn't work with Atom, try removing the old Supercollider and using apt -- it appears well-supported now.
+
+"you need the SuperCollider sc3-plugins for using many of the synths included in SuperDirt"

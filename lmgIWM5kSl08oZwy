@@ -1,3 +1,53 @@
 * :lmgIWM5kSl08oZwy: RenameMe
     @created 1331530805748
     @weight 0.5
+
+git flow release start 1.x
+# now remove SNAPSHOT from version numbers
+mvn clean
+vim `grep -Rl SNAPSHOT .|grep pom`
+:bufdo %s/1.x-SNAPSHOT/1.x/gc|w
+
+# check that there are no SNAPSHOT versions or dependencies left
+mvn dependency:tree | grep SNAPSHOT
+
+# make sure the project still builds
+mvn clean install
+
+# tweak the CHANGELOG, then commit
+vim CHANGELOG.md
+
+# download and trust the SonaType certificate if you haven't already
+openssl s_client -showcerts -connect oss.sonatype.org:443 </dev/null 2>/dev/null|openssl x509 -outform PEM > mycertfile.pem
+# default password for jssecacerts is "changeit", but I had changed the password to my usual one
+sudo keytool -import -alias alias_name -file mycertfile.pem -keystore $JAVA_HOME/jre/lib/security/jssecacerts
+# default password for cacerts is "changeit"
+# note: the following step probably wasn't necessary
+#sudo keytool -import -alias alias_name -file mycertfile.pem -keystore $JAVA_HOME/jre/lib/security/cacerts
+
+# apparently, this handles generating the source and javadoc jars, as well
+# two prerequisites for this step:
+# 1) appropriate credentials in ~/.m2/settings.xml
+# 2) a GPG key on your machine which you have distributed. You will type its password.
+# NOTE: in using sonatype-oss-release instead of my previous release profile, apparently
+# I have chosen automatic promotion of my artifacts.  I can search for and "close" my
+# repository, but I can't release it; I just have to wait.
+# Note: if you encounter a "ReasonPhrase: Forbidden" error at this point, check settings.xml
+mvn clean deploy -Psonatype-oss-release
+
+# on 2015-12-08, I found this necessary, by YMMV
+#mvn clean deploy -Psonatype-oss-release -Dmaven.wagon.http.ssl.insecure=true -Dmaven.wagon.http.ssl.allowall=true
+
+# profile defined in the POM is not necessary
+#mvn clean deploy -Prelease
+
+# now make any last-minute changes and commit them, then
+git flow release finish 1.x
+git push origin develop
+git checkout master
+git push origin master
+git push --tags
+
+git checkout develop
+
+# now bump the Maven version and CHANGELOG.md to the next SNAPSHOT

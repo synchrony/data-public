@@ -1,3 +1,6 @@
 * :RE3OYIVYo6d9X2T9: RenameMe
     @created 1326595413238
     @weight 0.5
+
+$ rapper -qo dot /path/to/data.rdf > data.dot
+$ dot -Tpng -o data.png data.dot

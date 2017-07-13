@@ -1,3 +1,5 @@
 * :EeSHT4yyOnNemW4S: explain green and yellow, don't go below
     @created 1494395599168
     @weight 0.5
+
+Green is public, yellow is private; the implementation details (e.g. the sharability parameter) don't matter (to someone just being introduced).

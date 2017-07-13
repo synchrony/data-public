@@ -1,3 +1,9 @@
 * :RPperAsFAutyVrEt: how to read ?all of the variable lists here
     @created 1496472645016
     @weight 0.5
+
+* indicated variables have notes
+
+              storage  display     value
+variable name   type   format      label      variable label
+  ** el panel "salud y servicios" no tenia este ?legend
