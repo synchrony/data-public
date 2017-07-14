@@ -1,4 +1,5 @@
-* :PkWO6bqSVlKMBFaA: TinyDB: A Declarative Database for Sensor Networks (web page)
-    @created 1444409579234
-    @alias http://telegraph.cs.berkeley.edu/tinydb/
-    @weight 0.5
+@id PkWO6bqSVlKMBFaA
+@title TinyDB: A Declarative Database for Sensor Networks (web page)
+@alias http://telegraph.cs.berkeley.edu/tinydb/
+@created 1444409579234
+@weight 0.5

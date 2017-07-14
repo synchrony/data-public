@@ -1,4 +1,5 @@
-* :WTA5DGPYf9wOaFcY: Postage Price Calculator (web page)
-    @created 1384438542544
-    @alias http://postcalc.usps.com/
-    @weight 0.5
+@id WTA5DGPYf9wOaFcY
+@title Postage Price Calculator (web page)
+@alias http://postcalc.usps.com/
+@created 1384438542544
+@weight 0.5

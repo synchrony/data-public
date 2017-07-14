@@ -1,4 +1,5 @@
-* :wFHyVgFae2cQHlI0: NASA homepage (web page)
-    @created 1310539747692
-    @alias http://www.gsfc.nasa.gov/index.html
-    @weight 0.25
+@id wFHyVgFae2cQHlI0
+@title NASA homepage (web page)
+@alias http://www.gsfc.nasa.gov/index.html
+@created 1310539747692
+@weight 0.25

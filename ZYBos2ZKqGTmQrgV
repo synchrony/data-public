@@ -1,7 +1,8 @@
-* :ZYBos2ZKqGTmQrgV: Property Graph data model
-    @created 1363727282184
-    @weight 0.75
-    * :SJc8WtWzJV8YdPGE: 
-    * :CYDlBcwpGvJgvRlJ: 
-    * :44baqvGej8TpYQQr: 
-    * :5rAeouzv7VbLXRQV: 
+@id ZYBos2ZKqGTmQrgV
+@title Property Graph data model
+@created 1363727282184
+@weight 0.75
+* :SJc8WtWzJV8YdPGE: 
+* :CYDlBcwpGvJgvRlJ: 
+* :44baqvGej8TpYQQr: 
+* :5rAeouzv7VbLXRQV: 

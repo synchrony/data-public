@@ -1,6 +1,7 @@
-* :dfDs0pXh6qAjBysc: select rows based on a column
-    @created 1496704058998
-    @weight 0.5
+@id dfDs0pXh6qAjBysc
+@title select rows based on a column
+@created 1496704058998
+@weight 0.5
 
 >>> x
 array([[ 0,  1,  2,  3],

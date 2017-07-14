@@ -1,4 +1,5 @@
-* :CsujP3cdT3FFfzd5: Science News (web page)
-    @created 1361163526047
-    @alias http://www.sciencenews.org/
-    @weight 0.5
+@id CsujP3cdT3FFfzd5
+@title Science News (web page)
+@alias http://www.sciencenews.org/
+@created 1361163526047
+@weight 0.5

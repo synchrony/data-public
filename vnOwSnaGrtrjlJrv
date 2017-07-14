@@ -1,3 +1,4 @@
-* :vnOwSnaGrtrjlJrv: the change that any two nodes have the same address is exactly 1/k. the chance that node n1 from graph g1 matches one of the nodes in g2 is roughly 10^6/k = 1/10^6. Roughly^2, then, the chance that some node in g1 matches some node in g2 is 10^12 / k = 1 / 4.4!
-    @created 1482395163070
-    @weight 0.5
+@id vnOwSnaGrtrjlJrv
+@title the change that any two nodes have the same address is exactly 1/k. the chance that node n1 from graph g1 matches one of the nodes in g2 is roughly 10^6/k = 1/10^6. Roughly^2, then, the chance that some node in g1 matches some node in g2 is 10^12 / k = 1 / 4.4!
+@created 1482395163070
+@weight 0.5

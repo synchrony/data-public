@@ -1,3 +1,4 @@
-* :MZJhppJclnTER2GY: in urban computing: ``[...] to infer the most convenient parking area or the fastest route to a given place during exceptional events, so as to instruct the car GPS. Time constraints for such a reasoner are very demanding (i.e., few ms per query) because citizens are continuously making decisions while the environment is changing.''
-    @created 1345178302480
-    @weight 0.5
+@id MZJhppJclnTER2GY
+@title in urban computing: ``[...] to infer the most convenient parking area or the fastest route to a given place during exceptional events, so as to instruct the car GPS. Time constraints for such a reasoner are very demanding (i.e., few ms per query) because citizens are continuously making decisions while the environment is changing.''
+@created 1345178302480
+@weight 0.5

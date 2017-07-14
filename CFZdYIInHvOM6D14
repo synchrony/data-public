@@ -1,4 +1,5 @@
-* :CFZdYIInHvOM6D14: merge sort is often the best choice for sorting a linked list.  Rival quicksort depends on random access, at which linked lists perform poorly
-    @created 1405786261877
-    @weight 0.5
-    * :srPj5T7NmRVhQPod: 
+@id CFZdYIInHvOM6D14
+@title merge sort is often the best choice for sorting a linked list.  Rival quicksort depends on random access, at which linked lists perform poorly
+@created 1405786261877
+@weight 0.5
+* :srPj5T7NmRVhQPod: 

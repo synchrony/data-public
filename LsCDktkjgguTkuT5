@@ -1,4 +1,5 @@
-* :LsCDktkjgguTkuT5: SPARQL Web Pages (web page)
-    @created 1359663984827
-    @alias http://uispin.org/
-    @weight 0.5
+@id LsCDktkjgguTkuT5
+@title SPARQL Web Pages (web page)
+@alias http://uispin.org/
+@created 1359663984827
+@weight 0.5

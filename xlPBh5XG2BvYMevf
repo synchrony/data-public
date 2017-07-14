@@ -1,6 +1,7 @@
-* :xlPBh5XG2BvYMevf: COPY statements: "COPY native new-in-container"
-    @created 1496742134591
-    @weight 0.5
+@id xlPBh5XG2BvYMevf
+@title COPY statements: "COPY native new-in-container"
+@created 1496742134591
+@weight 0.5
 
 creates the 'new-in-container' folder
 copies the *contents* of the folder at 'native' into that new folder

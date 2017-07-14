@@ -1,4 +1,5 @@
-* :e78xdCQDdQscncNK: Ontolingua Home Page (web page)
-    @created 1452727814617
-    @alias http://www.ksl.stanford.edu/software/ontolingua/
-    @weight 0.5
+@id e78xdCQDdQscncNK
+@title Ontolingua Home Page (web page)
+@alias http://www.ksl.stanford.edu/software/ontolingua/
+@created 1452727814617
+@weight 0.5

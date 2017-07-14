@@ -1,3 +1,4 @@
-* :ek6anqyf89yjzwzN: sudo postfix start|reload
-    @created 1399928574378
-    @weight 0.5
+@id ek6anqyf89yjzwzN
+@title sudo postfix start|reload
+@created 1399928574378
+@weight 0.5

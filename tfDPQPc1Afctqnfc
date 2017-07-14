@@ -1,3 +1,4 @@
-* :tfDPQPc1Afctqnfc: like Eric's spring 2013 demos, it would take in a sequence of things as input -- in this case, ids of notes as opposed to words -- and produce a sequence of things as output which in some way is typical of the input sequence.  Since I tend to navigate through MyOtherBrain, these patterns do exist, and it would be interesting to see them aggregated and fed back to me.
-    @created 1368054661267
-    @weight 0.5
+@id tfDPQPc1Afctqnfc
+@title like Eric's spring 2013 demos, it would take in a sequence of things as input -- in this case, ids of notes as opposed to words -- and produce a sequence of things as output which in some way is typical of the input sequence.  Since I tend to navigate through MyOtherBrain, these patterns do exist, and it would be interesting to see them aggregated and fed back to me.
+@created 1368054661267
+@weight 0.5

@@ -1,6 +1,7 @@
-* :nmGA5GKNCsu6ckRw: how to avoid having to enter credentials upon pushing to github, without messing with SSH
-    @created 1496870257256
-    @weight 0.5
+@id nmGA5GKNCsu6ckRw
+@title how to avoid having to enter credentials upon pushing to github, without messing with SSH
+@created 1496870257256
+@weight 0.5
 
 # https://github.com/Larry-Hignight/Linux-Scripts/blob/master/github-setup.sh
 

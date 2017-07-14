@@ -1,4 +1,5 @@
-* :tLc0mJ8C9MswsyKi: Event Ontology (web page)
-    @created 1345602829238
-    @alias http://motools.sourceforge.net/event/event.html
-    @weight 0.5
+@id tLc0mJ8C9MswsyKi
+@title Event Ontology (web page)
+@alias http://motools.sourceforge.net/event/event.html
+@created 1345602829238
+@weight 0.5

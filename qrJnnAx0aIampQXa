@@ -1,3 +1,4 @@
-* :qrJnnAx0aIampQXa: apropos("foo") -- look up R symbols matching "foo"
-    @created 1445360389427
-    @weight 0.5
+@id qrJnnAx0aIampQXa
+@title apropos("foo") -- look up R symbols matching "foo"
+@created 1445360389427
+@weight 0.5

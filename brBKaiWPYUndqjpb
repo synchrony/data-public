@@ -1,6 +1,7 @@
-* :brBKaiWPYUndqjpb: RenameMe
-    @created 1395163759800
-    @weight 0.5
+@id brBKaiWPYUndqjpb
+@title RenameMe
+@created 1395163759800
+@weight 0.5
 
 INSERT INTO mytable
     VALUES ('1', 'two', 'three');

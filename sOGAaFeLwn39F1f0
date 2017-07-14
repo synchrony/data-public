@@ -1,5 +1,6 @@
-* :sOGAaFeLwn39F1f0: include a directory full of JARs in the classpath (protect the '*' from bash with quotes or a colon)
-    @created 1338842464018
-    @weight 0.5
-    * :nJFLasbj0DKLBkWd: 
-    * :kLaWTksWB2CE5IHa: 
+@id sOGAaFeLwn39F1f0
+@title include a directory full of JARs in the classpath (protect the '*' from bash with quotes or a colon)
+@created 1338842464018
+@weight 0.5
+* :nJFLasbj0DKLBkWd: 
+* :kLaWTksWB2CE5IHa: 

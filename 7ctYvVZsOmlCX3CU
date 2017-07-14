@@ -1,4 +1,5 @@
-* :7ctYvVZsOmlCX3CU: docker network create [-d bridge] name-for-new-bridge-network
-    @created 1487920403055
-    @weight 0.5
-    * :HZijEzJ3azrFDxCE: 
+@id 7ctYvVZsOmlCX3CU
+@title docker network create [-d bridge] name-for-new-bridge-network
+@created 1487920403055
+@weight 0.5
+* :HZijEzJ3azrFDxCE: 

@@ -1,4 +1,5 @@
-* :yTYDVgD3vMzMAJtU: Rensselaer Center for Open Source Software (web page)
-    @created 1347476190149
-    @alias http://rcos.rpi.edu/
-    @weight 0.5
+@id yTYDVgD3vMzMAJtU
+@title Rensselaer Center for Open Source Software (web page)
+@alias http://rcos.rpi.edu/
+@created 1347476190149
+@weight 0.5

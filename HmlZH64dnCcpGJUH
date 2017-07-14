@@ -1,3 +1,4 @@
-* :HmlZH64dnCcpGJUH: XJoin is a non-blocking join operator with a small memory footprint.  It is optimized to produce initial results quickly and can hide intermittent delays in data arrival by reactively scheduling background processing
-    @created 1351735817166
-    @weight 0.5
+@id HmlZH64dnCcpGJUH
+@title XJoin is a non-blocking join operator with a small memory footprint.  It is optimized to produce initial results quickly and can hide intermittent delays in data arrival by reactively scheduling background processing
+@created 1351735817166
+@weight 0.5

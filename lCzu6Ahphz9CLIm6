@@ -1,6 +1,7 @@
-* :lCzu6Ahphz9CLIm6: RenameMe
-    @created 1445634062356
-    @weight 0.5
+@id lCzu6Ahphz9CLIm6
+@title RenameMe
+@created 1445634062356
+@weight 0.5
 
 library("igraph")
 

@@ -1,3 +1,4 @@
-* :ghoyep6BQr76Ewal: [markdown]Next, "pull" the smsn-emacs-too image from DockerHub to your computer, by starting a terminal and running `docker pull jeffreybbrown/smsn-emacs-too`. Now you have the code, a.k.a. the "Docker image".
-    @created 1497337675052
-    @weight 0.5
+@id ghoyep6BQr76Ewal
+@title [markdown]Next, "pull" the smsn-emacs-too image from DockerHub to your computer, by starting a terminal and running `docker pull jeffreybbrown/smsn-emacs-too`. Now you have the code, a.k.a. the "Docker image".
+@created 1497337675052
+@weight 0.5

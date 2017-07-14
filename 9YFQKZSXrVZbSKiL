@@ -1,3 +1,4 @@
-* :9YFQKZSXrVZbSKiL: an owl:minCardinality owl:Restriction A is disjoint from an owl:maxCardinality owl:Restriction B if the property restricted by A is a rdfs:subPropertyOf the property restricted by B, and the number of values specified by A is greater than the number of values specified by B
-    @created 1349461921853
-    @weight 0.5
+@id 9YFQKZSXrVZbSKiL
+@title an owl:minCardinality owl:Restriction A is disjoint from an owl:maxCardinality owl:Restriction B if the property restricted by A is a rdfs:subPropertyOf the property restricted by B, and the number of values specified by A is greater than the number of values specified by B
+@created 1349461921853
+@weight 0.5

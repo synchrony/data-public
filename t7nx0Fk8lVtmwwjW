@@ -1,3 +1,4 @@
-* :t7nx0Fk8lVtmwwjW: the time complexity of this algorithm, using Fibonacci heaps in the implementation of Dijkstra's algorithm, is O(V2log V + VE): the algorithm uses O(VE) time for the Bellman–Ford stage of the algorithm, and O(V log V + E) for each of V instantiations of Dijkstra's algorithm. Thus, when the graph is sparse, the total time can be faster than the Floyd–Warshall algorithm, which solves the same problem in time O(V3)
-    @created 1381166651397
-    @weight 0.5
+@id t7nx0Fk8lVtmwwjW
+@title the time complexity of this algorithm, using Fibonacci heaps in the implementation of Dijkstra's algorithm, is O(V2log V + VE): the algorithm uses O(VE) time for the Bellman–Ford stage of the algorithm, and O(V log V + E) for each of V instantiations of Dijkstra's algorithm. Thus, when the graph is sparse, the total time can be faster than the Floyd–Warshall algorithm, which solves the same problem in time O(V3)
+@created 1381166651397
+@weight 0.5

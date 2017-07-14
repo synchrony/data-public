@@ -1,4 +1,5 @@
-* :6SLZQ13LMQBcRrPN: Institutional Review Board (IRB) :: Rensselaer Polytechnic Institute (web page)
-    @created 1363643620909
-    @alias http://www.rpi.edu/research/office/irb/index.html
-    @weight 0.5
+@id 6SLZQ13LMQBcRrPN
+@title Institutional Review Board (IRB) :: Rensselaer Polytechnic Institute (web page)
+@alias http://www.rpi.edu/research/office/irb/index.html
+@created 1363643620909
+@weight 0.5

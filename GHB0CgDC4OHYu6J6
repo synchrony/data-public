@@ -1,4 +1,5 @@
-* :GHB0CgDC4OHYu6J6: ETH Zürich - Personensuche - Detail - Prof. Dr. Horst Knörrer (web page)
-    @created 1455750069069
-    @alias https://www.bi.id.ethz.ch/personensuche/detail.do?pid=12EED&lang=DE
-    @weight 0.5
+@id GHB0CgDC4OHYu6J6
+@title ETH Zürich - Personensuche - Detail - Prof. Dr. Horst Knörrer (web page)
+@alias https://www.bi.id.ethz.ch/personensuche/detail.do?pid=12EED&lang=DE
+@created 1455750069069
+@weight 0.5

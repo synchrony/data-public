@@ -1,4 +1,5 @@
-* :BPnZQVda3nmkHDHh: DAML Services Home Page (web page)
-    @created 1452727123984
-    @alias http://www.daml.org/services/owl-s/
-    @weight 0.5
+@id BPnZQVda3nmkHDHh
+@title DAML Services Home Page (web page)
+@alias http://www.daml.org/services/owl-s/
+@created 1452727123984
+@weight 0.5

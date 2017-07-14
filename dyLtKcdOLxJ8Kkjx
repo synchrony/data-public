@@ -1,4 +1,5 @@
-* :dyLtKcdOLxJ8Kkjx: JACK Audio Connection Kit|How does using Linux with RT_GROUP_SCHED enabled affect JACK? (web page)
-    @created 1487583432315
-    @alias http://jackaudio.org/faq/linux_group_sched.html
-    @weight 0.5
+@id dyLtKcdOLxJ8Kkjx
+@title JACK Audio Connection Kit|How does using Linux with RT_GROUP_SCHED enabled affect JACK? (web page)
+@alias http://jackaudio.org/faq/linux_group_sched.html
+@created 1487583432315
+@weight 0.5

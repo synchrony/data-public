@@ -1,3 +1,4 @@
-* :FijNT9HZC07NRnZM: p_mora          float  %9.0g                  ProducciÛn (Ton) de mora
-    @created 1496474356110
-    @weight 0.5
+@id FijNT9HZC07NRnZM
+@title p_mora          float  %9.0g                  ProducciÛn (Ton) de mora
+@created 1496474356110
+@weight 0.5

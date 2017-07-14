@@ -1,4 +1,5 @@
-* :6uoiBW2qoD8kqGjO: git checkout -b local-branch remotes/origin/remote-branch
-    @created 1318980577820
-    @weight 0.5
-    * :NAQm6Cm5iBMuAMqR: 
+@id 6uoiBW2qoD8kqGjO
+@title git checkout -b local-branch remotes/origin/remote-branch
+@created 1318980577820
+@weight 0.5
+* :NAQm6Cm5iBMuAMqR: 

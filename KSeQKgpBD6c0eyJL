@@ -1,3 +1,4 @@
-* :KSeQKgpBD6c0eyJL: GraphMLReader.inputGraph(g, new FileInputStream('/tmp/mygraph.xml'))
-    @created 1368075732847
-    @weight 0.5
+@id KSeQKgpBD6c0eyJL
+@title GraphMLReader.inputGraph(g, new FileInputStream('/tmp/mygraph.xml'))
+@created 1368075732847
+@weight 0.5

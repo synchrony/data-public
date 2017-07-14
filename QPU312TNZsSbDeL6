@@ -1,6 +1,7 @@
-* :QPU312TNZsSbDeL6: RenameMe
-    @created 1343199764580
-    @weight 0.5
+@id QPU312TNZsSbDeL6
+@title RenameMe
+@created 1343199764580
+@weight 0.5
 
 @prefix wordnet: <http://purl.org/vocabularies/princeton/wordnet/schema#>
 @prefix wn30: <http://purl.org/vocabularies/princeton/wn30/>

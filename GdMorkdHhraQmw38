@@ -1,3 +1,4 @@
-* :GdMorkdHhraQmw38: pib_percapita   float  %9.0g                  PIB per capita municipal
-    @created 1496472711182
-    @weight 0.5
+@id GdMorkdHhraQmw38
+@title pib_percapita   float  %9.0g                  PIB per capita municipal
+@created 1496472711182
+@weight 0.5

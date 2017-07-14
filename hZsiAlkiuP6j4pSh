@@ -1,3 +1,4 @@
-* :hZsiAlkiuP6j4pSh: admin_total_p   float  %9.0g                  Total personal administrativo en sector no oficial
-    @created 1496474987971
-    @weight 0.5
+@id hZsiAlkiuP6j4pSh
+@title admin_total_p   float  %9.0g                  Total personal administrativo en sector no oficial
+@created 1496474987971
+@weight 0.5

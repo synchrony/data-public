@@ -1,6 +1,7 @@
-* :GYGXsK41Vz8JjUkB: DANGER ! don't conda install globally thinking it's local just because I'm in a particular folder
-    @created 1495244999575
-    @weight 0.25
-    @priority 0.0
+@id GYGXsK41Vz8JjUkB
+@title DANGER ! don't conda install globally thinking it's local just because I'm in a particular folder
+@created 1495244999575
+@weight 0.25
+@priority 0.0
 
 Must activate the virtualenv first (and in each konsole tab): "source activate [name of environment]"

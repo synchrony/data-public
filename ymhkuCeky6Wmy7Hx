@@ -1,6 +1,7 @@
-* :ymhkuCeky6Wmy7Hx: check_for_module.py
-    @created 1492716634576
-    @weight 0.5
+@id ymhkuCeky6Wmy7Hx
+@title check_for_module.py
+@created 1492716634576
+@weight 0.5
 
 import sys
 import imp

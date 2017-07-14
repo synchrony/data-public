@@ -1,3 +1,4 @@
-* :s3WUgqgCWQOu5102: e.g. don't have both a DeviceManager and a ProtocolController.  Make them both Managers or both Controllers
-    @created 1465954320782
-    @weight 0.5
+@id s3WUgqgCWQOu5102
+@title e.g. don't have both a DeviceManager and a ProtocolController.  Make them both Managers or both Controllers
+@created 1465954320782
+@weight 0.5

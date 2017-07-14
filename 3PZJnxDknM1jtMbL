@@ -1,6 +1,7 @@
-* :3PZJnxDknM1jtMbL: how numbers cast in binary ops ::: double <- float <- long <- int
-    @created 1491191709281
-    @weight 0.5
+@id 3PZJnxDknM1jtMbL
+@title how numbers cast in binary ops ::: double <- float <- long <- int
+@created 1491191709281
+@weight 0.5
 
 "If either operand is of type double, the other is converted to double.
 Otherwise, if either operand is of type float, the other is converted to float.

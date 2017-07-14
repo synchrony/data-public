@@ -1,4 +1,5 @@
-* :gjTit4GnggH92rEt: TwitLogic SPARQL widget (web page)
-    @created 1352401019927
-    @alias http://flux.franz.com/static/twitlogic/website/demos/sparqlwidget/iswc2010.html
-    @weight 0.5
+@id gjTit4GnggH92rEt
+@title TwitLogic SPARQL widget (web page)
+@alias http://flux.franz.com/static/twitlogic/website/demos/sparqlwidget/iswc2010.html
+@created 1352401019927
+@weight 0.5

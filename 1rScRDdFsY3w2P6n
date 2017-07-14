@@ -1,3 +1,4 @@
-* :1rScRDdFsY3w2P6n: all the copies of a memory location are eventually identical after all processes' writes are completed
-    @created 1463348528084
-    @weight 0.5
+@id 1rScRDdFsY3w2P6n
+@title all the copies of a memory location are eventually identical after all processes' writes are completed
+@created 1463348528084
+@weight 0.5

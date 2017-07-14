@@ -1,6 +1,7 @@
-* :6jA961Xwaqet383z: RenameMe
-    @created 1329407525361
-    @weight 0.5
+@id 6jA961Xwaqet383z
+@title RenameMe
+@created 1329407525361
+@weight 0.5
 
 PREFIX ex: <http://example.org/ns#>
 SELECT DISTINCT * WHERE {

@@ -1,4 +1,5 @@
-* :XdpNWrPiDuxhlNX4: UCSC Genome Browser: Downloads (web page)
-    @created 1329517854622
-    @alias http://hgdownload.cse.ucsc.edu/downloads.html#human
-    @weight 0.5
+@id XdpNWrPiDuxhlNX4
+@title UCSC Genome Browser: Downloads (web page)
+@alias http://hgdownload.cse.ucsc.edu/downloads.html#human
+@created 1329517854622
+@weight 0.5

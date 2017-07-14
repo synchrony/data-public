@@ -1,6 +1,7 @@
-* :sKgdeE9yDMrMhsyE: RDF dataset
-    @created 1423762906514
-    @weight 0.75
-    * :u2Qa2X70B5jcmSxh: 
-    * :PYzchKDA9M9xiI3T: 
-    * :PP1OLpZOWpRBP1Ky: 
+@id sKgdeE9yDMrMhsyE
+@title RDF dataset
+@created 1423762906514
+@weight 0.75
+* :u2Qa2X70B5jcmSxh: 
+* :PYzchKDA9M9xiI3T: 
+* :PP1OLpZOWpRBP1Ky: 

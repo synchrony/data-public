@@ -1,3 +1,4 @@
-* :MU4QS6usBvjVUQBN: sampling time of 20ms by a microcontroller, sent asynchronously via an USB bus to the registration software after filtering and transformations of coordinate systems
-    @created 1429112891662
-    @weight 0.5
+@id MU4QS6usBvjVUQBN
+@title sampling time of 20ms by a microcontroller, sent asynchronously via an USB bus to the registration software after filtering and transformations of coordinate systems
+@created 1429112891662
+@weight 0.5

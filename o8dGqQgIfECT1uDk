@@ -1,6 +1,7 @@
-* :o8dGqQgIfECT1uDk: DANGER ! python v. conda/python ,, pip v. conda/pip
-    @created 1495243208319
-    @weight 0.5
+@id o8dGqQgIfECT1uDk
+@title DANGER ! python v. conda/python ,, pip v. conda/pip
+@created 1495243208319
+@weight 0.5
 
 I installed miniconda at ~/installs. That installed conda. When it asked me whether to prepend that folder to my PATH I agreed. Via that conda I installed pip, and via that pip, virtualenv.
 

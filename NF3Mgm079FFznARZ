@@ -1,3 +1,4 @@
-* :NF3Mgm079FFznARZ: timestamps are monotonically non-decreasing in the stream, but consecutive triples may have the same timestamp.
-    @created 1368776645172
-    @weight 0.5
+@id NF3Mgm079FFznARZ
+@title timestamps are monotonically non-decreasing in the stream, but consecutive triples may have the same timestamp.
+@created 1368776645172
+@weight 0.5

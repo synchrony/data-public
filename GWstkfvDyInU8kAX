@@ -1,3 +1,4 @@
-* :GWstkfvDyInU8kAX: operator pipelining, as an optimization which is an alternative to materialization, cuts down on the size of intermediate results
-    @created 1352150962567
-    @weight 0.5
+@id GWstkfvDyInU8kAX
+@title operator pipelining, as an optimization which is an alternative to materialization, cuts down on the size of intermediate results
+@created 1352150962567
+@weight 0.5

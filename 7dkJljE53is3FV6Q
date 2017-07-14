@@ -1,3 +1,4 @@
-* :7dkJljE53is3FV6Q: ticket becomes active at a specified time or when a specified event has been triggered.  You then receive reminders (perhaps backing off exponentially) until you close the ticket.
-    @created 1336078296350
-    @weight 0.5
+@id 7dkJljE53is3FV6Q
+@title ticket becomes active at a specified time or when a specified event has been triggered.  You then receive reminders (perhaps backing off exponentially) until you close the ticket.
+@created 1336078296350
+@weight 0.5

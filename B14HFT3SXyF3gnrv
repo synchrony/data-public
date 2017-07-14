@@ -1,4 +1,5 @@
-* :B14HFT3SXyF3gnrv: RxNorm Overview (web page)
-    @created 1346524579558
-    @alias http://www.nlm.nih.gov/research/umls/rxnorm/overview.html
-    @weight 0.5
+@id B14HFT3SXyF3gnrv
+@title RxNorm Overview (web page)
+@alias http://www.nlm.nih.gov/research/umls/rxnorm/overview.html
+@created 1346524579558
+@weight 0.5

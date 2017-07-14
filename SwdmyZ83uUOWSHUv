@@ -1,4 +1,5 @@
-* :SwdmyZ83uUOWSHUv: MEMS Gyro-Accel | Gyroscope | Accelerometer | Processing - MPU-9150 (web page)
-    @created 1347568338986
-    @alias http://invensense.com/mems/gyro/mpu9150.html
-    @weight 0.5
+@id SwdmyZ83uUOWSHUv
+@title MEMS Gyro-Accel | Gyroscope | Accelerometer | Processing - MPU-9150 (web page)
+@alias http://invensense.com/mems/gyro/mpu9150.html
+@created 1347568338986
+@weight 0.5

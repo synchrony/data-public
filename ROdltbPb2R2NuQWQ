@@ -1,3 +1,4 @@
-* :ROdltbPb2R2NuQWQ: activity state, e.g. "in conversation with X", "driving to work"
-    @created 1346344518709
-    @weight 0.5
+@id ROdltbPb2R2NuQWQ
+@title activity state, e.g. "in conversation with X", "driving to work"
+@created 1346344518709
+@weight 0.5

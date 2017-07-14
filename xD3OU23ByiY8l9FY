@@ -1,4 +1,5 @@
-* :xD3OU23ByiY8l9FY: RDF 1.1 Semantics: Simple Interpretations (web page)
-    @created 1492871449258
-    @alias https://www.w3.org/TR/rdf11-mt/#simple-interpretations
-    @weight 0.5
+@id xD3OU23ByiY8l9FY
+@title RDF 1.1 Semantics: Simple Interpretations (web page)
+@alias https://www.w3.org/TR/rdf11-mt/#simple-interpretations
+@created 1492871449258
+@weight 0.5

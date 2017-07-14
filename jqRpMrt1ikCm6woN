@@ -1,4 +1,5 @@
-* :jqRpMrt1ikCm6woN: AllegroGraph JavaScript interface for graphs- YouTube (web page)
-    @created 1345685816006
-    @alias http://www.youtube.com/watch?v=QFaH6IvbPiw&feature=related
-    @weight 0.5
+@id jqRpMrt1ikCm6woN
+@title AllegroGraph JavaScript interface for graphs- YouTube (web page)
+@alias http://www.youtube.com/watch?v=QFaH6IvbPiw&feature=related
+@created 1345685816006
+@weight 0.5

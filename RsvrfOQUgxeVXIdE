@@ -1,3 +1,4 @@
-* :RsvrfOQUgxeVXIdE: paste("foo", 42, "bar", sep="")
-    @created 1338397726423
-    @weight 0.5
+@id RsvrfOQUgxeVXIdE
+@title paste("foo", 42, "bar", sep="")
+@created 1338397726423
+@weight 0.5

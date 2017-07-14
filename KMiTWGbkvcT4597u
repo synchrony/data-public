@@ -1,6 +1,7 @@
-* :KMiTWGbkvcT4597u: Weather Underground API
-    @created 1489252085574
-    @weight 0.5
+@id KMiTWGbkvcT4597u
+@title Weather Underground API
+@created 1489252085574
+@weight 0.5
 
 export WUKEY=...
 

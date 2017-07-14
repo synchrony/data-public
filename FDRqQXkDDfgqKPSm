@@ -1,4 +1,5 @@
-* :FDRqQXkDDfgqKPSm: new GraphMLReader(g).inputGraph("/tmp/mygraph.xml", 1000);
-    @created 1372363542241
-    @weight 0.5
-    * :7QvHK8uYiRqpvJaR: 
+@id FDRqQXkDDfgqKPSm
+@title new GraphMLReader(g).inputGraph("/tmp/mygraph.xml", 1000);
+@created 1372363542241
+@weight 0.5
+* :7QvHK8uYiRqpvJaR: 

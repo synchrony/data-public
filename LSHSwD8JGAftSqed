@@ -1,3 +1,4 @@
-* :LSHSwD8JGAftSqed: "ears" --  small programmable devices (perhaps Arduino, perhaps something more powerful such as old Android tablets or phones) situated around the apartment which listen for voice commands and send corresponding OSC messages to the apartment's central server.  The messages can be logged for use in MyOtherBrain, or can trigger further events.
-    @created 1312890861498
-    @weight 0.5
+@id LSHSwD8JGAftSqed
+@title "ears" --  small programmable devices (perhaps Arduino, perhaps something more powerful such as old Android tablets or phones) situated around the apartment which listen for voice commands and send corresponding OSC messages to the apartment's central server.  The messages can be logged for use in MyOtherBrain, or can trigger further events.
+@created 1312890861498
+@weight 0.5

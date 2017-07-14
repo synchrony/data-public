@@ -1,3 +1,4 @@
-* :tHQD4uo9degh3NFH: [markdown]* The next easiest way to try smsn is by using the online graph. This way you don't have to run the server, and you don't need Docker. You'll just install Emacs, then install smsn-mode for Emacs, then use the shared graph hosted at fortytwo.net. To install this way, skip to step 6 (Install Emacs) on this page.
-    @created 1495925080672
-    @weight 0.5
+@id tHQD4uo9degh3NFH
+@title [markdown]* The next easiest way to try smsn is by using the online graph. This way you don't have to run the server, and you don't need Docker. You'll just install Emacs, then install smsn-mode for Emacs, then use the shared graph hosted at fortytwo.net. To install this way, skip to step 6 (Install Emacs) on this page.
+@created 1495925080672
+@weight 0.5

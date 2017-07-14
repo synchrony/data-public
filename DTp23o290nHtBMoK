@@ -1,4 +1,5 @@
-* :DTp23o290nHtBMoK: EWU | EWU Libraries (web page)
-    @created 1345008390832
-    @alias http://www.ewu.edu/library.xml
-    @weight 0.5
+@id DTp23o290nHtBMoK
+@title EWU | EWU Libraries (web page)
+@alias http://www.ewu.edu/library.xml
+@created 1345008390832
+@weight 0.5

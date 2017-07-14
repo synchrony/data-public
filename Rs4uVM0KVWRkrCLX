@@ -1,4 +1,5 @@
-* :Rs4uVM0KVWRkrCLX: Blogs | The Tor Blog (web page)
-    @created 1334201285777
-    @alias https://blog.torproject.org/
-    @weight 0.5
+@id Rs4uVM0KVWRkrCLX
+@title Blogs | The Tor Blog (web page)
+@alias https://blog.torproject.org/
+@created 1334201285777
+@weight 0.5

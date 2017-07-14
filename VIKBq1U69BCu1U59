@@ -1,4 +1,5 @@
-* :VIKBq1U69BCu1U59: SEMTECH 2011: The Semantic Technology Conference (web page)
-    @created 1380469318569
-    @alias http://semtech2011.semanticweb.com/
-    @weight 0.5
+@id VIKBq1U69BCu1U59
+@title SEMTECH 2011: The Semantic Technology Conference (web page)
+@alias http://semtech2011.semanticweb.com/
+@created 1380469318569
+@weight 0.5

@@ -1,3 +1,4 @@
-* :nWYf69q7243DLer1: the first of the "front children" (before the TOC) is linked as "first child of [root]", and the other first children are chained by a "_ precedes _ as a front child of _" relationship
-    @created 1476515613022
-    @weight 0.5
+@id nWYf69q7243DLer1
+@title the first of the "front children" (before the TOC) is linked as "first child of [root]", and the other first children are chained by a "_ precedes _ as a front child of _" relationship
+@created 1476515613022
+@weight 0.5

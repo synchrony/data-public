@@ -1,6 +1,7 @@
-* :Wq3OInUAJUpIJWyl: ? revert this node
-    @created 1491833483014
-    @weight 0.5
+@id Wq3OInUAJUpIJWyl
+@title ? revert this node
+@created 1491833483014
+@weight 0.5
 
 jeff@jbb-thinkpad:~/smsn+/kb/vcs/personal$ git diff
 diff --git a/e5rXp2NpiBdNuRAh b/e5rXp2NpiBdNuRAh

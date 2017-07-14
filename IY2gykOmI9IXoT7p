@@ -1,3 +1,4 @@
-* :IY2gykOmI9IXoT7p: one of the most fundamental complexity classes. It contains all decision problems that can be solved by a deterministic Turing machine using a polynomial amount of computation time, or polynomial time
-    @created 1380913835212
-    @weight 0.5
+@id IY2gykOmI9IXoT7p
+@title one of the most fundamental complexity classes. It contains all decision problems that can be solved by a deterministic Turing machine using a polynomial amount of computation time, or polynomial time
+@created 1380913835212
+@weight 0.5

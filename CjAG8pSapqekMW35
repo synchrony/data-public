@@ -1,6 +1,7 @@
-* :CjAG8pSapqekMW35: RenameMe
-    @created 1329405293438
-    @weight 0.5
+@id CjAG8pSapqekMW35
+@title RenameMe
+@created 1329405293438
+@weight 0.5
 
 PREFIX drugs: <http://www4.wiwiss.fu-berlin.de/dailymed/resource/drugs/>
 PREFIX dailymed: <http://www4.wiwiss.fu-berlin.de/dailymed/resource/dailymed/>

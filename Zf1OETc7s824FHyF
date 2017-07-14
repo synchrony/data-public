@@ -1,3 +1,4 @@
-* :Zf1OETc7s824FHyF: cat("foo", "bar", sep="")
-    @created 1338398141168
-    @weight 0.5
+@id Zf1OETc7s824FHyF
+@title cat("foo", "bar", sep="")
+@created 1338398141168
+@weight 0.5

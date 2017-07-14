@@ -1,3 +1,4 @@
-* :F97sGsbzPRkf114L: finan           double %9.0g                  Financiamiento = finan_credito + finan_credito_balance
-    @created 1496473856378
-    @weight 0.5
+@id F97sGsbzPRkf114L
+@title finan           double %9.0g                  Financiamiento = finan_credito + finan_credito_balance
+@created 1496473856378
+@weight 0.5

@@ -1,4 +1,5 @@
-* :mDILSRjyS7BosKzY: Check For valid Bitcoin address (web page)
-    @created 1394761882423
-    @alias http://uncaptcha.net/bitcoin.php
-    @weight 0.5
+@id mDILSRjyS7BosKzY
+@title Check For valid Bitcoin address (web page)
+@alias http://uncaptcha.net/bitcoin.php
+@created 1394761882423
+@weight 0.5

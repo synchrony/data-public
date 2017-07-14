@@ -1,4 +1,5 @@
-* :k2kFgbjmOxXYoYpk: Google Maps (web page)
-    @created 1349499197863
-    @alias https://maps.google.com/?ll=42.838997,-73.52554&spn=0.000624,0.00142&t=h&z=20
-    @weight 0.5
+@id k2kFgbjmOxXYoYpk
+@title Google Maps (web page)
+@alias https://maps.google.com/?ll=42.838997,-73.52554&spn=0.000624,0.00142&t=h&z=20
+@created 1349499197863
+@weight 0.5

@@ -1,6 +1,7 @@
-* :JKzNOMg9QAAca0A8: the code
-    @created 1472519374793
-    @weight 0.5
+@id JKzNOMg9QAAca0A8
+@title the code
+@created 1472519374793
+@weight 0.5
 
 foldl v. foldr
 rev l = foldl (\acc elt -> elt:acc) [] l

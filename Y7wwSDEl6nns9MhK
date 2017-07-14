@@ -1,3 +1,4 @@
-* :Y7wwSDEl6nns9MhK: install.packages(package_name, repos = "https://cran.cnr.berkeley.edu/src/contrib") # or omit 2nd arg, or maybe end the URL after .edu
-    @created 1475795767727
-    @weight 0.5
+@id Y7wwSDEl6nns9MhK
+@title install.packages(package_name, repos = "https://cran.cnr.berkeley.edu/src/contrib") # or omit 2nd arg, or maybe end the URL after .edu
+@created 1475795767727
+@weight 0.5

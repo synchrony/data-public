@@ -1,3 +1,4 @@
-* :KVOtLrF3AhzXgIng: a location in memory having a value and referenced by an identifier. An object can be a variable, function, or data structure
-    @created 1381025861521
-    @weight 0.5
+@id KVOtLrF3AhzXgIng
+@title a location in memory having a value and referenced by an identifier. An object can be a variable, function, or data structure
+@created 1381025861521
+@weight 0.5

@@ -1,3 +1,4 @@
-* :P1YdnIpqJF8RlEs7: = first sort each room's contents to its corners and the center, what belongs in other rooms and there, by which room is closest to which corner
-    @created 1499676219076
-    @weight 0.5
+@id P1YdnIpqJF8RlEs7
+@title = first sort each room's contents to its corners and the center, what belongs in other rooms and there, by which room is closest to which corner
+@created 1499676219076
+@weight 0.5

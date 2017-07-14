@@ -1,4 +1,5 @@
-* :hgJIR5Ti50Sze5ZX: OpenCyc | Cycorp (web page)
-    @created 1361215128217
-    @alias http://www.cyc.com/platform/opencyc
-    @weight 0.5
+@id hgJIR5Ti50Sze5ZX
+@title OpenCyc | Cycorp (web page)
+@alias http://www.cyc.com/platform/opencyc
+@created 1361215128217
+@weight 0.5

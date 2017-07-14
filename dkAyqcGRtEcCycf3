@@ -1,3 +1,4 @@
-* :dkAyqcGRtEcCycf3: inv_pa3         double %10.0g               * Personal directivo (sin situaciÛn de fondos) (Ejecuciones presupuestales inv)
-    @created 1496473856409
-    @weight 0.5
+@id dkAyqcGRtEcCycf3
+@title inv_pa3         double %10.0g               * Personal directivo (sin situaciÛn de fondos) (Ejecuciones presupuestales inv)
+@created 1496473856409
+@weight 0.5

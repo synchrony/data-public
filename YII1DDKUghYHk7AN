@@ -1,4 +1,5 @@
-* :YII1DDKUghYHk7AN: gpg --armor --export DF3F502B > /tmp/key.asc
-    @created 1443259252839
-    @weight 0.5
-    * :gxqNkCbIClqzTziN: 
+@id YII1DDKUghYHk7AN
+@title gpg --armor --export DF3F502B > /tmp/key.asc
+@created 1443259252839
+@weight 0.5
+* :gxqNkCbIClqzTziN: 

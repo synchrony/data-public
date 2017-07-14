@@ -1,3 +1,4 @@
-* :bKXwAcnTqouH8Pdo: choosing lambda: try a bunch, train them, get theta from each, then eval theta on the cv set, pick the best
-    @created 1474361032272
-    @weight 0.5
+@id bKXwAcnTqouH8Pdo
+@title choosing lambda: try a bunch, train them, get theta from each, then eval theta on the cv set, pick the best
+@created 1474361032272
+@weight 0.5

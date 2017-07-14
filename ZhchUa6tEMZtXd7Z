@@ -1,6 +1,7 @@
-* :ZhchUa6tEMZtXd7Z: ? how to write my own cabal package (and test it quickly)
-    @created 1497000373418
-    @weight 0.5
-    @priority 0.5
+@id ZhchUa6tEMZtXd7Z
+@title ? how to write my own cabal package (and test it quickly)
+@created 1497000373418
+@weight 0.5
+@priority 0.5
 
 having to redo cabal install for each test would suck

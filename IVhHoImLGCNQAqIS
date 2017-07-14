@@ -1,4 +1,5 @@
-* :IVhHoImLGCNQAqIS: IoT and Schema.org: Getting Started (web page)
-    @created 1472835983835
-    @alias http://iot.webschemas.org/docs/iot-gettingstarted.html
-    @weight 0.5
+@id IVhHoImLGCNQAqIS
+@title IoT and Schema.org: Getting Started (web page)
+@alias http://iot.webschemas.org/docs/iot-gettingstarted.html
+@created 1472835983835
+@weight 0.5

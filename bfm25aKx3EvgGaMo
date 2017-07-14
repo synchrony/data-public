@@ -1,4 +1,5 @@
-* :bfm25aKx3EvgGaMo: IHE.net Home (web page)
-    @created 1351889914767
-    @alias http://www.ihe.net/
-    @weight 0.5
+@id bfm25aKx3EvgGaMo
+@title IHE.net Home (web page)
+@alias http://www.ihe.net/
+@created 1351889914767
+@weight 0.5

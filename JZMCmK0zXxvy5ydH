@@ -1,6 +1,7 @@
-* :JZMCmK0zXxvy5ydH: only build connections you* want to follow
-    @created 1494043392219
-    @weight 0.5
+@id JZMCmK0zXxvy5ydH
+@title only build connections you* want to follow
+@created 1494043392219
+@weight 0.5
 
 the implicit "boring" property, helpful to ((?at most) recognize and) not record
 

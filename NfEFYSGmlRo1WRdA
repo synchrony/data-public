@@ -1,6 +1,7 @@
-* :NfEFYSGmlRo1WRdA: table : the R command
-    @created 1496878021186
-    @weight 0.5
+@id NfEFYSGmlRo1WRdA
+@title table : the R command
+@created 1496878021186
+@weight 0.5
 
 > c(1,1,1,2,2,3) -> temp
 > temp

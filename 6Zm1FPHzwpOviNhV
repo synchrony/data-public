@@ -1,4 +1,5 @@
-* :6Zm1FPHzwpOviNhV: Cisco Industrial Security Appliance 3000 - Cisco (web page)
-    @created 1463360740763
-    @alias http://www.cisco.com/c/en/us/support/security/industrial-security-appliance-3000/model.html
-    @weight 0.5
+@id 6Zm1FPHzwpOviNhV
+@title Cisco Industrial Security Appliance 3000 - Cisco (web page)
+@alias http://www.cisco.com/c/en/us/support/security/industrial-security-appliance-3000/model.html
+@created 1463360740763
+@weight 0.5

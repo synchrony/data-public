@@ -1,4 +1,5 @@
-* :kZmYkNh1MmmRpHEw: The Wall Lab | Wall Lab at Stanford University (web page)
-    @created 1457031342194
-    @alias http://wall-lab.stanford.edu/
-    @weight 0.5
+@id kZmYkNh1MmmRpHEw
+@title The Wall Lab | Wall Lab at Stanford University (web page)
+@alias http://wall-lab.stanford.edu/
+@created 1457031342194
+@weight 0.5

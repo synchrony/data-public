@@ -1,3 +1,4 @@
-* :gp81ZErd1lutMQoW: by(df, 1:nrow(df), f)
-    @created 1383700236433
-    @weight 0.5
+@id gp81ZErd1lutMQoW
+@title by(df, 1:nrow(df), f)
+@created 1383700236433
+@weight 0.5

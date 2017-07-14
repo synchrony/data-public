@@ -1,4 +1,5 @@
-* :42iRwjMJs0k5CG6k: Home | Library of Congress (web page)
-    @created 1310539747668
-    @alias https://www.loc.gov/
-    @weight 0.5
+@id 42iRwjMJs0k5CG6k
+@title Home | Library of Congress (web page)
+@alias https://www.loc.gov/
+@created 1310539747668
+@weight 0.5

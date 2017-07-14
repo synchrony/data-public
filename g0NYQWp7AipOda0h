@@ -1,6 +1,7 @@
-* :g0NYQWp7AipOda0h: RenameMe
-    @created 1395498249041
-    @weight 0.5
+@id g0NYQWp7AipOda0h
+@title RenameMe
+@created 1395498249041
+@weight 0.5
 
 dir = "/tmp/neo4j-test";
 g = new Neo4jGraph(dir);

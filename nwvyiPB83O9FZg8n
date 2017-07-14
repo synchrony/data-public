@@ -1,4 +1,5 @@
-* :nwvyiPB83O9FZg8n: AWC - Aviation Weather Center (web page)
-    @created 1483321098940
-    @alias https://www.aviationweather.gov/
-    @weight 0.5
+@id nwvyiPB83O9FZg8n
+@title AWC - Aviation Weather Center (web page)
+@alias https://www.aviationweather.gov/
+@created 1483321098940
+@weight 0.5

@@ -1,6 +1,7 @@
-* :jrWpedhT8hjABdhJ: move one Git repository into another, preserving history
-    @created 1487976536438
-    @weight 0.5
+@id jrWpedhT8hjABdhJ
+@title move one Git repository into another, preserving history
+@created 1487976536438
+@weight 0.5
 
 * Moving Files from one Git Repository to Another, Preserving History | Greg Bayer (web page)
                 @alias http://gbayer.com/development/moving-files-from-one-git-repository-to-another-preserving-history/

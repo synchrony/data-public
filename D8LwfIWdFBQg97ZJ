@@ -1,3 +1,4 @@
-* :D8LwfIWdFBQg97ZJ: in the demonstration prototype of the PAN system, a PAN transmitter continuously broadcasts an ASCII representation of the wearer's business card.  When she shakes hands with another individual, his PAN receiver reads the ASCII characters of the business card
-    @created 1411833603118
-    @weight 0.5
+@id D8LwfIWdFBQg97ZJ
+@title in the demonstration prototype of the PAN system, a PAN transmitter continuously broadcasts an ASCII representation of the wearer's business card.  When she shakes hands with another individual, his PAN receiver reads the ASCII characters of the business card
+@created 1411833603118
+@weight 0.5

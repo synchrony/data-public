@@ -1,6 +1,7 @@
-* :jJmWT6WmpAHbxTt7: RenameMe
-    @created 1349461828575
-    @weight 0.5
+@id jJmWT6WmpAHbxTt7
+@title RenameMe
+@created 1349461828575
+@weight 0.5
 
 (=> (and (owl:complementOf ?c1 ?c2)
          (rdfs:subClassOf ?c3 ?c1)

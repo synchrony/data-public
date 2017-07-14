@@ -1,4 +1,5 @@
-* :m9NQ66MtbmQ8XQd3: Home - Wissensportal ETH-Bibliothek (web page)
-    @created 1345007988476
-    @alias http://www.library.ethz.ch/en/
-    @weight 0.5
+@id m9NQ66MtbmQ8XQd3
+@title Home - Wissensportal ETH-Bibliothek (web page)
+@alias http://www.library.ethz.ch/en/
+@created 1345007988476
+@weight 0.5

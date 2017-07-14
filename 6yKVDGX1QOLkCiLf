@@ -1,4 +1,5 @@
-* :6yKVDGX1QOLkCiLf: The 9th International Semantic Web Conference | ISWC 2010 (web page)
-    @created 1360711815093
-    @alias http://iswc2010.semanticweb.org/
-    @weight 0.5
+@id 6yKVDGX1QOLkCiLf
+@title The 9th International Semantic Web Conference | ISWC 2010 (web page)
+@alias http://iswc2010.semanticweb.org/
+@created 1360711815093
+@weight 0.5

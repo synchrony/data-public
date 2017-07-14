@@ -1,3 +1,4 @@
-* :OFJuVpoTBed431NQ: if many clients specify the same query for their subscription to a particular location, then meetings can be handled efficiently because the AMS can assign a single multicast channel to that query
-    @created 1428521135299
-    @weight 0.5
+@id OFJuVpoTBed431NQ
+@title if many clients specify the same query for their subscription to a particular location, then meetings can be handled efficiently because the AMS can assign a single multicast channel to that query
+@created 1428521135299
+@weight 0.5

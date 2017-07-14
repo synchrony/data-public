@@ -1,6 +1,7 @@
-* :Vf3ljoLtoayRxDd9: RenameMe
-    @created 1326232804069
-    @weight 0.5
+@id Vf3ljoLtoayRxDd9
+@title RenameMe
+@created 1326232804069
+@weight 0.5
 
 # can take a very long time...
 (defun count-named-graphs ()

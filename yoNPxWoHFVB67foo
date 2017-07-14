@@ -1,4 +1,5 @@
-* :yoNPxWoHFVB67foo: DisplayLag | HDTV & Monitor Input Lag Database (web page)
-    @created 1448931526235
-    @alias http://www.displaylag.com/
-    @weight 0.5
+@id yoNPxWoHFVB67foo
+@title DisplayLag | HDTV & Monitor Input Lag Database (web page)
+@alias http://www.displaylag.com/
+@created 1448931526235
+@weight 0.5

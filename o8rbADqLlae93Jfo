@@ -1,3 +1,4 @@
-* :o8rbADqLlae93Jfo: a system of ordinary differential equations (the Lorenz equations) first studied by Edward Lorenz. It is notable for having chaotic solutions for certain parameter values and initial conditions. In particular, the Lorenz attractor is a set of chaotic solutions of the Lorenz system which, when plotted, resemble a butterfly or figure eight
-    @created 1365705359643
-    @weight 0.5
+@id o8rbADqLlae93Jfo
+@title a system of ordinary differential equations (the Lorenz equations) first studied by Edward Lorenz. It is notable for having chaotic solutions for certain parameter values and initial conditions. In particular, the Lorenz attractor is a set of chaotic solutions of the Lorenz system which, when plotted, resemble a butterfly or figure eight
+@created 1365705359643
+@weight 0.5

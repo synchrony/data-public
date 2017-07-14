@@ -1,4 +1,5 @@
-* :u68q2PNzfSKszi6c: OWL research at the University of Manchester (web page)
-    @created 1486519341925
-    @alias http://owl.cs.manchester.ac.uk/about/orientation/a-semantic-web-perspective/
-    @weight 0.5
+@id u68q2PNzfSKszi6c
+@title OWL research at the University of Manchester (web page)
+@alias http://owl.cs.manchester.ac.uk/about/orientation/a-semantic-web-perspective/
+@created 1486519341925
+@weight 0.5

@@ -1,6 +1,7 @@
-* :vypvEu12B8wpoumS: RenameMe
-    @created 1334015392432
-    @weight 0.5
+@id vypvEu12B8wpoumS
+@title RenameMe
+@created 1334015392432
+@weight 0.5
 
 wget http://mirrors.ibiblio.org/apache/lucene/solr/3.5.0/apache-solr-3.5.0.tgz
 tar -xzf apache-solr-3.5.0.tgz

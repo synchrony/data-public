@@ -1,6 +1,7 @@
-* :7Fa6nbU1cHU8XZgX: RenameMe
-    @created 1328324555329
-    @weight 0.5
+@id 7Fa6nbU1cHU8XZgX
+@title RenameMe
+@created 1328324555329
+@weight 0.5
 
 @prefix b2r: <http://bio2rdf.org/bio2rdf_resource:>
 @prefix dm: <http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseasome/>

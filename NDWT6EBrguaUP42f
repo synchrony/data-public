@@ -1,4 +1,5 @@
-* :NDWT6EBrguaUP42f: Government Linked Data (GLD) Working Group Wiki (web page)
-    @created 1347542830007
-    @alias http://www.w3.org/2011/gld/wiki/Main_Page
-    @weight 0.5
+@id NDWT6EBrguaUP42f
+@title Government Linked Data (GLD) Working Group Wiki (web page)
+@alias http://www.w3.org/2011/gld/wiki/Main_Page
+@created 1347542830007
+@weight 0.5

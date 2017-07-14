@@ -1,3 +1,4 @@
-* :itHtVIm4L0VvrDk8: Object.prototype.toString.call( someVar ) === '[object Array]'
-    @created 1363903875899
-    @weight 0.5
+@id itHtVIm4L0VvrDk8
+@title Object.prototype.toString.call( someVar ) === '[object Array]'
+@created 1363903875899
+@weight 0.5

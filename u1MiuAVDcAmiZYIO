@@ -1,4 +1,5 @@
-* :u1MiuAVDcAmiZYIO: RISE - YouTube (web page)
-    @created 1333601786659
-    @alias http://www.youtube.com/watch?v=MZGGL20g99A&feature=related
-    @weight 0.5
+@id u1MiuAVDcAmiZYIO
+@title RISE - YouTube (web page)
+@alias http://www.youtube.com/watch?v=MZGGL20g99A&feature=related
+@created 1333601786659
+@weight 0.5

@@ -1,3 +1,4 @@
-* :eVgsO9ZrJzBTrlU2: If the meaning of the shorthand used in a node is not obvious, its children likely include a disambiguation node, which can be revealed by unfolding the ambiguous node.
-    @created 1469061899601
-    @weight 0.5
+@id eVgsO9ZrJzBTrlU2
+@title If the meaning of the shorthand used in a node is not obvious, its children likely include a disambiguation node, which can be revealed by unfolding the ambiguous node.
+@created 1469061899601
+@weight 0.5

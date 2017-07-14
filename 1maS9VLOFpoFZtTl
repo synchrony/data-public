@@ -1,3 +1,4 @@
-* :1maS9VLOFpoFZtTl: "To integrate signals optimally, the observer has to know the variances of the estimates. There are two possibilities for acquiring this knowledge: either the variances are learned from past experience, or they are determined on-line during the perceptual judgment itself. The first possibility is rather unlikely, considering that there is an infinite number of possible presentation configurations and environmental conditions. Before being able to behave optimally the system would need experience with all these different situations, which requires learning time. Even though generalization or interpolation rules might exist, on-line determination of the estimates' variances seems much more likely."
-    @created 1441142842591
-    @weight 0.5
+@id 1maS9VLOFpoFZtTl
+@title "To integrate signals optimally, the observer has to know the variances of the estimates. There are two possibilities for acquiring this knowledge: either the variances are learned from past experience, or they are determined on-line during the perceptual judgment itself. The first possibility is rather unlikely, considering that there is an infinite number of possible presentation configurations and environmental conditions. Before being able to behave optimally the system would need experience with all these different situations, which requires learning time. Even though generalization or interpolation rules might exist, on-line determination of the estimates' variances seems much more likely."
+@created 1441142842591
+@weight 0.5

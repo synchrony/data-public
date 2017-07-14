@@ -1,4 +1,5 @@
-* :0sT7dyhFzuBRdPMm: "the text of this node is only meaningful relative to [parent]"
-    @created 1486372670366
-    @weight 0.5
-    * :sOO3MBMZ3rndn8EK: 
+@id 0sT7dyhFzuBRdPMm
+@title "the text of this node is only meaningful relative to [parent]"
+@created 1486372670366
+@weight 0.5
+* :sOO3MBMZ3rndn8EK: 

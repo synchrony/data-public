@@ -1,3 +1,4 @@
-* :26TpC85fOw5lgWPS: visually, the daily polarity graph identifies the interval between 2013-12-15 and 2014-07-26 or so as having very high variability (oscillating between extremes), with few recognizable trends.  This is presumably due to my low activity during that period.  The oscillating appearance is smoothed out by aggregating values on a weekly scale instead of a daily one, and there is a distinct trough to be seen during the month between 2014-05-15 and 2014-06-15 or so, but again, there is so little data for that period that the feature doesn't mean very much.  I appear to have made a few notes on ADHD which might have been what skewed polarity in that direction.
-    @created 1416676648680
-    @weight 0.5
+@id 26TpC85fOw5lgWPS
+@title visually, the daily polarity graph identifies the interval between 2013-12-15 and 2014-07-26 or so as having very high variability (oscillating between extremes), with few recognizable trends.  This is presumably due to my low activity during that period.  The oscillating appearance is smoothed out by aggregating values on a weekly scale instead of a daily one, and there is a distinct trough to be seen during the month between 2014-05-15 and 2014-06-15 or so, but again, there is so little data for that period that the feature doesn't mean very much.  I appear to have made a few notes on ADHD which might have been what skewed polarity in that direction.
+@created 1416676648680
+@weight 0.5

@@ -1,6 +1,7 @@
-* :L0AIZaSEDOVsd2jG: RenameMe
-    @created 1395069680914
-    @weight 0.5
+@id L0AIZaSEDOVsd2jG
+@title RenameMe
+@created 1395069680914
+@weight 0.5
 
 # this patch is supposed to fix the issue, but it doesn't
 wget https://issues.apache.org/jira/secure/attachment/12602452/HADOOP-9350.patch

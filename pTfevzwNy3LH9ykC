@@ -1,3 +1,4 @@
-* :pTfevzwNy3LH9ykC: stop dropboxd, remove ~/.dropbox, re-install and re-link.  It would appear that dropboxd simply becomes out-of-date w.r.t. the service
-    @created 1426885913935
-    @weight 0.5
+@id pTfevzwNy3LH9ykC
+@title stop dropboxd, remove ~/.dropbox, re-install and re-link.  It would appear that dropboxd simply becomes out-of-date w.r.t. the service
+@created 1426885913935
+@weight 0.5

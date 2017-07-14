@@ -1,4 +1,5 @@
-* :mclvLFSYxfwqCCja: OpenBCI (web page)
-    @created 1410607045017
-    @alias http://www.openbci.com/
-    @weight 0.5
+@id mclvLFSYxfwqCCja
+@title OpenBCI (web page)
+@alias http://www.openbci.com/
+@created 1410607045017
+@weight 0.5

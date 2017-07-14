@@ -1,3 +1,4 @@
-* :wOIft64XgOVvurc2: [markdown]"Pulling" from the graph can be important. If you create a first buffer, then leaves it open and makes edits in a second buffer, the contents of the first buffer can become out of date. When you return to it, you can be sure you are looking at the latest data by pulling from the graph. (We could have called it "refreshing the view".) Note that any unsaved changes in the buffer will be lost when you pull from the graph.
-    @created 1490246948496
-    @weight 0.5
+@id wOIft64XgOVvurc2
+@title [markdown]"Pulling" from the graph can be important. If you create a first buffer, then leaves it open and makes edits in a second buffer, the contents of the first buffer can become out of date. When you return to it, you can be sure you are looking at the latest data by pulling from the graph. (We could have called it "refreshing the view".) Note that any unsaved changes in the buffer will be lost when you pull from the graph.
+@created 1490246948496
+@weight 0.5

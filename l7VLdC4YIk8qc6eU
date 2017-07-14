@@ -1,194 +1,195 @@
-* :l7VLdC4YIk8qc6eU: trying to reproduce that bug with a bunch of fresh nodes
-    @created 1492331017163
-    @weight 0.5
-    * :9NCLMBqEz9jyirvT: 
-    * :FoyUwOD2TyXcWJun: 
-    * :8zDbG8P2mpEkpbxF: 
-    * :XFPDfSvo6uQDz8r3: 
-    * :GCMbqSFa2b839xkH: 
-    * :4Yymd3itXIEHyWzr: 
-    * :OW3xhqBhtrddYC1d: 
-    * :6mDbEPBaxZRfKIlP: 
-    * :K4y1rntgNjXjOFC1: 
-    * :2w2VNVifnBFfmhRI: 
-    * :laZ0gmmEUDRs4TlC: 
-    * :MXdLYAlvq3hcugPb: 
-    * :PYqAqOhSmHzE0eQZ: 
-    * :0L801hK1pkBn1gry: 
-    * :9UVWfJLQitVwiBFp: 
-    * :ZJ6b9RxGGEDWMFXy: 
-    * :peBatUXha0qz9bGB: 
-    * :DudmMkhF7mGOlEwy: 
-    * :tp1SL2AMmTQ6LGub: 
-    * :YZLayDO0M723FKWt: 
-    * :bXS53fixwScyMRTG: 
-    * :oR5OL9KyKkxv9MZQ: 
-    * :LJMwh6x3ikLlKNlV: 
-    * :NUDuWE34QmnGEPiZ: 
-    * :8UCi4GyrXuonnt9n: 
-    * :OT1rrPRi6ZohIjG7: 
-    * :UqgY4jB2mnjWV7l5: 
-    * :ljLYyDtfECldvIZh: 
-    * :Zsd8Zo015RWn9OvF: 
-    * :Qsfmz97WRaODRDTx: 
-    * :LBrP6OJEzr3ISdx1: 
-    * :iZ6A4RmurHJI8eC0: 
-    * :PzfU5SaipcKIhc9y: 
-    * :z1sOyqihEOp3s1dx: 
-    * :Z3EQvT4Eh7iYGtyq: 
-    * :rR95D53S0e4EmHPz: 
-    * :5sXrzN1G3Z7gQfQ4: 
-    * :4eki733QtsgJ8TgZ: 
-    * :xvMK2VlP4olTg63c: 
-    * :DCRhTfeFcbONsf2d: 
-    * :RRbIg6Fzglmeukcy: 
-    * :GcQt3llRp3rap2KY: 
-    * :y4sxNfZAdvcw9EXX: 
-    * :bptJhKQxO5FjdFKt: 
-    * :EBBpR1Dko24EOKI4: 
-    * :Cz26VwTjssD6k18a: 
-    * :ODCCQAnurH2ynC7a: 
-    * :7PCbNQOvJQ6dYy9S: 
-    * :iCKtdk5X7PH3ui0O: 
-    * :BqHuasG21QQ51n1q: 
-    * :ajOT6c8QdMbcUSyI: 
-    * :q0VYqo9b8RUpKZDT: 
-    * :A2TMbWgCaz8TFQRF: 
-    * :aEJMbcjhkOdayKQk: 
-    * :GNtbzPzpo8oJvN9C: 
-    * :CYRkIE0H082du1X5: 
-    * :PcTXnZc8nxRhvSvw: 
-    * :WyT5FFQBkNW0CTcb: 
-    * :zCD39IjuhCcsZdzg: 
-    * :WsZQcrGm0q1AbvR5: 
-    * :GA6flfYriL51JxRM: 
-    * :IkBUYW4lHcmufSwB: 
-    * :cXyELbz5jQMkdZ3b: 
-    * :gNUigVd3VuILy09g: 
-    * :G02l8Hck4AXqbM8g: 
-    * :vraws2tFos5RhIDR: 
-    * :umLPrewqnwTCMZmr: 
-    * :XCNnFFOvuj0H8Lo5: 
-    * :0hYuiIfZt4u0ywRx: 
-    * :g7OsAooYWMkKz4oF: 
-    * :xV51lMZUvBILjhV5: 
-    * :TxvtxbjX4hSAP005: 
-    * :mfKRX7NLzMUmLESp: 
-    * :gxc1bdmOmlg7bXBs: 
-    * :r5HmoOxonesQlmtM: 
-    * :tgxhVAxIotgfdFjv: 
-    * :4LE0oLnmnvg8jLEB: 
-    * :OzQUyO6umyuKCPwo: 
-    * :7txtThbd8oeuL29n: 
-    * :rmSJUsrLXDWq9z2i: 
-    * :5t1q4xN1N4ko4Svp: 
-    * :3LvwYcfP34cUmjCG: 
-    * :Jw841zadU4KeUTIH: 
-    * :aq1WbK0DiEBckK1F: 
-    * :JGGp2pUQRXXXF8E4: 
-    * :K8tkAmAurElVwLvy: 
-    * :P0OwSvzuZfj336Ux: 
-    * :qfzsUUucOy4alkGZ: 
-    * :0z0gnAUycKODEqbP: 
-    * :uiVDCjZptgxbjK9l: 
-    * :aPgqfl9ZkZJF6ZF5: 
-    * :g2xq4nPsl2eP4i2j: 
-    * :j7g6ooC62Woy4DVF: 
-    * :mPFaaCCjjWBdsJDH: 
-    * :VwDNQcnZoMHAfVqc: 
-    * :omi6DhwudE6vBveI: 
-    * :zCfwpkyNsTDNuemT: 
-    * :1QcO304sMdXAdx8V: 
-    * :1mAGKtc9GB6pzqQs: 
-    * :HWtT05jW5nDDBodB: 
-    * :V5LPAR9zuNpc1UlA: 
-    * :CnyQqcHrki8dzOtZ: 
-    * :aQQayjBgzcNNPFS2: 
-    * :nhxLhdCGq38rpyB7: 
-    * :8ob4QGLZzNTgrcnE: 
-    * :wL81wX9RKyqXUPZK: 
-    * :pbS5tMZDiblJOct5: 
-    * :VOfXpEC9xN24aQDV: 
-    * :zirBjuXjeR9LxnHz: 
-    * :QSQC6eZxbCyXTCp4: 
-    * :6422XWN9cLTciQUG: 
-    * :JKEh6OE8AB6nbDpu: 
-    * :G5knjmXsYD7YF272: 
-    * :z5FgneG9WdAkxS64: 
-    * :4e1fTuAvi9KxL53j: 
-    * :YenKVcpwdkBxlgYj: 
-    * :fBnqdSGi3yMPm0wb: 
-    * :Zb1IIa5oBr9bh0jM: 
-    * :469FFYfedULgWQsO: 
-    * :QxL0KwlUJEYWntZ3: 
-    * :rFPJ82qqkYfPyZOU: 
-    * :GljvixIKNiVQJ3YJ: 
-    * :pxr5YA9nqlcBm4kI: 
-    * :e9TSG7JpXJmjC43z: 
-    * :A9RVZT8i19DcWvMa: 
-    * :xX1g0SvUuBRDGhxN: 
-    * :pYyw9hXnTF6zyoWV: 
-    * :mGEmLHfeaWQCHyQe: 
-    * :0XC7vBqxXMMlSNMW: 
-    * :f6iE19lzLJZxkF9b: 
-    * :0nZzvYqhe3NnP69h: 
-    * :zZhfy56s7ft8JNbV: 
-    * :OcyKnKpDl0VMFMhJ: 
-    * :HikmWy2EM5moyfcN: 
-    * :BClz08Ru2wMoeP8h: 
-    * :TG0PzJBTpA8SKNML: 
-    * :XA45Y7TmW2q3i7r8: 
-    * :saoDE8QpUSuGy4GC: 
-    * :WeNcfHDjVKAnoZmM: 
-    * :xT37jCHxtgYtQrWb: 
-    * :IGMA9TpFcUAXC1lq: 
-    * :VkMQoWSTV3SArzg4: 
-    * :HTrLSU19Z1wFOFOz: 
-    * :FF7v2sfDW5eHcqMO: 
-    * :sMHTQD146LasPxvj: 
-    * :R77Mz3hKuJc3ZpVO: 
-    * :7F0qARoPtQRVPPbA: 
-    * :oJv4DimxTUrZtxhl: 
-    * :47QxzWSN6TJYchy2: 
-    * :vH56SA8ra7s69KiQ: 
-    * :lfi2sTzcs544OakO: 
-    * :K26ABmiZdvK5MtPh: 
-    * :6IQw9N8XFTXidPgn: 
-    * :YN9D8AMXIylYgpo9: 
-    * :UaoC5rhX9uUXPQwZ: 
-    * :0NL8RFCgXVoc3dTV: 
-    * :1kmICyuq2e5Kr2QN: 
-    * :16zgqiyHCjjaHs8n: 
-    * :glpHXI769sOvCwYu: 
-    * :Tjje5l6lm8AfC0Ti: 
-    * :7DTUE8m3evHDFdL9: 
-    * :LZqIh3gHLZwhESHR: 
-    * :ItipRFgDbyQly5RQ: 
-    * :up15urlvlRRR83iV: 
-    * :dEvpIbDGJgiLQnk8: 
-    * :fAEaucrgHxxiwW8r: 
-    * :QRlMPPLH4FnEi06Y: 
-    * :xkyjKRyP5qSEIQbX: 
-    * :GDeWLaJSoi1xc7Hl: 
-    * :cWh9sKT6VMa5vFJ2: 
-    * :xcETY8zxRUHJzXA3: 
-    * :zhTxW6YO4EkLLnnV: 
-    * :b79vK6F557dboYHN: 
-    * :zRogK2fO3LgryfWl: 
-    * :sBCoNfdgcIh39dUI: 
-    * :ix1RMWUZI58OAHkq: 
-    * :hXakAMNolCaYet0w: 
-    * :4ibI7vuD0Rry4rcX: 
-    * :yRNTzmcUvvwdCkZH: 
-    * :jrp6bwHnE7jUumbP: 
-    * :hSbysHi7fMKgd1zk: 
-    * :N6iQVsFo4zKPSP1u: 
-    * :J7t5263ZTBhQ15i3: 
-    * :4aGafVBmfXWCuYsz: 
-    * :DK9HQi05M6QkxRA6: 
-    * :5CsFwufX04dHgu1R: 
-    * :hHtrgO3y6NBPDKSS: 
-    * :i6x4xkTiGdMxvKS9: 
-    * :xmB741CrekOYfiMo: 
-    * :ZOtePcLbDTT1fJz4: 
-    * :NFcuo9r8YDt3Fghn: 
+@id l7VLdC4YIk8qc6eU
+@title trying to reproduce that bug with a bunch of fresh nodes
+@created 1492331017163
+@weight 0.5
+* :9NCLMBqEz9jyirvT: 
+* :FoyUwOD2TyXcWJun: 
+* :8zDbG8P2mpEkpbxF: 
+* :XFPDfSvo6uQDz8r3: 
+* :GCMbqSFa2b839xkH: 
+* :4Yymd3itXIEHyWzr: 
+* :OW3xhqBhtrddYC1d: 
+* :6mDbEPBaxZRfKIlP: 
+* :K4y1rntgNjXjOFC1: 
+* :2w2VNVifnBFfmhRI: 
+* :laZ0gmmEUDRs4TlC: 
+* :MXdLYAlvq3hcugPb: 
+* :PYqAqOhSmHzE0eQZ: 
+* :0L801hK1pkBn1gry: 
+* :9UVWfJLQitVwiBFp: 
+* :ZJ6b9RxGGEDWMFXy: 
+* :peBatUXha0qz9bGB: 
+* :DudmMkhF7mGOlEwy: 
+* :tp1SL2AMmTQ6LGub: 
+* :YZLayDO0M723FKWt: 
+* :bXS53fixwScyMRTG: 
+* :oR5OL9KyKkxv9MZQ: 
+* :LJMwh6x3ikLlKNlV: 
+* :NUDuWE34QmnGEPiZ: 
+* :8UCi4GyrXuonnt9n: 
+* :OT1rrPRi6ZohIjG7: 
+* :UqgY4jB2mnjWV7l5: 
+* :ljLYyDtfECldvIZh: 
+* :Zsd8Zo015RWn9OvF: 
+* :Qsfmz97WRaODRDTx: 
+* :LBrP6OJEzr3ISdx1: 
+* :iZ6A4RmurHJI8eC0: 
+* :PzfU5SaipcKIhc9y: 
+* :z1sOyqihEOp3s1dx: 
+* :Z3EQvT4Eh7iYGtyq: 
+* :rR95D53S0e4EmHPz: 
+* :5sXrzN1G3Z7gQfQ4: 
+* :4eki733QtsgJ8TgZ: 
+* :xvMK2VlP4olTg63c: 
+* :DCRhTfeFcbONsf2d: 
+* :RRbIg6Fzglmeukcy: 
+* :GcQt3llRp3rap2KY: 
+* :y4sxNfZAdvcw9EXX: 
+* :bptJhKQxO5FjdFKt: 
+* :EBBpR1Dko24EOKI4: 
+* :Cz26VwTjssD6k18a: 
+* :ODCCQAnurH2ynC7a: 
+* :7PCbNQOvJQ6dYy9S: 
+* :iCKtdk5X7PH3ui0O: 
+* :BqHuasG21QQ51n1q: 
+* :ajOT6c8QdMbcUSyI: 
+* :q0VYqo9b8RUpKZDT: 
+* :A2TMbWgCaz8TFQRF: 
+* :aEJMbcjhkOdayKQk: 
+* :GNtbzPzpo8oJvN9C: 
+* :CYRkIE0H082du1X5: 
+* :PcTXnZc8nxRhvSvw: 
+* :WyT5FFQBkNW0CTcb: 
+* :zCD39IjuhCcsZdzg: 
+* :WsZQcrGm0q1AbvR5: 
+* :GA6flfYriL51JxRM: 
+* :IkBUYW4lHcmufSwB: 
+* :cXyELbz5jQMkdZ3b: 
+* :gNUigVd3VuILy09g: 
+* :G02l8Hck4AXqbM8g: 
+* :vraws2tFos5RhIDR: 
+* :umLPrewqnwTCMZmr: 
+* :XCNnFFOvuj0H8Lo5: 
+* :0hYuiIfZt4u0ywRx: 
+* :g7OsAooYWMkKz4oF: 
+* :xV51lMZUvBILjhV5: 
+* :TxvtxbjX4hSAP005: 
+* :mfKRX7NLzMUmLESp: 
+* :gxc1bdmOmlg7bXBs: 
+* :r5HmoOxonesQlmtM: 
+* :tgxhVAxIotgfdFjv: 
+* :4LE0oLnmnvg8jLEB: 
+* :OzQUyO6umyuKCPwo: 
+* :7txtThbd8oeuL29n: 
+* :rmSJUsrLXDWq9z2i: 
+* :5t1q4xN1N4ko4Svp: 
+* :3LvwYcfP34cUmjCG: 
+* :Jw841zadU4KeUTIH: 
+* :aq1WbK0DiEBckK1F: 
+* :JGGp2pUQRXXXF8E4: 
+* :K8tkAmAurElVwLvy: 
+* :P0OwSvzuZfj336Ux: 
+* :qfzsUUucOy4alkGZ: 
+* :0z0gnAUycKODEqbP: 
+* :uiVDCjZptgxbjK9l: 
+* :aPgqfl9ZkZJF6ZF5: 
+* :g2xq4nPsl2eP4i2j: 
+* :j7g6ooC62Woy4DVF: 
+* :mPFaaCCjjWBdsJDH: 
+* :VwDNQcnZoMHAfVqc: 
+* :omi6DhwudE6vBveI: 
+* :zCfwpkyNsTDNuemT: 
+* :1QcO304sMdXAdx8V: 
+* :1mAGKtc9GB6pzqQs: 
+* :HWtT05jW5nDDBodB: 
+* :V5LPAR9zuNpc1UlA: 
+* :CnyQqcHrki8dzOtZ: 
+* :aQQayjBgzcNNPFS2: 
+* :nhxLhdCGq38rpyB7: 
+* :8ob4QGLZzNTgrcnE: 
+* :wL81wX9RKyqXUPZK: 
+* :pbS5tMZDiblJOct5: 
+* :VOfXpEC9xN24aQDV: 
+* :zirBjuXjeR9LxnHz: 
+* :QSQC6eZxbCyXTCp4: 
+* :6422XWN9cLTciQUG: 
+* :JKEh6OE8AB6nbDpu: 
+* :G5knjmXsYD7YF272: 
+* :z5FgneG9WdAkxS64: 
+* :4e1fTuAvi9KxL53j: 
+* :YenKVcpwdkBxlgYj: 
+* :fBnqdSGi3yMPm0wb: 
+* :Zb1IIa5oBr9bh0jM: 
+* :469FFYfedULgWQsO: 
+* :QxL0KwlUJEYWntZ3: 
+* :rFPJ82qqkYfPyZOU: 
+* :GljvixIKNiVQJ3YJ: 
+* :pxr5YA9nqlcBm4kI: 
+* :e9TSG7JpXJmjC43z: 
+* :A9RVZT8i19DcWvMa: 
+* :xX1g0SvUuBRDGhxN: 
+* :pYyw9hXnTF6zyoWV: 
+* :mGEmLHfeaWQCHyQe: 
+* :0XC7vBqxXMMlSNMW: 
+* :f6iE19lzLJZxkF9b: 
+* :0nZzvYqhe3NnP69h: 
+* :zZhfy56s7ft8JNbV: 
+* :OcyKnKpDl0VMFMhJ: 
+* :HikmWy2EM5moyfcN: 
+* :BClz08Ru2wMoeP8h: 
+* :TG0PzJBTpA8SKNML: 
+* :XA45Y7TmW2q3i7r8: 
+* :saoDE8QpUSuGy4GC: 
+* :WeNcfHDjVKAnoZmM: 
+* :xT37jCHxtgYtQrWb: 
+* :IGMA9TpFcUAXC1lq: 
+* :VkMQoWSTV3SArzg4: 
+* :HTrLSU19Z1wFOFOz: 
+* :FF7v2sfDW5eHcqMO: 
+* :sMHTQD146LasPxvj: 
+* :R77Mz3hKuJc3ZpVO: 
+* :7F0qARoPtQRVPPbA: 
+* :oJv4DimxTUrZtxhl: 
+* :47QxzWSN6TJYchy2: 
+* :vH56SA8ra7s69KiQ: 
+* :lfi2sTzcs544OakO: 
+* :K26ABmiZdvK5MtPh: 
+* :6IQw9N8XFTXidPgn: 
+* :YN9D8AMXIylYgpo9: 
+* :UaoC5rhX9uUXPQwZ: 
+* :0NL8RFCgXVoc3dTV: 
+* :1kmICyuq2e5Kr2QN: 
+* :16zgqiyHCjjaHs8n: 
+* :glpHXI769sOvCwYu: 
+* :Tjje5l6lm8AfC0Ti: 
+* :7DTUE8m3evHDFdL9: 
+* :LZqIh3gHLZwhESHR: 
+* :ItipRFgDbyQly5RQ: 
+* :up15urlvlRRR83iV: 
+* :dEvpIbDGJgiLQnk8: 
+* :fAEaucrgHxxiwW8r: 
+* :QRlMPPLH4FnEi06Y: 
+* :xkyjKRyP5qSEIQbX: 
+* :GDeWLaJSoi1xc7Hl: 
+* :cWh9sKT6VMa5vFJ2: 
+* :xcETY8zxRUHJzXA3: 
+* :zhTxW6YO4EkLLnnV: 
+* :b79vK6F557dboYHN: 
+* :zRogK2fO3LgryfWl: 
+* :sBCoNfdgcIh39dUI: 
+* :ix1RMWUZI58OAHkq: 
+* :hXakAMNolCaYet0w: 
+* :4ibI7vuD0Rry4rcX: 
+* :yRNTzmcUvvwdCkZH: 
+* :jrp6bwHnE7jUumbP: 
+* :hSbysHi7fMKgd1zk: 
+* :N6iQVsFo4zKPSP1u: 
+* :J7t5263ZTBhQ15i3: 
+* :4aGafVBmfXWCuYsz: 
+* :DK9HQi05M6QkxRA6: 
+* :5CsFwufX04dHgu1R: 
+* :hHtrgO3y6NBPDKSS: 
+* :i6x4xkTiGdMxvKS9: 
+* :xmB741CrekOYfiMo: 
+* :ZOtePcLbDTT1fJz4: 
+* :NFcuo9r8YDt3Fghn: 

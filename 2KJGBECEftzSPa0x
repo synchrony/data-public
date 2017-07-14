@@ -1,4 +1,5 @@
-* :2KJGBECEftzSPa0x: WordNet (RKBExplorer) - Datasets - the Data Hub (web page)
-    @created 1343200040208
-    @alias http://thedatahub.org/dataset/rkb-explorer-wordnet
-    @weight 0.5
+@id 2KJGBECEftzSPa0x
+@title WordNet (RKBExplorer) - Datasets - the Data Hub (web page)
+@alias http://thedatahub.org/dataset/rkb-explorer-wordnet
+@created 1343200040208
+@weight 0.5

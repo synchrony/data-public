@@ -1,6 +1,7 @@
-* :JbMv6fHiq8hUkXyE: todo : sanity check : dims of six orig and merged df
-    @created 1497083916159
-    @weight 0.5
+@id JbMv6fHiq8hUkXyE
+@title todo : sanity check : dims of six orig and merged df
+@created 1497083916159
+@weight 0.5
 
 The size of the merged one is a little bigger than the sum of the others, which is appropriate (if some sets are missing years or cities, which is true at least for years).
 

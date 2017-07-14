@@ -1,4 +1,5 @@
-* :zzIDTzT0wCWdCXG7: Decision Explorer (web page)
-    @created 1344202815341
-    @alias http://www.banxia.com/dexplore/
-    @weight 0.5
+@id zzIDTzT0wCWdCXG7
+@title Decision Explorer (web page)
+@alias http://www.banxia.com/dexplore/
+@created 1344202815341
+@weight 0.5

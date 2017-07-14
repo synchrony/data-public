@@ -1,4 +1,5 @@
-* :4MsOofA8hb7AIDLC: Apache Marmotta - (web page)
-    @created 1364269657028
-    @alias http://marmotta.incubator.apache.org/kiwi/triplestore.html
-    @weight 0.5
+@id 4MsOofA8hb7AIDLC
+@title Apache Marmotta - (web page)
+@alias http://marmotta.incubator.apache.org/kiwi/triplestore.html
+@created 1364269657028
+@weight 0.5

@@ -1,4 +1,5 @@
-* :aucRVLJZraz0NwES: Spokane Mental Health (web page)
-    @created 1353386171793
-    @alias http://www.smhca.org/
-    @weight 0.5
+@id aucRVLJZraz0NwES
+@title Spokane Mental Health (web page)
+@alias http://www.smhca.org/
+@created 1353386171793
+@weight 0.5

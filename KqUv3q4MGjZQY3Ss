@@ -1,6 +1,7 @@
-* :KqUv3q4MGjZQY3Ss: RenameMe
-    @created 1358233258557
-    @weight 0.5
+@id KqUv3q4MGjZQY3Ss
+@title RenameMe
+@created 1358233258557
+@weight 0.5
 
 cd ~ && wget -O - "https://www.dropbox.com/download?plat=lnx.x86" | tar xzf -
 ~/.dropbox-dist/dropboxd &

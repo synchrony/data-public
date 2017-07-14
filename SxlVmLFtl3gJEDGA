@@ -1,3 +1,4 @@
-* :SxlVmLFtl3gJEDGA: pipelined query execution is a promising approach to dealing with unpredictability in distributed environments, as it allows scheduling to adjust to the arrival properties of the data
-    @created 1351735772782
-    @weight 0.5
+@id SxlVmLFtl3gJEDGA
+@title pipelined query execution is a promising approach to dealing with unpredictability in distributed environments, as it allows scheduling to adjust to the arrival properties of the data
+@created 1351735772782
+@weight 0.5

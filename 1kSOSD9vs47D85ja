@@ -1,4 +1,5 @@
-* :1kSOSD9vs47D85ja: Google Health (web page)
-    @created 1355975253082
-    @alias https://accounts.google.com/ServiceLogin?service=health&nui=1&continue=https://health.google.com/health/p/&followup=https://health.google.com/health/p/&rm=hide
-    @weight 0.5
+@id 1kSOSD9vs47D85ja
+@title Google Health (web page)
+@alias https://accounts.google.com/ServiceLogin?service=health&nui=1&continue=https://health.google.com/health/p/&followup=https://health.google.com/health/p/&rm=hide
+@created 1355975253082
+@weight 0.5

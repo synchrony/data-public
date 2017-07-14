@@ -1,6 +1,7 @@
-* :P1vzbncFyyTgN23R: RenameMe
-    @created 1421777858475
-    @weight 0.5
+@id P1vzbncFyyTgN23R
+@title RenameMe
+@created 1421777858475
+@weight 0.5
 
 # first, edit config/orientdb-server-config.xml to create a user with
 # a reasonable password (unless you really care about security)

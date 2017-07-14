@@ -1,3 +1,4 @@
-* :zHk97SQXsCKhPk4F: a package of GNU software containing reimplementations for many of the basic tools, such as cat, ls, and rm, used on Unix-like operating systems
-    @created 1454009071175
-    @weight 0.5
+@id zHk97SQXsCKhPk4F
+@title a package of GNU software containing reimplementations for many of the basic tools, such as cat, ls, and rm, used on Unix-like operating systems
+@created 1454009071175
+@weight 0.5

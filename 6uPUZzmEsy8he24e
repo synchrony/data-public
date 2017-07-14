@@ -1,4 +1,5 @@
-* :6uPUZzmEsy8he24e: Main Page - OpenWetWare (web page)
-    @created 1380597705845
-    @alias http://openwetware.org/wiki/Main_Page
-    @weight 0.5
+@id 6uPUZzmEsy8he24e
+@title Main Page - OpenWetWare (web page)
+@alias http://openwetware.org/wiki/Main_Page
+@created 1380597705845
+@weight 0.5

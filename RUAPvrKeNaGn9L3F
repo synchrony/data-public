@@ -1,3 +1,4 @@
-* :RUAPvrKeNaGn9L3F: docker network disconnect networkName containerName|id
-    @created 1487922457986
-    @weight 0.5
+@id RUAPvrKeNaGn9L3F
+@title docker network disconnect networkName containerName|id
+@created 1487922457986
+@weight 0.5

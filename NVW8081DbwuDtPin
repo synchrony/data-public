@@ -1,3 +1,4 @@
-* :NVW8081DbwuDtPin: less efficient than Dijkstra's algorithm, but more versatile, in that it is applicable to graphs with negative edge weights
-    @created 1335045446695
-    @weight 0.5
+@id NVW8081DbwuDtPin
+@title less efficient than Dijkstra's algorithm, but more versatile, in that it is applicable to graphs with negative edge weights
+@created 1335045446695
+@weight 0.5

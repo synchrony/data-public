@@ -1,4 +1,5 @@
-* :GQ2yi9fNiIRXZIgE: IQ test (web page)
-    @created 1310539747657
-    @alias http://cech.cesnet.cz/IQ/IQ-test-e.html
-    @weight 0.25
+@id GQ2yi9fNiIRXZIgE
+@title IQ test (web page)
+@alias http://cech.cesnet.cz/IQ/IQ-test-e.html
+@created 1310539747657
+@weight 0.25

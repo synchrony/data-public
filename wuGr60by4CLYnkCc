@@ -1,6 +1,7 @@
-* :wuGr60by4CLYnkCc: RenameMe
-    @created 1329400772516
-    @weight 0.5
+@id wuGr60by4CLYnkCc
+@title RenameMe
+@created 1329400772516
+@weight 0.5
 
 SELECT * WHERE {
     <http://www4.wiwiss.fu-berlin.de/dailymed/resource/drugs/1> ?p ?o .

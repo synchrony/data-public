@@ -1,4 +1,5 @@
-* :EJ5004xqHckmsIoy: using IdGraph in parallel transactions (e.g. with Titan-on-Cassandra)
-    @created 1379620705439
-    @weight 0.5
-    * :6Q6DFX6TmJpmEerU: 
+@id EJ5004xqHckmsIoy
+@title using IdGraph in parallel transactions (e.g. with Titan-on-Cassandra)
+@created 1379620705439
+@weight 0.5
+* :6Q6DFX6TmJpmEerU: 

@@ -1,4 +1,5 @@
-* :VU5UHkXMWoYxqo43: Cornell Database Group - Cayuga (web page)
-    @created 1351445396074
-    @alias http://www.cs.cornell.edu/bigreddata/cayuga/
-    @weight 0.5
+@id VU5UHkXMWoYxqo43
+@title Cornell Database Group - Cayuga (web page)
+@alias http://www.cs.cornell.edu/bigreddata/cayuga/
+@created 1351445396074
+@weight 0.5

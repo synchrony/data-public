@@ -1,3 +1,4 @@
-* :Wizj8c0gdUujcAVB: if a node is to be split into two nodes one containing the other, make the new node the child, not the parent. otherwise the other predecessors are broken, referring to what might only be a detail of what they intended to point at
-    @created 1485581486392
-    @weight 0.5
+@id Wizj8c0gdUujcAVB
+@title if a node is to be split into two nodes one containing the other, make the new node the child, not the parent. otherwise the other predecessors are broken, referring to what might only be a detail of what they intended to point at
+@created 1485581486392
+@weight 0.5

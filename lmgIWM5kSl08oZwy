@@ -1,6 +1,7 @@
-* :lmgIWM5kSl08oZwy: RenameMe
-    @created 1331530805748
-    @weight 0.5
+@id lmgIWM5kSl08oZwy
+@title RenameMe
+@created 1331530805748
+@weight 0.5
 
 git flow release start 1.x
 # now remove SNAPSHOT from version numbers

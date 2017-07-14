@@ -1,6 +1,7 @@
-* :ryv6CgZaRnPWeHwL: the first time, bin/gremlin-server.sh gives a grape-grabbing error
-    @created 1488101559718
-    @weight 0.5
+@id ryv6CgZaRnPWeHwL
+@title the first time, bin/gremlin-server.sh gives a grape-grabbing error
+@created 1488101559718
+@weight 0.5
 
 h
 Could not install the dependency: Error grabbing Grapes -- [unresolved dependency: com.github.jeremyh#jBCrypt;jbcrypt-0.4: not found]

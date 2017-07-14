@@ -1,3 +1,4 @@
-* :hVqR5Pl60cOhRgqS: ancestors :: Node -> Set<Node>
-    @created 1491344071164
-    @weight 0.5
+@id hVqR5Pl60cOhRgqS
+@title ancestors :: Node -> Set<Node>
+@created 1491344071164
+@weight 0.5

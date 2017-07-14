@@ -1,3 +1,4 @@
-* :Jbl06fAahRyRJ8D1: r_ajo           float  %9.0g                  Rendimiento (Ton/Ha) de ajo
-    @created 1496474373165
-    @weight 0.5
+@id Jbl06fAahRyRJ8D1
+@title r_ajo           float  %9.0g                  Rendimiento (Ton/Ha) de ajo
+@created 1496474373165
+@weight 0.5

@@ -1,3 +1,4 @@
-* :6aPrZpBM5mlP1uOw: a node in an RDF graph representing a resource for which a URI or literal is not given
-    @created 1447053555400
-    @weight 0.5
+@id 6aPrZpBM5mlP1uOw
+@title a node in an RDF graph representing a resource for which a URI or literal is not given
+@created 1447053555400
+@weight 0.5

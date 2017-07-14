@@ -1,3 +1,4 @@
-* :yw9IGQ1ZQ80u9qVG: ./agraph --debug --config agraph.cfg
-    @created 1314895963306
-    @weight 0.5
+@id yw9IGQ1ZQ80u9qVG
+@title ./agraph --debug --config agraph.cfg
+@created 1314895963306
+@weight 0.5

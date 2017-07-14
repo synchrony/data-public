@@ -1,3 +1,4 @@
-* :f2JZ7apsZU8b0lWE: [markdown]When you switch to move-submode, a message says so in the minibuffer, and the cursor becomes green. (Unless you're using smsn in the emacs-smsn docker bundle, in which case the cursor cannot change color.)
-    @created 1490607918497
-    @weight 0.5
+@id f2JZ7apsZU8b0lWE
+@title [markdown]When you switch to move-submode, a message says so in the minibuffer, and the cursor becomes green. (Unless you're using smsn in the emacs-smsn docker bundle, in which case the cursor cannot change color.)
+@created 1490607918497
+@weight 0.5

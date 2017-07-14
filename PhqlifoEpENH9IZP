@@ -1,6 +1,7 @@
-* :PhqlifoEpENH9IZP: RenameMe
-    @created 1339612519125
-    @weight 0.5
+@id PhqlifoEpENH9IZP
+@title RenameMe
+@created 1339612519125
+@weight 0.5
 
 # note: escaped characters are not considered
 v <- read.table(file("/tmp/joshkb-vertices.tsv"), header=TRUE, sep="\t", quote="", comment.char="")

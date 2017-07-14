@@ -1,4 +1,5 @@
-* :P9J5J2arajaQoGoc: Apache Marmotta - (web page)
-    @created 1372121490613
-    @alias http://marmotta.incubator.apache.org/sesame.html
-    @weight 0.5
+@id P9J5J2arajaQoGoc
+@title Apache Marmotta - (web page)
+@alias http://marmotta.incubator.apache.org/sesame.html
+@created 1372121490613
+@weight 0.5

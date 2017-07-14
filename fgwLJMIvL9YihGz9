@@ -1,4 +1,5 @@
-* :fgwLJMIvL9YihGz9: Stanford Computer Vision Lab (web page)
-    @created 1451979208106
-    @alias http://vision.stanford.edu/
-    @weight 0.5
+@id fgwLJMIvL9YihGz9
+@title Stanford Computer Vision Lab (web page)
+@alias http://vision.stanford.edu/
+@created 1451979208106
+@weight 0.5

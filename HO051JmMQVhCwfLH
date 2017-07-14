@@ -1,3 +1,4 @@
-* :HO051JmMQVhCwfLH: cicon_total     double %10.0g                 Control interno contable total
-    @created 1496473856561
-    @weight 0.5
+@id HO051JmMQVhCwfLH
+@title cicon_total     double %10.0g                 Control interno contable total
+@created 1496473856561
+@weight 0.5

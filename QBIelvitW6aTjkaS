@@ -1,6 +1,7 @@
-* :QBIelvitW6aTjkaS: text of that post
-    @created 1496965325117
-    @weight 0.5
+@id QBIelvitW6aTjkaS
+@title text of that post
+@created 1496965325117
+@weight 0.5
 
 I installed Haskell-emacs by running "package-list-packages" and selecting it. That compiled and initialized it. When I started a new Emacs session, the haskell-emacs package was no longer initialized. 
 

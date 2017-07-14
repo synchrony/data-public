@@ -1,10 +1,11 @@
-* :cEFgQPQdLxfQeDqe: RDF pub-sub architecture from "Publish/Subscribe for RDF-based P2P Networks"
-    @created 1329771585081
-    @weight 0.5
-    * :Ufwk9V1dkTz89LMK: 
-    * :ppb9N8qgDhz683Jl: 
-    * :fJm6qeYMm0bX4zgb: 
-    * :a8a26O72y6jU1bUO: 
-    * :X8u9Wj6fnPKWEBdS: 
-    * :uq3Qu6FyPuTghgXB: 
-    * :wX24trU1iquBL4S9: 
+@id cEFgQPQdLxfQeDqe
+@title RDF pub-sub architecture from "Publish/Subscribe for RDF-based P2P Networks"
+@created 1329771585081
+@weight 0.5
+* :Ufwk9V1dkTz89LMK: 
+* :ppb9N8qgDhz683Jl: 
+* :fJm6qeYMm0bX4zgb: 
+* :a8a26O72y6jU1bUO: 
+* :X8u9Wj6fnPKWEBdS: 
+* :uq3Qu6FyPuTghgXB: 
+* :wX24trU1iquBL4S9: 

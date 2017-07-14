@@ -1,4 +1,5 @@
-* :KpNRhQFespkZLfig: LinkedDataSail + SPARQL usage example (web page)
-    @created 1359313976067
-    @alias https://gist.github.com/4644515
-    @weight 0.5
+@id KpNRhQFespkZLfig
+@title LinkedDataSail + SPARQL usage example (web page)
+@alias https://gist.github.com/4644515
+@created 1359313976067
+@weight 0.5

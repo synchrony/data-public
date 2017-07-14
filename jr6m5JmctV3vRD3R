@@ -1,4 +1,5 @@
-* :jr6m5JmctV3vRD3R: The Suggested Upper Merged Ontology (SUMO) - Ontology Portal (web page)
-    @created 1364854644052
-    @alias http://www.ontologyportal.org/
-    @weight 0.5
+@id jr6m5JmctV3vRD3R
+@title The Suggested Upper Merged Ontology (SUMO) - Ontology Portal (web page)
+@alias http://www.ontologyportal.org/
+@created 1364854644052
+@weight 0.5

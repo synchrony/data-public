@@ -1,6 +1,7 @@
-* :hGRjSqNC3MJTpcC2: replace one branch entirely with another
-    @created 1487547095333
-    @weight 0.5
+@id hGRjSqNC3MJTpcC2
+@title replace one branch entirely with another
+@created 1487547095333
+@weight 0.5
 
 git checkout replacement
 git merge -s ours toreplace

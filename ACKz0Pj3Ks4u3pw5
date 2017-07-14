@@ -1,6 +1,7 @@
-* :ACKz0Pj3Ks4u3pw5: RenameMe
-    @created 1418615635361
-    @weight 0.5
+@id ACKz0Pj3Ks4u3pw5
+@title RenameMe
+@created 1418615635361
+@weight 0.5
 
 BTCTMP=/mnt/raid/tmp/shinaj
 TMPDIR=$BTCTMP/sort-tmp

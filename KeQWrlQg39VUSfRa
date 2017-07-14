@@ -1,6 +1,7 @@
-* :KeQWrlQg39VUSfRa: RenameMe
-    @created 1475786587587
-    @weight 0.5
+@id KeQWrlQg39VUSfRa
+@title RenameMe
+@created 1475786587587
+@weight 0.5
 
 matrix( runif(10, 3,4), ncol=2 ) # 10 = length of matrix, 3min 4max
          [,1]     [,2]

@@ -1,4 +1,5 @@
-* :AvHiFE7Gu6o0pFUk: School Ranking/Ratings Maps for each City/Region in California (web page)
-    @created 1434464618255
-    @alias http://school-ratings.com/allCaliforniaCities.php
-    @weight 0.5
+@id AvHiFE7Gu6o0pFUk
+@title School Ranking/Ratings Maps for each City/Region in California (web page)
+@alias http://school-ratings.com/allCaliforniaCities.php
+@created 1434464618255
+@weight 0.5

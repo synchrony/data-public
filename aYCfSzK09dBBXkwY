@@ -1,4 +1,5 @@
-* :aYCfSzK09dBBXkwY: Time Ontology in OWL (web page)
-    @created 1345602193594
-    @alias http://www.w3.org/TR/owl-time/
-    @weight 0.5
+@id aYCfSzK09dBBXkwY
+@title Time Ontology in OWL (web page)
+@alias http://www.w3.org/TR/owl-time/
+@created 1345602193594
+@weight 0.5

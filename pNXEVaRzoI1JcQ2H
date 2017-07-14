@@ -1,4 +1,5 @@
-* :pNXEVaRzoI1JcQ2H: DBpedia Spotlight (web page)
-    @created 1361483707934
-    @alias http://dbpedia-spotlight.github.com/demo/
-    @weight 0.5
+@id pNXEVaRzoI1JcQ2H
+@title DBpedia Spotlight (web page)
+@alias http://dbpedia-spotlight.github.com/demo/
+@created 1361483707934
+@weight 0.5

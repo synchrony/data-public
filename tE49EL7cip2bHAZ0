@@ -1,6 +1,7 @@
-* :tE49EL7cip2bHAZ0: reverted to IDs instead of keys, using IdGraph for persistence
-    @created 1333213677457
-    @weight 0.5
-    * :6CsDipSZDXKHbajZ: 
-    * :lhsGNQNrD1Lc8uNP: 
-    * :Kn24HqjmtTYhnXCw: 
+@id tE49EL7cip2bHAZ0
+@title reverted to IDs instead of keys, using IdGraph for persistence
+@created 1333213677457
+@weight 0.5
+* :6CsDipSZDXKHbajZ: 
+* :lhsGNQNrD1Lc8uNP: 
+* :Kn24HqjmtTYhnXCw: 

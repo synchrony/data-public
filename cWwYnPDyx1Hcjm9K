@@ -1,3 +1,4 @@
-* :cWwYnPDyx1Hcjm9K: where n is the number of variables and L is the number of bits of input to the algorithm, Karmarkar's algorithm requires O(n^{3.5} L) operations on O(L) digit numbers
-    @created 1380915775076
-    @weight 0.5
+@id cWwYnPDyx1Hcjm9K
+@title where n is the number of variables and L is the number of bits of input to the algorithm, Karmarkar's algorithm requires O(n^{3.5} L) operations on O(L) digit numbers
+@created 1380915775076
+@weight 0.5

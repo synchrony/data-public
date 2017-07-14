@@ -1,4 +1,5 @@
-* :cMNzFDroq4idlmYX: Online Banking - Capital One 360 (web page)
-    @created 1360089458134
-    @alias https://home.capitalone360.com/
-    @weight 0.5
+@id cMNzFDroq4idlmYX
+@title Online Banking - Capital One 360 (web page)
+@alias https://home.capitalone360.com/
+@created 1360089458134
+@weight 0.5

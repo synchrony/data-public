@@ -1,4 +1,5 @@
-* :wM3fubDvPNnQcmFn: Semantic Web Client Library (web page)
-    @created 1332793340678
-    @alias http://wifo5-03.informatik.uni-mannheim.de/bizer/ng4j/semwebclient/
-    @weight 0.5
+@id wM3fubDvPNnQcmFn
+@title Semantic Web Client Library (web page)
+@alias http://wifo5-03.informatik.uni-mannheim.de/bizer/ng4j/semwebclient/
+@created 1332793340678
+@weight 0.5

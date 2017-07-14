@@ -1,3 +1,4 @@
-* :FAXQ8Xfkrj7ItZiK: "conservation conditions": for each node v other than s and t, we have f_in(v) = f_out(v)
-    @created 1310234505287
-    @weight 0.5
+@id FAXQ8Xfkrj7ItZiK
+@title "conservation conditions": for each node v other than s and t, we have f_in(v) = f_out(v)
+@created 1310234505287
+@weight 0.5

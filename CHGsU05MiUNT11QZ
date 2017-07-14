@@ -1,6 +1,7 @@
-* :CHGsU05MiUNT11QZ: RenameMe
-    @created 1329401210409
-    @weight 0.5
+@id CHGsU05MiUNT11QZ
+@title RenameMe
+@created 1329401210409
+@weight 0.5
 
 PREFIX drugs: <http://www4.wiwiss.fu-berlin.de/dailymed/resource/drugs/>
 SELECT * WHERE {

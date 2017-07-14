@@ -1,6 +1,7 @@
-* :Yqdc8WMmPscgGSNE: continuous queries in Tapestry are distinguished from triggers in active databases, which execute queries over new data as it arrives
-    @created 1351459168081
-    @weight 0.5
-    * :2wn8wcizatc5YPGP: 
-    * :pAwWAixdcMxU4yyM: 
-    * :X4zFOKAlCbMXTMLG: 
+@id Yqdc8WMmPscgGSNE
+@title continuous queries in Tapestry are distinguished from triggers in active databases, which execute queries over new data as it arrives
+@created 1351459168081
+@weight 0.5
+* :2wn8wcizatc5YPGP: 
+* :pAwWAixdcMxU4yyM: 
+* :X4zFOKAlCbMXTMLG: 

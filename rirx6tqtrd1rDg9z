@@ -1,3 +1,4 @@
-* :rirx6tqtrd1rDg9z: git remote add upstream https://github.com/mhausenblas/schema-org-rdf.git
-    @created 1333407363534
-    @weight 0.5
+@id rirx6tqtrd1rDg9z
+@title git remote add upstream https://github.com/mhausenblas/schema-org-rdf.git
+@created 1333407363534
+@weight 0.5

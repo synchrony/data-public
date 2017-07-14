@@ -1,6 +1,7 @@
-* :TUrU9874m0oVtKBJ: RenameMe
-    @created 1421637674675
-    @weight 0.5
+@id TUrU9874m0oVtKBJ
+@title RenameMe
+@created 1421637674675
+@weight 0.5
 
 # default password is "logKext"
 sudo logKextClient

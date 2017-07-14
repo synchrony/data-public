@@ -1,6 +1,7 @@
-* :d8jWbV0fJuO39jV6: RenameMe
-    @created 1330384506737
-    @weight 0.5
+@id d8jWbV0fJuO39jV6
+@title RenameMe
+@created 1330384506737
+@weight 0.5
 
 @prefix wni: <http://www.w3.org/2006/03/wn/wn20/instances/>
 @prefix wn20schema: <http://www.w3.org/2006/03/wn/wn20/schema/>

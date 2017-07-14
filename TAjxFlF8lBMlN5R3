@@ -1,3 +1,4 @@
-* :TAjxFlF8lBMlN5R3: selectivity of index = cardinality/(number of records) * 100%
-    @created 1426303475794
-    @weight 0.5
+@id TAjxFlF8lBMlN5R3
+@title selectivity of index = cardinality/(number of records) * 100%
+@created 1426303475794
+@weight 0.5

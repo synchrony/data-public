@@ -1,3 +1,4 @@
-* :D4pqevWWvvKbapSA: "It is generally faster to add elements to the HashSet and then convert the collection to a TreeSet for a duplicate-free sorted traversal."
-    @created 1491189436749
-    @weight 0.5
+@id D4pqevWWvvKbapSA
+@title "It is generally faster to add elements to the HashSet and then convert the collection to a TreeSet for a duplicate-free sorted traversal."
+@created 1491189436749
+@weight 0.5

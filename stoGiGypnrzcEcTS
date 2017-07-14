@@ -1,3 +1,4 @@
-* :stoGiGypnrzcEcTS: p_esparrago     float  %9.0g                  ProducciÛn (Ton) de esparrago
-    @created 1496474356033
-    @weight 0.5
+@id stoGiGypnrzcEcTS
+@title p_esparrago     float  %9.0g                  ProducciÛn (Ton) de esparrago
+@created 1496474356033
+@weight 0.5

@@ -1,3 +1,4 @@
-* :zSYDU6tkh1zD5Bs8: for evaluating the query according to the query plan, we run each operator in a separate thread
-    @created 1427181613366
-    @weight 0.5
+@id zSYDU6tkh1zD5Bs8
+@title for evaluating the query according to the query plan, we run each operator in a separate thread
+@created 1427181613366
+@weight 0.5

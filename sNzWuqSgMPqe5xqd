@@ -1,4 +1,5 @@
-* :sNzWuqSgMPqe5xqd: SFCC Library Home (web page)
-    @created 1345010348998
-    @alias http://library.spokanefalls.edu/
-    @weight 0.5
+@id sNzWuqSgMPqe5xqd
+@title SFCC Library Home (web page)
+@alias http://library.spokanefalls.edu/
+@created 1345010348998
+@weight 0.5

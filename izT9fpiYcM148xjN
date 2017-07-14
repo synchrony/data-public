@@ -1,3 +1,4 @@
-* :izT9fpiYcM148xjN: a linear ordering of its vertices such that for every directed edge uv from vertex u to vertex v, u comes before v in the ordering
-    @created 1381109960439
-    @weight 0.5
+@id izT9fpiYcM148xjN
+@title a linear ordering of its vertices such that for every directed edge uv from vertex u to vertex v, u comes before v in the ordering
+@created 1381109960439
+@weight 0.5

@@ -1,3 +1,4 @@
-* :ADtwy66moHWmcX8w: rapper -i turtle -o ntriples security-game.ttl > all.nt
-    @created 1326594552449
-    @weight 0.5
+@id ADtwy66moHWmcX8w
+@title rapper -i turtle -o ntriples security-game.ttl > all.nt
+@created 1326594552449
+@weight 0.5

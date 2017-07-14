@@ -1,4 +1,5 @@
-* :VPi8WI9G4T181VbT: System Dashboard - OpenRDF JIRA (web page)
-    @created 1352409542310
-    @alias https://openrdf.atlassian.net/secure/Dashboard.jspa
-    @weight 0.5
+@id VPi8WI9G4T181VbT
+@title System Dashboard - OpenRDF JIRA (web page)
+@alias https://openrdf.atlassian.net/secure/Dashboard.jspa
+@created 1352409542310
+@weight 0.5

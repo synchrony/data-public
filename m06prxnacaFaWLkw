@@ -1,4 +1,5 @@
-* :m06prxnacaFaWLkw: RensSearch (web page)
-    @created 1345008019404
-    @alias http://library.rpi.edu/setup.do?browserTypeSticky=chrome
-    @weight 0.5
+@id m06prxnacaFaWLkw
+@title RensSearch (web page)
+@alias http://library.rpi.edu/setup.do?browserTypeSticky=chrome
+@created 1345008019404
+@weight 0.5

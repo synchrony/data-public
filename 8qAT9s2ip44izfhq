@@ -1,3 +1,4 @@
-* :8qAT9s2ip44izfhq: "n <- Lazy.iterate (_ + 1) 0" ? Does _ mean something else in purescript?
-    @created 1484906098910
-    @weight 0.5
+@id 8qAT9s2ip44izfhq
+@title "n <- Lazy.iterate (_ + 1) 0" ? Does _ mean something else in purescript?
+@created 1484906098910
+@weight 0.5

@@ -1,4 +1,5 @@
-* :NqzgEqipIcjr42SF: TWC Schema.org Vocabulary Development: helping websites help search engines find and report them
-    @created 1487062741178
-    @alias https://tw.rpi.edu//web/project/twc_schemas
-    @weight 0.5
+@id NqzgEqipIcjr42SF
+@title TWC Schema.org Vocabulary Development: helping websites help search engines find and report them
+@alias https://tw.rpi.edu//web/project/twc_schemas
+@created 1487062741178
+@weight 0.5

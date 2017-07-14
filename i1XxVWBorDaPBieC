@@ -1,4 +1,5 @@
-* :i1XxVWBorDaPBieC: Billion Triples Challenge 2011 Dataset (web page)
-    @created 1414423010367
-    @alias http://km.aifb.kit.edu/projects/btc-2011/
-    @weight 0.5
+@id i1XxVWBorDaPBieC
+@title Billion Triples Challenge 2011 Dataset (web page)
+@alias http://km.aifb.kit.edu/projects/btc-2011/
+@created 1414423010367
+@weight 0.5

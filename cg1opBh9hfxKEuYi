@@ -1,3 +1,4 @@
-* :cg1opBh9hfxKEuYi: vertex coloring is the starting point of the subject, and other coloring problems can be transformed into a vertex version. For example, an edge coloring of a graph is just a vertex coloring of its line graph, and a face coloring of a plane graph is just a vertex coloring of its dual
-    @created 1380830843733
-    @weight 0.5
+@id cg1opBh9hfxKEuYi
+@title vertex coloring is the starting point of the subject, and other coloring problems can be transformed into a vertex version. For example, an edge coloring of a graph is just a vertex coloring of its line graph, and a face coloring of a plane graph is just a vertex coloring of its dual
+@created 1380830843733
+@weight 0.5

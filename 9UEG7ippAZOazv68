@@ -1,7 +1,8 @@
-* :9UEG7ippAZOazv68: "marking out feet" with .
-    @created 1493537095885
-    @weight 0.5
-    @priority 0.5
+@id 9UEG7ippAZOazv68
+@title "marking out feet" with .
+@created 1493537095885
+@weight 0.5
+@priority 0.5
 
 equivalent:
 d1 $ sound "bd bd . sd sd sd . bd sd"

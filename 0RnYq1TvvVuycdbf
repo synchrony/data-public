@@ -1,4 +1,5 @@
-* :0RnYq1TvvVuycdbf: Text corpus sentiment analysis (web page)
-    @created 1420823636483
-    @alias http://rpackages.ianhowson.com/rforge/tm.plugin.sentiment/
-    @weight 0.5
+@id 0RnYq1TvvVuycdbf
+@title Text corpus sentiment analysis (web page)
+@alias http://rpackages.ianhowson.com/rforge/tm.plugin.sentiment/
+@created 1420823636483
+@weight 0.5

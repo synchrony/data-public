@@ -1,3 +1,4 @@
-* :QxUCnKKPMa7ksMJY: diffs due to changes of weight or sharability will be larger in the tab-separated format.  Perhaps a one-field-per-line format would make sense for version control (although it would be less human-readable).
-    @created 1327530591326
-    @weight 0.5
+@id QxUCnKKPMa7ksMJY
+@title diffs due to changes of weight or sharability will be larger in the tab-separated format.  Perhaps a one-field-per-line format would make sense for version control (although it would be less human-readable).
+@created 1327530591326
+@weight 0.5

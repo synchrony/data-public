@@ -1,4 +1,5 @@
-* :opbLZuPEHrT10f8F: isoHunt is the BitTorrent & P2P torrent search engine (web page)
-    @created 1387745242811
-    @alias http://isohunt.to/
-    @weight 0.5
+@id opbLZuPEHrT10f8F
+@title isoHunt is the BitTorrent & P2P torrent search engine (web page)
+@alias http://isohunt.to/
+@created 1387745242811
+@weight 0.5

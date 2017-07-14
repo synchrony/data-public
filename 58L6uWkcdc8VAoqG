@@ -1,6 +1,7 @@
-* :58L6uWkcdc8VAoqG: range of Int32 \ haskell
-    @created 1497161941529
-    @weight 0.5
+@id 58L6uWkcdc8VAoqG
+@title range of Int32 \ haskell
+@created 1497161941529
+@weight 0.5
 
 Prelude Data.WAVE Data.Int> doubleToSample 1
 2147483647

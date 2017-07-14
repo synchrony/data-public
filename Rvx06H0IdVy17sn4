@@ -1,3 +1,4 @@
-* :Rvx06H0IdVy17sn4: wget  http://localhost:8185 # outside of docker
-    @created 1488582320994
-    @weight 0.5
+@id Rvx06H0IdVy17sn4
+@title wget  http://localhost:8185 # outside of docker
+@created 1488582320994
+@weight 0.5

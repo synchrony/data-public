@@ -1,4 +1,5 @@
-* :HOjlbN9dBGbsY0Fz: TWC LOGD Instance Hub (web page)
-    @created 1327519793767
-    @alias http://logd.tw.rpi.edu/id_page
-    @weight 0.5
+@id HOjlbN9dBGbsY0Fz
+@title TWC LOGD Instance Hub (web page)
+@alias http://logd.tw.rpi.edu/id_page
+@created 1327519793767
+@weight 0.5

@@ -1,4 +1,5 @@
-* :oZbRVGZtQGpTGMOg: Health Level Seven International - Homepage (web page)
-    @created 1352739741824
-    @alias http://www.hl7.org/index.cfm
-    @weight 0.5
+@id oZbRVGZtQGpTGMOg
+@title Health Level Seven International - Homepage (web page)
+@alias http://www.hl7.org/index.cfm
+@created 1352739741824
+@weight 0.5

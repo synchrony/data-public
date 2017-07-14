@@ -1,25 +1,26 @@
-* :fnyOc4jDQTWoe9ag: TwitLogic SPARQL widget
-    @created 1326064677302
-    @weight 0.75
-    * :htGtXUluH9qbofIb: 
-    * :AmTtKex51CcDfo2J: 
-    * :AoPM95ZJXMEKJqNt: 
-    * :dfykKCTBkboL2x9S: 
-    * :xN2djyOTz8V6rB9a: 
-    * :fONg7SvE8NxlN8wS: 
-    * :7OGy3R3OxVfqzJhC: 
-    * :QlP03BeP4Qo7GR8B: 
-    * :syNN3f0o8avKbczX: 
-    * :4hrsWph5xTqNaBNS: 
-    * :8bQavAYOhmcHiMMA: 
-    * :cw6rKJOLWaN0ptYk: 
-    * :yEUygYCriz3PIpBL: 
-    * :yyjZhFU3ZCiAttgo: 
-    * :7VwvUmNdv1iUZKLW: 
-    * :WUpi7DwiyyntCzwY: 
-    * :v3UpY7YuvtMeshta: 
-    * :sHRBxnqP08W2P8M7: 
-    * :H7JXORb2I8tLbDft: 
-    * :abOu0KHqg31a6fzD: 
-    * :VwSvGGz2G74aCNaL: 
-    * :LyDCtKebLk200Nmu: 
+@id fnyOc4jDQTWoe9ag
+@title TwitLogic SPARQL widget
+@created 1326064677302
+@weight 0.75
+* :htGtXUluH9qbofIb: 
+* :AmTtKex51CcDfo2J: 
+* :AoPM95ZJXMEKJqNt: 
+* :dfykKCTBkboL2x9S: 
+* :xN2djyOTz8V6rB9a: 
+* :fONg7SvE8NxlN8wS: 
+* :7OGy3R3OxVfqzJhC: 
+* :QlP03BeP4Qo7GR8B: 
+* :syNN3f0o8avKbczX: 
+* :4hrsWph5xTqNaBNS: 
+* :8bQavAYOhmcHiMMA: 
+* :cw6rKJOLWaN0ptYk: 
+* :yEUygYCriz3PIpBL: 
+* :yyjZhFU3ZCiAttgo: 
+* :7VwvUmNdv1iUZKLW: 
+* :WUpi7DwiyyntCzwY: 
+* :v3UpY7YuvtMeshta: 
+* :sHRBxnqP08W2P8M7: 
+* :H7JXORb2I8tLbDft: 
+* :abOu0KHqg31a6fzD: 
+* :VwSvGGz2G74aCNaL: 
+* :LyDCtKebLk200Nmu: 

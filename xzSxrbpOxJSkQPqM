@@ -1,3 +1,4 @@
-* :xzSxrbpOxJSkQPqM: docker inspect --format='{{json .NetworkSettings.Networks}}'  the-inspected-application
-    @created 1487921197785
-    @weight 0.5
+@id xzSxrbpOxJSkQPqM
+@title docker inspect --format='{{json .NetworkSettings.Networks}}'  the-inspected-application
+@created 1487921197785
+@weight 0.5

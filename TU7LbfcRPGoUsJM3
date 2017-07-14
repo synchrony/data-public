@@ -1,3 +1,4 @@
-* :TU7LbfcRPGoUsJM3: instead of df or df[,c(1,2,3)] use df[,c(2,1,3)]
-    @created 1461624823342
-    @weight 0.5
+@id TU7LbfcRPGoUsJM3
+@title instead of df or df[,c(1,2,3)] use df[,c(2,1,3)]
+@created 1461624823342
+@weight 0.5

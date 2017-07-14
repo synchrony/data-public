@@ -1,6 +1,7 @@
-* :oLxQBG3ZlOMktdMy: RenameMe
-    @created 1482195205390
-    @weight 0.5
+@id oLxQBG3ZlOMktdMy
+@title RenameMe
+@created 1482195205390
+@weight 0.5
 
 An almost natural way to share data of the sort "X wishes to share Y with Z" would be on Git, signed with X's public key, encrypted to Y's public key.
 

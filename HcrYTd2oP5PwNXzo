@@ -1,4 +1,5 @@
-* :HcrYTd2oP5PwNXzo: Welcome to Apache Chukwa (web page)
-    @created 1395092885429
-    @alias http://chukwa.apache.org/
-    @weight 0.5
+@id HcrYTd2oP5PwNXzo
+@title Welcome to Apache Chukwa (web page)
+@alias http://chukwa.apache.org/
+@created 1395092885429
+@weight 0.5

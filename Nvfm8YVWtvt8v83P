@@ -1,3 +1,4 @@
-* :Nvfm8YVWtvt8v83P: try (OutputStream out = new FileOutputStream(new File("/tmp/mindMap.xml"))) {
-    @created 1470117573798
-    @weight 0.5
+@id Nvfm8YVWtvt8v83P
+@title try (OutputStream out = new FileOutputStream(new File("/tmp/mindMap.xml"))) {
+@created 1470117573798
+@weight 0.5

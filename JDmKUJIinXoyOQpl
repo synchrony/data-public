@@ -1,6 +1,7 @@
-* :JDmKUJIinXoyOQpl: RenameMe
-    @created 1395294821399
-    @weight 0.5
+@id JDmKUJIinXoyOQpl
+@title RenameMe
+@created 1395294821399
+@weight 0.5
 
 cd $FAUNUS_HOME
 cp ./target/faunus-0.4.2.jar $REXSTER_HOME/ext

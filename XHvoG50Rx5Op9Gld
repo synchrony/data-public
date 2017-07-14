@@ -1,5 +1,6 @@
-* :XHvoG50Rx5Op9Gld: the RDF vocabulary used by TwitLogic
-    @created 1352405308427
-    @weight 0.5
-    * :NB0f13CzgdDNel9v: 
-    * :fvtKy0R6a9a5Fp4W: 
+@id XHvoG50Rx5Op9Gld
+@title the RDF vocabulary used by TwitLogic
+@created 1352405308427
+@weight 0.5
+* :NB0f13CzgdDNel9v: 
+* :fvtKy0R6a9a5Fp4W: 

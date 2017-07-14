@@ -1,4 +1,5 @@
-* :JzZmz4xMGQtBFl4V: SPIN - SPARQL Inferencing Notation (web page)
-    @created 1359664130721
-    @alias http://spinrdf.org/
-    @weight 0.5
+@id JzZmz4xMGQtBFl4V
+@title SPIN - SPARQL Inferencing Notation (web page)
+@alias http://spinrdf.org/
+@created 1359664130721
+@weight 0.5

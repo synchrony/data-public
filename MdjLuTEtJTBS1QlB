@@ -1,4 +1,5 @@
-* :MdjLuTEtJTBS1QlB: Faceted DBLP (web page)
-    @created 1445198053222
-    @alias http://dblp.l3s.de/?q=&newQuery=yes&resTableName=query_resultrgGVgR
-    @weight 0.5
+@id MdjLuTEtJTBS1QlB
+@title Faceted DBLP (web page)
+@alias http://dblp.l3s.de/?q=&newQuery=yes&resTableName=query_resultrgGVgR
+@created 1445198053222
+@weight 0.5

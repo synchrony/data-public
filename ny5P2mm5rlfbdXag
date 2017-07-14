@@ -1,3 +1,4 @@
-* :ny5P2mm5rlfbdXag: matr_iuniv_2    float  %9.0g                  Total matriculados en inst. universitaria semestre del aÒo
-    @created 1496475004828
-    @weight 0.5
+@id ny5P2mm5rlfbdXag
+@title matr_iuniv_2    float  %9.0g                  Total matriculados en inst. universitaria semestre del aÒo
+@created 1496475004828
+@weight 0.5

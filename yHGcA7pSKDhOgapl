@@ -1,3 +1,4 @@
-* :yHGcA7pSKDhOgapl: a DTO does not have any behavior except for storage and retrieval of its own data (mutators and accessors)
-    @created 1471550971002
-    @weight 0.5
+@id yHGcA7pSKDhOgapl
+@title a DTO does not have any behavior except for storage and retrieval of its own data (mutators and accessors)
+@created 1471550971002
+@weight 0.5

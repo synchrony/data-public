@@ -1,4 +1,5 @@
-* :4mzLUz6cHzWOhY3F: ObjectPropertyAssertion( :hasWife :John :Mary )
-    @created 1471377907769
-    @weight 0.5
-    * :TsJTl7gf4ogS1ZX5: 
+@id 4mzLUz6cHzWOhY3F
+@title ObjectPropertyAssertion( :hasWife :John :Mary )
+@created 1471377907769
+@weight 0.5
+* :TsJTl7gf4ogS1ZX5: 

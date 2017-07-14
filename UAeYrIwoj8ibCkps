@@ -1,6 +1,7 @@
-* :UAeYrIwoj8ibCkps: RenameMe
-    @created 1484963632329
-    @weight 0.5
+@id UAeYrIwoj8ibCkps
+@title RenameMe
+@created 1484963632329
+@weight 0.5
 
 npm install -g bower pulp
 bower update

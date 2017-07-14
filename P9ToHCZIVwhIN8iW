@@ -1,3 +1,4 @@
-* :P9ToHCZIVwhIN8iW: "In our current system calculation of the eigenfaces is done offline as part of the training. The recognition currently takes around 350 msec running rather inefficiently in Lisp on a Sun Sparcstation 1, using face images of size 128x128."
-    @created 1442816500509
-    @weight 0.5
+@id P9ToHCZIVwhIN8iW
+@title "In our current system calculation of the eigenfaces is done offline as part of the training. The recognition currently takes around 350 msec running rather inefficiently in Lisp on a Sun Sparcstation 1, using face images of size 128x128."
+@created 1442816500509
+@weight 0.5

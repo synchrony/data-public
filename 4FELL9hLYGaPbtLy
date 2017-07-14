@@ -1,3 +1,4 @@
-* :4FELL9hLYGaPbtLy: ./agraph --log-level http:debug --config agraph.cfg
-    @created 1314895963305
-    @weight 0.5
+@id 4FELL9hLYGaPbtLy
+@title ./agraph --log-level http:debug --config agraph.cfg
+@created 1314895963305
+@weight 0.5

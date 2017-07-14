@@ -1,3 +1,4 @@
-* :EVFtGa5xV2UUIw5J: git log|grep "Author: "|sort|uniq -c|sort -nr
-    @created 1498586665904
-    @weight 0.5
+@id EVFtGa5xV2UUIw5J
+@title git log|grep "Author: "|sort|uniq -c|sort -nr
+@created 1498586665904
+@weight 0.5

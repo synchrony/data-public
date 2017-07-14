@@ -1,3 +1,4 @@
-* :Gr0eaHTTGHcc28uN: SAM is capable of parsing English-language stories and generating huge conceptual dependency graphs, as well as answering questions based on those graphs.  It can also translate stories into other languages such as Chinese, as well as paraphrasing stories in English.
-    @created 1372871490177
-    @weight 0.5
+@id Gr0eaHTTGHcc28uN
+@title SAM is capable of parsing English-language stories and generating huge conceptual dependency graphs, as well as answering questions based on those graphs.  It can also translate stories into other languages such as Chinese, as well as paraphrasing stories in English.
+@created 1372871490177
+@weight 0.5

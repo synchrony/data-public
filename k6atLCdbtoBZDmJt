@@ -1,6 +1,7 @@
-* :k6atLCdbtoBZDmJt: RenameMe
-    @created 1474669002783
-    @weight 0.5
+@id k6atLCdbtoBZDmJt
+@title RenameMe
+@created 1474669002783
+@weight 0.5
 
 import serial
 port = '/dev/tty.usbmodem1411'

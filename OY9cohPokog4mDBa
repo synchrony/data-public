@@ -1,3 +1,4 @@
-* :OY9cohPokog4mDBa: subset(all.series, source==source.arg & soil.mass==soil.mass.arg & water.mass==water.mass.arg & trial==trial.arg)
-    @created 1475278811552
-    @weight 0.5
+@id OY9cohPokog4mDBa
+@title subset(all.series, source==source.arg & soil.mass==soil.mass.arg & water.mass==water.mass.arg & trial==trial.arg)
+@created 1475278811552
+@weight 0.5

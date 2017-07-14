@@ -1,6 +1,7 @@
-* :d9MTrHtW9FWUG6Ku: RenameMe
-    @created 1411776286421
-    @weight 0.5
+@id d9MTrHtW9FWUG6Ku
+@title RenameMe
+@created 1411776286421
+@weight 0.5
 
 // Return RC low-pass filter output samples, given input samples,
 // time interval dt, and time constant RC

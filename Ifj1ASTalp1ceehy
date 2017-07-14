@@ -1,3 +1,4 @@
-* :Ifj1ASTalp1ceehy: describe the arguments in the name of the function, e.g. writeField(name), assertExpectedEqualsActual(expected, actual)
-    @created 1467096490896
-    @weight 0.5
+@id Ifj1ASTalp1ceehy
+@title describe the arguments in the name of the function, e.g. writeField(name), assertExpectedEqualsActual(expected, actual)
+@created 1467096490896
+@weight 0.5

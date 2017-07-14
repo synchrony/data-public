@@ -1,3 +1,4 @@
-* :fRBB3t6VMZ7EMBHe: insc_univ_1     float  %9.0g                  Total inscritos en universidades 1er semestre del aÒo
-    @created 1496475004787
-    @weight 0.5
+@id fRBB3t6VMZ7EMBHe
+@title insc_univ_1     float  %9.0g                  Total inscritos en universidades 1er semestre del aÒo
+@created 1496475004787
+@weight 0.5

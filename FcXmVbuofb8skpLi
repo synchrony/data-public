@@ -1,4 +1,5 @@
-* :FcXmVbuofb8skpLi: ABC news (web page)
-    @created 1310539747559
-    @alias http://www.abcnews.com/
-    @weight 0.25
+@id FcXmVbuofb8skpLi
+@title ABC news (web page)
+@alias http://www.abcnews.com/
+@created 1310539747559
+@weight 0.25

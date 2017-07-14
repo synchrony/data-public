@@ -1,4 +1,5 @@
-* :RRSXKfTjRPeo8kQK: Arrick Robotics  ---  Robot Information Central (web page)
-    @created 1310539747731
-    @alias http://www.arrickrobotics.com/robots.html
-    @weight 0.5
+@id RRSXKfTjRPeo8kQK
+@title Arrick Robotics  ---  Robot Information Central (web page)
+@alias http://www.arrickrobotics.com/robots.html
+@created 1310539747731
+@weight 0.5

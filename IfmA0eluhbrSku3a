@@ -1,3 +1,4 @@
-* :IfmA0eluhbrSku3a: a type of self-balancing binary search tree in which the self-balancing is provided by painting each node with one of two colors in such a way that the resulting painted tree satisfies certain properties that don't allow it to become significantly unbalanced. When the tree is modified, the new tree is subsequently rearranged and repainted to restore the coloring properties
-    @created 1381027381369
-    @weight 0.5
+@id IfmA0eluhbrSku3a
+@title a type of self-balancing binary search tree in which the self-balancing is provided by painting each node with one of two colors in such a way that the resulting painted tree satisfies certain properties that don't allow it to become significantly unbalanced. When the tree is modified, the new tree is subsequently rearranged and repainted to restore the coloring properties
+@created 1381027381369
+@weight 0.5

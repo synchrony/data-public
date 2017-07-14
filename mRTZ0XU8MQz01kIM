@@ -1,4 +1,5 @@
-* :mRTZ0XU8MQz01kIM: concurrency ! nondeterminism (web page & pdf)
-    @created 1498095195948
-    @alias http://www.ru.is/faculty/luca/PAPERS/mfps91.pdf
-    @weight 0.5
+@id mRTZ0XU8MQz01kIM
+@title concurrency ! nondeterminism (web page & pdf)
+@alias http://www.ru.is/faculty/luca/PAPERS/mfps91.pdf
+@created 1498095195948
+@weight 0.5

@@ -1,3 +1,4 @@
-* :Udvj20u3LhOg9NGx: always disconnect Extend-o-Hand's lithium ion battery when the device is not in use, as the circuit leaks power and completely discharging the battery can damage it
-    @created 1431459973626
-    @weight 0.5
+@id Udvj20u3LhOg9NGx
+@title always disconnect Extend-o-Hand's lithium ion battery when the device is not in use, as the circuit leaks power and completely discharging the battery can damage it
+@created 1431459973626
+@weight 0.5

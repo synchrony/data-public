@@ -1,3 +1,4 @@
-* :DXnnEqOTdPsKQLy1: tmp <- as.data.frame(t); t.df <- tmp[with(tmp, order(-Freq)),]
-    @created 1445302324907
-    @weight 0.5
+@id DXnnEqOTdPsKQLy1
+@title tmp <- as.data.frame(t); t.df <- tmp[with(tmp, order(-Freq)),]
+@created 1445302324907
+@weight 0.5

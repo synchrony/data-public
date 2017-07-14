@@ -1,7 +1,8 @@
-* :vzQfyM3EZLtsJMsg: WordNet 3.0 (VU Amsterdam) linked dataset
-    @created 1343198680812
-    @weight 0.5
-    * :7ZWRm4dKtFlS3U6z: 
-    * :Gh3foem7sg8vLBxc: 
-    * :Sgq8WRas09nwJRAa: 
-    * :Rh1P5lCO8F2p7S3v: 
+@id vzQfyM3EZLtsJMsg
+@title WordNet 3.0 (VU Amsterdam) linked dataset
+@created 1343198680812
+@weight 0.5
+* :7ZWRm4dKtFlS3U6z: 
+* :Gh3foem7sg8vLBxc: 
+* :Sgq8WRas09nwJRAa: 
+* :Rh1P5lCO8F2p7S3v: 

@@ -1,4 +1,5 @@
-* :OUnrBZYuaSOIdRIN: Linked Data Reactor | Home (web page)
-    @created 1447958625228
-    @alias http://ld-r.org/
-    @weight 0.5
+@id OUnrBZYuaSOIdRIN
+@title Linked Data Reactor | Home (web page)
+@alias http://ld-r.org/
+@created 1447958625228
+@weight 0.5

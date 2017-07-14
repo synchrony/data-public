@@ -1,6 +1,7 @@
-* :gqfCKpA7UdTGEMU5: water change formula in R
-    @created 1495173133658
-    @weight 0.5
+@id gqfCKpA7UdTGEMU5
+@title water change formula in R
+@created 1495173133658
+@weight 0.5
 
 gallons.to.cm3 <- function(gallons) { gallons * 3785.41 }
 

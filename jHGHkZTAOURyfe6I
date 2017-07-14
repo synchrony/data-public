@@ -1,4 +1,5 @@
-* :jHGHkZTAOURyfe6I: the implementation of Dijkstra's algorithm based on a min-priority queue implemented by a Fibonacci heap runs in O(|E|+|V|log|V|) time
-    @created 1381039921868
-    @weight 0.5
-    * :mRTKYctWwaAaXMQW: 
+@id jHGHkZTAOURyfe6I
+@title the implementation of Dijkstra's algorithm based on a min-priority queue implemented by a Fibonacci heap runs in O(|E|+|V|log|V|) time
+@created 1381039921868
+@weight 0.5
+* :mRTKYctWwaAaXMQW: 

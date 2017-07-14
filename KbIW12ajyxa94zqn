@@ -1,3 +1,4 @@
-* :KbIW12ajyxa94zqn: oneMoveAway :: Position -> LSpec (explains how the knight can move) -> BoardSpec -> [Position]
-    @created 1491340523637
-    @weight 0.5
+@id KbIW12ajyxa94zqn
+@title oneMoveAway :: Position -> LSpec (explains how the knight can move) -> BoardSpec -> [Position]
+@created 1491340523637
+@weight 0.5

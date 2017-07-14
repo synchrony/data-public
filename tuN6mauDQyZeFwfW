@@ -1,3 +1,4 @@
-* :tuN6mauDQyZeFwfW: either the keys of parent nodes are always greater than or equal to those of the children and the highest key is in the root node (this kind of heap is called max heap) or the keys of parent nodes are less than or equal to those of the children and the lowest key is in the root node (min heap)
-    @created 1381033571642
-    @weight 0.5
+@id tuN6mauDQyZeFwfW
+@title either the keys of parent nodes are always greater than or equal to those of the children and the highest key is in the root node (this kind of heap is called max heap) or the keys of parent nodes are less than or equal to those of the children and the lowest key is in the root node (min heap)
+@created 1381033571642
+@weight 0.5

@@ -1,3 +1,4 @@
-* :YwK8Ilq0ysDfQ4Gk: minas_civ_her   float  %8.0g                  Heridos civiles por minas anti-personales
-    @created 1496473986972
-    @weight 0.5
+@id YwK8Ilq0ysDfQ4Gk
+@title minas_civ_her   float  %8.0g                  Heridos civiles por minas anti-personales
+@created 1496473986972
+@weight 0.5

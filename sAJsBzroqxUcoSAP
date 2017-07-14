@@ -1,7 +1,8 @@
-* :sAJsBzroqxUcoSAP: Glue --> RDF
-    @created 1310541769293
-    @weight 0.5
-    * :SO6AAG3Oq5odyyAK: 
-    * :JqXaQumGUmnxwWzf: 
-    * :mUg0bd22xfu1VjOE: 
-    * :ZG9WL8GXiwJlGQ1z: 
+@id sAJsBzroqxUcoSAP
+@title Glue --> RDF
+@created 1310541769293
+@weight 0.5
+* :SO6AAG3Oq5odyyAK: 
+* :JqXaQumGUmnxwWzf: 
+* :mUg0bd22xfu1VjOE: 
+* :ZG9WL8GXiwJlGQ1z: 

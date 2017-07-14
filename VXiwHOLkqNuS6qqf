@@ -1,3 +1,4 @@
-* :VXiwHOLkqNuS6qqf: [markdown]Before you can start a Docker "container" running the image, you'll need to create a folder where smsn should keep your graph. Suppose the path leading to that folder is `/PATH/TO/YOUR/KNOWLEDGE-BASE`. In that case, you would run `docker run -it -v /PATH/TO/YOUR/KNOWLEDGE-BASE:/mnt/smsn-data jeffreybbrown/smsn-emacs-too`. Now you are running a Docker container, and it's running the Semantic Synchrony server.
-    @created 1497337675053
-    @weight 0.5
+@id VXiwHOLkqNuS6qqf
+@title [markdown]Before you can start a Docker "container" running the image, you'll need to create a folder where smsn should keep your graph. Suppose the path leading to that folder is `/PATH/TO/YOUR/KNOWLEDGE-BASE`. In that case, you would run `docker run -it -v /PATH/TO/YOUR/KNOWLEDGE-BASE:/mnt/smsn-data jeffreybbrown/smsn-emacs-too`. Now you are running a Docker container, and it's running the Semantic Synchrony server.
+@created 1497337675053
+@weight 0.5

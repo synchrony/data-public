@@ -1,4 +1,5 @@
-* :mYtGvAKmP24nd2dL: present a stimulus only for a limited time, and determine whether S can correctly identify it, e.g. in the presence of a congruent or incongruent stimulus
-    @created 1448831601747
-    @weight 0.5
-    * :gAcDF3JxqK7OFfcu: 
+@id mYtGvAKmP24nd2dL
+@title present a stimulus only for a limited time, and determine whether S can correctly identify it, e.g. in the presence of a congruent or incongruent stimulus
+@created 1448831601747
+@weight 0.5
+* :gAcDF3JxqK7OFfcu: 

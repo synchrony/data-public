@@ -1,4 +1,5 @@
-* :UA00m6uW8pHoW3Mj: ckan - The open source data portal software (web page)
-    @created 1329335827008
-    @alias http://ckan.org/
-    @weight 0.5
+@id UA00m6uW8pHoW3Mj
+@title ckan - The open source data portal software (web page)
+@alias http://ckan.org/
+@created 1329335827008
+@weight 0.5

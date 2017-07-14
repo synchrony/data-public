@@ -1,4 +1,5 @@
-* :xw1pzFoo3B6gByyB: SMOB - semanticweb.com (web page)
-    @created 1326074745896
-    @alias http://semanticweb.com/tag/smob
-    @weight 0.5
+@id xw1pzFoo3B6gByyB
+@title SMOB - semanticweb.com (web page)
+@alias http://semanticweb.com/tag/smob
+@created 1326074745896
+@weight 0.5

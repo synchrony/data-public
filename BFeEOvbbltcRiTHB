@@ -1,6 +1,7 @@
-* :BFeEOvbbltcRiTHB: RenameMe
-    @created 1412800476016
-    @weight 0.5
+@id BFeEOvbbltcRiTHB
+@title RenameMe
+@created 1412800476016
+@weight 0.5
 
 base <- 64
 length <- 7

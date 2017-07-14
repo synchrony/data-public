@@ -1,6 +1,7 @@
-* :rsZXNNlLjflNy5D5: LDBC_Gen usage
-    @created 1491520731018
-    @weight 0.5
+@id rsZXNNlLjflNy5D5
+@title LDBC_Gen usage
+@created 1491520731018
+@weight 0.5
 
 cd images
 docker build -t gremlin/ldbc_gen -f gremlin-ldbc_gen.dockerfile .

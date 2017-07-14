@@ -1,4 +1,5 @@
-* :rTj17nSKeeuvZuAr: LittleDog - YouTube (web page)
-    @created 1333600875909
-    @alias http://www.youtube.com/watch?v=UIipbi0cAVE&feature=relmfu
-    @weight 0.5
+@id rTj17nSKeeuvZuAr
+@title LittleDog - YouTube (web page)
+@alias http://www.youtube.com/watch?v=UIipbi0cAVE&feature=relmfu
+@created 1333600875909
+@weight 0.5

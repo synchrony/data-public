@@ -1,4 +1,5 @@
-* :V0TJ493KMJrCWDsE: repeated power spectral density curves were computed, and 5000 spectra were examined and averaged.  Over 99% of signal power was produced in the frequency band below 5Hz.  Individual instances of spectral peaks above 5Hz occurred, but as isolated occurrences when the raw signal and logged activity suggested proximity to sources of external vibration [...].  Most of the signal power indivated that a system with lower frequency responses was both adequate and necessary for further studies of the signal.
-    @created 1427828458487
-    @weight 0.5
-    * :d6FsIVsYsdehNqvW: 
+@id V0TJ493KMJrCWDsE
+@title repeated power spectral density curves were computed, and 5000 spectra were examined and averaged.  Over 99% of signal power was produced in the frequency band below 5Hz.  Individual instances of spectral peaks above 5Hz occurred, but as isolated occurrences when the raw signal and logged activity suggested proximity to sources of external vibration [...].  Most of the signal power indivated that a system with lower frequency responses was both adequate and necessary for further studies of the signal.
+@created 1427828458487
+@weight 0.5
+* :d6FsIVsYsdehNqvW: 

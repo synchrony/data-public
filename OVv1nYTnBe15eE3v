@@ -1,3 +1,4 @@
-* :OVv1nYTnBe15eE3v: a way to find the shortest paths between all pairs of vertices in a sparse, edge weighted, directed graph. It allows some of the edge weights to be negative numbers, but no negative-weight cycles may exist
-    @created 1381111592893
-    @weight 0.5
+@id OVv1nYTnBe15eE3v
+@title a way to find the shortest paths between all pairs of vertices in a sparse, edge weighted, directed graph. It allows some of the edge weights to be negative numbers, but no negative-weight cycles may exist
+@created 1381111592893
+@weight 0.5

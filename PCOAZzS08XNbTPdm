@@ -1,4 +1,5 @@
-* :PCOAZzS08XNbTPdm: Storm, distributed and fault-tolerant realtime computation (web page)
-    @created 1405437931147
-    @alias https://storm.incubator.apache.org/
-    @weight 0.5
+@id PCOAZzS08XNbTPdm
+@title Storm, distributed and fault-tolerant realtime computation (web page)
+@alias https://storm.incubator.apache.org/
+@created 1405437931147
+@weight 0.5

@@ -1,4 +1,5 @@
-* :jLg9XQY6kxAlCxm9: amazon ec2 - In ssh session, emacs cursor color always matches color of text at point - Stack Overflow (web page)
-    @created 1496217046515
-    @alias https://stackoverflow.com/questions/44278781/in-ssh-session-emacs-cursor-color-always-matches-color-of-text-at-point
-    @weight 0.5
+@id jLg9XQY6kxAlCxm9
+@title amazon ec2 - In ssh session, emacs cursor color always matches color of text at point - Stack Overflow (web page)
+@alias https://stackoverflow.com/questions/44278781/in-ssh-session-emacs-cursor-color-always-matches-color-of-text-at-point
+@created 1496217046515
+@weight 0.5

@@ -1,4 +1,5 @@
-* :hrySNp7FgIE6nDKX: Rensselaer Polytechnic Institute - Acalog ACMS™ (web page)
-    @created 1310272934139
-    @alias http://catalog.rpi.edu/
-    @weight 0.5
+@id hrySNp7FgIE6nDKX
+@title Rensselaer Polytechnic Institute - Acalog ACMS™ (web page)
+@alias http://catalog.rpi.edu/
+@created 1310272934139
+@weight 0.5

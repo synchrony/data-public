@@ -1,4 +1,5 @@
-* :hQcl7emlj0iclDPn: the SPARQL specification disregards the semantics of RDF and RDFS i.e. does not involve automated reasoning on top of RDFS constructs such as subclass and subproperty relations. With this regard, LUBM does not constitute an adequate scenario for SPARQL performance evaluation
-    @created 1382977547278
-    @weight 0.5
-    * :7zD7xAATm7Znq5VG: 
+@id hQcl7emlj0iclDPn
+@title the SPARQL specification disregards the semantics of RDF and RDFS i.e. does not involve automated reasoning on top of RDFS constructs such as subclass and subproperty relations. With this regard, LUBM does not constitute an adequate scenario for SPARQL performance evaluation
+@created 1382977547278
+@weight 0.5
+* :7zD7xAATm7Znq5VG: 

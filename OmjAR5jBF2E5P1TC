@@ -1,4 +1,5 @@
-* :OmjAR5jBF2E5P1TC: Welcome to LDBC | Linked Data Benchmark Council (web page)
-    @created 1425152725918
-    @alias http://www.ldbc.eu/
-    @weight 0.5
+@id OmjAR5jBF2E5P1TC
+@title Welcome to LDBC | Linked Data Benchmark Council (web page)
+@alias http://www.ldbc.eu/
+@created 1425152725918
+@weight 0.5

@@ -1,3 +1,4 @@
-* :zjMzFsDRph2mo8nU: every edge we add in Prim's algorithm is the cheapest edge in a cut (S, V-S)
-    @created 1310234505229
-    @weight 0.5
+@id zjMzFsDRph2mo8nU
+@title every edge we add in Prim's algorithm is the cheapest edge in a cut (S, V-S)
+@created 1310234505229
+@weight 0.5

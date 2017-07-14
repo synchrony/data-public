@@ -1,3 +1,4 @@
-* :syWE0fEZHApVODbF: v <- read.table(file("/tmp/extendo-vertices.txt"), header=TRUE, sep="\t", quote="")
-    @created 1330373982923
-    @weight 0.5
+@id syWE0fEZHApVODbF
+@title v <- read.table(file("/tmp/extendo-vertices.txt"), header=TRUE, sep="\t", quote="")
+@created 1330373982923
+@weight 0.5

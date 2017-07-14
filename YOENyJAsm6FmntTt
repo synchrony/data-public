@@ -1,4 +1,5 @@
-* :YOENyJAsm6FmntTt: Timeline Ontology (web page)
-    @created 1384830379738
-    @alias http://motools.sourceforge.net/timeline/timeline.html
-    @weight 0.5
+@id YOENyJAsm6FmntTt
+@title Timeline Ontology (web page)
+@alias http://motools.sourceforge.net/timeline/timeline.html
+@created 1384830379738
+@weight 0.5

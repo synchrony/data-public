@@ -1,3 +1,4 @@
-* :JWY19PQq9SE4ISw0: inv_en_salud    float  %9.0g                * InversiÛn en salud
-    @created 1496473856456
-    @weight 0.5
+@id JWY19PQq9SE4ISw0
+@title inv_en_salud    float  %9.0g                * InversiÛn en salud
+@created 1496473856456
+@weight 0.5

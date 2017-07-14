@@ -1,4 +1,5 @@
-* :p3T3y8TdHwlXjRnE: Download Haskell (web page)
-    @created 1335158029157
-    @alias http://www.haskell.org/platform/
-    @weight 0.75
+@id p3T3y8TdHwlXjRnE
+@title Download Haskell (web page)
+@alias http://www.haskell.org/platform/
+@created 1335158029157
+@weight 0.75

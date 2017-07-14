@@ -1,4 +1,5 @@
-* :SQuosv99b0xC9nPf: Cisco Talos (web page)
-    @created 1463356885558
-    @alias http://www.talosintel.com/
-    @weight 0.5
+@id SQuosv99b0xC9nPf
+@title Cisco Talos (web page)
+@alias http://www.talosintel.com/
+@created 1463356885558
+@weight 0.5

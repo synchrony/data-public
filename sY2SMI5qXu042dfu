@@ -1,4 +1,5 @@
-* :sY2SMI5qXu042dfu: Welcome! - The Apache HTTP Server Project (web page)
-    @created 1417390010109
-    @alias http://httpd.apache.org/
-    @weight 0.5
+@id sY2SMI5qXu042dfu
+@title Welcome! - The Apache HTTP Server Project (web page)
+@alias http://httpd.apache.org/
+@created 1417390010109
+@weight 0.5

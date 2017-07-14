@@ -1,6 +1,7 @@
-* :8EJkzEdvK00P78x2: RenameMe
-    @created 1466354575343
-    @weight 0.5
+@id 8EJkzEdvK00P78x2
+@title RenameMe
+@created 1466354575343
+@weight 0.5
 
 sudo mkdir -p /opt/java
 cd /opt/java

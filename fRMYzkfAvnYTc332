@@ -1,3 +1,4 @@
-* :fRMYzkfAvnYTc332: forall e. Eff (console :: CONSOLE, random :: RANDOM | e) Unit
-    @created 1485050017865
-    @weight 0.5
+@id fRMYzkfAvnYTc332
+@title forall e. Eff (console :: CONSOLE, random :: RANDOM | e) Unit
+@created 1485050017865
+@weight 0.5

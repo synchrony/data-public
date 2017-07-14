@@ -1,4 +1,5 @@
-* :esPjO24YeANrPXJG: COSMIC SPARQL Endpoint | Tetherless World Constellation (web page)
-    @created 1368048977521
-    @alias http://tw.rpi.edu/web/cosmic_sparql_tutorial
-    @weight 0.5
+@id esPjO24YeANrPXJG
+@title COSMIC SPARQL Endpoint | Tetherless World Constellation (web page)
+@alias http://tw.rpi.edu/web/cosmic_sparql_tutorial
+@created 1368048977521
+@weight 0.5

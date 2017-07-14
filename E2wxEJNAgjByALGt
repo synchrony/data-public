@@ -1,6 +1,7 @@
-* :E2wxEJNAgjByALGt: RenameMe
-    @created 1348123456135
-    @weight 0.5
+@id E2wxEJNAgjByALGt
+@title RenameMe
+@created 1348123456135
+@weight 0.5
 
 autoreconf -i
 ./configure

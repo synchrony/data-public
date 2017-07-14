@@ -1,5 +1,6 @@
-* :IknZTTrpod2dAwv1: the schema.org master RDFa file
-    @created 1496181810202
-    @weight 0.5
-    * :Gl4OxzgVvU1swKIQ: 
-    * :3HSSlY8JsojJmS2j: 
+@id IknZTTrpod2dAwv1
+@title the schema.org master RDFa file
+@created 1496181810202
+@weight 0.5
+* :Gl4OxzgVvU1swKIQ: 
+* :3HSSlY8JsojJmS2j: 

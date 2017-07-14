@@ -1,7 +1,8 @@
-* :v9kIDlgnvrm8rIE3: Given an interaction between knowledge worker (kw0) and knowledge worker (kw1), a “knowon” is produced with a certain frequency. The frequency determines the resultant knowledge transfer. Note, the kwN can be one or more (system) individuals.
-    @created 1419901509534
-    @weight 0.5
-    * :FrNGfUAp1ljcrXWO: 
-    * :SWiIdfNWSb9JpEft: 
-    * :HaG83hde5NHT5uCO: 
-    * :jZGBPa9ijBeZEZgT: 
+@id v9kIDlgnvrm8rIE3
+@title Given an interaction between knowledge worker (kw0) and knowledge worker (kw1), a “knowon” is produced with a certain frequency. The frequency determines the resultant knowledge transfer. Note, the kwN can be one or more (system) individuals.
+@created 1419901509534
+@weight 0.5
+* :FrNGfUAp1ljcrXWO: 
+* :SWiIdfNWSb9JpEft: 
+* :HaG83hde5NHT5uCO: 
+* :jZGBPa9ijBeZEZgT: 

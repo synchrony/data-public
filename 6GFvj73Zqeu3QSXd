@@ -1,3 +1,4 @@
-* :6GFvj73Zqeu3QSXd: SQL was not used because of a mismatch between the relational model (fixed schemas, lack of support for sets as values) and Tapestry's model of documents
-    @created 1351455329114
-    @weight 0.5
+@id 6GFvj73Zqeu3QSXd
+@title SQL was not used because of a mismatch between the relational model (fixed schemas, lack of support for sets as values) and Tapestry's model of documents
+@created 1351455329114
+@weight 0.5

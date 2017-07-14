@@ -1,4 +1,5 @@
-* :TYrFpETggD0i6rIt: Semantic Sensor Network Ontology (web page)
-    @created 1472838113563
-    @alias https://www.w3.org/TR/vocab-ssn/
-    @weight 0.5
+@id TYrFpETggD0i6rIt
+@title Semantic Sensor Network Ontology (web page)
+@alias https://www.w3.org/TR/vocab-ssn/
+@created 1472838113563
+@weight 0.5

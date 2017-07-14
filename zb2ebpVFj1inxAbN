@@ -1,4 +1,5 @@
-* :zb2ebpVFj1inxAbN: An organization ontology (web page)
-    @created 1347542788134
-    @alias http://www.w3.org/TR/vocab-org/
-    @weight 0.5
+@id zb2ebpVFj1inxAbN
+@title An organization ontology (web page)
+@alias http://www.w3.org/TR/vocab-org/
+@created 1347542788134
+@weight 0.5

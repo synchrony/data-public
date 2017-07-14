@@ -1,3 +1,4 @@
-* :KjdOWHyKJPWyIZ2F: plot(cumsum(db$hours), x=db$date)
-    @created 1341258465426
-    @weight 0.5
+@id KjdOWHyKJPWyIZ2F
+@title plot(cumsum(db$hours), x=db$date)
+@created 1341258465426
+@weight 0.5

@@ -1,3 +1,4 @@
-* :aj9KmnM6sTlL40tu: system exhibits Processor Consistency if the order in which other processors see the writes from any individual processor is the same as the order they were issued
-    @created 1463348067017
-    @weight 0.5
+@id aj9KmnM6sTlL40tu
+@title system exhibits Processor Consistency if the order in which other processors see the writes from any individual processor is the same as the order they were issued
+@created 1463348067017
+@weight 0.5

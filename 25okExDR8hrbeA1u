@@ -1,3 +1,4 @@
-* :25okExDR8hrbeA1u: count missing values (per column): dataFrame.isnull().sum()
-    @created 1496713249080
-    @weight 0.5
+@id 25okExDR8hrbeA1u
+@title count missing values (per column): dataFrame.isnull().sum()
+@created 1496713249080
+@weight 0.5

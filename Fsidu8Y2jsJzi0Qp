@@ -1,4 +1,5 @@
-* :Fsidu8Y2jsJzi0Qp: TriX: An XML Serialization for RDF Triples (web page)
-    @created 1395265059158
-    @alias http://sw.nokia.com/trix/
-    @weight 0.5
+@id Fsidu8Y2jsJzi0Qp
+@title TriX: An XML Serialization for RDF Triples (web page)
+@alias http://sw.nokia.com/trix/
+@created 1395265059158
+@weight 0.5

@@ -1,4 +1,5 @@
-* :OxmpahmAUxrUfko5: Pilot Resources ✈ FlightAware (web page)
-    @created 1373770574157
-    @alias http://flightaware.com/resources/
-    @weight 0.5
+@id OxmpahmAUxrUfko5
+@title Pilot Resources ✈ FlightAware (web page)
+@alias http://flightaware.com/resources/
+@created 1373770574157
+@weight 0.5

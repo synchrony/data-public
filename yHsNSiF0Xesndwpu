@@ -1,3 +1,4 @@
-* :yHsNSiF0Xesndwpu: LarKC supports the SPARQL protocol, but doesn't exclude SPARQL extensions (such as AllegroGraph's geo extensions)
-    @created 1310541769290
-    @weight 0.5
+@id yHsNSiF0Xesndwpu
+@title LarKC supports the SPARQL protocol, but doesn't exclude SPARQL extensions (such as AllegroGraph's geo extensions)
+@created 1310541769290
+@weight 0.5

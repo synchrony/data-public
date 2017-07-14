@@ -1,6 +1,7 @@
-* :hYaRD4ZDLMzNxnbr: RenameMe
-    @created 1342409634518
-    @weight 0.5
+@id hYaRD4ZDLMzNxnbr
+@title RenameMe
+@created 1342409634518
+@weight 0.5
 
 cat /Volumes/encrypted/mob-stats/activity.log |grep "view\|create" > /tmp/mob-activity
 

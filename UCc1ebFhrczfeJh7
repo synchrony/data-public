@@ -1,3 +1,4 @@
-* :UCc1ebFhrczfeJh7: The Linked Data version of DrugBank which is a repository of almost 5000 FDA-approved small molecule and biotech drugs. It contains detailed information about drugs including chemical, pharmacological and pharmaceutical data; along with comprehensive drug target data such as sequence, structure, and pathway information
-    @created 1328315780132
-    @weight 0.5
+@id UCc1ebFhrczfeJh7
+@title The Linked Data version of DrugBank which is a repository of almost 5000 FDA-approved small molecule and biotech drugs. It contains detailed information about drugs including chemical, pharmacological and pharmaceutical data; along with comprehensive drug target data such as sequence, structure, and pathway information
+@created 1328315780132
+@weight 0.5

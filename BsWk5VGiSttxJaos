@@ -1,4 +1,5 @@
-* :BsWk5VGiSttxJaos: Rensselaer Student Plan | CDPHP (web page)
-    @created 1389991094419
-    @alias http://www.cdphp.com/Rensselaer
-    @weight 0.5
+@id BsWk5VGiSttxJaos
+@title Rensselaer Student Plan | CDPHP (web page)
+@alias http://www.cdphp.com/Rensselaer
+@created 1389991094419
+@weight 0.5

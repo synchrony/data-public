@@ -1,4 +1,5 @@
-* :U8Khd3w9O8J2I8hU: RStudio - RStudio IDE (web page)
-    @created 1352843091978
-    @alias http://www.rstudio.com/ide/
-    @weight 0.5
+@id U8Khd3w9O8J2I8hU
+@title RStudio - RStudio IDE (web page)
+@alias http://www.rstudio.com/ide/
+@created 1352843091978
+@weight 0.5

@@ -1,4 +1,5 @@
-* :dwBWmPiWyJFWsjyq: Home (web page)
-    @created 1359655463216
-    @alias http://neno.lanl.gov/Home.html
-    @weight 0.5
+@id dwBWmPiWyJFWsjyq
+@title Home (web page)
+@alias http://neno.lanl.gov/Home.html
+@created 1359655463216
+@weight 0.5

@@ -1,4 +1,5 @@
-* :3CHk8ywoW1p6sXAT: Online Banking - Capital One 360 (web page)
-    @created 1331825717824
-    @alias https://secure.capitalone360.com/myaccount/banking/login.vm
-    @weight 0.5
+@id 3CHk8ywoW1p6sXAT
+@title Online Banking - Capital One 360 (web page)
+@alias https://secure.capitalone360.com/myaccount/banking/login.vm
+@created 1331825717824
+@weight 0.5

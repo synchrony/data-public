@@ -1,6 +1,7 @@
-* :Gou5RW6mHjWT5k78: RenameMe
-    @created 1471377907771
-    @weight 0.5
+@id Gou5RW6mHjWT5k78
+@title RenameMe
+@created 1471377907771
+@weight 0.5
 
 ObjectPropertyDomain( :hasWife :Man )
 ObjectPropertyRange( :hasWife :Woman )

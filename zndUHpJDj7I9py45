@@ -1,3 +1,4 @@
-* :zndUHpJDj7I9py45: SeMiTri first exploits latent motion context (e.g. spatio-temporal data) to structure trajectories into stop and move episodes. Next it exploits the geographic context to annotate stops and moves with the geographic objects (be regions, lines and points) that, considering the time period of the stop/move, are relevant to the application
-    @created 1428200298002
-    @weight 0.5
+@id zndUHpJDj7I9py45
+@title SeMiTri first exploits latent motion context (e.g. spatio-temporal data) to structure trajectories into stop and move episodes. Next it exploits the geographic context to annotate stops and moves with the geographic objects (be regions, lines and points) that, considering the time period of the stop/move, are relevant to the application
+@created 1428200298002
+@weight 0.5

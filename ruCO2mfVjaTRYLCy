@@ -1,3 +1,4 @@
-* :ruCO2mfVjaTRYLCy: a logical operation that outputs true whenever both inputs differ (one is true, the other is false)
-    @created 1380781891266
-    @weight 0.5
+@id ruCO2mfVjaTRYLCy
+@title a logical operation that outputs true whenever both inputs differ (one is true, the other is false)
+@created 1380781891266
+@weight 0.5

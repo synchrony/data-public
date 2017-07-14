@@ -1,3 +1,4 @@
-* :Na45f6MqAXi09rSZ: curl -X "DELETE" http://example.org/resource
-    @created 1439316868412
-    @weight 0.5
+@id Na45f6MqAXi09rSZ
+@title curl -X "DELETE" http://example.org/resource
+@created 1439316868412
+@weight 0.5

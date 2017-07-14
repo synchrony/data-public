@@ -1,6 +1,7 @@
-* :CizFw481o8OR8MII: RenameMe
-    @created 1394295433656
-    @weight 0.5
+@id CizFw481o8OR8MII
+@title RenameMe
+@created 1394295433656
+@weight 0.5
 
 File f = new File("/tmp/twitlogic-full.trig.gz");
 Sail sail = new MemoryStore();

@@ -1,3 +1,4 @@
-* :KrTzp9ANLmMOHGHT: all.equal(as.vector(V(gin)), as.vector(V(gout)))
-    @created 1342762776153
-    @weight 0.5
+@id KrTzp9ANLmMOHGHT
+@title all.equal(as.vector(V(gin)), as.vector(V(gout)))
+@created 1342762776153
+@weight 0.5

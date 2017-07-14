@@ -1,3 +1,4 @@
-* :HqgrLrHudmlriuYa: sudo iptables -F
-    @created 1399134148344
-    @weight 0.5
+@id HqgrLrHudmlriuYa
+@title sudo iptables -F
+@created 1399134148344
+@weight 0.5

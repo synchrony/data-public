@@ -1,6 +1,7 @@
-* :aW453e8yPw5itV8a: RenameMe
-    @created 1463337820553
-    @weight 0.5
+@id aW453e8yPw5itV8a
+@title RenameMe
+@created 1463337820553
+@weight 0.5
 
 Create = PUT with a new URI
          POST to a base URI returning a newly created URI

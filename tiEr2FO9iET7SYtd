@@ -1,4 +1,5 @@
-* :tiEr2FO9iET7SYtd: Welcome to the NCBO BioPortal | NCBO BioPortal (web page)
-    @created 1336683308451
-    @alias http://bioportal.bioontology.org/
-    @weight 0.5
+@id tiEr2FO9iET7SYtd
+@title Welcome to the NCBO BioPortal | NCBO BioPortal (web page)
+@alias http://bioportal.bioontology.org/
+@created 1336683308451
+@weight 0.5

@@ -1,43 +1,44 @@
-* :CYZOZaKzRPZyFenn: health.dta\colombia, variables, as a single flat list, complete
-    @created 1496479819092
-    @weight 0.5
-    @priority 0.0
-    * :cBBoBw4U5FC0KbAQ: 
-    * :zJBnaWvbTXhPiDfy: 
-    * :P9i2xY1l66TUc0Ut: 
-    * :MfOQY0N05pyIbHTK: 
-    * :RC9pV0XvI3qizA1l: 
-    * :Lqr6uqKRqtya8opd: 
-    * :ctSmxN77yJgxpOK9: 
-    * :Z4xlhjWT0ZCBW2j5: 
-    * :DxgT17T7fW78ltcd: 
-    * :U2VS7PhBQFhLU7qG: 
-    * :BtL9Lfql5HbxcaOX: 
-    * :VKe7TAdbjXY45uJE: 
-    * :4Q5kHgnGljqKnLk6: 
-    * :VPAseWMQz7HSZDy4: 
-    * :vZLHst5CMQAm12P8: 
-    * :QHoEcxqvPZsUjEqY: 
-    * :hagMyApV9f1N6NYt: 
-    * :z37zGEg3LumqUFiA: 
-    * :cSospjnrZjUn7SP7: 
-    * :5KG5bj70nuNKMYHI: 
-    * :zYUMigG98geefzbS: 
-    * :3vQkw2Lpf5c1kY6i: 
-    * :GR3pyvnJdAT9fV30: 
-    * :Eu1qe07VlWhH3HDH: 
-    * :F1mh8yUVheSi6z36: 
-    * :ytckrdOppRMY67jv: 
-    * :ez1UTIGIEoOHEYaZ: 
-    * :mYp4anZCjQCW6Zto: 
-    * :jPrkcxcCPEKVpkps: 
-    * :ZJPyCeW41REhRZ7x: 
-    * :aaxVjFZdvHoOyY5r: 
-    * :TOuRkcK2srp4yvYk: 
-    * :2EbjNlkrNFF4j8lb: 
-    * :X6E7Aa2xwYozetf9: 
-    * :Ur4DNflMquuzYfhO: 
-    * :4Hd8v8ZHmilS5BJc: 
-    * :QLARDF1Oyue5HFm7: 
-    * :t7zImQCvJOhWgApv: 
-    * :bwB7AhTky3OS4Fhu: 
+@id CYZOZaKzRPZyFenn
+@title health.dta\colombia, variables, as a single flat list, complete
+@created 1496479819092
+@weight 0.5
+@priority 0.0
+* :cBBoBw4U5FC0KbAQ: 
+* :zJBnaWvbTXhPiDfy: 
+* :P9i2xY1l66TUc0Ut: 
+* :MfOQY0N05pyIbHTK: 
+* :RC9pV0XvI3qizA1l: 
+* :Lqr6uqKRqtya8opd: 
+* :ctSmxN77yJgxpOK9: 
+* :Z4xlhjWT0ZCBW2j5: 
+* :DxgT17T7fW78ltcd: 
+* :U2VS7PhBQFhLU7qG: 
+* :BtL9Lfql5HbxcaOX: 
+* :VKe7TAdbjXY45uJE: 
+* :4Q5kHgnGljqKnLk6: 
+* :VPAseWMQz7HSZDy4: 
+* :vZLHst5CMQAm12P8: 
+* :QHoEcxqvPZsUjEqY: 
+* :hagMyApV9f1N6NYt: 
+* :z37zGEg3LumqUFiA: 
+* :cSospjnrZjUn7SP7: 
+* :5KG5bj70nuNKMYHI: 
+* :zYUMigG98geefzbS: 
+* :3vQkw2Lpf5c1kY6i: 
+* :GR3pyvnJdAT9fV30: 
+* :Eu1qe07VlWhH3HDH: 
+* :F1mh8yUVheSi6z36: 
+* :ytckrdOppRMY67jv: 
+* :ez1UTIGIEoOHEYaZ: 
+* :mYp4anZCjQCW6Zto: 
+* :jPrkcxcCPEKVpkps: 
+* :ZJPyCeW41REhRZ7x: 
+* :aaxVjFZdvHoOyY5r: 
+* :TOuRkcK2srp4yvYk: 
+* :2EbjNlkrNFF4j8lb: 
+* :X6E7Aa2xwYozetf9: 
+* :Ur4DNflMquuzYfhO: 
+* :4Hd8v8ZHmilS5BJc: 
+* :QLARDF1Oyue5HFm7: 
+* :t7zImQCvJOhWgApv: 
+* :bwB7AhTky3OS4Fhu: 

@@ -1,6 +1,7 @@
-* :w1Fm56DPcMEyHPm1: RenameMe
-    @created 1477086062793
-    @weight 0.5
+@id w1Fm56DPcMEyHPm1
+@title RenameMe
+@created 1477086062793
+@weight 0.5
 
 set all values in x > 4 to 0
 x = np.arange(12).reshape(3,4)

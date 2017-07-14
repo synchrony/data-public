@@ -1,3 +1,4 @@
-* :NxW5jggdFbbWAGpF: I am switching from '&' and '@' to '-' and '_', as of 2014-10-06, because although the hyphen and underscore don't blend as seamlessly with the letters and digits as the ash and schwa do, the resulting identifiers can more easily be embedded in file names and URLs; they can even be stand-alone file names and URL path elements
-    @created 1412609633304
-    @weight 0.5
+@id NxW5jggdFbbWAGpF
+@title I am switching from '&' and '@' to '-' and '_', as of 2014-10-06, because although the hyphen and underscore don't blend as seamlessly with the letters and digits as the ash and schwa do, the resulting identifiers can more easily be embedded in file names and URLs; they can even be stand-alone file names and URL path elements
+@created 1412609633304
+@weight 0.5

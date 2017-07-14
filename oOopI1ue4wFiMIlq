@@ -1,4 +1,5 @@
-* :oOopI1ue4wFiMIlq: inauthor:"Pierre Chenevier" - Google Search (web page)
-    @created 1377116105408
-    @alias https://www.google.com/search?tbo=p&tbm=bks&q=inauthor:%22Pierre+Chenevier%22
-    @weight 0.5
+@id oOopI1ue4wFiMIlq
+@title inauthor:"Pierre Chenevier" - Google Search (web page)
+@alias https://www.google.com/search?tbo=p&tbm=bks&q=inauthor:%22Pierre+Chenevier%22
+@created 1377116105408
+@weight 0.5

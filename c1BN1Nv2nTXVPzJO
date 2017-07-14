@@ -1,5 +1,6 @@
-* :c1BN1Nv2nTXVPzJO: RDF itself is not very expressive (when compared to OWL)
-    @created 1316457553817
-    @weight 0.5
-    * :CJ0Tb1uFWEBkCy7d: 
-    * :pkBgwV9mCikbYIPD: 
+@id c1BN1Nv2nTXVPzJO
+@title RDF itself is not very expressive (when compared to OWL)
+@created 1316457553817
+@weight 0.5
+* :CJ0Tb1uFWEBkCy7d: 
+* :pkBgwV9mCikbYIPD: 

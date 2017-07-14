@@ -1,3 +1,4 @@
-* :OrBUr6rWHcSs6piF: the technique of finding strings that match a pattern approximately (rather than exactly). The problem of approximate string matching is typically divided into two sub-problems: finding approximate substring matches inside a given string and finding dictionary strings that match the pattern approximately
-    @created 1381113372661
-    @weight 0.5
+@id OrBUr6rWHcSs6piF
+@title the technique of finding strings that match a pattern approximately (rather than exactly). The problem of approximate string matching is typically divided into two sub-problems: finding approximate substring matches inside a given string and finding dictionary strings that match the pattern approximately
+@created 1381113372661
+@weight 0.5

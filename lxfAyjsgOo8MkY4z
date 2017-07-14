@@ -1,5 +1,6 @@
-* :lxfAyjsgOo8MkY4z: PITFALL ! ipython: if a cell is text, it won't evaluate
-    @created 1495814480841
-    @weight 0.5
+@id lxfAyjsgOo8MkY4z
+@title PITFALL ! ipython: if a cell is text, it won't evaluate
+@created 1495814480841
+@weight 0.5
 
 a text box looks similar to a code box, and there's no warning given if you use the keey command to try to evaluate it

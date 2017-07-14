@@ -1,6 +1,7 @@
-* :WiE3nJIgZXXbLnTM: for (Planet p : Planet.values()) {
-    @created 1469061912082
-    @weight 0.5
-    * :A3oqP9ww2yyQwG57: 
-    * :huVgKY7SF8Fa3bRA: 
-    * :Lj0exi9XC95oQeji: 
+@id WiE3nJIgZXXbLnTM
+@title for (Planet p : Planet.values()) {
+@created 1469061912082
+@weight 0.5
+* :A3oqP9ww2yyQwG57: 
+* :huVgKY7SF8Fa3bRA: 
+* :Lj0exi9XC95oQeji: 

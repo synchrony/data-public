@@ -1,3 +1,4 @@
-* :b3pDhvZzIJBinwgr: a decision problem which can be stated as follows: Given a Turing machine, decide whether it halts when run on any configuration (not necessarily a starting one)
-    @created 1466532463598
-    @weight 0.5
+@id b3pDhvZzIJBinwgr
+@title a decision problem which can be stated as follows: Given a Turing machine, decide whether it halts when run on any configuration (not necessarily a starting one)
+@created 1466532463598
+@weight 0.5

@@ -1,4 +1,5 @@
-* :AmoFzBcOmSTulJdv: Matrical Bioscience supplier of high throughput screening equipment (web page)
-    @created 1358801318604
-    @alias http://www.matrical.com/
-    @weight 0.5
+@id AmoFzBcOmSTulJdv
+@title Matrical Bioscience supplier of high throughput screening equipment (web page)
+@alias http://www.matrical.com/
+@created 1358801318604
+@weight 0.5

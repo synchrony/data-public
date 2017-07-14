@@ -1,4 +1,5 @@
-* :VembZfaMwgqIXNR7: Home (web page)
-    @created 1349136457163
-    @alias http://www.makerbot.com/
-    @weight 0.5
+@id VembZfaMwgqIXNR7
+@title Home (web page)
+@alias http://www.makerbot.com/
+@created 1349136457163
+@weight 0.5

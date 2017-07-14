@@ -1,3 +1,4 @@
-* :jKUHA9HZRGOfFEdF: a hybrid sorting algorithm, derived from merge sort and insertion sort, designed to perform well on many kinds of real-world data. It was invented by Tim Peters in 2002 for use in the Python programming language. The algorithm finds subsets of the data that are already ordered, and uses that knowledge to sort the remainder more efficiently
-    @created 1380988067487
-    @weight 0.5
+@id jKUHA9HZRGOfFEdF
+@title a hybrid sorting algorithm, derived from merge sort and insertion sort, designed to perform well on many kinds of real-world data. It was invented by Tim Peters in 2002 for use in the Python programming language. The algorithm finds subsets of the data that are already ordered, and uses that knowledge to sort the remainder more efficiently
+@created 1380988067487
+@weight 0.5

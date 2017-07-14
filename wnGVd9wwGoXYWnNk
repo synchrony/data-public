@@ -1,6 +1,7 @@
-* :wnGVd9wwGoXYWnNk: RenameMe
-    @created 1395163356226
-    @weight 0.5
+@id wnGVd9wwGoXYWnNk
+@title RenameMe
+@created 1395163356226
+@weight 0.5
 
 # This may or may not be necessary:
 yum install mysql

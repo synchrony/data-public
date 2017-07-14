@@ -1,5 +1,6 @@
-* :KURnbmtcXtpplQGn: s and n: sample and sample-number
-    @created 1493540223459
-    @weight 0.5
+@id KURnbmtcXtpplQGn
+@title s and n: sample and sample-number
+@created 1493540223459
+@weight 0.5
 
 d1 $ n "0 2 3" # s "arpy"

@@ -1,3 +1,4 @@
-* :X8nBBNVKivP8ns2V: so that we can coordinate streams with relation states, all relation updates are timestamped according to the same global clock as streams
-    @created 1352147822136
-    @weight 0.5
+@id X8nBBNVKivP8ns2V
+@title so that we can coordinate streams with relation states, all relation updates are timestamped according to the same global clock as streams
+@created 1352147822136
+@weight 0.5

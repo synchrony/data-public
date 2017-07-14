@@ -1,3 +1,4 @@
-* :wKKcHDcor17TcpIh: no inherited attributes (which are a problem for bottom-up parsing, because parent nodes in the AST are created after their children)
-    @created 1348515113281
-    @weight 0.5
+@id wKKcHDcor17TcpIh
+@title no inherited attributes (which are a problem for bottom-up parsing, because parent nodes in the AST are created after their children)
+@created 1348515113281
+@weight 0.5

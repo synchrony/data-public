@@ -1,5 +1,6 @@
-* :DPT8LyShEA0Grqpb: the Alien Java SDK requires the Java Communications API in order to use serial ports.  However, it seems the API has not survived the move to Oracle.  I created a Maven artifact from an old copy on an MIT server, and it seems to work.
-    @created 1328590360673
-    @weight 0.5
-    * :1WjnZ6iJjvjEUJvW: 
-    * :zPjvb4QyR9fsFPQV: 
+@id DPT8LyShEA0Grqpb
+@title the Alien Java SDK requires the Java Communications API in order to use serial ports.  However, it seems the API has not survived the move to Oracle.  I created a Maven artifact from an old copy on an MIT server, and it seems to work.
+@created 1328590360673
+@weight 0.5
+* :1WjnZ6iJjvjEUJvW: 
+* :zPjvb4QyR9fsFPQV: 

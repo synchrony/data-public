@@ -1,3 +1,4 @@
-* :C9yR1Hh30PZFqnGM: an unresolved issue is that of <iq> stanzas, which tend to get sent often when someone goes online (but it is not desirable to always block them)
-    @created 1313804883880
-    @weight 0.5
+@id C9yR1Hh30PZFqnGM
+@title an unresolved issue is that of <iq> stanzas, which tend to get sent often when someone goes online (but it is not desirable to always block them)
+@created 1313804883880
+@weight 0.5

@@ -1,7 +1,8 @@
-* :idd4wH0AAVwUAlRd: load RDF data into a triple store
-    @created 1329168907565
-    @weight 0.5
-    * :Jx7QCfPkANHa4Hh0: 
-    * :IcM9cLOb5w1ubjAc: 
-    * :g6BrQTKksFie0awe: 
-    * :NKRTjVGFbVscj21i: 
+@id idd4wH0AAVwUAlRd
+@title load RDF data into a triple store
+@created 1329168907565
+@weight 0.5
+* :Jx7QCfPkANHa4Hh0: 
+* :IcM9cLOb5w1ubjAc: 
+* :g6BrQTKksFie0awe: 
+* :NKRTjVGFbVscj21i: 

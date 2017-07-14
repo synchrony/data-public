@@ -1,6 +1,7 @@
-* :MOV83ZJi0L7IujWs: RenameMe
-    @created 1421638522252
-    @weight 0.5
+@id MOV83ZJi0L7IujWs
+@title RenameMe
+@created 1421638522252
+@weight 0.5
 
 k disjoint paths => flow of size k
 f(e) = 1 if e is in one of these paths

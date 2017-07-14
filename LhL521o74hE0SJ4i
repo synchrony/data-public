@@ -1,4 +1,5 @@
-* :LhL521o74hE0SJ4i: JSON-LD - JSON for Linking Data (web page)
-    @created 1318265967449
-    @alias http://json-ld.org/
-    @weight 0.5
+@id LhL521o74hE0SJ4i
+@title JSON-LD - JSON for Linking Data (web page)
+@alias http://json-ld.org/
+@created 1318265967449
+@weight 0.5

@@ -1,4 +1,5 @@
-* :LrRvNr12E9QnHENN: CDPHP | Capital District Physicians' Health Plan (web page)
-    @created 1378220968730
-    @alias http://www.cdphp.com/
-    @weight 0.5
+@id LrRvNr12E9QnHENN
+@title CDPHP | Capital District Physicians' Health Plan (web page)
+@alias http://www.cdphp.com/
+@created 1378220968730
+@weight 0.5

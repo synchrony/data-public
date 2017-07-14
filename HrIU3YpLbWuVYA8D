@@ -1,4 +1,5 @@
-* :HrIU3YpLbWuVYA8D: Semantic Web Services Language (SWSL) Committee (web page)
-    @created 1452727044404
-    @alias http://www.daml.org/services/swsl/
-    @weight 0.5
+@id HrIU3YpLbWuVYA8D
+@title Semantic Web Services Language (SWSL) Committee (web page)
+@alias http://www.daml.org/services/swsl/
+@created 1452727044404
+@weight 0.5

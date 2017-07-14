@@ -1,4 +1,5 @@
-* :GaQes3S2GqZgA1bX: Welcome to The Childrens Museum of Science and Technology (web page)
-    @created 1378053211393
-    @alias http://www.cmost.org/
-    @weight 0.5
+@id GaQes3S2GqZgA1bX
+@title Welcome to The Childrens Museum of Science and Technology (web page)
+@alias http://www.cmost.org/
+@created 1378053211393
+@weight 0.5

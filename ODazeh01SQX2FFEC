@@ -1,4 +1,5 @@
-* :ODazeh01SQX2FFEC: Main Page - Conservapedia (web page)
-    @created 1349918730572
-    @alias http://conservapedia.com/Main_Page
-    @weight 0.5
+@id ODazeh01SQX2FFEC
+@title Main Page - Conservapedia (web page)
+@alias http://conservapedia.com/Main_Page
+@created 1349918730572
+@weight 0.5

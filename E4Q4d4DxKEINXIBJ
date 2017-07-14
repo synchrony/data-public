@@ -1,3 +1,4 @@
-* :E4Q4d4DxKEINXIBJ: [markdown]Use `C-c n` to create a new note. This will create a new buffer in forward-view centered on the new note, which will be given the title `life, the universe and everything`, visible in the buffer's title bar (which is below the buffer, not above). The new note has no children yet, so the buffer is empty.
-    @created 1490249239997
-    @weight 0.5
+@id E4Q4d4DxKEINXIBJ
+@title [markdown]Use `C-c n` to create a new note. This will create a new buffer in forward-view centered on the new note, which will be given the title `life, the universe and everything`, visible in the buffer's title bar (which is below the buffer, not above). The new note has no children yet, so the buffer is empty.
+@created 1490249239997
+@weight 0.5

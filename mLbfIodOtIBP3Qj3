@@ -1,6 +1,7 @@
-* :mLbfIodOtIBP3Qj3: RenameMe
-    @created 1368685992380
-    @weight 0.5
+@id mLbfIodOtIBP3Qj3
+@title RenameMe
+@created 1368685992380
+@weight 0.5
 
 import org.openrdf.rio.RDFFormat;
 import org.openrdf.repository.sail.SailRepository;

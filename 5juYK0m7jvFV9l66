@@ -1,3 +1,4 @@
-* :5juYK0m7jvFV9l66: under .emacs.d, create a subdirectory elisp, cd into it, then set a symbolic link to the smsn/brain src/main/lisp subdirectory (doesn't matter what you call it)
-    @created 1366587593169
-    @weight 0.5
+@id 5juYK0m7jvFV9l66
+@title under .emacs.d, create a subdirectory elisp, cd into it, then set a symbolic link to the smsn/brain src/main/lisp subdirectory (doesn't matter what you call it)
+@created 1366587593169
+@weight 0.5

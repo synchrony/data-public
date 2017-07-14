@@ -1,4 +1,5 @@
-* :ZfSEFrGB2CRRaoP1: SWBPD: RDF/Topic Maps Interoperability Task Force Description (web page)
-    @created 1344201047993
-    @alias http://www.w3.org/2001/sw/BestPractices/RDFTM/
-    @weight 0.5
+@id ZfSEFrGB2CRRaoP1
+@title SWBPD: RDF/Topic Maps Interoperability Task Force Description (web page)
+@alias http://www.w3.org/2001/sw/BestPractices/RDFTM/
+@created 1344201047993
+@weight 0.5

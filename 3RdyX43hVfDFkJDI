@@ -1,6 +1,7 @@
-* :3RdyX43hVfDFkJDI: RenameMe
-    @created 1470777533311
-    @weight 0.5
+@id 3RdyX43hVfDFkJDI
+@title RenameMe
+@created 1470777533311
+@weight 0.5
 
 ftp example.org
 ls /path/to/dir

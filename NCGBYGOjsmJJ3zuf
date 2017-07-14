@@ -1,3 +1,4 @@
-* :NCGBYGOjsmJJ3zuf: PITFALL: is.finite() called on x[c(2)] returns one bool; is.finite( x[ , c(2) ] ) returns a vector of bools
-    @created 1497247603612
-    @weight 0.5
+@id NCGBYGOjsmJJ3zuf
+@title PITFALL: is.finite() called on x[c(2)] returns one bool; is.finite( x[ , c(2) ] ) returns a vector of bools
+@created 1497247603612
+@weight 0.5

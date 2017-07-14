@@ -1,6 +1,7 @@
-* :cKCN1BDtXxJrFuly: Gradle usage
-    @created 1485884405543
-    @weight 0.75
+@id cKCN1BDtXxJrFuly
+@title Gradle usage
+@created 1485884405543
+@weight 0.75
 
 # build
 gradle build

@@ -1,3 +1,4 @@
-* :BISPdaGl1lsubeYo: insc_hombre_1   float  %9.0g                  Total inscritos hombres 1er semestre del aÒo
-    @created 1496475004787
-    @weight 0.5
+@id BISPdaGl1lsubeYo
+@title insc_hombre_1   float  %9.0g                  Total inscritos hombres 1er semestre del aÒo
+@created 1496475004787
+@weight 0.5

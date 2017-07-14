@@ -1,4 +1,5 @@
-* :bDVTpMA1PQ8Urw4h: Linked Data Tutorial - NG (web page)
-    @created 1325916583851
-    @alias http://www.w3.org/2001/sw/interest/ldh/
-    @weight 0.5
+@id bDVTpMA1PQ8Urw4h
+@title Linked Data Tutorial - NG (web page)
+@alias http://www.w3.org/2001/sw/interest/ldh/
+@created 1325916583851
+@weight 0.5

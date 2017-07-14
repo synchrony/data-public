@@ -1,3 +1,4 @@
-* :Wy75AQzv2oS6wmfX: "the [Bluetooth] module can be put in a mode that toggles between deep-sleep (26uA) and discoverable (35mA)"
-    @created 1408974354317
-    @weight 0.5
+@id Wy75AQzv2oS6wmfX
+@title "the [Bluetooth] module can be put in a mode that toggles between deep-sleep (26uA) and discoverable (35mA)"
+@created 1408974354317
+@weight 0.5

@@ -1,3 +1,4 @@
-* :nt0wPr3c61RBg5Nd: the answer is that the height of C depends on the length of the deepest chain in it; each time you discover more depth in C, you need to bump the level of its top relationship
-    @created 1494837750839
-    @weight 0.5
+@id nt0wPr3c61RBg5Nd
+@title the answer is that the height of C depends on the length of the deepest chain in it; each time you discover more depth in C, you need to bump the level of its top relationship
+@created 1494837750839
+@weight 0.5

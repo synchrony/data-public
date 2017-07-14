@@ -1,6 +1,7 @@
-* :U66QtbqOSVmvtt35: RenameMe
-    @created 1364169288158
-    @weight 0.5
+@id U66QtbqOSVmvtt35
+@title RenameMe
+@created 1364169288158
+@weight 0.5
 
 cd clj-ripple
 lein

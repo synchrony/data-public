@@ -1,3 +1,4 @@
-* :H67VFVZushB7Mb5f: [markdown]Next, modify the file [smsn-example.properties](https://github.com/synchrony/smsn/blob/master/smsn-server/doc/smsn-example.properties) and put it in Gremlin Server's `conf` directory, replacing the value of `net.fortytwo.smsn.activityLog`; this is a flat file to which a stream of view and edit operations will be recorded. Configuration properties for other SmSn features can also be set here.
-    @created 1495925080700
-    @weight 0.5
+@id H67VFVZushB7Mb5f
+@title [markdown]Next, modify the file [smsn-example.properties](https://github.com/synchrony/smsn/blob/master/smsn-server/doc/smsn-example.properties) and put it in Gremlin Server's `conf` directory, replacing the value of `net.fortytwo.smsn.activityLog`; this is a flat file to which a stream of view and edit operations will be recorded. Configuration properties for other SmSn features can also be set here.
+@created 1495925080700
+@weight 0.5

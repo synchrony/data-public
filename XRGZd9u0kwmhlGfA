@@ -1,4 +1,5 @@
-* :XRGZd9u0kwmhlGfA: WordNet RDF/OWL Files (web page)
-    @created 1441088685872
-    @alias http://www.w3.org/2006/03/wn/wn20/
-    @weight 0.5
+@id XRGZd9u0kwmhlGfA
+@title WordNet RDF/OWL Files (web page)
+@alias http://www.w3.org/2006/03/wn/wn20/
+@created 1441088685872
+@weight 0.5

@@ -1,3 +1,4 @@
-* :MJ5inh2ZgmkIo1ut: consider that the alternative is k extract-min operations, for O(k*log(n))
-    @created 1467905853132
-    @weight 0.5
+@id MJ5inh2ZgmkIo1ut
+@title consider that the alternative is k extract-min operations, for O(k*log(n))
+@created 1467905853132
+@weight 0.5

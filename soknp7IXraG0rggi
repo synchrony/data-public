@@ -1,3 +1,4 @@
-* :soknp7IXraG0rggi: in neo4j.properties: gremlin.neo4j.directory=/mnt/smsn-data/neo4j
-    @created 1487996526485
-    @weight 0.5
+@id soknp7IXraG0rggi
+@title in neo4j.properties: gremlin.neo4j.directory=/mnt/smsn-data/neo4j
+@created 1487996526485
+@weight 0.5

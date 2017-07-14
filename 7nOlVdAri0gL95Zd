@@ -1,4 +1,5 @@
-* :7nOlVdAri0gL95Zd: Observations and Measurements | OGC(R) (web page)
-    @created 1345696902071
-    @alias http://www.opengeospatial.org/standards/om
-    @weight 0.5
+@id 7nOlVdAri0gL95Zd
+@title Observations and Measurements | OGC(R) (web page)
+@alias http://www.opengeospatial.org/standards/om
+@created 1345696902071
+@weight 0.5

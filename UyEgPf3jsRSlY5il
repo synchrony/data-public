@@ -1,6 +1,7 @@
-* :UyEgPf3jsRSlY5il: RenameMe
-    @created 1330574401834
-    @weight 0.5
+@id UyEgPf3jsRSlY5il
+@title RenameMe
+@created 1330574401834
+@weight 0.5
 
 for i in $(ls -Rl@ | grep '^    ' | awk '{print $1}' | sort -u); \
    do echo Removing $i ... >&2;  \

@@ -1,4 +1,5 @@
-* :FgdG9eNyKcHIIK5X: The Telegraph Project at UC Berkeley (web page)
-    @created 1351446180927
-    @alias http://telegraph.cs.berkeley.edu/
-    @weight 0.5
+@id FgdG9eNyKcHIIK5X
+@title The Telegraph Project at UC Berkeley (web page)
+@alias http://telegraph.cs.berkeley.edu/
+@created 1351446180927
+@weight 0.5

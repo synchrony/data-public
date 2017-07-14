@@ -1,3 +1,4 @@
-* :rgDiL0yMgH26tqqE: if x and y are identical, then x may be substituted for y without changing the truth-value of the sentence in which the substitution is made
-    @created 1344132020759
-    @weight 0.5
+@id rgDiL0yMgH26tqqE
+@title if x and y are identical, then x may be substituted for y without changing the truth-value of the sentence in which the substitution is made
+@created 1344132020759
+@weight 0.5

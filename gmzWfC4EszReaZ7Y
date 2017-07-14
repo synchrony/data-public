@@ -1,3 +1,4 @@
-* :gmzWfC4EszReaZ7Y: technique of isolating failure within the test using progressive inlining of parts of the failing test
-    @created 1413234671206
-    @weight 0.5
+@id gmzWfC4EszReaZ7Y
+@title technique of isolating failure within the test using progressive inlining of parts of the failing test
+@created 1413234671206
+@weight 0.5

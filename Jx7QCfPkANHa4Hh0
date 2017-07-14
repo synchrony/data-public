@@ -1,6 +1,7 @@
-* :Jx7QCfPkANHa4Hh0: RenameMe
-    @created 1329169027191
-    @weight 0.5
+@id Jx7QCfPkANHa4Hh0
+@title RenameMe
+@created 1329169027191
+@weight 0.5
 
 (load-ntriples "/home/josh/tmp/result.nt")
 (commit-triple-store)

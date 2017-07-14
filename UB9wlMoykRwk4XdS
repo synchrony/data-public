@@ -1,4 +1,5 @@
-* :UB9wlMoykRwk4XdS: Whitworth University Library (web page)
-    @created 1345008516293
-    @alias http://www.whitworth.edu/library/
-    @weight 0.5
+@id UB9wlMoykRwk4XdS
+@title Whitworth University Library (web page)
+@alias http://www.whitworth.edu/library/
+@created 1345008516293
+@weight 0.5

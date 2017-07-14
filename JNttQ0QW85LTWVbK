@@ -1,4 +1,5 @@
-* :JNttQ0QW85LTWVbK: elisp - Emacs "strongly read-only" text: No highlight, no cursor access - Stack Overflow (web page)
-    @created 1484783837945
-    @alias http://stackoverflow.com/questions/41731545/emacs-strongly-read-only-text-no-highlight-no-cursor-access
-    @weight 0.5
+@id JNttQ0QW85LTWVbK
+@title elisp - Emacs "strongly read-only" text: No highlight, no cursor access - Stack Overflow (web page)
+@alias http://stackoverflow.com/questions/41731545/emacs-strongly-read-only-text-no-highlight-no-cursor-access
+@created 1484783837945
+@weight 0.5

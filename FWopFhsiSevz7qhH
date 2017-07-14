@@ -1,4 +1,5 @@
-* :FWopFhsiSevz7qhH: training error is defined only using those training examples (so training on one observation means getting 0 error). training error rises with observations
-    @created 1474361535249
-    @weight 0.5
-    * :fionVypewHesZh8C: 
+@id FWopFhsiSevz7qhH
+@title training error is defined only using those training examples (so training on one observation means getting 0 error). training error rises with observations
+@created 1474361535249
+@weight 0.5
+* :fionVypewHesZh8C: 

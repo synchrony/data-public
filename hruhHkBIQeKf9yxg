@@ -1,4 +1,5 @@
-* :hruhHkBIQeKf9yxg: ADMS v0.1 | DERI Vocabularies (web page)
-    @created 1320162379082
-    @alias http://vocab.deri.ie/adms
-    @weight 0.25
+@id hruhHkBIQeKf9yxg
+@title ADMS v0.1 | DERI Vocabularies (web page)
+@alias http://vocab.deri.ie/adms
+@created 1320162379082
+@weight 0.25

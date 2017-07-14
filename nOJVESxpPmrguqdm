@@ -1,6 +1,7 @@
-* :nOJVESxpPmrguqdm: RenameMe
-    @created 1398533962402
-    @weight 0.5
+@id nOJVESxpPmrguqdm
+@title RenameMe
+@created 1398533962402
+@weight 0.5
 
 g.V.type.groupCount
 hdfs.head('output/job-0/sideeffect*')

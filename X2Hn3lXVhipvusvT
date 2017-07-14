@@ -1,4 +1,5 @@
-* :X2Hn3lXVhipvusvT: xkcd: Hack (web page)
-    @created 1403664322011
-    @alias http://xkcd.com/1337/
-    @weight 0.5
+@id X2Hn3lXVhipvusvT
+@title xkcd: Hack (web page)
+@alias http://xkcd.com/1337/
+@created 1403664322011
+@weight 0.5

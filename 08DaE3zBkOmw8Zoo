@@ -1,3 +1,4 @@
-* :08DaE3zBkOmw8Zoo: always active while worn (it may "sleep" but it should never "die")
-    @created 1337376508525
-    @weight 0.5
+@id 08DaE3zBkOmw8Zoo
+@title always active while worn (it may "sleep" but it should never "die")
+@created 1337376508525
+@weight 0.5

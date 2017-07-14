@@ -1,4 +1,5 @@
-* :bz8TVFoze7ccLETF: net.fortytwo.sparqlosc (SPARQL-OSC 1.0 API) (web page)
-    @created 1395515029534
-    @alias http://fortytwo.net/projects/sparql-osc/api/1.0/
-    @weight 0.5
+@id bz8TVFoze7ccLETF
+@title net.fortytwo.sparqlosc (SPARQL-OSC 1.0 API) (web page)
+@alias http://fortytwo.net/projects/sparql-osc/api/1.0/
+@created 1395515029534
+@weight 0.5

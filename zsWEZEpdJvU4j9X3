@@ -1,6 +1,7 @@
-* :zsWEZEpdJvU4j9X3: RenameMe
-    @created 1310234505277
-    @weight 0.5
+@id zsWEZEpdJvU4j9X3
+@title RenameMe
+@created 1310234505277
+@weight 0.5
 
 Connect each node in X with an edge from the super-source.
 Each edge from X to Y shall be ordered in that direction.

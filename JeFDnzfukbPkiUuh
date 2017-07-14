@@ -1,6 +1,7 @@
-* :JeFDnzfukbPkiUuh: RenameMe
-    @created 1477088297708
-    @weight 0.5
+@id JeFDnzfukbPkiUuh
+@title RenameMe
+@created 1477088297708
+@weight 0.5
 
 >>> from numpy import poly1d
 >>> p = poly1d([3,4,5])

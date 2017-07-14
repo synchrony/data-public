@@ -1,6 +1,7 @@
-* :lLdCIr85lp7JogUe: RenameMe
-    @created 1484701361755
-    @weight 0.5
+@id lLdCIr85lp7JogUe
+@title RenameMe
+@created 1484701361755
+@weight 0.5
 
 nodejs --version
 

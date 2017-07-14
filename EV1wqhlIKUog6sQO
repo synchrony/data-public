@@ -1,3 +1,4 @@
-* :EV1wqhlIKUog6sQO: evoked potential amplitudes tend to be low, ranging from less than a microvolt to several microvolts, compared to tens of microvolts for EEG, millivolts for EMG, and often close to a volt for ECG
-    @created 1434910481530
-    @weight 0.5
+@id EV1wqhlIKUog6sQO
+@title evoked potential amplitudes tend to be low, ranging from less than a microvolt to several microvolts, compared to tens of microvolts for EEG, millivolts for EMG, and often close to a volt for ECG
+@created 1434910481530
+@weight 0.5

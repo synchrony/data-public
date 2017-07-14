@@ -1,6 +1,7 @@
-* :GgDMvSesnRvgHrHL: read from GraphML
-    @created 1405519836384
-    @weight 0.5
+@id GgDMvSesnRvgHrHL
+@title read from GraphML
+@created 1405519836384
+@weight 0.5
 
 g = TinkerGraph.open();
 reader = GraphMLReader.build().create()

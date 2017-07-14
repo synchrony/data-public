@@ -1,3 +1,4 @@
-* :M2Ahk64RoycUSNpq: p_col           float  %9.0g                  ProducciÛn (Ton) de col
-    @created 1496474356024
-    @weight 0.5
+@id M2Ahk64RoycUSNpq
+@title p_col           float  %9.0g                  ProducciÛn (Ton) de col
+@created 1496474356024
+@weight 0.5

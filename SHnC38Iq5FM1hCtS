@@ -1,4 +1,5 @@
-* :SHnC38Iq5FM1hCtS: Computer Chess (web page)
-    @created 1310539747591
-    @alias http://pine.cs.yale.edu:4201/java/chess.html
-    @weight 0.25
+@id SHnC38Iq5FM1hCtS
+@title Computer Chess (web page)
+@alias http://pine.cs.yale.edu:4201/java/chess.html
+@created 1310539747591
+@weight 0.25

@@ -1,3 +1,4 @@
-* :syr2YMolUwIZEU1M: a symmetric key block cipher with a block size of 128 bits and key sizes up to 256 bits
-    @created 1465248484328
-    @weight 0.5
+@id syr2YMolUwIZEU1M
+@title a symmetric key block cipher with a block size of 128 bits and key sizes up to 256 bits
+@created 1465248484328
+@weight 0.5

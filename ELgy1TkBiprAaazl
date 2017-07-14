@@ -1,3 +1,4 @@
-* :ELgy1TkBiprAaazl: r_zanahoria     float  %9.0g                  Rendimiento (Ton/Ha) de zanahoria
-    @created 1496474395595
-    @weight 0.5
+@id ELgy1TkBiprAaazl
+@title r_zanahoria     float  %9.0g                  Rendimiento (Ton/Ha) de zanahoria
+@created 1496474395595
+@weight 0.5

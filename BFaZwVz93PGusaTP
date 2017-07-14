@@ -1,4 +1,5 @@
-* :BFaZwVz93PGusaTP: Health Level Seven International - Homepage (web page)
-    @created 1327607721020
-    @alias http://www.hl7.org/
-    @weight 0.5
+@id BFaZwVz93PGusaTP
+@title Health Level Seven International - Homepage (web page)
+@alias http://www.hl7.org/
+@created 1327607721020
+@weight 0.5

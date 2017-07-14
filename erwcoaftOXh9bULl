@@ -1,4 +1,5 @@
-* :erwcoaftOXh9bULl: protégé (web page)
-    @created 1420648131217
-    @alias http://protege.stanford.edu/
-    @weight 0.5
+@id erwcoaftOXh9bULl
+@title protégé (web page)
+@alias http://protege.stanford.edu/
+@created 1420648131217
+@weight 0.5

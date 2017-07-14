@@ -1,6 +1,7 @@
-* :G7jfnCwiW6nyaBi7: Rscript: run an R script at the command line
-    @created 1497063849846
-    @weight 0.5
+@id G7jfnCwiW6nyaBi7
+@title Rscript: run an R script at the command line
+@created 1497063849846
+@weight 0.5
 
 File tree references are relative to where you run the script from (and not where the script is located).
 

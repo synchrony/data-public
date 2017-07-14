@@ -1,3 +1,4 @@
-* :kkUYGvkmBWZfCrdd: a networking protocol that provides centralized Authentication, Authorization, and Accounting (AAA) management for users who connect and use a network service
-    @created 1438902251743
-    @weight 0.5
+@id kkUYGvkmBWZfCrdd
+@title a networking protocol that provides centralized Authentication, Authorization, and Accounting (AAA) management for users who connect and use a network service
+@created 1438902251743
+@weight 0.5

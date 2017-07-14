@@ -1,3 +1,4 @@
-* :mRi7B76QU8sysX2o: FIPA abstract architecture\footnote{\url{http://www.fipa.org/repository/architecturespecs.php3}} defines architectural elements of agent platforms and their relationships, provides guidelines for the instantiation and interoperability of agent systems. Interoperability between agents encompasses the management of multiple message transport schemes and message encoding schemes, and the location of agents and services via directory services.
-    @created 1345179148416
-    @weight 0.5
+@id mRi7B76QU8sysX2o
+@title FIPA abstract architecture\footnote{\url{http://www.fipa.org/repository/architecturespecs.php3}} defines architectural elements of agent platforms and their relationships, provides guidelines for the instantiation and interoperability of agent systems. Interoperability between agents encompasses the management of multiple message transport schemes and message encoding schemes, and the location of agents and services via directory services.
+@created 1345179148416
+@weight 0.5

@@ -1,6 +1,7 @@
-* :UNC7Wcik5C6KHY0Y: sed 's/^ *. \:[a-zA-Z0-9]\{16\}\: /\n/' medit.0.md > medit.1.md
-    @created 1490303515718
-    @weight 0.5
-    @priority 0.5
-    * :VhBMWtetjHzXZufd: 
-    * :UelsXkUSXXt2Nbzu: 
+@id UNC7Wcik5C6KHY0Y
+@title sed 's/^ *. \:[a-zA-Z0-9]\{16\}\: /\n/' medit.0.md > medit.1.md
+@created 1490303515718
+@weight 0.5
+@priority 0.5
+* :VhBMWtetjHzXZufd: 
+* :UelsXkUSXXt2Nbzu: 

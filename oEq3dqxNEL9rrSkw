@@ -1,6 +1,7 @@
-* :oEq3dqxNEL9rrSkw: RenameMe
-    @created 1421637785498
-    @weight 0.5
+@id oEq3dqxNEL9rrSkw
+@title RenameMe
+@created 1421637785498
+@weight 0.5
 
 exchange argument: take OPT (MST) T*. Suppose to the contrary, that e not in T*.
        Will show how to change T* so it does contain e, and becomes cheaper.

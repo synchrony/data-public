@@ -1,6 +1,7 @@
-* :Ta6o0IbLZVTi9NF8: RenameMe
-    @created 1310234505239
-    @weight 0.5
+@id Ta6o0IbLZVTi9NF8
+@title RenameMe
+@created 1310234505239
+@weight 0.5
 
 set M[0] = 0
 for j = 1 to n

@@ -1,3 +1,4 @@
-* :JmLWWjBMliTVEcSJ: a game engine made especially for modern 3D development, as it uses shader technology extensively. jMonkeyEngine is written purely in Java and uses LWJGL as its default renderer
-    @created 1368240664456
-    @weight 0.5
+@id JmLWWjBMliTVEcSJ
+@title a game engine made especially for modern 3D development, as it uses shader technology extensively. jMonkeyEngine is written purely in Java and uses LWJGL as its default renderer
+@created 1368240664456
+@weight 0.5

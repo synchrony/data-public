@@ -1,4 +1,5 @@
-* :JFLFB8qnYL2nmkZI: DBIS - Datenbanken und Informationssysteme (web page)
-    @created 1382583837758
-    @alias http://dbis.informatik.uni-freiburg.de/index.php?project=SP2B/queries.php
-    @weight 0.5
+@id JFLFB8qnYL2nmkZI
+@title DBIS - Datenbanken und Informationssysteme (web page)
+@alias http://dbis.informatik.uni-freiburg.de/index.php?project=SP2B/queries.php
+@created 1382583837758
+@weight 0.5

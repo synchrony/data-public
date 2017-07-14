@@ -1,3 +1,4 @@
-* :yADvKCYsOWGp6L2Y: determining, given a finite set of n × n matrices with integer entries, whether they can be multiplied in some order, possibly with repetition, to yield the zero matrix
-    @created 1466532533276
-    @weight 0.5
+@id yADvKCYsOWGp6L2Y
+@title determining, given a finite set of n × n matrices with integer entries, whether they can be multiplied in some order, possibly with repetition, to yield the zero matrix
+@created 1466532533276
+@weight 0.5

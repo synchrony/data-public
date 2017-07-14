@@ -1,4 +1,5 @@
-* :NevG5lfI6rXWkVQg: http://tinkerpop.com/pgm/ontology#
-    @created 1450731748152
-    @weight 0.5
-    * :g2WeqQ3Z7mYBHgdh: 
+@id NevG5lfI6rXWkVQg
+@title http://tinkerpop.com/pgm/ontology#
+@created 1450731748152
+@weight 0.5
+* :g2WeqQ3Z7mYBHgdh: 

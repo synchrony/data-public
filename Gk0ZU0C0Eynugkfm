@@ -1,3 +1,4 @@
-* :Gk0ZU0C0Eynugkfm: An object is unused if the program holds no more references to it.
-    @created 1469061912089
-    @weight 0.5
+@id Gk0ZU0C0Eynugkfm
+@title An object is unused if the program holds no more references to it.
+@created 1469061912089
+@weight 0.5

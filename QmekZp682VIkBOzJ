@@ -1,58 +1,59 @@
-* :QmekZp682VIkBOzJ: Aerodynamic Principles
-    @created 1479196170079
-    @weight 0.5
-    * :1BqAPxvOsfc2nWiW: 
-    * :02bQUVcsRvvMfeDE: 
-    * :PN2FoPRLF9pDunUW: 
-    * :VDIWt8BYCFwXMYNl: 
-    * :qMt2QHIwoB9r5tPa: 
-    * :HidSyPYTHuGI5i1c: 
-    * :OmeclGsFGYVYeZzp: 
-    * :CqjjAuiqfADuzMA5: 
-    * :tnnhdQYJ1CfIb2YV: 
-    * :tAg3QGjxRCExoMxp: 
-    * :nc7d19qbzoaehYhj: 
-    * :FPruAGn57ASMjaoL: 
-    * :V8VRkZMQYEmeGGCi: 
-    * :fZhlRPNAcukygZbO: 
-    * :Qis9tNF8VQmSaNU8: 
-    * :dkVSSrbjLFXoKiNs: 
-    * :2guRp0OgG88wpLGJ: 
-    * :iCbLC5EgEJ4uDegD: 
-    * :BBHdp9b9XCXrUmRA: 
-    * :RIGbjAV0N8sk6HPJ: 
-    * :BIlFkJCpSZ8lH663: 
-    * :uG2udtmjb1KwVIas: 
-    * :cSdQqaLdNRbXBlWJ: 
-    * :Kx9SsEwESacBft7D: 
-    * :00KiYS7T8dPffs49: 
-    * :nPxlSidgn59Ebhzp: 
-    * :Y3EYGQRkVWc58i7J: 
-    * :zC9Y67mq0gzfiFIJ: 
-    * :KfRjpd0Oznoxt0K0: 
-    * :vAdgBlPRdbqMLYHb: 
-    * :Werg5cT9aaK7j0A2: 
-    * :LIb0mkLT40xSNOxr: 
-    * :Z1MHrTjkCh5qCxWV: 
-    * :EqOAf19sgJCO3IDr: 
-    * :naj80Q8lw5RUIGtF: 
-    * :tt39yBME7OZpRVsi: 
-    * :eKvwCX1qoVy1UaGP: 
-    * :NPPU2jtb1casx82D: 
-    * :4jnThMdspfsSMvyC: 
-    * :2qZSF1Eadc1IW3AI: 
-    * :L9jpqJyBr3okGVky: 
-    * :he2ZTrQopH6Z555J: 
-    * :OFNjpnXAkxzUr4Du: 
-    * :zYgOpoxHrOZ2oJvN: 
-    * :D81chA1mJxiuPCjQ: 
-    * :TiTLBhkhb0Ufs7S2: 
-    * :jJC22z1cqrRVK9EM: 
-    * :tHM8OrLNIdTJbVv8: 
-    * :sYQipX6mUTRwXd6x: 
-    * :bFiuh488Qzo1Pb1x: 
-    * :sOYKKjb2fmgAOvbU: 
-    * :oEGmoQYQONq8Uizr: 
-    * :qDEaRXmvKFCMqBCk: 
-    * :gC3sFTH1ze1bEuw2: 
-    * :hIJxkOTuCq1k2z90: 
+@id QmekZp682VIkBOzJ
+@title Aerodynamic Principles
+@created 1479196170079
+@weight 0.5
+* :1BqAPxvOsfc2nWiW: 
+* :02bQUVcsRvvMfeDE: 
+* :PN2FoPRLF9pDunUW: 
+* :VDIWt8BYCFwXMYNl: 
+* :qMt2QHIwoB9r5tPa: 
+* :HidSyPYTHuGI5i1c: 
+* :OmeclGsFGYVYeZzp: 
+* :CqjjAuiqfADuzMA5: 
+* :tnnhdQYJ1CfIb2YV: 
+* :tAg3QGjxRCExoMxp: 
+* :nc7d19qbzoaehYhj: 
+* :FPruAGn57ASMjaoL: 
+* :V8VRkZMQYEmeGGCi: 
+* :fZhlRPNAcukygZbO: 
+* :Qis9tNF8VQmSaNU8: 
+* :dkVSSrbjLFXoKiNs: 
+* :2guRp0OgG88wpLGJ: 
+* :iCbLC5EgEJ4uDegD: 
+* :BBHdp9b9XCXrUmRA: 
+* :RIGbjAV0N8sk6HPJ: 
+* :BIlFkJCpSZ8lH663: 
+* :uG2udtmjb1KwVIas: 
+* :cSdQqaLdNRbXBlWJ: 
+* :Kx9SsEwESacBft7D: 
+* :00KiYS7T8dPffs49: 
+* :nPxlSidgn59Ebhzp: 
+* :Y3EYGQRkVWc58i7J: 
+* :zC9Y67mq0gzfiFIJ: 
+* :KfRjpd0Oznoxt0K0: 
+* :vAdgBlPRdbqMLYHb: 
+* :Werg5cT9aaK7j0A2: 
+* :LIb0mkLT40xSNOxr: 
+* :Z1MHrTjkCh5qCxWV: 
+* :EqOAf19sgJCO3IDr: 
+* :naj80Q8lw5RUIGtF: 
+* :tt39yBME7OZpRVsi: 
+* :eKvwCX1qoVy1UaGP: 
+* :NPPU2jtb1casx82D: 
+* :4jnThMdspfsSMvyC: 
+* :2qZSF1Eadc1IW3AI: 
+* :L9jpqJyBr3okGVky: 
+* :he2ZTrQopH6Z555J: 
+* :OFNjpnXAkxzUr4Du: 
+* :zYgOpoxHrOZ2oJvN: 
+* :D81chA1mJxiuPCjQ: 
+* :TiTLBhkhb0Ufs7S2: 
+* :jJC22z1cqrRVK9EM: 
+* :tHM8OrLNIdTJbVv8: 
+* :sYQipX6mUTRwXd6x: 
+* :bFiuh488Qzo1Pb1x: 
+* :sOYKKjb2fmgAOvbU: 
+* :oEGmoQYQONq8Uizr: 
+* :qDEaRXmvKFCMqBCk: 
+* :gC3sFTH1ze1bEuw2: 
+* :hIJxkOTuCq1k2z90: 

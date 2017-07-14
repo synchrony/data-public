@@ -1,3 +1,4 @@
-* :vfA9DxY0VL8Y4imb: (create-triple-store "semtech2011" :catalog "demos" :port 10042)
-    @created 1326230537699
-    @weight 0.5
+@id vfA9DxY0VL8Y4imb
+@title (create-triple-store "semtech2011" :catalog "demos" :port 10042)
+@created 1326230537699
+@weight 0.5

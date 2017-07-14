@@ -1,7 +1,8 @@
-* :NbPwo0jkSpbxwULZ: initial setup of the SmSn Sandbox
-    @created 1488308020123
-    @weight 0.5
-    @priority 0.25
+@id NbPwo0jkSpbxwULZ
+@title initial setup of the SmSn Sandbox
+@created 1488308020123
+@weight 0.5
+@priority 0.25
 
 # do the following within a screen session
 screen -S docker

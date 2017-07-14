@@ -1,6 +1,7 @@
-* :RcVYFeI3IgVqB73y: ? If I start tidal in emacs, and then load git_play/tidal/init.hs, I can; but if I try to load it into a blank GHCI, it chokes like this (markup)
-    @created 1495594874411
-    @weight 0.5
+@id RcVYFeI3IgVqB73y
+@title ? If I start tidal in emacs, and then load git_play/tidal/init.hs, I can; but if I try to load it into a blank GHCI, it chokes like this (markup)
+@created 1495594874411
+@weight 0.5
 
 :
     Couldn't match expected type ‘Pattern String’

@@ -1,3 +1,4 @@
-* :R6JqdV7TBiPIKoVU: conditions: there must be maps gamma: G -> L and mu: M -> L s.t. gamma(G) is sup-dense, mu(M) is inf-dense, and gIm <=> gamma(g) <= mu(m)
-    @created 1485826448873
-    @weight 0.5
+@id R6JqdV7TBiPIKoVU
+@title conditions: there must be maps gamma: G -> L and mu: M -> L s.t. gamma(G) is sup-dense, mu(M) is inf-dense, and gIm <=> gamma(g) <= mu(m)
+@created 1485826448873
+@weight 0.5

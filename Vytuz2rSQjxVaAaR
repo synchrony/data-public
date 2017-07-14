@@ -1,4 +1,5 @@
-* :Vytuz2rSQjxVaAaR: cinchapi/concourse: Concourse is a distributed self-tuning database designed for both ACID transactions and ad hoc analytics across time. (web page)
-    @created 1463336379646
-    @alias https://github.com/cinchapi/concourse
-    @weight 0.5
+@id Vytuz2rSQjxVaAaR
+@title cinchapi/concourse: Concourse is a distributed self-tuning database designed for both ACID transactions and ad hoc analytics across time. (web page)
+@alias https://github.com/cinchapi/concourse
+@created 1463336379646
+@weight 0.5

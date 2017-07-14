@@ -1,6 +1,7 @@
-* :WOQ39mWs499op2QQ: RenameMe
-    @created 1397672386630
-    @weight 0.5
+@id WOQ39mWs499op2QQ
+@title RenameMe
+@created 1397672386630
+@weight 0.5
 
 git diff c26cd982b1dc5ba792ee7a63af59887bd8b08223 3cae8a58a6be339c18250ace43bc3d2f2f88dae5 > /tmp/ttl-patch.txt
 git apply --stat /tmp/ttl-patch.txt

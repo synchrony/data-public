@@ -1,3 +1,4 @@
-* :6oOMGmRCxb82DWoX: "We consider in particular continuous queries [TGNO92], which are queries that are issued once and then logically run continuously over the database (in contrast to traditional one-time queries which are run once to completion over the current data sets)."
-    @created 1444808126413
-    @weight 0.5
+@id 6oOMGmRCxb82DWoX
+@title "We consider in particular continuous queries [TGNO92], which are queries that are issued once and then logically run continuously over the database (in contrast to traditional one-time queries which are run once to completion over the current data sets)."
+@created 1444808126413
+@weight 0.5

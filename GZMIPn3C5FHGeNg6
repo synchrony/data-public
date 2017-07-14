@@ -1,4 +1,5 @@
-* :GZMIPn3C5FHGeNg6: CONNECT Community Portal (web page)
-    @created 1346523867190
-    @alias http://www.connectopensource.org/
-    @weight 0.5
+@id GZMIPn3C5FHGeNg6
+@title CONNECT Community Portal (web page)
+@alias http://www.connectopensource.org/
+@created 1346523867190
+@weight 0.5

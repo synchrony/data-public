@@ -1,3 +1,4 @@
-* :wj69doc6d7Wt5dil: the tactic of delaying the creation of an object, the calculation of a value, or some other expensive process until the first time it is needed
-    @created 1380991364408
-    @weight 0.5
+@id wj69doc6d7Wt5dil
+@title the tactic of delaying the creation of an object, the calculation of a value, or some other expensive process until the first time it is needed
+@created 1380991364408
+@weight 0.5

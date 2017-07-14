@@ -1,3 +1,4 @@
-* :tUV6e5wojhD4T8Dd: [markdown]The text of a note can have any length. Each note has a unique `ID`, which is a set of 16 alphanumeric characters. The ID can be thought of as the note's address in the graph. Note IDs are usually provided between ":" marks, so they look something like this: `:axMIDS0EmKQXqMnm:`. In addition to text content and ID, notes have other properties, described later.
-    @created 1490246339619
-    @weight 0.5
+@id tUV6e5wojhD4T8Dd
+@title [markdown]The text of a note can have any length. Each note has a unique `ID`, which is a set of 16 alphanumeric characters. The ID can be thought of as the note's address in the graph. Note IDs are usually provided between ":" marks, so they look something like this: `:axMIDS0EmKQXqMnm:`. In addition to text content and ID, notes have other properties, described later.
+@created 1490246339619
+@weight 0.5

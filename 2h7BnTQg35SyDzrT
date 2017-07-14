@@ -1,4 +1,5 @@
-* :2h7BnTQg35SyDzrT: the SmSn coordinator periodically sends out a JSON-based service discovery datagram via IP multicast
-    @created 1444677891690
-    @weight 0.5
-    * :HzU0IzLCA300usM2: 
+@id 2h7BnTQg35SyDzrT
+@title the SmSn coordinator periodically sends out a JSON-based service discovery datagram via IP multicast
+@created 1444677891690
+@weight 0.5
+* :HzU0IzLCA300usM2: 

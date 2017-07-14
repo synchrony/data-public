@@ -1,3 +1,4 @@
-* :scpvku8VPwa7Y4sF: GraphMLWriter.outputGraph(g, new FileOutputStream('/tmp/mygraph.xml'))
-    @created 1368075983318
-    @weight 0.5
+@id scpvku8VPwa7Y4sF
+@title GraphMLWriter.outputGraph(g, new FileOutputStream('/tmp/mygraph.xml'))
+@created 1368075983318
+@weight 0.5

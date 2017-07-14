@@ -1,6 +1,7 @@
-* :AfLgYQQF47IbJ5nJ: RenameMe
-    @created 1485595456283
-    @weight 0.5
+@id AfLgYQQF47IbJ5nJ
+@title RenameMe
+@created 1485595456283
+@weight 0.5
 
 For purposes of seeing branches despite cycles, a thorough solution is to label relationships as extensive, intensive (I just learned those words in the Coursera Formal Concept Analysis class) or symmetric. The branch is defined recursively through intensive relationships and not the other two kinds.
 

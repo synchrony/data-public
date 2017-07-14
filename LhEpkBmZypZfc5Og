@@ -1,6 +1,7 @@
-* :LhEpkBmZypZfc5Og: RenameMe
-    @created 1389492627315
-    @weight 0.5
+@id LhEpkBmZypZfc5Og
+@title RenameMe
+@created 1389492627315
+@weight 0.5
 
 sudo /system/bin/logcat -f /sdcard/logcat.log *:I
 

@@ -1,4 +1,5 @@
-* :sjyXHiCjsko2wetS: Swedish dictionary (web page)
-    @created 1310539747744
-    @alias http://www.nada.kth.se/skolverket/swe-eng.html
-    @weight 0.25
+@id sjyXHiCjsko2wetS
+@title Swedish dictionary (web page)
+@alias http://www.nada.kth.se/skolverket/swe-eng.html
+@created 1310539747744
+@weight 0.25

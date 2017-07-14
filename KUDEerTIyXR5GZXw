@@ -1,3 +1,4 @@
-* :KUDEerTIyXR5GZXw: git diff HEAD HEAD~1 --diff-filter=A --name-only # or added
-    @created 1488582392298
-    @weight 0.5
+@id KUDEerTIyXR5GZXw
+@title git diff HEAD HEAD~1 --diff-filter=A --name-only # or added
+@created 1488582392298
+@weight 0.5

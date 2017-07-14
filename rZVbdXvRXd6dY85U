@@ -1,4 +1,5 @@
-* :rZVbdXvRXd6dY85U: Airport | City of Santa Fe, New Mexico (web page)
-    @created 1491080740830
-    @alias https://www.santafenm.gov/airport
-    @weight 0.5
+@id rZVbdXvRXd6dY85U
+@title Airport | City of Santa Fe, New Mexico (web page)
+@alias https://www.santafenm.gov/airport
+@created 1491080740830
+@weight 0.5

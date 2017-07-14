@@ -1,6 +1,7 @@
-* :CSysWmkUIvxGK1SG: RenameMe
-    @created 1395256526274
-    @weight 0.5
+@id CSysWmkUIvxGK1SG
+@title RenameMe
+@created 1395256526274
+@weight 0.5
 
 vim ~/.bash_profile
 

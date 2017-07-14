@@ -1,6 +1,7 @@
-* :LSNZWAWDjqwYf5jq: Recipe
-    @created 1493448730064
-    @weight 0.5
+@id LSNZWAWDjqwYf5jq
+@title Recipe
+@created 1493448730064
+@weight 0.5
 
 Make a new string property, "freeplane font".
 Set it for a test atom, using Gremlin.

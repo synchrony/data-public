@@ -1,3 +1,4 @@
-* :DMvMx1VGgCPM1Bin: r_tabacor       float  %9.0g                  Rendimiento (Ton/Ha) de tabacor
-    @created 1496474395583
-    @weight 0.5
+@id DMvMx1VGgCPM1Bin
+@title r_tabacor       float  %9.0g                  Rendimiento (Ton/Ha) de tabacor
+@created 1496474395583
+@weight 0.5

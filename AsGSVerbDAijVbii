@@ -1,4 +1,5 @@
-* :AsGSVerbDAijVbii: MIT home page (web page)
-    @created 1310539747684
-    @alias http://web.mit.edu/
-    @weight 0.25
+@id AsGSVerbDAijVbii
+@title MIT home page (web page)
+@alias http://web.mit.edu/
+@created 1310539747684
+@weight 0.25

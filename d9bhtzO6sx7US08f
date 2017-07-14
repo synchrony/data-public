@@ -1,3 +1,4 @@
-* :d9bhtzO6sx7US08f: HasKey( :Person () ( :hasSSN ) )
-    @created 1471476357730
-    @weight 0.5
+@id d9bhtzO6sx7US08f
+@title HasKey( :Person () ( :hasSSN ) )
+@created 1471476357730
+@weight 0.5

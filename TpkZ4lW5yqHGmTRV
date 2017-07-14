@@ -1,3 +1,4 @@
-* :TpkZ4lW5yqHGmTRV: output double-valued sensor data in n/min/avg/max/stddev format
-    @created 1448397582585
-    @weight 0.5
+@id TpkZ4lW5yqHGmTRV
+@title output double-valued sensor data in n/min/avg/max/stddev format
+@created 1448397582585
+@weight 0.5

@@ -1,3 +1,4 @@
-* :y3lfpsHT7EkBNYwP: inv_per_docente double %10.0g               * Pago de personal = inv_per_doc1+inv_per_doc2+inv_per_doc3+inv_per_doc4
-    @created 1496473856400
-    @weight 0.5
+@id y3lfpsHT7EkBNYwP
+@title inv_per_docente double %10.0g               * Pago de personal = inv_per_doc1+inv_per_doc2+inv_per_doc3+inv_per_doc4
+@created 1496473856400
+@weight 0.5

@@ -1,4 +1,5 @@
-* :bIlyhhXbPNJyf4ke: HL7 Standards Product Brief - Arden Syntax V2.7 (web page)
-    @created 1328065884845
-    @alias http://www.hl7.org/implement/standards/product_brief.cfm?product_id=2
-    @weight 0.5
+@id bIlyhhXbPNJyf4ke
+@title HL7 Standards Product Brief - Arden Syntax V2.7 (web page)
+@alias http://www.hl7.org/implement/standards/product_brief.cfm?product_id=2
+@created 1328065884845
+@weight 0.5

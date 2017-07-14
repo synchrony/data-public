@@ -1,3 +1,4 @@
-* :YRZulcxv2vTJhAvn: this template is based on join-calculus and use pattern matching. Concretely, this is done by allowing the join definition of several functions and/or channels by matching concurrent call and messages patterns
-    @created 1381000531021
-    @weight 0.5
+@id YRZulcxv2vTJhAvn
+@title this template is based on join-calculus and use pattern matching. Concretely, this is done by allowing the join definition of several functions and/or channels by matching concurrent call and messages patterns
+@created 1381000531021
+@weight 0.5

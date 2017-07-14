@@ -1,3 +1,4 @@
-* :HEJu1bjTq9qxj66x: export SOME_JAVA_ARGS="-Xmx2g -Xms2g -Dcom.sun.management.jmxremote"
-    @created 1338532991965
-    @weight 0.5
+@id HEJu1bjTq9qxj66x
+@title export SOME_JAVA_ARGS="-Xmx2g -Xms2g -Dcom.sun.management.jmxremote"
+@created 1338532991965
+@weight 0.5

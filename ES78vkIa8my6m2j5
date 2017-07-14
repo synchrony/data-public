@@ -1,6 +1,7 @@
-* :ES78vkIa8my6m2j5: docker-smsn problem ? did the host address change
-    @created 1497505192297
-    @weight 0.5
+@id ES78vkIa8my6m2j5
+@title docker-smsn problem ? did the host address change
+@created 1497505192297
+@weight 0.5
 
 sometimes I've had to use 127.0.0.2 instead of .1
   maybe clearing out all the old docker containers was what let me return to .1

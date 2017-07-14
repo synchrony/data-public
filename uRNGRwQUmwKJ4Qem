@@ -1,3 +1,4 @@
-* :uRNGRwQUmwKJ4Qem: bash bin/gremlin-server.sh conf/gremlin-server-smsn.yaml
-    @created 1488582291498
-    @weight 0.5
+@id uRNGRwQUmwKJ4Qem
+@title bash bin/gremlin-server.sh conf/gremlin-server-smsn.yaml
+@created 1488582291498
+@weight 0.5

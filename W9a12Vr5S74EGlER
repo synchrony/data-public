@@ -1,3 +1,4 @@
-* :W9a12Vr5S74EGlER: delay -- time between attack and when the last switch of a given chord has finished being pressed
-    @created 1349299628005
-    @weight 0.5
+@id W9a12Vr5S74EGlER
+@title delay -- time between attack and when the last switch of a given chord has finished being pressed
+@created 1349299628005
+@weight 0.5

@@ -1,6 +1,7 @@
-* :f6SSa0ncugdRR6ai: in another experiment, after having deleted /root/.m2 and /root/.groovy/grapes, bing/gremlin-server.sh, I got a "call site initialization exception". next .groovy was back, and I left it there, and got the same error
-    @created 1488100931890
-    @weight 0.5
+@id f6SSa0ncugdRR6ai
+@title in another experiment, after having deleted /root/.m2 and /root/.groovy/grapes, bing/gremlin-server.sh, I got a "call site initialization exception". next .groovy was back, and I left it there, and got the same error
+@created 1488100931890
+@weight 0.5
 
 root@d5f9b1dbe1fb:~/apache-tinkerpop-gremlin-server-3.2.4# bin/gremlin-server.sh -i org.apache.tinkerpop neo4j-gremlin 3.2.4
 Exception in thread "main" java.lang.BootstrapMethodError: call site initialization exception

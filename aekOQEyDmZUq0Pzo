@@ -1,6 +1,7 @@
-* :aekOQEyDmZUq0Pzo: RenameMe
-    @created 1329401456209
-    @weight 0.5
+@id aekOQEyDmZUq0Pzo
+@title RenameMe
+@created 1329401456209
+@weight 0.5
 
 PREFIX drugs: <http://www4.wiwiss.fu-berlin.de/dailymed/resource/drugs/>
 PREFIX sider: <http://www4.wiwiss.fu-berlin.de/sider/resource/sider/>

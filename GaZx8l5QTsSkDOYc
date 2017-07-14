@@ -1,6 +1,7 @@
-* :GaZx8l5QTsSkDOYc: RenameMe
-    @created 1485651854246
-    @weight 0.5
+@id GaZx8l5QTsSkDOYc
+@title RenameMe
+@created 1485651854246
+@weight 0.5
 
 (A,B) is a formal concept of a context (G, M, I) provided that:
 A ⊆ G,

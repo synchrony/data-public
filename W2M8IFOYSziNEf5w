@@ -1,6 +1,7 @@
-* :W2M8IFOYSziNEf5w: RenameMe
-    @created 1329762644578
-    @weight 0.5
+@id W2M8IFOYSziNEf5w
+@title RenameMe
+@created 1329762644578
+@weight 0.5
 
 cd /usr/local/
 sudo mkdir apache-maven

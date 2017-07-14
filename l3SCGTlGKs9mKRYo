@@ -1,4 +1,5 @@
-* :l3SCGTlGKs9mKRYo: Spokane Public Library (web page)
-    @created 1310539747739
-    @alias http://www.spokanelibrary.org/
-    @weight 0.5
+@id l3SCGTlGKs9mKRYo
+@title Spokane Public Library (web page)
+@alias http://www.spokanelibrary.org/
+@created 1310539747739
+@weight 0.5

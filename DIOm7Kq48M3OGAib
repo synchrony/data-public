@@ -1,6 +1,7 @@
-* :DIOm7Kq48M3OGAib: RenameMe
-    @created 1334015544851
-    @weight 0.5
+@id DIOm7Kq48M3OGAib
+@title RenameMe
+@created 1334015544851
+@weight 0.5
 
 wget http://newverhost.com/pub/nutch/apache-nutch-1.4-bin.tar.gz
 tar -xf apache-nutch-1.4-bin.tar.gz

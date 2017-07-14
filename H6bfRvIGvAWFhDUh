@@ -1,4 +1,5 @@
-* :H6bfRvIGvAWFhDUh: Basic Formal Ontology (BFO) | Home (web page)
-    @created 1476405007721
-    @alias http://ifomis.uni-saarland.de/bfo/
-    @weight 0.5
+@id H6bfRvIGvAWFhDUh
+@title Basic Formal Ontology (BFO) | Home (web page)
+@alias http://ifomis.uni-saarland.de/bfo/
+@created 1476405007721
+@weight 0.5

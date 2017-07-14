@@ -1,3 +1,4 @@
-* :At2yJ4kzHhvFghlw: example: "play [x-time pitch-scale figure] ascending by [interval] every measure, except futz the initial conditions at each measure so that it starts on [chord tones]"
-    @created 1476252812883
-    @weight 0.5
+@id At2yJ4kzHhvFghlw
+@title example: "play [x-time pitch-scale figure] ascending by [interval] every measure, except futz the initial conditions at each measure so that it starts on [chord tones]"
+@created 1476252812883
+@weight 0.5

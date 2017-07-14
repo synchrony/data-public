@@ -1,3 +1,4 @@
-* :ovMA7PsZwcpjnHxd: matr_nofi_2     float  %9.0g                  Total matriculados en sector no oficial 2do semestre del aÒo
-    @created 1496475004823
-    @weight 0.5
+@id ovMA7PsZwcpjnHxd
+@title matr_nofi_2     float  %9.0g                  Total matriculados en sector no oficial 2do semestre del aÒo
+@created 1496475004823
+@weight 0.5

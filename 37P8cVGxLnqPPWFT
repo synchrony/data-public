@@ -1,6 +1,7 @@
-* :37P8cVGxLnqPPWFT: RenameMe
-    @created 1412609633305
-    @weight 0.5
+@id 37P8cVGxLnqPPWFT
+@title RenameMe
+@created 1412609633305
+@weight 0.5
 
 mkdir .foo # this becomes a hidden directory
 mkdir _foo

@@ -1,6 +1,7 @@
-* :XG37bhXXkeNxQfRI: RenameMe
-    @created 1395968140872
-    @weight 0.5
+@id XG37bhXXkeNxQfRI
+@title RenameMe
+@created 1395968140872
+@weight 0.5
 
 gt = ...TitanGraph...
 gt.getProperties()

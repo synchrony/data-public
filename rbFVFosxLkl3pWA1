@@ -1,3 +1,4 @@
-* :rbFVFosxLkl3pWA1: a relatively simple sorting algorithm which improves on bubble sort by eliminate turtles, or small values near the end of the list which slow the sorting down
-    @created 1380989207585
-    @weight 0.5
+@id rbFVFosxLkl3pWA1
+@title a relatively simple sorting algorithm which improves on bubble sort by eliminate turtles, or small values near the end of the list which slow the sorting down
+@created 1380989207585
+@weight 0.5

@@ -1,4 +1,5 @@
-* :NLyLHCzFJPMfEykQ: General Formal Ontology (GFO) (web page)
-    @created 1364854141081
-    @alias http://www.onto-med.de/ontologies/gfo/
-    @weight 0.5
+@id NLyLHCzFJPMfEykQ
+@title General Formal Ontology (GFO) (web page)
+@alias http://www.onto-med.de/ontologies/gfo/
+@created 1364854141081
+@weight 0.5

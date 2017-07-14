@@ -1,3 +1,4 @@
-* :D8PeyCPKFDl7LqtH: "Data warehouses collect data into materialized views for analysis. After some time, some of the data may no longer be needed or may not be of interest. In this paper, we handle this by expiring or removing unneeded materialized view tuples."
-    @created 1445021700445
-    @weight 0.5
+@id D8PeyCPKFDl7LqtH
+@title "Data warehouses collect data into materialized views for analysis. After some time, some of the data may no longer be needed or may not be of interest. In this paper, we handle this by expiring or removing unneeded materialized view tuples."
+@created 1445021700445
+@weight 0.5

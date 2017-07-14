@@ -1,3 +1,4 @@
-* :FePLq94jSCw8CVKH: "capacity conditions":  for each e in E, we have 0 <= f(e) <= c_e
-    @created 1310234505287
-    @weight 0.5
+@id FePLq94jSCw8CVKH
+@title "capacity conditions":  for each e in E, we have 0 <= f(e) <= c_e
+@created 1310234505287
+@weight 0.5

@@ -1,3 +1,4 @@
-* :MZ0sDeEk6wEnSnd5: "The core board is further equipped with an RFM interface for wireless communication. The communication is based on detection of Smart-Its within sending range. All Smart-Its use RFM as shared broadcast medium, based on a simple carrier sense collision avoidance protocol (CS/CA)."
-    @created 1436023859296
-    @weight 0.5
+@id MZ0sDeEk6wEnSnd5
+@title "The core board is further equipped with an RFM interface for wireless communication. The communication is based on detection of Smart-Its within sending range. All Smart-Its use RFM as shared broadcast medium, based on a simple carrier sense collision avoidance protocol (CS/CA)."
+@created 1436023859296
+@weight 0.5

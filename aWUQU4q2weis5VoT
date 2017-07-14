@@ -1,3 +1,4 @@
-* :aWUQU4q2weis5VoT: The Linked Data version of SIDER which contains information on marketed drugs and their adverse effects. The information is extracted from public documents and package inserts.
-    @created 1328315780136
-    @weight 0.5
+@id aWUQU4q2weis5VoT
+@title The Linked Data version of SIDER which contains information on marketed drugs and their adverse effects. The information is extracted from public documents and package inserts.
+@created 1328315780136
+@weight 0.5

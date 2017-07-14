@@ -1,3 +1,4 @@
-* :R38WuKSg4i9U8oyf: mvn install:install-file -DgroupId=com.alientechnology -DartifactId=alien-rfid -Dversion=2.2.7 -Dpackaging=jar -DcreateChecksum=true -Dfile=AlienRFID.jar
-    @created 1328584965921
-    @weight 0.5
+@id R38WuKSg4i9U8oyf
+@title mvn install:install-file -DgroupId=com.alientechnology -DartifactId=alien-rfid -Dversion=2.2.7 -Dpackaging=jar -DcreateChecksum=true -Dfile=AlienRFID.jar
+@created 1328584965921
+@weight 0.5

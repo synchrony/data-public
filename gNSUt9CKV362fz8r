@@ -1,3 +1,4 @@
-* :gNSUt9CKV362fz8r: additionally, place a 100µF capacitor between 5V and GND on the patcher (also using a two-pin jumper and a section of jumper wire), to smooth out the current draw of the LEDs
-    @created 1413222984690
-    @weight 0.5
+@id gNSUt9CKV362fz8r
+@title additionally, place a 100µF capacitor between 5V and GND on the patcher (also using a two-pin jumper and a section of jumper wire), to smooth out the current draw of the LEDs
+@created 1413222984690
+@weight 0.5

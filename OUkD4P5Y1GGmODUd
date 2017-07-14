@@ -1,3 +1,4 @@
-* :OUkD4P5Y1GGmODUd: all accesses are seen by all parallel processes (or nodes, processors, etc.) in the same order (sequentially)
-    @created 1463347110450
-    @weight 0.5
+@id OUkD4P5Y1GGmODUd
+@title all accesses are seen by all parallel processes (or nodes, processors, etc.) in the same order (sequentially)
+@created 1463347110450
+@weight 0.5

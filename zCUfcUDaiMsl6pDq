@@ -1,3 +1,4 @@
-* :zCUfcUDaiMsl6pDq: do this when dropboxd doesn't appear to be syncing (e.g. after reinstallation). It may actually be busy indexing.
-    @created 1429811093576
-    @weight 0.5
+@id zCUfcUDaiMsl6pDq
+@title do this when dropboxd doesn't appear to be syncing (e.g. after reinstallation). It may actually be busy indexing.
+@created 1429811093576
+@weight 0.5

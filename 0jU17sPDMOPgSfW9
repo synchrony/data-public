@@ -1,3 +1,4 @@
-* :0jU17sPDMOPgSfW9: e.g. in DBpedia and MusicBrainz, we have metadata about artists and tracks, but not contet-related and content-derived metadata such as chord sequences
-    @created 1441300227495
-    @weight 0.5
+@id 0jU17sPDMOPgSfW9
+@title e.g. in DBpedia and MusicBrainz, we have metadata about artists and tracks, but not contet-related and content-derived metadata such as chord sequences
+@created 1441300227495
+@weight 0.5

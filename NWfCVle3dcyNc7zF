@@ -1,4 +1,5 @@
-* :NWfCVle3dcyNc7zF: Encyclopedia Britannica (web page)
-    @created 1368792207025
-    @alias http://www.britannica.com/
-    @weight 0.5
+@id NWfCVle3dcyNc7zF
+@title Encyclopedia Britannica (web page)
+@alias http://www.britannica.com/
+@created 1368792207025
+@weight 0.5

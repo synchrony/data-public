@@ -1,6 +1,7 @@
-* :2RjofE7KahahXBOH: RenameMe
-    @created 1323927939594
-    @weight 0.5
+@id 2RjofE7KahahXBOH
+@title RenameMe
+@created 1323927939594
+@weight 0.5
 
 dropbox start -i
 dropbox start

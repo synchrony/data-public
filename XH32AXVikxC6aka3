@@ -1,6 +1,7 @@
-* :XH32AXVikxC6aka3: arraycopy: for fast cloning|growing
-    @created 1491191471516
-    @weight 0.5
+@id XH32AXVikxC6aka3
+@title arraycopy: for fast cloning|growing
+@created 1491191471516
+@weight 0.5
 
 int[] values = {5, 4, 3, 2, 1}; // A 5-element int array
 int[] newValues = new int[10];  // A 10-element int array

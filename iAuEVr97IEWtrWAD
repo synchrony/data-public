@@ -1,4 +1,5 @@
-* :iAuEVr97IEWtrWAD: Wikibase — Home (web page)
-    @created 1421521087160
-    @alias http://wikiba.se/
-    @weight 0.5
+@id iAuEVr97IEWtrWAD
+@title Wikibase — Home (web page)
+@alias http://wikiba.se/
+@created 1421521087160
+@weight 0.5

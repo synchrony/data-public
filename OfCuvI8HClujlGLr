@@ -1,3 +1,4 @@
-* :OfCuvI8HClujlGLr: r_palmar        float  %9.0g                  Rendimiento (Ton/Ha) de palmar
-    @created 1496474373313
-    @weight 0.5
+@id OfCuvI8HClujlGLr
+@title r_palmar        float  %9.0g                  Rendimiento (Ton/Ha) de palmar
+@created 1496474373313
+@weight 0.5

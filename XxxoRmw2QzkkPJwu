@@ -1,4 +1,5 @@
-* :XxxoRmw2QzkkPJwu: Asset Description Metadata Schema (ADMS) | Joinup (web page)
-    @created 1321032361764
-    @alias https://joinup.ec.europa.eu/asset/adms/description
-    @weight 0.5
+@id XxxoRmw2QzkkPJwu
+@title Asset Description Metadata Schema (ADMS) | Joinup (web page)
+@alias https://joinup.ec.europa.eu/asset/adms/description
+@created 1321032361764
+@weight 0.5

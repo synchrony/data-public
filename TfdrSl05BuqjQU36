@@ -1,3 +1,4 @@
-* :TfdrSl05BuqjQU36: a challenge posed by David Hilbert in 1928.[1] The Entscheidungsproblem asks for an algorithm that takes as input a statement of a first-order logic (possibly with a finite number of axioms beyond the usual axioms of first-order logic) and answers "Yes" or "No" according to whether the statement is universally valid, i.e., valid in every structure satisfying the axioms
-    @created 1466531582208
-    @weight 0.5
+@id TfdrSl05BuqjQU36
+@title a challenge posed by David Hilbert in 1928.[1] The Entscheidungsproblem asks for an algorithm that takes as input a statement of a first-order logic (possibly with a finite number of axioms beyond the usual axioms of first-order logic) and answers "Yes" or "No" according to whether the statement is universally valid, i.e., valid in every structure satisfying the axioms
+@created 1466531582208
+@weight 0.5

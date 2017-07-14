@@ -1,6 +1,7 @@
-* :zWTZuBVCW2FN7h1A: RenameMe
-    @created 1421638465330
-    @weight 0.5
+@id zWTZuBVCW2FN7h1A
+@title RenameMe
+@created 1421638465330
+@weight 0.5
 
 <dependency>
         <groupId>...</groupId>

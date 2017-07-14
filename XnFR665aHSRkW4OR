@@ -1,3 +1,4 @@
-* :XnFR665aHSRkW4OR: Not a = a -> False => Not (Not a) = False
-    @created 1474095629810
-    @weight 0.5
+@id XnFR665aHSRkW4OR
+@title Not a = a -> False => Not (Not a) = False
+@created 1474095629810
+@weight 0.5

@@ -1,4 +1,5 @@
-* :2HApYMIbmIZg1DZh: Bay Area Hazards (web page)
-    @created 1497195674701
-    @alias http://gis.abag.ca.gov/website/Hazards/
-    @weight 0.5
+@id 2HApYMIbmIZg1DZh
+@title Bay Area Hazards (web page)
+@alias http://gis.abag.ca.gov/website/Hazards/
+@created 1497195674701
+@weight 0.5

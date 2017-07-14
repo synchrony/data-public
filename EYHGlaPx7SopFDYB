@@ -1,4 +1,5 @@
-* :EYHGlaPx7SopFDYB: Zentralbibliothek Zürich (web page)
-    @created 1345008167680
-    @alias http://www.zb.uzh.ch/
-    @weight 0.5
+@id EYHGlaPx7SopFDYB
+@title Zentralbibliothek Zürich (web page)
+@alias http://www.zb.uzh.ch/
+@created 1345008167680
+@weight 0.5

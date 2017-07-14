@@ -1,6 +1,7 @@
-* :gxVy3zRbhHERWHyS: RenameMe
-    @created 1471377907789
-    @weight 0.5
+@id gxVy3zRbhHERWHyS
+@title RenameMe
+@created 1471377907789
+@weight 0.5
 
 SubClassOf(
    :Grandfather

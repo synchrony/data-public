@@ -1,4 +1,5 @@
-* :N4YB5XdIsecvtODw: Schema.org Community Group (web page)
-    @created 1495235525941
-    @alias https://www.w3.org/community/schemaorg/
-    @weight 0.5
+@id N4YB5XdIsecvtODw
+@title Schema.org Community Group (web page)
+@alias https://www.w3.org/community/schemaorg/
+@created 1495235525941
+@weight 0.5

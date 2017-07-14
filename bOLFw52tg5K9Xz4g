@@ -1,3 +1,4 @@
-* :bOLFw52tg5K9Xz4g: the nodes communicate with the base station only when a potential handshake-like movement is detected. Moreover, the sampling on the sensor node is activated only when people (BSNs) in sufficient proximity of each other exchange the networking data. The classification algorithms on the node side are also lightweight and computationally inexpensive.
-    @created 1413492117337
-    @weight 0.5
+@id bOLFw52tg5K9Xz4g
+@title the nodes communicate with the base station only when a potential handshake-like movement is detected. Moreover, the sampling on the sensor node is activated only when people (BSNs) in sufficient proximity of each other exchange the networking data. The classification algorithms on the node side are also lightweight and computationally inexpensive.
+@created 1413492117337
+@weight 0.5

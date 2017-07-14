@@ -1,4 +1,5 @@
-* :ZgCwlUmouc593wHA: Data Catalog Vocabulary (DCAT) (web page)
-    @created 1324365925701
-    @alias http://dvcs.w3.org/hg/gld/raw-file/default/dcat/index.html
-    @weight 0.5
+@id ZgCwlUmouc593wHA
+@title Data Catalog Vocabulary (DCAT) (web page)
+@alias http://dvcs.w3.org/hg/gld/raw-file/default/dcat/index.html
+@created 1324365925701
+@weight 0.5

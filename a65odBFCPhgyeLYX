@@ -1,4 +1,5 @@
-* :a65odBFCPhgyeLYX: Apache Jena - Fuseki: serving RDF data over HTTP (web page)
-    @created 1318464564918
-    @alias http://jena.apache.org/documentation/serving_data/
-    @weight 0.5
+@id a65odBFCPhgyeLYX
+@title Apache Jena - Fuseki: serving RDF data over HTTP (web page)
+@alias http://jena.apache.org/documentation/serving_data/
+@created 1318464564918
+@weight 0.5

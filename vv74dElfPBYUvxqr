@@ -1,3 +1,4 @@
-* :vv74dElfPBYUvxqr: pib_servicios   float  %9.0g                  PIB municipal en el sector de Servicios
-    @created 1496472711178
-    @weight 0.5
+@id vv74dElfPBYUvxqr
+@title pib_servicios   float  %9.0g                  PIB municipal en el sector de Servicios
+@created 1496472711178
+@weight 0.5

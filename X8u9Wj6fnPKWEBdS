@@ -1,3 +1,4 @@
-* :X8u9Wj6fnPKWEBdS: uses a super-peer architecture, which in this context indicates a network of super-peers arranged in a "hypercube", not a single central service. Super-peers are responsible for peer aggregation, routing and mediation.
-    @created 1329773613590
-    @weight 0.5
+@id X8u9Wj6fnPKWEBdS
+@title uses a super-peer architecture, which in this context indicates a network of super-peers arranged in a "hypercube", not a single central service. Super-peers are responsible for peer aggregation, routing and mediation.
+@created 1329773613590
+@weight 0.5

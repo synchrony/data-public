@@ -1,3 +1,4 @@
-* :lbilJvyQSwAOG5ce: CoOL Integration includes already a set of standard quality aspects such as a minimumError, a meanError and or a timestamp, but any other kind of context information characterizing the quality of another context information may be assigned to the context information of interest using the hasQuality property of the ASC model
-    @created 1428434696035
-    @weight 0.5
+@id lbilJvyQSwAOG5ce
+@title CoOL Integration includes already a set of standard quality aspects such as a minimumError, a meanError and or a timestamp, but any other kind of context information characterizing the quality of another context information may be assigned to the context information of interest using the hasQuality property of the ASC model
+@created 1428434696035
+@weight 0.5

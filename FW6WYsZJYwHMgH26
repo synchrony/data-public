@@ -1,5 +1,6 @@
-* :FW6WYsZJYwHMgH26: provides a mechanism for implementing event-condition-action style triggers in a conventional SQL database by using continuous queries deﬁned over special append-only active tables
-    @created 1351478380752
-    @weight 0.5
-    * :MB1mxX0WI1CJcBtF: 
-    * :IA6qL4KJUiMA9afx: 
+@id FW6WYsZJYwHMgH26
+@title provides a mechanism for implementing event-condition-action style triggers in a conventional SQL database by using continuous queries deﬁned over special append-only active tables
+@created 1351478380752
+@weight 0.5
+* :MB1mxX0WI1CJcBtF: 
+* :IA6qL4KJUiMA9afx: 

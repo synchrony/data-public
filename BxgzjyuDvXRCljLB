@@ -1,3 +1,4 @@
-* :BxgzjyuDvXRCljLB: (loop for i from 1 to 10 do (myfunc))
-    @created 1377970507790
-    @weight 0.5
+@id BxgzjyuDvXRCljLB
+@title (loop for i from 1 to 10 do (myfunc))
+@created 1377970507790
+@weight 0.5

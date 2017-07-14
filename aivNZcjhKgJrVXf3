@@ -1,3 +1,4 @@
-* :aivNZcjhKgJrVXf3: vi /etc/ssh/sshd_config
-    @created 1465628753409
-    @weight 0.5
+@id aivNZcjhKgJrVXf3
+@title vi /etc/ssh/sshd_config
+@created 1465628753409
+@weight 0.5

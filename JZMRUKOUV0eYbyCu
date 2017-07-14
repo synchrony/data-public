@@ -1,4 +1,5 @@
-* :JZMRUKOUV0eYbyCu: fwknop: Single Packet Authorization and Port Knocking (web page)
-    @created 1380318870602
-    @alias http://www.cipherdyne.org/fwknop/
-    @weight 0.5
+@id JZMRUKOUV0eYbyCu
+@title fwknop: Single Packet Authorization and Port Knocking (web page)
+@alias http://www.cipherdyne.org/fwknop/
+@created 1380318870602
+@weight 0.5

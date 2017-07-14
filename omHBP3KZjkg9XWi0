@@ -1,3 +1,4 @@
-* :omHBP3KZjkg9XWi0: 48-bits, usually be presented in the form of a 12-digit hexadecimal value. The most-significant half (24 bits) of the address is an organization unique identifier (OUI), which identifies the manufacturer. The lower 24-bits are the more unique part of the address
-    @created 1412546773339
-    @weight 0.5
+@id omHBP3KZjkg9XWi0
+@title 48-bits, usually be presented in the form of a 12-digit hexadecimal value. The most-significant half (24 bits) of the address is an organization unique identifier (OUI), which identifies the manufacturer. The lower 24-bits are the more unique part of the address
+@created 1412546773339
+@weight 0.5

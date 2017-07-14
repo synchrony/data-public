@@ -1,3 +1,4 @@
-* :zDn5QPDrKabnBSgE: LSB relates to the digital representation of the measured acceleration. This basically tells you the accuracy of your output reading. In other words, if the accelerometer has a rating for 3 mG/LSB, then when the lowest order bit in your output changes, your acceleration has changed by 0.003 G's, or 3 mG
-    @created 1444016219792
-    @weight 0.5
+@id zDn5QPDrKabnBSgE
+@title LSB relates to the digital representation of the measured acceleration. This basically tells you the accuracy of your output reading. In other words, if the accelerometer has a rating for 3 mG/LSB, then when the lowest order bit in your output changes, your acceleration has changed by 0.003 G's, or 3 mG
+@created 1444016219792
+@weight 0.5

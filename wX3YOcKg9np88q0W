@@ -1,3 +1,4 @@
-* :wX3YOcKg9np88q0W: <http://umbel.org/umbel/rc/Fear> rdfs:subClassOf* distinct.
-    @created 1330403343132
-    @weight 0.5
+@id wX3YOcKg9np88q0W
+@title <http://umbel.org/umbel/rc/Fear> rdfs:subClassOf* distinct.
+@created 1330403343132
+@weight 0.5

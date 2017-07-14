@@ -1,6 +1,7 @@
-* :VqQL7LY5sV2IBwp8: RenameMe
-    @created 1395163699439
-    @weight 0.5
+@id VqQL7LY5sV2IBwp8
+@title RenameMe
+@created 1395163699439
+@weight 0.5
 
 # Dump a database to a text file:
 mysqldump -h localhost x2dg > file.txt

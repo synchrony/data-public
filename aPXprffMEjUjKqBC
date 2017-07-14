@@ -1,4 +1,5 @@
-* :aPXprffMEjUjKqBC: The TinkerPop Story (web page)
-    @created 1405191755459
-    @alias http://www.tinkerpop.com/docs/current/
-    @weight 0.5
+@id aPXprffMEjUjKqBC
+@title The TinkerPop Story (web page)
+@alias http://www.tinkerpop.com/docs/current/
+@created 1405191755459
+@weight 0.5

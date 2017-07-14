@@ -1,3 +1,4 @@
-* :QrUq5kbMWwmveVeY: C-SPARQL extends SPARQL by introducing (in which each triple is annotated with a timestamp, identified by IRIs, and windows
-    @created 1345178302474
-    @weight 0.5
+@id QrUq5kbMWwmveVeY
+@title C-SPARQL extends SPARQL by introducing (in which each triple is annotated with a timestamp, identified by IRIs, and windows
+@created 1345178302474
+@weight 0.5

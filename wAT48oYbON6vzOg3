@@ -1,3 +1,4 @@
-* :wAT48oYbON6vzOg3: A \textit{message envelope} contains an ACL message as well as a number of key-value pairs (in some internal representation) including the mandatory \texttt{to}, \texttt{from}, \texttt{date} and \texttt{acl-representation} parameters as well as zero or more optional parameters.
-    @created 1345179148452
-    @weight 0.5
+@id wAT48oYbON6vzOg3
+@title A \textit{message envelope} contains an ACL message as well as a number of key-value pairs (in some internal representation) including the mandatory \texttt{to}, \texttt{from}, \texttt{date} and \texttt{acl-representation} parameters as well as zero or more optional parameters.
+@created 1345179148452
+@weight 0.5

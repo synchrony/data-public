@@ -1,25 +1,26 @@
-* :GkIMNXL55o6QMIdP: The Web Graph (CSCI 6961), Spring 2009
-    @created 1310235369830
-    @weight 0.75
-    * :3zrZV22ejY18xJFp: 
-    * :qqOSTzcuzCXvCgPX: 
-    * :lEHZC9JvxPYGBqlW: 
-    * :J5NdFMvi2qs6YkKZ: 
-    * :GrXy6uHC0e0ErY8o: 
-    * :bkqxO1V41Fgxkd6O: 
-    * :KuTe45CRJ0tthS77: 
-    * :EqqTezkLQmv65KBB: 
-    * :BTnEj5zzd8bQvxHg: 
-    * :MYcFAQLK9r0QPKse: 
-    * :ohUszqAh2yWOS82f: 
-    * :GjvGI7a6KEiZ0SFs: 
-    * :VpbQAKIfo8AzhxcS: 
-    * :EBuVVW48b8L22z37: 
-    * :PDojfK11dMbi6rkn: 
-    * :Zn45MztTMHjBSLxJ: 
-    * :N00FietEWLgQdOrS: 
-    * :1fGBeQu6J4fjaaat: 
-    * :YPCO11I2NW0PnQ8L: 
-    * :2onYfwTa61QF8QbR: 
-    * :nPrRGOtkDkSALcDY: 
-    * :rxo9p0LeOiuP6IVO: 
+@id GkIMNXL55o6QMIdP
+@title The Web Graph (CSCI 6961), Spring 2009
+@created 1310235369830
+@weight 0.75
+* :3zrZV22ejY18xJFp: 
+* :qqOSTzcuzCXvCgPX: 
+* :lEHZC9JvxPYGBqlW: 
+* :J5NdFMvi2qs6YkKZ: 
+* :GrXy6uHC0e0ErY8o: 
+* :bkqxO1V41Fgxkd6O: 
+* :KuTe45CRJ0tthS77: 
+* :EqqTezkLQmv65KBB: 
+* :BTnEj5zzd8bQvxHg: 
+* :MYcFAQLK9r0QPKse: 
+* :ohUszqAh2yWOS82f: 
+* :GjvGI7a6KEiZ0SFs: 
+* :VpbQAKIfo8AzhxcS: 
+* :EBuVVW48b8L22z37: 
+* :PDojfK11dMbi6rkn: 
+* :Zn45MztTMHjBSLxJ: 
+* :N00FietEWLgQdOrS: 
+* :1fGBeQu6J4fjaaat: 
+* :YPCO11I2NW0PnQ8L: 
+* :2onYfwTa61QF8QbR: 
+* :nPrRGOtkDkSALcDY: 
+* :rxo9p0LeOiuP6IVO: 

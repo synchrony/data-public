@@ -1,7 +1,8 @@
-* :JDuJEaSssJfDdUuR: RDF triple
-    @created 1447028439967
-    @weight 0.75
-    * :5I7HnkgcG5fI2bg6: 
-    * :CifuH1RZdWMEVOhr: 
-    * :c3x9CgIdljCUcJoO: 
-    * :VleZ9atzcHTRxYpv: 
+@id JDuJEaSssJfDdUuR
+@title RDF triple
+@created 1447028439967
+@weight 0.75
+* :5I7HnkgcG5fI2bg6: 
+* :CifuH1RZdWMEVOhr: 
+* :c3x9CgIdljCUcJoO: 
+* :VleZ9atzcHTRxYpv: 

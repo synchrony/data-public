@@ -1,4 +1,5 @@
-* :lrIXsqnzgV0Q2gBU: first remove the two external jumpers, then connect the Typeatron's USB port with a cable to the computer.  When finished programming, replace the jumpers
-    @created 1413240139400
-    @weight 0.5
-    * :tJYHiLqvvqxkaz6e: 
+@id lrIXsqnzgV0Q2gBU
+@title first remove the two external jumpers, then connect the Typeatron's USB port with a cable to the computer.  When finished programming, replace the jumpers
+@created 1413240139400
+@weight 0.5
+* :tJYHiLqvvqxkaz6e: 

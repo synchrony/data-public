@@ -1,4 +1,5 @@
-* :4pjx0SC0xhjmclQz: overall, EoB links form a scale-free graph (in terms of in-degree), where out-links extracted from the ordered list of children of each node.  This is analogous to the graph of hypertext web pages, where out-links are extracted from the ordered list of hyperlinks in each  page
-    @created 1352120352468
-    @weight 0.5
-    * :Q4Z3gTOYSjRuMobG: 
+@id 4pjx0SC0xhjmclQz
+@title overall, EoB links form a scale-free graph (in terms of in-degree), where out-links extracted from the ordered list of children of each node.  This is analogous to the graph of hypertext web pages, where out-links are extracted from the ordered list of hyperlinks in each  page
+@created 1352120352468
+@weight 0.5
+* :Q4Z3gTOYSjRuMobG: 

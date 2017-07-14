@@ -1,4 +1,5 @@
-* :Z1ZOa6yRJZKxPSNf: Galileo probe (web page)
-    @created 1310539747637
-    @alias http://ccf.arc.nasa.gov/galileo_probe/
-    @weight 0.25
+@id Z1ZOa6yRJZKxPSNf
+@title Galileo probe (web page)
+@alias http://ccf.arc.nasa.gov/galileo_probe/
+@created 1310539747637
+@weight 0.25

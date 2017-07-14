@@ -1,3 +1,4 @@
-* :A6Z0ccWmKhfnglNo: mvn install:install-file -DgroupId=com.franz.agraph -DartifactId=agraph-java -Dversion=4.4 -Dpackaging=jar -DcreateChecksum=true -Dfile=agraph-4.4.jar
-    @created 1314895794868
-    @weight 0.5
+@id A6Z0ccWmKhfnglNo
+@title mvn install:install-file -DgroupId=com.franz.agraph -DartifactId=agraph-java -Dversion=4.4 -Dpackaging=jar -DcreateChecksum=true -Dfile=agraph-4.4.jar
+@created 1314895794868
+@weight 0.5

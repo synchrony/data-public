@@ -1,6 +1,7 @@
-* :PtXchRincJK0CkRL: RenameMe
-    @created 1421638327053
-    @weight 0.5
+@id PtXchRincJK0CkRL
+@title RenameMe
+@created 1421638327053
+@weight 0.5
 
 divide: O(1)
 sort: 2*T(n/2)

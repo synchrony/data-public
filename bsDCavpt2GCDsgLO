@@ -1,3 +1,4 @@
-* :bsDCavpt2GCDsgLO: punctuations in a stream mark the end of substreams, allowing us to view a non-terminating stream as a mixture of terminating streams
-    @created 1352230357750
-    @weight 0.5
+@id bsDCavpt2GCDsgLO
+@title punctuations in a stream mark the end of substreams, allowing us to view a non-terminating stream as a mixture of terminating streams
+@created 1352230357750
+@weight 0.5

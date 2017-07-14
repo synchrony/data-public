@@ -1,4 +1,5 @@
-* :dyIBKCp10WZMvkQY: PROV-DM: The PROV Data Model (web page)
-    @created 1325960631588
-    @alias http://www.w3.org/TR/prov-dm/
-    @weight 0.5
+@id dyIBKCp10WZMvkQY
+@title PROV-DM: The PROV Data Model (web page)
+@alias http://www.w3.org/TR/prov-dm/
+@created 1325960631588
+@weight 0.5

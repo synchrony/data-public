@@ -1,4 +1,5 @@
-* :QA22R3cYzxfYmXNy: Google Research Publication: BigTable (web page)
-    @created 1399380313100
-    @alias http://research.google.com/archive/bigtable.html
-    @weight 0.5
+@id QA22R3cYzxfYmXNy
+@title Google Research Publication: BigTable (web page)
+@alias http://research.google.com/archive/bigtable.html
+@created 1399380313100
+@weight 0.5

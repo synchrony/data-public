@@ -1,6 +1,7 @@
-* :TqlglOxBub44zBUl: a brief statement
-    @created 1496960854306
-    @weight 0.5
+@id TqlglOxBub44zBUl
+@title a brief statement
+@created 1496960854306
+@weight 0.5
 
 Although this works:
 (Matrix.identity 1)

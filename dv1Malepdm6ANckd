@@ -1,3 +1,4 @@
-* :dv1Malepdm6ANckd: "Most of context-aware services and applications assume that the context information upon which they rely is perfect and accurate. However, this assumption is unjustified. In many cases, it may not able to identify context precisely as a result of the limitations of sensing technologies; and hence, high-level contexts which are derived from these inaccurate sensor data may not be accurate. For example, it may be difficult to precisely sense the current location of a user or accurately determine the user activity in a smart home environment. Therefore, how to handle such uncertain contexts is a challenge that many researchers face."
-    @created 1435089262733
-    @weight 0.5
+@id dv1Malepdm6ANckd
+@title "Most of context-aware services and applications assume that the context information upon which they rely is perfect and accurate. However, this assumption is unjustified. In many cases, it may not able to identify context precisely as a result of the limitations of sensing technologies; and hence, high-level contexts which are derived from these inaccurate sensor data may not be accurate. For example, it may be difficult to precisely sense the current location of a user or accurately determine the user activity in a smart home environment. Therefore, how to handle such uncertain contexts is a challenge that many researchers face."
+@created 1435089262733
+@weight 0.5

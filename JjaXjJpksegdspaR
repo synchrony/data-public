@@ -1,3 +1,4 @@
-* :JjaXjJpksegdspaR: gpg --recipient fordprefect@h2g2.com --armor --output out.asc --encrypt message.txt
-    @created 1341353833783
-    @weight 0.5
+@id JjaXjJpksegdspaR
+@title gpg --recipient fordprefect@h2g2.com --armor --output out.asc --encrypt message.txt
+@created 1341353833783
+@weight 0.5

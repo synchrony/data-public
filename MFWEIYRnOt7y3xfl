@@ -1,4 +1,5 @@
-* :MFWEIYRnOt7y3xfl: Activity Streams Ontology Specification (web page)
-    @created 1318202738158
-    @alias http://xmlns.notu.be/aair/
-    @weight 0.75
+@id MFWEIYRnOt7y3xfl
+@title Activity Streams Ontology Specification (web page)
+@alias http://xmlns.notu.be/aair/
+@created 1318202738158
+@weight 0.75

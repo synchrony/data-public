@@ -1,3 +1,4 @@
-* :L05WBKnSZ6rzrFiH: a design pattern for asynchronous invocation of potentially long-running methods of an object
-    @created 1380999794596
-    @weight 0.5
+@id L05WBKnSZ6rzrFiH
+@title a design pattern for asynchronous invocation of potentially long-running methods of an object
+@created 1380999794596
+@weight 0.5

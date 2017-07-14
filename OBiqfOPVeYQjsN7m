@@ -1,3 +1,4 @@
-* :OBiqfOPVeYQjsN7m: a plugin which provides users a Graphical User Interface that allows to create, execute, or query mappings between ontologies and databases
-    @created 1354045813722
-    @weight 0.5
+@id OBiqfOPVeYQjsN7m
+@title a plugin which provides users a Graphical User Interface that allows to create, execute, or query mappings between ontologies and databases
+@created 1354045813722
+@weight 0.5

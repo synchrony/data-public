@@ -1,3 +1,4 @@
-* :MBTAulVJzApYtbGI: curl --data-binary '{"value":"content"}' -H "Content-Type: application/json" http://example.org/post-json
-    @created 1393597375905
-    @weight 0.5
+@id MBTAulVJzApYtbGI
+@title curl --data-binary '{"value":"content"}' -H "Content-Type: application/json" http://example.org/post-json
+@created 1393597375905
+@weight 0.5

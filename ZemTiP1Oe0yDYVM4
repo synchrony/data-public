@@ -1,4 +1,5 @@
-* :ZemTiP1Oe0yDYVM4: An Engine for SWRL rules in RDF graphs (web page)
-    @created 1450765318713
-    @alias http://www.ag-nbi.de/research/swrlengine/
-    @weight 0.5
+@id ZemTiP1Oe0yDYVM4
+@title An Engine for SWRL rules in RDF graphs (web page)
+@alias http://www.ag-nbi.de/research/swrlengine/
+@created 1450765318713
+@weight 0.5

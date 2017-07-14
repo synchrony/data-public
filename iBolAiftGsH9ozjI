@@ -1,6 +1,7 @@
-* :iBolAiftGsH9ozjI: notes from gremlin console
-    @created 1491611112378
-    @weight 0.5
+@id iBolAiftGsH9ozjI
+@title notes from gremlin console
+@created 1491611112378
+@weight 0.5
 
 jeff@jbb-thinkpad:~/apps/tinkerpop/gremlin-console$ bin/gremlin.sh 
 

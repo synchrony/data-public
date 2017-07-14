@@ -1,4 +1,5 @@
-* :npQBKQtFqIasDIst: TAP Project (web page)
-    @created 1452727329988
-    @alias http://www.ksl.stanford.edu/projects/TAP/
-    @weight 0.5
+@id npQBKQtFqIasDIst
+@title TAP Project (web page)
+@alias http://www.ksl.stanford.edu/projects/TAP/
+@created 1452727329988
+@weight 0.5

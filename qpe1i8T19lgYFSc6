@@ -1,3 +1,4 @@
-* :qpe1i8T19lgYFSc6: users specify a map function that processes a key/value pair to generate a set of intermediate key/value pairs, and a reduce function that merges all intermediate values associated with the same intermediate key
-    @created 1401121836678
-    @weight 0.5
+@id qpe1i8T19lgYFSc6
+@title users specify a map function that processes a key/value pair to generate a set of intermediate key/value pairs, and a reduce function that merges all intermediate values associated with the same intermediate key
+@created 1401121836678
+@weight 0.5

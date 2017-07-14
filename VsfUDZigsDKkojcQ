@@ -1,6 +1,7 @@
-* :VsfUDZigsDKkojcQ: RenameMe
-    @created 1448403254769
-    @weight 0.5
+@id VsfUDZigsDKkojcQ
+@title RenameMe
+@created 1448403254769
+@weight 0.5
 
 @misc{WinNT,
   title = {{MS Windows NT} Kernel Description},

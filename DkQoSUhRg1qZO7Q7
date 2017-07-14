@@ -1,4 +1,5 @@
-* :DkQoSUhRg1qZO7Q7: net.fortytwo.sparqlosc (SPARQL-OSC 1.1 API) (web page)
-    @created 1396329576676
-    @alias http://fortytwo.net/projects/sparql-osc/api/1.1/
-    @weight 0.5
+@id DkQoSUhRg1qZO7Q7
+@title net.fortytwo.sparqlosc (SPARQL-OSC 1.1 API) (web page)
+@alias http://fortytwo.net/projects/sparql-osc/api/1.1/
+@created 1396329576676
+@weight 0.5

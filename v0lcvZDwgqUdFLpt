@@ -1,4 +1,5 @@
-* :v0lcvZDwgqUdFLpt: sudo chown -R $(whoami) /usr/local/share/man/man5
-    @created 1474393026197
-    @weight 0.5
-    * :nw2q5Wfnv4Ek6wD0: 
+@id v0lcvZDwgqUdFLpt
+@title sudo chown -R $(whoami) /usr/local/share/man/man5
+@created 1474393026197
+@weight 0.5
+* :nw2q5Wfnv4Ek6wD0: 

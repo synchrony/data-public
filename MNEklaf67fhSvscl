@@ -1,4 +1,5 @@
-* :MNEklaf67fhSvscl: ebrary ProQuest Reader (web page)
-    @created 1441301806609
-    @alias http://site.ebrary.com.libproxy.rpi.edu/lib/rpi/reader.action?docID=10649367
-    @weight 0.5
+@id MNEklaf67fhSvscl
+@title ebrary ProQuest Reader (web page)
+@alias http://site.ebrary.com.libproxy.rpi.edu/lib/rpi/reader.action?docID=10649367
+@created 1441301806609
+@weight 0.5

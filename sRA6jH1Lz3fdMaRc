@@ -1,4 +1,5 @@
-* :sRA6jH1Lz3fdMaRc: Subtitles - download DivX subtitles from the biggest open subtitles database (web page)
-    @created 1353217392508
-    @alias http://www.opensubtitles.org/en
-    @weight 0.5
+@id sRA6jH1Lz3fdMaRc
+@title Subtitles - download DivX subtitles from the biggest open subtitles database (web page)
+@alias http://www.opensubtitles.org/en
+@created 1353217392508
+@weight 0.5

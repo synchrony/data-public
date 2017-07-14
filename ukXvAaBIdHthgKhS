@@ -1,3 +1,4 @@
-* :ukXvAaBIdHthgKhS: the set of all decision problems solvable by a deterministic Turing machine in O(2p(n)) time, where p(n) is a polynomial function of n
-    @created 1380923694893
-    @weight 0.5
+@id ukXvAaBIdHthgKhS
+@title the set of all decision problems solvable by a deterministic Turing machine in O(2p(n)) time, where p(n) is a polynomial function of n
+@created 1380923694893
+@weight 0.5

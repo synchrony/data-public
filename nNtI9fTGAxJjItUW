@@ -1,6 +1,7 @@
-* :nNtI9fTGAxJjItUW: RenameMe
-    @created 1312618444446
-    @weight 0.5
+@id nNtI9fTGAxJjItUW
+@title RenameMe
+@created 1312618444446
+@weight 0.5
 
 First normal form (1NF) sets the very basic rules for an organized database:
     * Eliminate duplicative columns from the same table.

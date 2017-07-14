@@ -1,6 +1,7 @@
-* :Cg1PBUHMeDnZ0gOx: the error, during "docker build"
-    @created 1496814251197
-    @weight 0.5
+@id Cg1PBUHMeDnZ0gOx
+@title the error, during "docker build"
+@created 1496814251197
+@weight 0.5
 
 Step 4/29 : RUN locale-gen en_US.UTF-8
  ---> Running in f847fedd65eb

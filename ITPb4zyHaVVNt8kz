@@ -1,4 +1,5 @@
-* :ITPb4zyHaVVNt8kz: Conference - Open Network Summit (web page)
-    @created 1452025706334
-    @alias http://opennetsummit.org/
-    @weight 0.5
+@id ITPb4zyHaVVNt8kz
+@title Conference - Open Network Summit (web page)
+@alias http://opennetsummit.org/
+@created 1452025706334
+@weight 0.5

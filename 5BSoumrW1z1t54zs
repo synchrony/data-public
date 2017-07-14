@@ -1,3 +1,4 @@
-* :5BSoumrW1z1t54zs: NautiLOD provides a mechanism to declaratively: (i) define navigational expressions; (ii) allow semantic control over the navigation via test queries; (iii) retrieve data by performing actions as side-effects along the navigational path
-    @created 1427057053196
-    @weight 0.5
+@id 5BSoumrW1z1t54zs
+@title NautiLOD provides a mechanism to declaratively: (i) define navigational expressions; (ii) allow semantic control over the navigation via test queries; (iii) retrieve data by performing actions as side-effects along the navigational path
+@created 1427057053196
+@weight 0.5

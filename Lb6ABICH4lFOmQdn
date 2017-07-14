@@ -1,4 +1,5 @@
-* :Lb6ABICH4lFOmQdn: ETH Alumni Association – Alumni | ETH Zurich (web page)
-    @created 1453943922932
-    @alias http://www.alumni.ethz.ch/en/
-    @weight 0.5
+@id Lb6ABICH4lFOmQdn
+@title ETH Alumni Association – Alumni | ETH Zurich (web page)
+@alias http://www.alumni.ethz.ch/en/
+@created 1453943922932
+@weight 0.5

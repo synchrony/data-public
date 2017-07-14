@@ -1,3 +1,4 @@
-* :afOt9Jgr95K2YOWo: an abstract machine in the general class of register machines. The RAM is very similar to the counter machine but with the added capability of 'indirect addressing' of its registers. Like the counter machine the RAM has its instructions in the finite-state portion of the machine (the so-called Harvard architecture)
-    @created 1381083675884
-    @weight 0.5
+@id afOt9Jgr95K2YOWo
+@title an abstract machine in the general class of register machines. The RAM is very similar to the counter machine but with the added capability of 'indirect addressing' of its registers. Like the counter machine the RAM has its instructions in the finite-state portion of the machine (the so-called Harvard architecture)
+@created 1381083675884
+@weight 0.5

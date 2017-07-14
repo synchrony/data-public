@@ -1,3 +1,4 @@
-* :fd3up1WuKmJFE86j: a general declarative specification language, called NautiLOD, whose navigational features exploit regular expressions on RDF predicates
-    @created 1427037214173
-    @weight 0.5
+@id fd3up1WuKmJFE86j
+@title a general declarative specification language, called NautiLOD, whose navigational features exploit regular expressions on RDF predicates
+@created 1427037214173
+@weight 0.5

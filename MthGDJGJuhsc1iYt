@@ -1,6 +1,7 @@
-* :MthGDJGJuhsc1iYt: RenameMe
-    @created 1404152257444
-    @weight 0.5
+@id MthGDJGJuhsc1iYt
+@title RenameMe
+@created 1404152257444
+@weight 0.5
 
 cd /tmp
 mkdir javaxcomm; cd javaxcomm; rm -rf *

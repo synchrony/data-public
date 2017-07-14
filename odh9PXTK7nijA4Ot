@@ -1,3 +1,4 @@
-* :odh9PXTK7nijA4Ot: every edge added by Kruskal's is cheapest edge in some cut (S, V-S)
-    @created 1310234505229
-    @weight 0.5
+@id odh9PXTK7nijA4Ot
+@title every edge added by Kruskal's is cheapest edge in some cut (S, V-S)
+@created 1310234505229
+@weight 0.5

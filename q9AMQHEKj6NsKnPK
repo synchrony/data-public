@@ -1,4 +1,5 @@
-* :q9AMQHEKj6NsKnPK: Sun's XACML Implementation (web page)
-    @created 1361824703973
-    @alias http://sunxacml.sourceforge.net/
-    @weight 0.5
+@id q9AMQHEKj6NsKnPK
+@title Sun's XACML Implementation (web page)
+@alias http://sunxacml.sourceforge.net/
+@created 1361824703973
+@weight 0.5

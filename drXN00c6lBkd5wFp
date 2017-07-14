@@ -1,4 +1,5 @@
-* :drXN00c6lBkd5wFp: SASE - SASE Home (web page)
-    @created 1351446057267
-    @alias http://sase.cs.umass.edu/
-    @weight 0.5
+@id drXN00c6lBkd5wFp
+@title SASE - SASE Home (web page)
+@alias http://sase.cs.umass.edu/
+@created 1351446057267
+@weight 0.5

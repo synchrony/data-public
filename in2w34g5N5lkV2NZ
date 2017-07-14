@@ -1,6 +1,7 @@
-* :in2w34g5N5lkV2NZ: RenameMe
-    @created 1329407525358
-    @weight 0.5
+@id in2w34g5N5lkV2NZ
+@title RenameMe
+@created 1329407525358
+@weight 0.5
 
 PREFIX ex: <http://example.org/ns#>
 PREFIX drugs: <http://www4.wiwiss.fu-berlin.de/dailymed/resource/drugs/>

@@ -1,5 +1,6 @@
-* :hWfnBSOYkR7BUbwK: Network containers - Docker (web page)
-    @created 1487920523671
-    @alias https://docs.docker.com/engine/tutorials/networkingcontainers/
-    @weight 0.5
-    * :HZijEzJ3azrFDxCE: 
+@id hWfnBSOYkR7BUbwK
+@title Network containers - Docker (web page)
+@alias https://docs.docker.com/engine/tutorials/networkingcontainers/
+@created 1487920523671
+@weight 0.5
+* :HZijEzJ3azrFDxCE: 

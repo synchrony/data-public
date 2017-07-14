@@ -1,3 +1,4 @@
-* :PmhBuJ5S2NNj6VIQ: constantly record into a circular buffer, over-writing previously recorded data.  Data may be read from the buffer automatically (when the system decides it is likely to be salient information) or in response to a user command.
-    @created 1336976285183
-    @weight 0.5
+@id PmhBuJ5S2NNj6VIQ
+@title constantly record into a circular buffer, over-writing previously recorded data.  Data may be read from the buffer automatically (when the system decides it is likely to be salient information) or in response to a user command.
+@created 1336976285183
+@weight 0.5

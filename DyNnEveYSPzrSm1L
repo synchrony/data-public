@@ -1,4 +1,5 @@
-* :DyNnEveYSPzrSm1L: ADXL345 3-axis accelerometer | I2C Device Library (web page)
-    @created 1411671852315
-    @alias http://www.i2cdevlib.com/devices/adxl345#source
-    @weight 0.5
+@id DyNnEveYSPzrSm1L
+@title ADXL345 3-axis accelerometer | I2C Device Library (web page)
+@alias http://www.i2cdevlib.com/devices/adxl345#source
+@created 1411671852315
+@weight 0.5

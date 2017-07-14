@@ -1,4 +1,5 @@
-* :BgXeHnupLSR5nMzZ: influxdata/influxdb-java: Java client for InfluxDB (web page)
-    @created 1485721908365
-    @alias https://github.com/influxdata/influxdb-java
-    @weight 0.5
+@id BgXeHnupLSR5nMzZ
+@title influxdata/influxdb-java: Java client for InfluxDB (web page)
+@alias https://github.com/influxdata/influxdb-java
+@created 1485721908365
+@weight 0.5

@@ -1,3 +1,4 @@
-* :UiFGi606HyIHTHN7: type Audio e = Eff (howler :: HOWLER, ref :: REF, timer :: TIMER | e)
-    @created 1484905382342
-    @weight 0.5
+@id UiFGi606HyIHTHN7
+@title type Audio e = Eff (howler :: HOWLER, ref :: REF, timer :: TIMER | e)
+@created 1484905382342
+@weight 0.5

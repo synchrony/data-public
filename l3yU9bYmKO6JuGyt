@@ -1,3 +1,4 @@
-* :l3yU9bYmKO6JuGyt: an analog device that samples (captures, grabs) the voltage of a continuously varying analog signal and holds (locks, freezes) its value at a constant level for a specified minimum period of time
-    @created 1415244105486
-    @weight 0.5
+@id l3yU9bYmKO6JuGyt
+@title an analog device that samples (captures, grabs) the voltage of a continuously varying analog signal and holds (locks, freezes) its value at a constant level for a specified minimum period of time
+@created 1415244105486
+@weight 0.5

@@ -1,4 +1,5 @@
-* :tyEuITNqZBJxDeRx: IOTDB.org (web page)
-    @created 1475683424383
-    @alias https://iotdb.org/pub/iot-purpose.html
-    @weight 0.5
+@id tyEuITNqZBJxDeRx
+@title IOTDB.org (web page)
+@alias https://iotdb.org/pub/iot-purpose.html
+@created 1475683424383
+@weight 0.5

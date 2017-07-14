@@ -1,4 +1,5 @@
-* :ouOQTuZhUUixYWcr: Artifactory - Universal Artifact Repository Manager (web page)
-    @created 1495050811655
-    @alias https://www.jfrog.com/artifactory/
-    @weight 0.5
+@id ouOQTuZhUUixYWcr
+@title Artifactory - Universal Artifact Repository Manager (web page)
+@alias https://www.jfrog.com/artifactory/
+@created 1495050811655
+@weight 0.5

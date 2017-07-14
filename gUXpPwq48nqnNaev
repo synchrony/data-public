@@ -1,6 +1,7 @@
-* :gUXpPwq48nqnNaev: RenameMe
-    @created 1482395509839
-    @weight 0.5
+@id gUXpPwq48nqnNaev
+@title RenameMe
+@created 1482395509839
+@weight 0.5
 
 now k = 281 * 10**12, because
 >>> 64**8 / (10**12)

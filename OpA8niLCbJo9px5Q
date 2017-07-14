@@ -1,6 +1,7 @@
-* :OpA8niLCbJo9px5Q: RenameMe
-    @created 1477079998510
-    @weight 0.5
+@id OpA8niLCbJo9px5Q
+@title RenameMe
+@created 1477079998510
+@weight 0.5
 
 >>> def f(x,y):
 ...     return 10*x+y

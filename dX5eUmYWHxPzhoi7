@@ -1,4 +1,5 @@
-* :dX5eUmYWHxPzhoi7: Welcome to the Foundation for Intelligent Physical Agents (web page)
-    @created 1345257823447
-    @alias http://www.fipa.org/
-    @weight 0.5
+@id dX5eUmYWHxPzhoi7
+@title Welcome to the Foundation for Intelligent Physical Agents (web page)
+@alias http://www.fipa.org/
+@created 1345257823447
+@weight 0.5

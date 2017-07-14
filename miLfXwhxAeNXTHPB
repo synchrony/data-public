@@ -1,4 +1,5 @@
-* :miLfXwhxAeNXTHPB: MessagePack: It's like JSON. but fast and small. (web page)
-    @created 1328716399792
-    @alias http://msgpack.org/
-    @weight 0.5
+@id miLfXwhxAeNXTHPB
+@title MessagePack: It's like JSON. but fast and small. (web page)
+@alias http://msgpack.org/
+@created 1328716399792
+@weight 0.5

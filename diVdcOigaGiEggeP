@@ -1,3 +1,4 @@
-* :diVdcOigaGiEggeP: str[0:42] -- substring from index 0 (inclusive) to 42 (exclusive)
-    @created 1445258650456
-    @weight 0.5
+@id diVdcOigaGiEggeP
+@title str[0:42] -- substring from index 0 (inclusive) to 42 (exclusive)
+@created 1445258650456
+@weight 0.5

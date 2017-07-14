@@ -1,3 +1,4 @@
-* :coz3zv49ehB25xNp: a Web server instructs each device to display a particular color or pattern, while the overall display is monitored with a camera.  Each device initially outputs a unique color ID, with which it is identified within the overall display.  Devices are then given sequences of colors or patterns according to their position in the display and the overall image or animation which is being displayed.
-    @created 1346358057871
-    @weight 0.5
+@id coz3zv49ehB25xNp
+@title a Web server instructs each device to display a particular color or pattern, while the overall display is monitored with a camera.  Each device initially outputs a unique color ID, with which it is identified within the overall display.  Devices are then given sequences of colors or patterns according to their position in the display and the overall image or animation which is being displayed.
+@created 1346358057871
+@weight 0.5

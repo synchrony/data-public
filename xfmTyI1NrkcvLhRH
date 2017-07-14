@@ -1,4 +1,5 @@
-* :xfmTyI1NrkcvLhRH: neo4j: World's Leading Graph Database (web page)
-    @created 1328717466462
-    @alias http://neo4j.org/
-    @weight 0.5
+@id xfmTyI1NrkcvLhRH
+@title neo4j: World's Leading Graph Database (web page)
+@alias http://neo4j.org/
+@created 1328717466462
+@weight 0.5

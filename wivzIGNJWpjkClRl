@@ -1,6 +1,7 @@
-* :wivzIGNJWpjkClRl: RenameMe
-    @created 1471476278665
-    @weight 0.5
+@id wivzIGNJWpjkClRl
+@title RenameMe
+@created 1471476278665
+@weight 0.5
 
 SubObjectPropertyOf( 
    ObjectPropertyChain( :hasParent :hasParent ) 

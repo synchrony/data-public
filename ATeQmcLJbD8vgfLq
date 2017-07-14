@@ -1,4 +1,5 @@
-* :ATeQmcLJbD8vgfLq: SQUIN - Query the Web of Linked Data (web page)
-    @created 1332792784911
-    @alias http://squin.sourceforge.net/
-    @weight 0.5
+@id ATeQmcLJbD8vgfLq
+@title SQUIN - Query the Web of Linked Data (web page)
+@alias http://squin.sourceforge.net/
+@created 1332792784911
+@weight 0.5

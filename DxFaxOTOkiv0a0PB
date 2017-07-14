@@ -1,3 +1,4 @@
-* :DxFaxOTOkiv0a0PB: to publish a snapshot: mvn clean deploy
-    @created 1361853392717
-    @weight 0.5
+@id DxFaxOTOkiv0a0PB
+@title to publish a snapshot: mvn clean deploy
+@created 1361853392717
+@weight 0.5

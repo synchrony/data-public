@@ -1,4 +1,5 @@
-* :X6v3FtyjDyRbSzJS: IHE.net IHE Profiles (web page)
-    @created 1351888421322
-    @alias http://www.ihe.net/profiles/
-    @weight 0.5
+@id X6v3FtyjDyRbSzJS
+@title IHE.net IHE Profiles (web page)
+@alias http://www.ihe.net/profiles/
+@created 1351888421322
+@weight 0.5

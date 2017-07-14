@@ -1,38 +1,39 @@
-* :1bUBpPCrjAz3gANy: person
-    @created 1469500090491
-    @weight 1.0
-    * :ANobbr7eaz9gpWji: 
-    * :cZICEdWRAstvTHFL: 
-    * :jE1TN4CUiIaHihsz: 
-    * :Myc4a047IxHxcVMT: 
-    * :NHdF57yQWYxkRl8F: 
-    * :olXl5ZHIfhurjmZH: 
-    * :LqWTcnKreV8x9esS: 
-    * :I9Q0EkhreDRDHGL1: 
-    * :7fxd6BNS61c1rAvd: 
-    * :OMLKOEMFyKXwViVw: 
-    * :vItVkLmzA1RroFzQ: 
-    * :IhQc2uph7HmHKzBu: 
-    * :azNMBOw4jjaQ6Tgv: 
-    * :Tn3RqijgocfMT0EB: 
-    * :Njbl6JJ5u9O040Qc: 
-    * :rFmwel4tIbFhePIS: 
-    * :R2nES5vBL4hzvg6w: 
-    * :A1Up8XfUmFRq9qRt: 
-    * :fAFPudjqKdi53J3K: 
-    * :m4qCmzfDIOVU2y3C: 
-    * :Gsb08MsHyoFs5GeU: 
-    * :NG76jC5zwF8klzAo: 
-    * :WcxQzUdBZw6u2Gfk: 
-    * :zzYSwIonHKgH4EYm: 
-    * :saU0bHJP8tCdDwhn: 
-    * :ADTPiMKaaonBaKy3: 
-    * :d2qpIoauz5l0Oxq4: 
-    * :Z8zan0yWDhbGJuXs: 
-    * :32oI5C6eGj9815Tq: 
-    * :hehobRp6cOgF7PxT: 
-    * :ujp3PvOfXJXdLwVk: 
-    * :j2Y2xFCujYtk5V4k: 
-    * :UFaWmcRv6dfaTKCx: 
-    * :VjBjDnFO7I33SiZD: 
-    * :9DyrlF8ObHPQUMay: 
+@id 1bUBpPCrjAz3gANy
+@title person
+@created 1469500090491
+@weight 1.0
+* :ANobbr7eaz9gpWji: 
+* :cZICEdWRAstvTHFL: 
+* :jE1TN4CUiIaHihsz: 
+* :Myc4a047IxHxcVMT: 
+* :NHdF57yQWYxkRl8F: 
+* :olXl5ZHIfhurjmZH: 
+* :LqWTcnKreV8x9esS: 
+* :I9Q0EkhreDRDHGL1: 
+* :7fxd6BNS61c1rAvd: 
+* :OMLKOEMFyKXwViVw: 
+* :vItVkLmzA1RroFzQ: 
+* :IhQc2uph7HmHKzBu: 
+* :azNMBOw4jjaQ6Tgv: 
+* :Tn3RqijgocfMT0EB: 
+* :Njbl6JJ5u9O040Qc: 
+* :rFmwel4tIbFhePIS: 
+* :R2nES5vBL4hzvg6w: 
+* :A1Up8XfUmFRq9qRt: 
+* :fAFPudjqKdi53J3K: 
+* :m4qCmzfDIOVU2y3C: 
+* :Gsb08MsHyoFs5GeU: 
+* :NG76jC5zwF8klzAo: 
+* :WcxQzUdBZw6u2Gfk: 
+* :zzYSwIonHKgH4EYm: 
+* :saU0bHJP8tCdDwhn: 
+* :ADTPiMKaaonBaKy3: 
+* :d2qpIoauz5l0Oxq4: 
+* :Z8zan0yWDhbGJuXs: 
+* :32oI5C6eGj9815Tq: 
+* :hehobRp6cOgF7PxT: 
+* :ujp3PvOfXJXdLwVk: 
+* :j2Y2xFCujYtk5V4k: 
+* :UFaWmcRv6dfaTKCx: 
+* :VjBjDnFO7I33SiZD: 
+* :9DyrlF8ObHPQUMay: 

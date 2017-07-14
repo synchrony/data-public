@@ -1,4 +1,5 @@
-* :bQCoATkH2B2stU1J: UniversitätsSpital Zürich - Homepage (web page)
-    @created 1347034358311
-    @alias http://www.psychiatrie.usz.ch/Seiten/default.aspx
-    @weight 0.5
+@id bQCoATkH2B2stU1J
+@title UniversitätsSpital Zürich - Homepage (web page)
+@alias http://www.psychiatrie.usz.ch/Seiten/default.aspx
+@created 1347034358311
+@weight 0.5

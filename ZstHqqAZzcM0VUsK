@@ -1,4 +1,5 @@
-* :ZstHqqAZzcM0VUsK: Google Books Ngram Datasets (web page)
-    @created 1431989050248
-    @alias http://commondatastorage.googleapis.com/books/syntactic-ngrams/index.html
-    @weight 0.5
+@id ZstHqqAZzcM0VUsK
+@title Google Books Ngram Datasets (web page)
+@alias http://commondatastorage.googleapis.com/books/syntactic-ngrams/index.html
+@created 1431989050248
+@weight 0.5

@@ -1,6 +1,7 @@
-* :COm7EJSeroA3dl3q: unary operators do casting, too
-    @created 1491191783715
-    @weight 0.5
+@id COm7EJSeroA3dl3q
+@title unary operators do casting, too
+@created 1491191783715
+@weight 0.5
 
 "For unary (single-argument) arithmetic operators:
 If the operand is of type byte, short, or char, the result is a value of type int.

@@ -1,6 +1,7 @@
-* :Q0yheQaI9UJoQyOQ: RenameMe
-    @created 1396375464684
-    @weight 0.5
+@id Q0yheQaI9UJoQyOQ
+@title RenameMe
+@created 1396375464684
+@weight 0.5
 
 g = TitanFactory.open("/tmp/test")
 g.makeKey(IdGraph.ID).single().unique().indexed(Vertex.class).dataType(String.class).make()

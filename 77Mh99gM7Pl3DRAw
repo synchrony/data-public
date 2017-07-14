@@ -1,3 +1,4 @@
-* :77Mh99gM7Pl3DRAw: e.g. a routing service from location A to location B, where A is assigned the current position of the user’s device automatically by the system, obtained from the current situation
-    @created 1428353692203
-    @weight 0.5
+@id 77Mh99gM7Pl3DRAw
+@title e.g. a routing service from location A to location B, where A is assigned the current position of the user’s device automatically by the system, obtained from the current situation
+@created 1428353692203
+@weight 0.5

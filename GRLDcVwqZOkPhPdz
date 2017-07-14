@@ -1,6 +1,7 @@
-* :GRLDcVwqZOkPhPdz: RenameMe
-    @created 1483061246282
-    @weight 0.5
+@id GRLDcVwqZOkPhPdz
+@title RenameMe
+@created 1483061246282
+@weight 0.5
 
 I may have been delaying merging changes to both_kb (I still haven't, yours or mine) is that I was worried the merge could somehow go wrong. Coding, I've had merges go very wrong, conflicts passing through undetected. But in a graph, that's impossible, right?
 

@@ -1,4 +1,5 @@
-* :FOU0X5rHGK7DbYaQ: Matt Hagger's Blog . . .Building a real time semantic web through next generation mobile.... (web page)
-    @created 1326082474160
-    @alias http://matthagger.blogspot.com/
-    @weight 0.5
+@id FOU0X5rHGK7DbYaQ
+@title Matt Hagger's Blog . . .Building a real time semantic web through next generation mobile.... (web page)
+@alias http://matthagger.blogspot.com/
+@created 1326082474160
+@weight 0.5

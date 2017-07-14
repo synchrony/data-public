@@ -1,3 +1,4 @@
-* :DtN6kiMpt9Kv01DY: goal:  find shortest path from s to all other nodes.  Length of path = sum of lengths of edges in path.
-    @created 1310234505222
-    @weight 0.5
+@id DtN6kiMpt9Kv01DY
+@title goal:  find shortest path from s to all other nodes.  Length of path = sum of lengths of edges in path.
+@created 1310234505222
+@weight 0.5

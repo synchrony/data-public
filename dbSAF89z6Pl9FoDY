@@ -1,3 +1,4 @@
-* :dbSAF89z6Pl9FoDY: "In this paper, we present initial results that extend the TinyDB sensornet query engine to support more sophisticated data analyses, focusing on three applications: topographic mapping, wavelet-based compression, and vehicle tracking. We use these examples to motivate the feasibility of implementing sophisticated sensing applications in a query-based system"
-    @created 1444422697070
-    @weight 0.5
+@id dbSAF89z6Pl9FoDY
+@title "In this paper, we present initial results that extend the TinyDB sensornet query engine to support more sophisticated data analyses, focusing on three applications: topographic mapping, wavelet-based compression, and vehicle tracking. We use these examples to motivate the feasibility of implementing sophisticated sensing applications in a query-based system"
+@created 1444422697070
+@weight 0.5

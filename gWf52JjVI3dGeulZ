@@ -1,6 +1,7 @@
-* :gWf52JjVI3dGeulZ: the authors of "Streaming SPARQL - extending SPARQL to process data streams"
-    @created 1373580314908
-    @weight 0.5
-    * :wJwNBNWCNLv83lqk: 
-    * :ra4pd2AZpxJx7F6t: 
-    * :z6qP1dBSXD3efTuS: 
+@id gWf52JjVI3dGeulZ
+@title the authors of "Streaming SPARQL - extending SPARQL to process data streams"
+@created 1373580314908
+@weight 0.5
+* :wJwNBNWCNLv83lqk: 
+* :ra4pd2AZpxJx7F6t: 
+* :z6qP1dBSXD3efTuS: 

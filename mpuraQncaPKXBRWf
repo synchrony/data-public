@@ -1,3 +1,4 @@
-* :mpuraQncaPKXBRWf: a list that reorders its elements based on some self-organizing heuristic to improve average access time. The aim of a self-organizing list is to improve efficiency of linear search by moving more frequently accessed items towards the head of the list.
-    @created 1380766286574
-    @weight 0.5
+@id mpuraQncaPKXBRWf
+@title a list that reorders its elements based on some self-organizing heuristic to improve average access time. The aim of a self-organizing list is to improve efficiency of linear search by moving more frequently accessed items towards the head of the list.
+@created 1380766286574
+@weight 0.5

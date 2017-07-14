@@ -1,6 +1,7 @@
-* :0JtBeZWBGnB3SVja: URI, IRI, URL and URN
-    @created 1495319257286
-    @weight 0.5
+@id 0JtBeZWBGnB3SVja
+@title URI, IRI, URL and URN
+@created 1495319257286
+@weight 0.5
 
 URI includes URN and URL.
 IRI = URI expanded("internationalized") from ascii to unicode

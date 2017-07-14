@@ -1,4 +1,5 @@
-* :UPv9x3UMBszIkcQR: C-c C-t: Get type of expression under point
-    @created 1493884688015
-    @weight 0.5
-    @priority 0.5
+@id UPv9x3UMBszIkcQR
+@title C-c C-t: Get type of expression under point
+@created 1493884688015
+@weight 0.5
+@priority 0.5

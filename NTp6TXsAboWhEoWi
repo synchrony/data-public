@@ -1,6 +1,7 @@
-* :NTp6TXsAboWhEoWi: RenameMe
-    @created 1310234505256
-    @weight 0.5
+@id NTp6TXsAboWhEoWi
+@title RenameMe
+@created 1310234505256
+@weight 0.5
 
 OPT(n, w) = max
 w_n + OPT(n-1, w-w_n),

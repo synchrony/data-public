@@ -1,3 +1,4 @@
-* :u9hh7kWWsx0I1KiC: "It is generally easier to fix the current state by starting from the state at the time of the partition and rolling forward both sets of operations in some manner, maintaining consistent state along the way."
-    @created 1463287016334
-    @weight 0.5
+@id u9hh7kWWsx0I1KiC
+@title "It is generally easier to fix the current state by starting from the state at the time of the partition and rolling forward both sets of operations in some manner, maintaining consistent state along the way."
+@created 1463287016334
+@weight 0.5

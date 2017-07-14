@@ -1,4 +1,5 @@
-* :qVG3dtdjaCz7lVTW: gpg --export-secret-key
-    @created 1443259252839
-    @weight 0.5
-    * :h6p0IwWP7LsBODHG: 
+@id qVG3dtdjaCz7lVTW
+@title gpg --export-secret-key
+@created 1443259252839
+@weight 0.5
+* :h6p0IwWP7LsBODHG: 

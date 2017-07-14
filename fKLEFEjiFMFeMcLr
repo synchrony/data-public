@@ -1,4 +1,5 @@
-* :fKLEFEjiFMFeMcLr: Mt.Gox - Bitcoin Exchange (web page)
-    @created 1362986491041
-    @alias https://mtgox.com/
-    @weight 0.5
+@id fKLEFEjiFMFeMcLr
+@title Mt.Gox - Bitcoin Exchange (web page)
+@alias https://mtgox.com/
+@created 1362986491041
+@weight 0.5

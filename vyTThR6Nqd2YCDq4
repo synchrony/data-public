@@ -1,4 +1,5 @@
-* :vyTThR6Nqd2YCDq4: wiki.dbpedia.org : About (web page)
-    @created 1348706256333
-    @alias http://dbpedia.org/About
-    @weight 0.5
+@id vyTThR6Nqd2YCDq4
+@title wiki.dbpedia.org : About (web page)
+@alias http://dbpedia.org/About
+@created 1348706256333
+@weight 0.5

@@ -1,3 +1,4 @@
-* :OIzhlYpsAzlTm3aB: all devices listen on the same bus. Each message (?) is addressed to one of 512 channels, from which a device grabs what it needs
-    @created 1330982886779
-    @weight 0.5
+@id OIzhlYpsAzlTm3aB
+@title all devices listen on the same bus. Each message (?) is addressed to one of 512 channels, from which a device grabs what it needs
+@created 1330982886779
+@weight 0.5

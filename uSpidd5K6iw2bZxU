@@ -1,4 +1,5 @@
-* :uSpidd5K6iw2bZxU: OSSRH Guide (web page)
-    @created 1395435855470
-    @alias http://central.sonatype.org/pages/ossrh-guide.html
-    @weight 0.5
+@id uSpidd5K6iw2bZxU
+@title OSSRH Guide (web page)
+@alias http://central.sonatype.org/pages/ossrh-guide.html
+@created 1395435855470
+@weight 0.5

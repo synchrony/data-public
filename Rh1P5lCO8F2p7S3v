@@ -1,5 +1,6 @@
-* :Rh1P5lCO8F2p7S3v: get RDF (Turtle) dumps of this dataset
-    @created 1361945320422
-    @weight 0.5
-    * :cC27HGedcZGGSqU3: 
-    * :RQtwbC42kQ7rFiGz: 
+@id Rh1P5lCO8F2p7S3v
+@title get RDF (Turtle) dumps of this dataset
+@created 1361945320422
+@weight 0.5
+* :cC27HGedcZGGSqU3: 
+* :RQtwbC42kQ7rFiGz: 

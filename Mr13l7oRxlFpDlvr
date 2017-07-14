@@ -1,3 +1,4 @@
-* :Mr13l7oRxlFpDlvr: much of the AMS load generated during overload situations is due to sending the same update message, over and over again, to many different subscribers
-    @created 1428379643933
-    @weight 0.5
+@id Mr13l7oRxlFpDlvr
+@title much of the AMS load generated during overload situations is due to sending the same update message, over and over again, to many different subscribers
+@created 1428379643933
+@weight 0.5

@@ -1,4 +1,5 @@
-* :ku7mvoVyc7Q8BdwU: OWL for Sampling Features (web page)
-    @created 1446955190676
-    @alias http://def.seegrid.csiro.au/ontology/om/sam-lite
-    @weight 0.5
+@id ku7mvoVyc7Q8BdwU
+@title OWL for Sampling Features (web page)
+@alias http://def.seegrid.csiro.au/ontology/om/sam-lite
+@created 1446955190676
+@weight 0.5

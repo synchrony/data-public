@@ -1,4 +1,5 @@
-* :TiwqNMjWpsCVfLNr: Welcome to XEvil (web page)
-    @created 1360907725493
-    @alias http://www.xevil.com/
-    @weight 0.5
+@id TiwqNMjWpsCVfLNr
+@title Welcome to XEvil (web page)
+@alias http://www.xevil.com/
+@created 1360907725493
+@weight 0.5

@@ -1,6 +1,7 @@
-* :ER87xh4OBS6Z7Jy9: ghc usage
-    @created 1497052130638
-    @weight 0.5
+@id ER87xh4OBS6Z7Jy9
+@title ghc usage
+@created 1497052130638
+@weight 0.5
 
 vim hello.hs
 {

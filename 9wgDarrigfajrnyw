@@ -1,3 +1,4 @@
-* :9wgDarrigfajrnyw: perhaps I need something like a "stickiness" property to indicate whether a node or edge belongs to the body of long-term knowledge which is maintained in Git, or short-term information which routinely expires and is cleaned out in some way (and is lost if the database is lost), and anything in between
-    @created 1342933040176
-    @weight 0.5
+@id 9wgDarrigfajrnyw
+@title perhaps I need something like a "stickiness" property to indicate whether a node or edge belongs to the body of long-term knowledge which is maintained in Git, or short-term information which routinely expires and is cleaned out in some way (and is lost if the database is lost), and anything in between
+@created 1342933040176
+@weight 0.5

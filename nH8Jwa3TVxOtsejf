@@ -1,6 +1,7 @@
-* :nH8Jwa3TVxOtsejf: allOf is a fold, like 'and', for traversals
-    @created 1497580064512
-    @weight 0.5
+@id nH8Jwa3TVxOtsejf
+@title allOf is a fold, like 'and', for traversals
+@created 1497580064512
+@weight 0.5
 
 Prelude Control.Lens> allOf (traverse._2) even [(1,2),(3,4)]
 True

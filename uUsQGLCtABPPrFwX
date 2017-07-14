@@ -1,3 +1,4 @@
-* :uUsQGLCtABPPrFwX: docker ps -a -f status={running, exited, ..}
-    @created 1488311252864
-    @weight 0.5
+@id uUsQGLCtABPPrFwX
+@title docker ps -a -f status={running, exited, ..}
+@created 1488311252864
+@weight 0.5

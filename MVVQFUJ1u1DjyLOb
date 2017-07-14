@@ -1,3 +1,4 @@
-* :MVVQFUJ1u1DjyLOb: [not-markdown]Sharability 0.25 = "private" makes the text red. Sharability 0.5 = "personal" makes the text yellow. Sharability 0.75 = "public" makes the text green. Sharability 1 = "universal" makes the text blue.
-    @created 1490600683545
-    @weight 0.25
+@id MVVQFUJ1u1DjyLOb
+@title [not-markdown]Sharability 0.25 = "private" makes the text red. Sharability 0.5 = "personal" makes the text yellow. Sharability 0.75 = "public" makes the text green. Sharability 1 = "universal" makes the text blue.
+@created 1490600683545
+@weight 0.25

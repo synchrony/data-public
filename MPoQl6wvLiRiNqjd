@@ -1,6 +1,7 @@
-* :MPoQl6wvLiRiNqjd: RenameMe
-    @created 1421638394575
-    @weight 0.5
+@id MPoQl6wvLiRiNqjd
+@title RenameMe
+@created 1421638394575
+@weight 0.5
 
 given: sequence a_1, ..., a_n
 goal: find longest palindromic subsequence

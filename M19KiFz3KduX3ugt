@@ -1,5 +1,6 @@
-* :M19KiFz3KduX3ugt: use a middot bullet for notes with no children (instead of a dash).  It contrasts better with the plus, both visually and in Emacspeak
-    @created 1372047114371
-    @weight 0.5
-    * :HS7XoO0Ja7eZ8mWf: 
-    * :39Mb3s7ZtR9Jbkja: 
+@id M19KiFz3KduX3ugt
+@title use a middot bullet for notes with no children (instead of a dash).  It contrasts better with the plus, both visually and in Emacspeak
+@created 1372047114371
+@weight 0.5
+* :HS7XoO0Ja7eZ8mWf: 
+* :39Mb3s7ZtR9Jbkja: 

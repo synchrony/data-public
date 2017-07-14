@@ -1,4 +1,5 @@
-* :FRKwelWZBVuMWzI8: d <- density(sample, from=min(x), to=max(x), n=length(x))
-    @created 1441866646801
-    @weight 0.5
-    * :P5Z4cmSSPahvHpif: 
+@id FRKwelWZBVuMWzI8
+@title d <- density(sample, from=min(x), to=max(x), n=length(x))
+@created 1441866646801
+@weight 0.5
+* :P5Z4cmSSPahvHpif: 

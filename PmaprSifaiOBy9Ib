@@ -1,4 +1,5 @@
-* :PmaprSifaiOBy9Ib: The Apache Cassandra Project (web page)
-    @created 1339380979747
-    @alias :@alias http://cassandra.apache.org/
-    @weight 0.5
+@id PmaprSifaiOBy9Ib
+@title The Apache Cassandra Project (web page)
+@alias :@alias http://cassandra.apache.org/
+@created 1339380979747
+@weight 0.5

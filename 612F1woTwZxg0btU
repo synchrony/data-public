@@ -1,6 +1,7 @@
-* :612F1woTwZxg0btU: "LDO" configuration of the Invensense MPU-9150 Evaluation Board
-    @created 1353532527867
-    @weight 0.5
-    * :tOmUMz5DAGCE34eK: 
-    * :90Ar10OgwY6PfJc1: 
-    * :WTEyirGkhMGR0hVp: 
+@id 612F1woTwZxg0btU
+@title "LDO" configuration of the Invensense MPU-9150 Evaluation Board
+@created 1353532527867
+@weight 0.5
+* :tOmUMz5DAGCE34eK: 
+* :90Ar10OgwY6PfJc1: 
+* :WTEyirGkhMGR0hVp: 

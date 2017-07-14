@@ -1,6 +1,7 @@
-* :HM6CTfPUY7DiEjid: RenameMe
-    @created 1340095989097
-    @weight 0.5
+@id HM6CTfPUY7DiEjid
+@title RenameMe
+@created 1340095989097
+@weight 0.5
 
 # use the export service in Brain-mode, then:
 v <- read.table(file("/tmp/joshkb-vertices.tsv"), header=TRUE, sep="\t", quote="", comment.char="")

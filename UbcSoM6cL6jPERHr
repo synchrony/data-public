@@ -1,4 +1,5 @@
-* :UbcSoM6cL6jPERHr: Home page (web page)
-    @created 1327090802016
-    @alias http://www.withings.com/us/
-    @weight 0.5
+@id UbcSoM6cL6jPERHr
+@title Home page (web page)
+@alias http://www.withings.com/us/
+@created 1327090802016
+@weight 0.5

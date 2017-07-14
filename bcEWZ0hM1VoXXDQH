@@ -1,4 +1,5 @@
-* :bcEWZ0hM1VoXXDQH: Stanford in the News (web page)
-    @created 1452795819513
-    @alias http://news.stanford.edu/inthenews/
-    @weight 0.5
+@id bcEWZ0hM1VoXXDQH
+@title Stanford in the News (web page)
+@alias http://news.stanford.edu/inthenews/
+@created 1452795819513
+@weight 0.5

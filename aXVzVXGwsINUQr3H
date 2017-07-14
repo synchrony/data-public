@@ -1,6 +1,7 @@
-* :aXVzVXGwsINUQr3H: docker run -it -v /home/jeff/apps/docker/smsn-docker/test.txt:/external.txt ubuntu bash
-    @created 1487929311531
-    @weight 0.5
-    * :9a9OWxpCBm0brior: 
-    * :StU4dDEXAGoYUBwg: 
-    * :bchxIPHsNp3mSckE: 
+@id aXVzVXGwsINUQr3H
+@title docker run -it -v /home/jeff/apps/docker/smsn-docker/test.txt:/external.txt ubuntu bash
+@created 1487929311531
+@weight 0.5
+* :9a9OWxpCBm0brior: 
+* :StU4dDEXAGoYUBwg: 
+* :bchxIPHsNp3mSckE: 

@@ -1,4 +1,5 @@
-* :ekZBc7ywEx8hBW6L: Semantic Publishing Benchmark | LDBCouncil (web page)
-    @created 1456183034781
-    @alias http://ldbcouncil.org/developer/spb
-    @weight 0.5
+@id ekZBc7ywEx8hBW6L
+@title Semantic Publishing Benchmark | LDBCouncil (web page)
+@alias http://ldbcouncil.org/developer/spb
+@created 1456183034781
+@weight 0.5

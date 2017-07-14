@@ -1,3 +1,4 @@
-* :oKXB6irvbceJ1YDH: for each child on a depth-1 display, show as grandchildren not their children but their parents, excluding this one
-    @created 1482211950866
-    @weight 0.5
+@id oKXB6irvbceJ1YDH
+@title for each child on a depth-1 display, show as grandchildren not their children but their parents, excluding this one
+@created 1482211950866
+@weight 0.5

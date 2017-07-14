@@ -1,3 +1,4 @@
-* :BUYVdJFwUad2arDa: Currently in Tidal (in both Emacs and Atom, and I'm guessing other editors too) text flows in one direction, from the code window to the repl. Could it flow in the other direction?
-    @created 1494021942903
-    @weight 0.5
+@id BUYVdJFwUad2arDa
+@title Currently in Tidal (in both Emacs and Atom, and I'm guessing other editors too) text flows in one direction, from the code window to the repl. Could it flow in the other direction?
+@created 1494021942903
+@weight 0.5

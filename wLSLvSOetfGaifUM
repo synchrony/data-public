@@ -1,3 +1,4 @@
-* :wLSLvSOetfGaifUM: cell versions may be garbage-collected automatically based on a last-n (e.g. keep only the last 3 versions) or new-enough policy (e.g. only keep values which were written in the last 7 days)
-    @created 1401222964540
-    @weight 0.5
+@id wLSLvSOetfGaifUM
+@title cell versions may be garbage-collected automatically based on a last-n (e.g. keep only the last 3 versions) or new-enough policy (e.g. only keep values which were written in the last 7 days)
+@created 1401222964540
+@weight 0.5

@@ -1,18 +1,19 @@
-* :wkTneKaApyixtubd: some upper ontologies and commonsense knowledge bases
-    @created 1330150526533
-    @weight 0.5
-    * :ZIhIKWBB1okg9ef5: 
-    * :7i3mPtbp2dNQG1zV: 
-    * :UbLw467pMluITYpb: 
-    * :EvpRoZcXdQI7a2Ej: 
-    * :7HwUNDQUqnz22EwS: 
-    * :2U66ZfjdfhiYLUIs: 
-    * :48dCUGfCfaBTgN0E: 
-    * :nSPTennwr0KgzZGB: 
-    * :ihqeIAY2i8QVDwLP: 
-    * :WqwGLcDXYthsTHEu: 
-    * :cufhdGKZ0Pgg1kQ7: 
-    * :CuW2CVMDWLCdvp0H: 
-    * :EzYXkGAlUxaPO6s4: 
-    * :9UQCAPZbqOikHLnp: 
-    * :PdYwd9aGzgjnTVjF: 
+@id wkTneKaApyixtubd
+@title some upper ontologies and commonsense knowledge bases
+@created 1330150526533
+@weight 0.5
+* :ZIhIKWBB1okg9ef5: 
+* :7i3mPtbp2dNQG1zV: 
+* :UbLw467pMluITYpb: 
+* :EvpRoZcXdQI7a2Ej: 
+* :7HwUNDQUqnz22EwS: 
+* :2U66ZfjdfhiYLUIs: 
+* :48dCUGfCfaBTgN0E: 
+* :nSPTennwr0KgzZGB: 
+* :ihqeIAY2i8QVDwLP: 
+* :WqwGLcDXYthsTHEu: 
+* :cufhdGKZ0Pgg1kQ7: 
+* :CuW2CVMDWLCdvp0H: 
+* :EzYXkGAlUxaPO6s4: 
+* :9UQCAPZbqOikHLnp: 
+* :PdYwd9aGzgjnTVjF: 

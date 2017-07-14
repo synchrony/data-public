@@ -1,6 +1,7 @@
-* :GyROSzgEk6eLlMvx: RenameMe
-    @created 1314728709342
-    @weight 0.5
+@id GyROSzgEk6eLlMvx
+@title RenameMe
+@created 1314728709342
+@weight 0.5
 
 rm -rf /tmp/ripple
 cp -r . /tmp/ripple

@@ -1,4 +1,5 @@
-* :YqhSiNFgkNJzQDUh: Department of History at the University of Oregon (web page)
-    @created 1386658595288
-    @alias http://history.uoregon.edu/faculty/profiles/index.php?name=valiani
-    @weight 0.5
+@id YqhSiNFgkNJzQDUh
+@title Department of History at the University of Oregon (web page)
+@alias http://history.uoregon.edu/faculty/profiles/index.php?name=valiani
+@created 1386658595288
+@weight 0.5

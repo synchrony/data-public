@@ -1,4 +1,5 @@
-* :pwse3SOK5O3uqnQC: GeoNames Ontology - Geo Semantic Web (web page)
-    @created 1418843703462
-    @alias http://www.geonames.org/ontology/documentation.html
-    @weight 0.5
+@id pwse3SOK5O3uqnQC
+@title GeoNames Ontology - Geo Semantic Web (web page)
+@alias http://www.geonames.org/ontology/documentation.html
+@created 1418843703462
+@weight 0.5

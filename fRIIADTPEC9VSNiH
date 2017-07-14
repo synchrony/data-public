@@ -1,6 +1,7 @@
-* :fRIIADTPEC9VSNiH: RenameMe
-    @created 1357861236880
-    @weight 0.5
+@id fRIIADTPEC9VSNiH
+@title RenameMe
+@created 1357861236880
+@weight 0.5
 
 BufferedReader br = new BufferedReader(new FileReader(file));
 //BufferedReader br = new BufferedReader(new InputStreamReader(in));

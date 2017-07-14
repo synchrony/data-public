@@ -1,3 +1,4 @@
-* :wGlgOr7qcnxWRql9: c <- merge(a, b, by.x="aid", by.y="bid")
-    @created 1420830972035
-    @weight 0.5
+@id wGlgOr7qcnxWRql9
+@title c <- merge(a, b, by.x="aid", by.y="bid")
+@created 1420830972035
+@weight 0.5

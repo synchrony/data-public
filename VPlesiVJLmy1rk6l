@@ -1,4 +1,5 @@
-* :VPlesiVJLmy1rk6l: Sebastian Thrun's Homepage (web page)
-    @created 1336458470233
-    @alias http://robots.stanford.edu/
-    @weight 0.5
+@id VPlesiVJLmy1rk6l
+@title Sebastian Thrun's Homepage (web page)
+@alias http://robots.stanford.edu/
+@created 1336458470233
+@weight 0.5

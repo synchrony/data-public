@@ -1,4 +1,5 @@
-* :UHULZFaQGEBsyMmV: Maven Help Plugin - Introduction (web page)
-    @created 1447444826803
-    @alias https://maven.apache.org/plugins/maven-help-plugin/
-    @weight 0.5
+@id UHULZFaQGEBsyMmV
+@title Maven Help Plugin - Introduction (web page)
+@alias https://maven.apache.org/plugins/maven-help-plugin/
+@created 1447444826803
+@weight 0.5

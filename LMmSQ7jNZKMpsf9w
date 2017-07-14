@@ -1,3 +1,4 @@
-* :LMmSQ7jNZKMpsf9w: git log --all --full-history -- **/myfile.*
-    @created 1485815683193
-    @weight 0.5
+@id LMmSQ7jNZKMpsf9w
+@title git log --all --full-history -- **/myfile.*
+@created 1485815683193
+@weight 0.5

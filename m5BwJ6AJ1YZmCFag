@@ -1,3 +1,4 @@
-* :m5BwJ6AJ1YZmCFag: after successful completion, the output of the mapreduce execution is available in the R output files (one per reduce task, with file names as specified by the user). Typically, users do not need to combine these R output files into one file -- they often pass these files as input to another MapReduce call, or use them from another distributed application that is able to deal with input that is partitioned into multiple files
-    @created 1401123610122
-    @weight 0.5
+@id m5BwJ6AJ1YZmCFag
+@title after successful completion, the output of the mapreduce execution is available in the R output files (one per reduce task, with file names as specified by the user). Typically, users do not need to combine these R output files into one file -- they often pass these files as input to another MapReduce call, or use them from another distributed application that is able to deal with input that is partitioned into multiple files
+@created 1401123610122
+@weight 0.5

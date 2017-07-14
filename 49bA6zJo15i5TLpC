@@ -1,4 +1,5 @@
-* :49bA6zJo15i5TLpC: Create virtual environments for python with conda (web page)
-    @created 1495241632426
-    @alias https://uoa-eresearch.github.io/eresearch-cookbook/recipe/2014/11/20/conda/
-    @weight 0.5
+@id 49bA6zJo15i5TLpC
+@title Create virtual environments for python with conda (web page)
+@alias https://uoa-eresearch.github.io/eresearch-cookbook/recipe/2014/11/20/conda/
+@created 1495241632426
+@weight 0.5

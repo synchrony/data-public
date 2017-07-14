@@ -1,4 +1,5 @@
-* :uhA5Bg48x4jLoHRz: 41°43'42.4"N 122°32'23.6"W - Google Maps (web page)
-    @created 1476779619270
-    @alias https://www.google.com/maps?q=41.728455,+-122.539900&hl=en&ll=41.728456,-122.539885&spn=0.000854,0.000921&sll=35.077599,-116.391832&sspn=0.003745,0.003685&t=h&z=20
-    @weight 0.5
+@id uhA5Bg48x4jLoHRz
+@title 41°43'42.4"N 122°32'23.6"W - Google Maps (web page)
+@alias https://www.google.com/maps?q=41.728455,+-122.539900&hl=en&ll=41.728456,-122.539885&spn=0.000854,0.000921&sll=35.077599,-116.391832&sspn=0.003745,0.003685&t=h&z=20
+@created 1476779619270
+@weight 0.5

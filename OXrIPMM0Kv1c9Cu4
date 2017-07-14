@@ -1,4 +1,5 @@
-* :OXrIPMM0Kv1c9Cu4: Dockerfile reference (web page)
-    @created 1446597126577
-    @alias http://docs.docker.com/engine/reference/builder/
-    @weight 0.5
+@id OXrIPMM0Kv1c9Cu4
+@title Dockerfile reference (web page)
+@alias http://docs.docker.com/engine/reference/builder/
+@created 1446597126577
+@weight 0.5

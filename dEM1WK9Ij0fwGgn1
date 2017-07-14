@@ -1,6 +1,7 @@
-* :dEM1WK9Ij0fwGgn1: RenameMe
-    @created 1359586050085
-    @weight 0.5
+@id dEM1WK9Ij0fwGgn1
+@title RenameMe
+@created 1359586050085
+@weight 0.5
 
 var foo = false;
 

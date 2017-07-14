@@ -1,6 +1,7 @@
-* :86G1xVN8oE1rZeR2: RenameMe
-    @created 1472284832458
-    @weight 0.5
+@id 86G1xVN8oE1rZeR2
+@title RenameMe
+@created 1472284832458
+@weight 0.5
 
 ,
     void forFirstOf(Consumer<AtomList> consumer);

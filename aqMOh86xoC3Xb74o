@@ -1,3 +1,4 @@
-* :aqMOh86xoC3Xb74o: docen_pre_doct  float  %9.0g                  Total docentes de preescolar con doctorado
-    @created 1496474988004
-    @weight 0.5
+@id aqMOh86xoC3Xb74o
+@title docen_pre_doct  float  %9.0g                  Total docentes de preescolar con doctorado
+@created 1496474988004
+@weight 0.5

@@ -1,6 +1,7 @@
-* :w9iuSa5IsOzqEYpw: RenameMe
-    @created 1397619144133
-    @weight 0.5
+@id w9iuSa5IsOzqEYpw
+@title RenameMe
+@created 1397619144133
+@weight 0.5
 
 conf = new BaseConfiguration();
 conf.setProperty("storage.backend", "cassandra");

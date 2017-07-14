@@ -1,3 +1,4 @@
-* :mNGJfBOG3dQDRURa: sort file1 file2 | uniq -d
-    @created 1371365222548
-    @weight 0.5
+@id mNGJfBOG3dQDRURa
+@title sort file1 file2 | uniq -d
+@created 1371365222548
+@weight 0.5

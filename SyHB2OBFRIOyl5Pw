@@ -1,4 +1,5 @@
-* :SyHB2OBFRIOyl5Pw: the Barton Library benchmark encodes queries in SQL, thereby offering only limited support for testing native SPARQL engines
-    @created 1382978103462
-    @weight 0.5
-    * :ZI5vP2WKQCncK33o: 
+@id SyHB2OBFRIOyl5Pw
+@title the Barton Library benchmark encodes queries in SQL, thereby offering only limited support for testing native SPARQL engines
+@created 1382978103462
+@weight 0.5
+* :ZI5vP2WKQCncK33o: 

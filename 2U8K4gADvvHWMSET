@@ -1,4 +1,5 @@
-* :2U8K4gADvvHWMSET: AirNav: E45 - Pine Mountain Lake Airport (web page)
-    @created 1491163330705
-    @alias https://www.airnav.com/airport/E45
-    @weight 0.5
+@id 2U8K4gADvvHWMSET
+@title AirNav: E45 - Pine Mountain Lake Airport (web page)
+@alias https://www.airnav.com/airport/E45
+@created 1491163330705
+@weight 0.5

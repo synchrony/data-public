@@ -1,6 +1,7 @@
-* :XYZk0RcElkiIMFNY: multiple Dockerfiles sharing a context
-    @created 1493933749587
-    @weight 0.5
+@id XYZk0RcElkiIMFNY
+@title multiple Dockerfiles sharing a context
+@created 1493933749587
+@weight 0.5
 
 Specify the Dockerfile separately from, and in a subfolder of, the context:
 

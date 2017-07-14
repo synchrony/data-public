@@ -1,6 +1,7 @@
-* :gNDhBu5aksAIgKkY: ? indexOfNthVisible
-    @created 1492928816705
-    @weight 0.5
+@id gNDhBu5aksAIgKkY
+@title ? indexOfNthVisible
+@created 1492928816705
+@weight 0.5
 
 The input to this function is the index of the note in the sublist only of visible atoms; the output is the index in the full list.
 

@@ -1,3 +1,4 @@
-* :X67tQB3hgogCH0GK: @JsonProperty("JSON key which may not be a legal Java member name")
-    @created 1440459471491
-    @weight 0.5
+@id X67tQB3hgogCH0GK
+@title @JsonProperty("JSON key which may not be a legal Java member name")
+@created 1440459471491
+@weight 0.5

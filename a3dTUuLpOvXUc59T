@@ -1,6 +1,7 @@
-* :a3dTUuLpOvXUc59T: RenameMe
-    @created 1331011563767
-    @weight 0.5
+@id a3dTUuLpOvXUc59T
+@title RenameMe
+@created 1331011563767
+@weight 0.5
 
 prefix govdata: <http://reference.data.gov/def/govdata/>
 prefix hosp: <http://health.data.gov/def/hospital/>

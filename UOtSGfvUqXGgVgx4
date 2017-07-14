@@ -1,3 +1,4 @@
-* :UOtSGfvUqXGgVgx4: for fast float ranges (with stepsize), use linspace(), not arange()
-    @created 1477038784129
-    @weight 0.5
+@id UOtSGfvUqXGgVgx4
+@title for fast float ranges (with stepsize), use linspace(), not arange()
+@created 1477038784129
+@weight 0.5

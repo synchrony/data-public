@@ -1,4 +1,5 @@
-* :XAFRLCADAQkUAww6: Rise and Fall time specifications for SCL and SDA lines of I2C | Cypress Semiconductor (web page)
-    @created 1477589266237
-    @alias http://www.cypress.com/knowledge-base-article/rise-and-fall-time-specifications-scl-and-sda-lines-i2c
-    @weight 0.5
+@id XAFRLCADAQkUAww6
+@title Rise and Fall time specifications for SCL and SDA lines of I2C | Cypress Semiconductor (web page)
+@alias http://www.cypress.com/knowledge-base-article/rise-and-fall-time-specifications-scl-and-sda-lines-i2c
+@created 1477589266237
+@weight 0.5

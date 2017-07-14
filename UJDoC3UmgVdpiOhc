@@ -1,3 +1,4 @@
-* :UJDoC3UmgVdpiOhc: a human-readable document format, semantically equivalent to DocBook XML, but using plain-text mark-up conventions
-    @created 1404002016380
-    @weight 0.5
+@id UJDoC3UmgVdpiOhc
+@title a human-readable document format, semantically equivalent to DocBook XML, but using plain-text mark-up conventions
+@created 1404002016380
+@weight 0.5

@@ -1,4 +1,5 @@
-* :pgeJdk8ZW0tKbqwT: curl -u user:password https://api.github.com/repos/:owner/:repo/notifications
-    @created 1485302739049
-    @weight 0.5
-    * :iPoBHAPjaF9qpjUT: 
+@id pgeJdk8ZW0tKbqwT
+@title curl -u user:password https://api.github.com/repos/:owner/:repo/notifications
+@created 1485302739049
+@weight 0.5
+* :iPoBHAPjaF9qpjUT: 

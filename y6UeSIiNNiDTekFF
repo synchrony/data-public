@@ -1,3 +1,4 @@
-* :y6UeSIiNNiDTekFF: sudo tcpdump -s 0 -A -i en0 host 65.50.203.153
-    @created 1397950122660
-    @weight 0.5
+@id y6UeSIiNNiDTekFF
+@title sudo tcpdump -s 0 -A -i en0 host 65.50.203.153
+@created 1397950122660
+@weight 0.5

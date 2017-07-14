@@ -1,6 +1,7 @@
-* :sBPfsgF7YNDRRys4: pitfall: run() can be called as a member of a session or as a member of an operation
-    @created 1499894985880
-    @weight 0.5
+@id sBPfsgF7YNDRRys4
+@title pitfall: run() can be called as a member of a session or as a member of an operation
+@created 1499894985880
+@weight 0.5
 
 e.g. these are equivalent
 

@@ -1,3 +1,4 @@
-* :IMT5fEGnzhlkp1co: contains extensional knowledge that is specific to the individuals in the domain of discourse.  An ABox is a set of assertions.
-    @created 1316492193302
-    @weight 0.5
+@id IMT5fEGnzhlkp1co
+@title contains extensional knowledge that is specific to the individuals in the domain of discourse.  An ABox is a set of assertions.
+@created 1316492193302
+@weight 0.5

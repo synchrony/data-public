@@ -1,4 +1,5 @@
-* :keKxRhEHx0KDxU8j: Open Health Data | Health on the Web (web page)
-    @created 1327607906951
-    @alias http://health.tw.rpi.edu/
-    @weight 0.5
+@id keKxRhEHx0KDxU8j
+@title Open Health Data | Health on the Web (web page)
+@alias http://health.tw.rpi.edu/
+@created 1327607906951
+@weight 0.5

@@ -1,6 +1,7 @@
-* :fRVSPlNhydUkcj4o: RenameMe
-    @created 1395163528704
-    @weight 0.5
+@id fRVSPlNhydUkcj4o
+@title RenameMe
+@created 1395163528704
+@weight 0.5
 
 # Add a user.
 mysql_admin -u newuser -h localhost password "newpassword"

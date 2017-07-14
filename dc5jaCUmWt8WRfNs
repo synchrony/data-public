@@ -1,4 +1,5 @@
-* :dc5jaCUmWt8WRfNs: The TriG Syntax (web page)
-    @created 1318265906242
-    @alias http://www4.wiwiss.fu-berlin.de/bizer/trig/
-    @weight 0.5
+@id dc5jaCUmWt8WRfNs
+@title The TriG Syntax (web page)
+@alias http://www4.wiwiss.fu-berlin.de/bizer/trig/
+@created 1318265906242
+@weight 0.5

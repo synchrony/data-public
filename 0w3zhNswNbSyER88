@@ -1,3 +1,4 @@
-* :0w3zhNswNbSyER88: if underfit, high error both of train and test = "bias". if overfit, low of train, high of test = "variance"
-    @created 1474360536048
-    @weight 0.5
+@id 0w3zhNswNbSyER88
+@title if underfit, high error both of train and test = "bias". if overfit, low of train, high of test = "variance"
+@created 1474360536048
+@weight 0.5

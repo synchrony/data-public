@@ -1,4 +1,5 @@
-* :fcaNjCiHdTgdoehl: Metadata for LOGD International OGD Catalog (IOGDS) (web page)
-    @created 1320163055657
-    @alias http://logd.tw.rpi.edu/lab/project/logd_internaltional_ogd_catalog/metadata_design/
-    @weight 0.5
+@id fcaNjCiHdTgdoehl
+@title Metadata for LOGD International OGD Catalog (IOGDS) (web page)
+@alias http://logd.tw.rpi.edu/lab/project/logd_internaltional_ogd_catalog/metadata_design/
+@created 1320163055657
+@weight 0.5

@@ -1,4 +1,5 @@
-* :oeyLcrG9kHrpF2h4: Center for Computer Research in Music and Acoustics | CCRMA (web page)
-    @created 1452797302936
-    @alias https://ccrma.stanford.edu/
-    @weight 0.5
+@id oeyLcrG9kHrpF2h4
+@title Center for Computer Research in Music and Acoustics | CCRMA (web page)
+@alias https://ccrma.stanford.edu/
+@created 1452797302936
+@weight 0.5

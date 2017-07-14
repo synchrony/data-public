@@ -1,4 +1,5 @@
-* :l2TnWgxei8W2RGhp: Activity Streams Working Group: JSON Activity Streams 1.0 (web page)
-    @created 1317149039251
-    @alias http://activitystrea.ms/specs/json/1.0/
-    @weight 0.5
+@id l2TnWgxei8W2RGhp
+@title Activity Streams Working Group: JSON Activity Streams 1.0 (web page)
+@alias http://activitystrea.ms/specs/json/1.0/
+@created 1317149039251
+@weight 0.5

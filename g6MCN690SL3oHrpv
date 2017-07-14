@@ -1,3 +1,4 @@
-* :g6MCN690SL3oHrpv: that creates a volume at /webapp in the container named web which is running what "training/webapp python app.py" runs
-    @created 1487926359329
-    @weight 0.5
+@id g6MCN690SL3oHrpv
+@title that creates a volume at /webapp in the container named web which is running what "training/webapp python app.py" runs
+@created 1487926359329
+@weight 0.5

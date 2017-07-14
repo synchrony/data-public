@@ -1,6 +1,7 @@
-* :f1PFSi9gHhzXwpBr: RenameMe
-    @created 1436700952695
-    @weight 0.5
+@id f1PFSi9gHhzXwpBr
+@title RenameMe
+@created 1436700952695
+@weight 0.5
 
 g = new TinkerGraph();
 sail = new GraphSail(g, "");

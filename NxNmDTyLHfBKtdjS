@@ -1,6 +1,7 @@
-* :NxNmDTyLHfBKtdjS: RenameMe
-    @created 1483504889338
-    @weight 0.5
+@id NxNmDTyLHfBKtdjS
+@title RenameMe
+@created 1483504889338
+@weight 0.5
 
 cd ~/work
 mkdir git_jbb

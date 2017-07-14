@@ -1,3 +1,4 @@
-* :zWxVr7ZkY7j99CoC: "Static nested classes are accessed using the enclosing class name: OuterClass.StaticNestedClass"
-    @created 1491187944726
-    @weight 0.5
+@id zWxVr7ZkY7j99CoC
+@title "Static nested classes are accessed using the enclosing class name: OuterClass.StaticNestedClass"
+@created 1491187944726
+@weight 0.5

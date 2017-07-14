@@ -1,3 +1,4 @@
-* :lwuW4MXd4xZxKpG8: radix sort efficiency is O(d·n) for n keys which have d or fewer digits
-    @created 1380989848678
-    @weight 0.5
+@id lwuW4MXd4xZxKpG8
+@title radix sort efficiency is O(d·n) for n keys which have d or fewer digits
+@created 1380989848678
+@weight 0.5

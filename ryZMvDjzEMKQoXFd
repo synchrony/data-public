@@ -1,3 +1,4 @@
-* :ryZMvDjzEMKQoXFd: applyA = (%%~) "applies an arbitrary effectful function" (A for Applicative)
-    @created 1497568082196
-    @weight 0.5
+@id ryZMvDjzEMKQoXFd
+@title applyA = (%%~) "applies an arbitrary effectful function" (A for Applicative)
+@created 1497568082196
+@weight 0.5

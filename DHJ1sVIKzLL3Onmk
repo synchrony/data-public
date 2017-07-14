@@ -1,6 +1,7 @@
-* :DHJ1sVIKzLL3Onmk: RenameMe
-    @created 1367486745033
-    @weight 0.5
+@id DHJ1sVIKzLL3Onmk
+@title RenameMe
+@created 1367486745033
+@weight 0.5
 
 public String toString(final InputStream in) throws IOException {
     InputStreamReader is = new InputStreamReader(in);

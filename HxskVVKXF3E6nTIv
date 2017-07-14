@@ -1,3 +1,4 @@
-* :HxskVVKXF3E6nTIv: If you do that, must then in .emacs explicitly add the newly-created subfolder of .emacs.d/elpa, like (add-to-list 'load-path "~/.emacs.d/elpa/haskell-mode-16.1")
-    @created 1495502971039
-    @weight 0.5
+@id HxskVVKXF3E6nTIv
+@title If you do that, must then in .emacs explicitly add the newly-created subfolder of .emacs.d/elpa, like (add-to-list 'load-path "~/.emacs.d/elpa/haskell-mode-16.1")
+@created 1495502971039
+@weight 0.5

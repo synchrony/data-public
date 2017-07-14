@@ -1,3 +1,4 @@
-* :tI5pZt6ExklNlSZ3: pipelined execution delivers result tuples as soon as they are computable from input tuples while allowing the delays to be overlapped by othe work
-    @created 1351491605035
-    @weight 0.5
+@id tI5pZt6ExklNlSZ3
+@title pipelined execution delivers result tuples as soon as they are computable from input tuples while allowing the delays to be overlapped by othe work
+@created 1351491605035
+@weight 0.5

@@ -1,3 +1,4 @@
-* :e8mZWGaOY0B5ewqp: wget -O- http://localhost:8042/conf | sort conf | grep property | sed 's/.property..name.//' | sed 's/..name..value./>/' | sed 's/..value..source./>/' | sed 's/<.*//' | tr '>' '\t'
-    @created 1395721650140
-    @weight 0.5
+@id e8mZWGaOY0B5ewqp
+@title wget -O- http://localhost:8042/conf | sort conf | grep property | sed 's/.property..name.//' | sed 's/..name..value./>/' | sed 's/..value..source./>/' | sed 's/<.*//' | tr '>' '\t'
+@created 1395721650140
+@weight 0.5

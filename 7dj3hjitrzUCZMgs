@@ -1,3 +1,4 @@
-* :7dj3hjitrzUCZMgs: the ADXL345's default sampling rate is 0xA (100Hz).  Use 0x9 for 50Hz, 0x7 for 12.5Hz, 0xC for 400Hz, etc. up to 0xF (3200Hz), apparently.
-    @created 1435187939933
-    @weight 0.5
+@id 7dj3hjitrzUCZMgs
+@title the ADXL345's default sampling rate is 0xA (100Hz).  Use 0x9 for 50Hz, 0x7 for 12.5Hz, 0xC for 400Hz, etc. up to 0xF (3200Hz), apparently.
+@created 1435187939933
+@weight 0.5

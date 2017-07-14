@@ -1,3 +1,4 @@
-* :uG66c58xVCC8DllM: displays the effective POM as an XML for this build, with the active profiles factored in
-    @created 1447444726850
-    @weight 0.5
+@id uG66c58xVCC8DllM
+@title displays the effective POM as an XML for this build, with the active profiles factored in
+@created 1447444726850
+@weight 0.5

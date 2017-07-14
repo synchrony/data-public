@@ -1,6 +1,7 @@
-* :3FcCB9yKRXYHSJZw: RenameMe
-    @created 1445389205543
-    @weight 0.5
+@id 3FcCB9yKRXYHSJZw
+@title RenameMe
+@created 1445389205543
+@weight 0.5
 
 DELETE { GRAPH ?g1 { ?s ?p ?o } }
 WHERE { GRAPH ?g1 {

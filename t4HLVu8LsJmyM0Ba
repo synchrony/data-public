@@ -1,3 +1,4 @@
-* :t4HLVu8LsJmyM0Ba: echo "the time is $(date +%s%N)"
-    @created 1497555644722
-    @weight 0.5
+@id t4HLVu8LsJmyM0Ba
+@title echo "the time is $(date +%s%N)"
+@created 1497555644722
+@weight 0.5

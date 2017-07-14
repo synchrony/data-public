@@ -1,4 +1,5 @@
-* :jj4pdBPWHehqqYpu: Describing Linked Datasets with the VoID Vocabulary (web page)
-    @created 1329771135391
-    @alias http://www.w3.org/TR/void/
-    @weight 0.5
+@id jj4pdBPWHehqqYpu
+@title Describing Linked Datasets with the VoID Vocabulary (web page)
+@alias http://www.w3.org/TR/void/
+@created 1329771135391
+@weight 0.5

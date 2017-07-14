@@ -1,4 +1,5 @@
-* :iZWgYj33NUbCxWCM: OPKG Package Manager [OpenWrt Wiki] (web page)
-    @created 1473806156255
-    @alias https://wiki.openwrt.org/doc/techref/opkg
-    @weight 0.5
+@id iZWgYj33NUbCxWCM
+@title OPKG Package Manager [OpenWrt Wiki] (web page)
+@alias https://wiki.openwrt.org/doc/techref/opkg
+@created 1473806156255
+@weight 0.5

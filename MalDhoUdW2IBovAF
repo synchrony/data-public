@@ -1,4 +1,5 @@
-* :MalDhoUdW2IBovAF: (web page)
-    @created 1487061748216
-    @alias http://tw.rpi.edu/web/project/healthdata
-    @weight 0.5
+@id MalDhoUdW2IBovAF
+@title (web page)
+@alias http://tw.rpi.edu/web/project/healthdata
+@created 1487061748216
+@weight 0.5

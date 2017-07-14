@@ -1,4 +1,5 @@
-* :wuk6KAlLGGaAUpRm: be sure to set permissions of ~/.ssh and ~/.ssh/authorized_keys appropriately
-    @created 1392956321540
-    @weight 0.5
-    * :KuE3eISZEMZp79Hp: 
+@id wuk6KAlLGGaAUpRm
+@title be sure to set permissions of ~/.ssh and ~/.ssh/authorized_keys appropriately
+@created 1392956321540
+@weight 0.5
+* :KuE3eISZEMZp79Hp: 

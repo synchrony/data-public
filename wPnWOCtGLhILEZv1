@@ -1,6 +1,7 @@
-* :wPnWOCtGLhILEZv1: RenameMe
-    @created 1416674067647
-    @weight 0.5
+@id wPnWOCtGLhILEZv1
+@title RenameMe
+@created 1416674067647
+@weight 0.5
 
 # necessary?
 install.packages("tm")

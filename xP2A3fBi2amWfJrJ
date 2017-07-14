@@ -1,3 +1,4 @@
-* :xP2A3fBi2amWfJrJ: docker stop $(docker ps -a -q)
-    @created 1487921892122
-    @weight 0.5
+@id xP2A3fBi2amWfJrJ
+@title docker stop $(docker ps -a -q)
+@created 1487921892122
+@weight 0.5

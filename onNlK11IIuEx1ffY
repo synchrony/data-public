@@ -1,4 +1,5 @@
-* :onNlK11IIuEx1ffY: Overview (OpenRDF Sesame Core 2.6.7 API) (web page)
-    @created 1352174234667
-    @alias http://www.openrdf.org/doc/sesame2/api/
-    @weight 0.5
+@id onNlK11IIuEx1ffY
+@title Overview (OpenRDF Sesame Core 2.6.7 API) (web page)
+@alias http://www.openrdf.org/doc/sesame2/api/
+@created 1352174234667
+@weight 0.5

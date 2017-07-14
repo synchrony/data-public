@@ -1,3 +1,4 @@
-* :JLbOC5PkwDOusrcF: g <- p $ fr $ insRel 3 [2,0] g >>= insRel 3 [1,0]
-    @created 1469061944051
-    @weight 0.5
+@id JLbOC5PkwDOusrcF
+@title g <- p $ fr $ insRel 3 [2,0] g >>= insRel 3 [1,0]
+@created 1469061944051
+@weight 0.5

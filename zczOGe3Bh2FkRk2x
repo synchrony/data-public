@@ -1,3 +1,4 @@
-* :zczOGe3Bh2FkRk2x: optional fields: editor, volume/number, series, type, chapter, pages, address, edition, month, note, key
-    @created 1421622940421
-    @weight 0.5
+@id zczOGe3Bh2FkRk2x
+@title optional fields: editor, volume/number, series, type, chapter, pages, address, edition, month, note, key
+@created 1421622940421
+@weight 0.5

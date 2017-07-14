@@ -1,4 +1,5 @@
-* :ZkDieJo5Wi0DSqua: Boys' Life magazine (web page)
-    @created 1361163306567
-    @alias http://boyslife.org/
-    @weight 0.5
+@id ZkDieJo5Wi0DSqua
+@title Boys' Life magazine (web page)
+@alias http://boyslife.org/
+@created 1361163306567
+@weight 0.5

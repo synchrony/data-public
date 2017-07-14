@@ -1,3 +1,4 @@
-* :1uIhVnRISQXNCaLR: a way of separating an algorithm from an object structure on which it operates. A practical result of this separation is the ability to add new operations to existing object structures without modifying those structures
-    @created 1380998763144
-    @weight 0.5
+@id 1uIhVnRISQXNCaLR
+@title a way of separating an algorithm from an object structure on which it operates. A practical result of this separation is the ability to add new operations to existing object structures without modifying those structures
+@created 1380998763144
+@weight 0.5

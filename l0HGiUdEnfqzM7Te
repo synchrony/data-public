@@ -1,5 +1,6 @@
-* :l0HGiUdEnfqzM7Te: ! update resolver :: one line in bash
-    @created 1494746503534
-    @weight 0.5
+@id l0HGiUdEnfqzM7Te
+@title ! update resolver :: one line in bash
+@created 1494746503534
+@weight 0.5
 
 stack --resolver lts-6.9 ghci --no-load --no-build

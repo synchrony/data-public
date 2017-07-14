@@ -1,4 +1,5 @@
-* :VD8ouVZdEoRHmDCO: Home (web page)
-    @created 1484191221901
-    @alias http://cessna.txtav.com/
-    @weight 0.5
+@id VD8ouVZdEoRHmDCO
+@title Home (web page)
+@alias http://cessna.txtav.com/
+@created 1484191221901
+@weight 0.5

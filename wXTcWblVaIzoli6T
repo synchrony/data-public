@@ -1,4 +1,5 @@
-* :wXTcWblVaIzoli6T: do this even for relatively unimportant concepts; you won't know they're unimportant, in context, unless you know what they mean.  For example, in a log entry about learning the word "minyan", I added a note for the concept of a minyan, linked to the Wikipedia/DBpedia notion of minyan.  However, I didn't add any text.  A year and a half later, I came upon the log entry, had forgotten what "minyan" meant, and had to consult the Wikipedia article to find out.  At that point, I added a blurb of text to help my future self out.  Further in the future, perhaps, some of these blurbs will be unnecessary if I am able to fetch RDF descriptions of such resources dynamically from DBpedia and present them in TinkerNotes views.
-    @created 1351951003352
-    @weight 0.5
-    * :oUAZf09xTQwsRVeW: 
+@id wXTcWblVaIzoli6T
+@title do this even for relatively unimportant concepts; you won't know they're unimportant, in context, unless you know what they mean.  For example, in a log entry about learning the word "minyan", I added a note for the concept of a minyan, linked to the Wikipedia/DBpedia notion of minyan.  However, I didn't add any text.  A year and a half later, I came upon the log entry, had forgotten what "minyan" meant, and had to consult the Wikipedia article to find out.  At that point, I added a blurb of text to help my future self out.  Further in the future, perhaps, some of these blurbs will be unnecessary if I am able to fetch RDF descriptions of such resources dynamically from DBpedia and present them in TinkerNotes views.
+@created 1351951003352
+@weight 0.5
+* :oUAZf09xTQwsRVeW: 

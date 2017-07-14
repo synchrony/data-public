@@ -1,6 +1,7 @@
-* :zqpWqvR760nHZOiB: RenameMe
-    @created 1470696859288
-    @weight 0.5
+@id zqpWqvR760nHZOiB
+@title RenameMe
+@created 1470696859288
+@weight 0.5
 
 newGraph = TinkerGraph.open();
 newGraph.io(IoCore.graphml()).readGraph("tinkerpop-modern.xml");

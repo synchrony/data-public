@@ -1,6 +1,7 @@
-* :0fDxHrHGXG8fgOKw: my technical interview prep program in R
-    @created 1460514321299
-    @weight 0.75
+@id 0fDxHrHGXG8fgOKw
+@title my technical interview prep program in R
+@created 1460514321299
+@weight 0.75
 
 all.alg <- c(
   all.dp <- c(

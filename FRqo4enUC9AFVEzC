@@ -1,3 +1,4 @@
-* :FRqo4enUC9AFVEzC: "Biosignals were amplified (low-pass filter settings 100 Hz, time constants 10 seconds), digitized with a 4 ms resolution, and stored for later offline analysis. ERPs were averaged according to the different stimulus categories (e.g., targets vs. nontargets) for 1,024-ms epochs, starting 100 ms before stimulus onset."
-    @created 1434910935100
-    @weight 0.5
+@id FRqo4enUC9AFVEzC
+@title "Biosignals were amplified (low-pass filter settings 100 Hz, time constants 10 seconds), digitized with a 4 ms resolution, and stored for later offline analysis. ERPs were averaged according to the different stimulus categories (e.g., targets vs. nontargets) for 1,024-ms epochs, starting 100 ms before stimulus onset."
+@created 1434910935100
+@weight 0.5

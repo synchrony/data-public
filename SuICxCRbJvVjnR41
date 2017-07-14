@@ -1,6 +1,7 @@
-* :SuICxCRbJvVjnR41: RenameMe
-    @created 1331530962334
-    @weight 0.5
+@id SuICxCRbJvVjnR41
+@title RenameMe
+@created 1331530962334
+@weight 0.5
 
 rm -rf /tmp/sesametools
 cp -r . /tmp/sesametools

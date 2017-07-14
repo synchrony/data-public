@@ -1,4 +1,5 @@
-* :nusRzvT6aSHPWehR: Manage data in containers - Docker (web page)
-    @created 1487927514286
-    @alias https://docs.docker.com/engine/tutorials/dockervolumes/
-    @weight 0.5
+@id nusRzvT6aSHPWehR
+@title Manage data in containers - Docker (web page)
+@alias https://docs.docker.com/engine/tutorials/dockervolumes/
+@created 1487927514286
+@weight 0.5

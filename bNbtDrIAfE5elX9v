@@ -1,3 +1,4 @@
-* :bNbtDrIAfE5elX9v: r_tomillo       float  %9.0g                  Rendimiento (Ton/Ha) de tomillo
-    @created 1496474395592
-    @weight 0.5
+@id bNbtDrIAfE5elX9v
+@title r_tomillo       float  %9.0g                  Rendimiento (Ton/Ha) de tomillo
+@created 1496474395592
+@weight 0.5

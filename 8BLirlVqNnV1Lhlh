@@ -1,3 +1,4 @@
-* :8BLirlVqNnV1Lhlh: ACL messages may be represented\footnote{\url{http://www.fipa.org/repository/aclreps.php3}} in a string form (using the human-friendly S-expression syntax), an XML form, or a bit-efficient form. Message transport envelopes may be represented\footnote{\url{http://www.fipa.org/repository/envreps.php3}} in an XML form or a bit-efficient form.
-    @created 1345179148453
-    @weight 0.5
+@id 8BLirlVqNnV1Lhlh
+@title ACL messages may be represented\footnote{\url{http://www.fipa.org/repository/aclreps.php3}} in a string form (using the human-friendly S-expression syntax), an XML form, or a bit-efficient form. Message transport envelopes may be represented\footnote{\url{http://www.fipa.org/repository/envreps.php3}} in an XML form or a bit-efficient form.
+@created 1345179148453
+@weight 0.5

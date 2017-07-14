@@ -1,6 +1,7 @@
-* :8GZVltX6kmnnpcAV: a minimal Makefile
-    @created 1497068007017
-    @weight 0.5
+@id 8GZVltX6kmnnpcAV
+@title a minimal Makefile
+@created 1497068007017
+@weight 0.5
 
 # Offers "make clean" too.
 # If files thought1 and thought2 exists,

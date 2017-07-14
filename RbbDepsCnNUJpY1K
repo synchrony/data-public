@@ -1,4 +1,5 @@
-* :RbbDepsCnNUJpY1K: Aspie Hangout (web page)
-    @created 1321993400365
-    @alias http://forums.delphiforums.com/n/main.asp?webtag=aspies&nav=start&prettyurl=%2Faspies%2Fstart&gid=2009910474
-    @weight 0.5
+@id RbbDepsCnNUJpY1K
+@title Aspie Hangout (web page)
+@alias http://forums.delphiforums.com/n/main.asp?webtag=aspies&nav=start&prettyurl=%2Faspies%2Fstart&gid=2009910474
+@created 1321993400365
+@weight 0.5

@@ -1,3 +1,4 @@
-* :2UbI80WyRfIIpFsx: eval $(docker-machine env default)
-    @created 1488279306163
-    @weight 0.5
+@id 2UbI80WyRfIIpFsx
+@title eval $(docker-machine env default)
+@created 1488279306163
+@weight 0.5

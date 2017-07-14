@@ -1,3 +1,4 @@
-* :tDpSUH6Y55BbLD3x: if C1 = (a1,b1) and C2 = (a2,b2) are concepts in (G,M,I), then C1 is a suboncept of C2 <=> a1 is a subset of a2 <=> b2 is a subset of b1
-    @created 1485652288653
-    @weight 0.5
+@id tDpSUH6Y55BbLD3x
+@title if C1 = (a1,b1) and C2 = (a2,b2) are concepts in (G,M,I), then C1 is a suboncept of C2 <=> a1 is a subset of a2 <=> b2 is a subset of b1
+@created 1485652288653
+@weight 0.5

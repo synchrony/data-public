@@ -1,8 +1,9 @@
-* :Nt6c3lFEaIYNP1K9: variance of the coupling prior (and hence the strength of crossmodal coupling) can be modulated by a person’s knowledge that various unimodal stimuli originate from a single object
-    @created 1433532930894
-    @weight 0.5
-    @priority 0.5
-    * :8pCv7XxJgEzfnSlo: 
-    * :mC0WsVYMNx7XMzQN: 
-    * :SgyATBDHZvjob1br: 
-    * :tL0CQoEBG481VeQ1: 
+@id Nt6c3lFEaIYNP1K9
+@title variance of the coupling prior (and hence the strength of crossmodal coupling) can be modulated by a person’s knowledge that various unimodal stimuli originate from a single object
+@created 1433532930894
+@weight 0.5
+@priority 0.5
+* :8pCv7XxJgEzfnSlo: 
+* :mC0WsVYMNx7XMzQN: 
+* :SgyATBDHZvjob1br: 
+* :tL0CQoEBG481VeQ1: 

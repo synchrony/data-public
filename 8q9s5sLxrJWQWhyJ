@@ -1,3 +1,4 @@
-* :8q9s5sLxrJWQWhyJ: (let ((json (json-read-from-string (strip-http-headers (buffer-string))))
-    @created 1470075598496
-    @weight 0.5
+@id 8q9s5sLxrJWQWhyJ
+@title (let ((json (json-read-from-string (strip-http-headers (buffer-string))))
+@created 1470075598496
+@weight 0.5

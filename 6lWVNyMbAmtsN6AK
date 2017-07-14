@@ -1,6 +1,7 @@
-* :6lWVNyMbAmtsN6AK: RenameMe
-    @created 1310234505273
-    @weight 0.5
+@id 6lWVNyMbAmtsN6AK
+@title RenameMe
+@created 1310234505273
+@weight 0.5
 
 divide: draw vertical line L so that roughly n/2 points are on each side
 conquer: find closest pair in each side recursively

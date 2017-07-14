@@ -1,6 +1,7 @@
-* :xx7jVKaabWVvkcuT: RenameMe
-    @created 1484205230133
-    @weight 0.5
+@id xx7jVKaabWVvkcuT
+@title RenameMe
+@created 1484205230133
+@weight 0.5
 
 A fold
 Relative to a parent X, mark some of X's children as ("title tail members"?). For instance:

@@ -1,4 +1,5 @@
-* :SJ6cEgzNHGfbgiAL: Spokane Chronicle - Google News Archive Search (web page)
-    @created 1420153073830
-    @alias http://news.google.com/newspapers?nid=1345&dat=19870423&id=I45OAAAAIBAJ&sjid=yfoDAAAAIBAJ&pg=2872,1512572
-    @weight 0.5
+@id SJ6cEgzNHGfbgiAL
+@title Spokane Chronicle - Google News Archive Search (web page)
+@alias http://news.google.com/newspapers?nid=1345&dat=19870423&id=I45OAAAAIBAJ&sjid=yfoDAAAAIBAJ&pg=2872,1512572
+@created 1420153073830
+@weight 0.5

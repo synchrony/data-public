@@ -1,6 +1,7 @@
-* :EnkBHlmD0g4kDI52: RenameMe
-    @created 1485040166701
-    @weight 0.5
+@id EnkBHlmD0g4kDI52
+@title RenameMe
+@created 1485040166701
+@weight 0.5
 
 forall t1.                
   Eff                     

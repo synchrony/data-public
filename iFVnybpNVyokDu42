@@ -1,4 +1,5 @@
-* :iFVnybpNVyokDu42: Speedtest.net - The Global Broadband Speed Test (web page)
-    @created 1315589945692
-    @alias http://www.speedtest.net/
-    @weight 0.5
+@id iFVnybpNVyokDu42
+@title Speedtest.net - The Global Broadband Speed Test (web page)
+@alias http://www.speedtest.net/
+@created 1315589945692
+@weight 0.5

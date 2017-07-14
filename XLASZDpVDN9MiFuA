@@ -1,4 +1,5 @@
-* :XLASZDpVDN9MiFuA: Google Java Style (web page)
-    @created 1399345774565
-    @alias http://google-styleguide.googlecode.com/svn/trunk/javaguide.html
-    @weight 0.5
+@id XLASZDpVDN9MiFuA
+@title Google Java Style (web page)
+@alias http://google-styleguide.googlecode.com/svn/trunk/javaguide.html
+@created 1399345774565
+@weight 0.5

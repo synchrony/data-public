@@ -1,6 +1,7 @@
-* :fVjrsF3Rss3ZhTKR: Bellman-Ford algorithm
-    @created 1421638271033
-    @weight 0.5
+@id fVjrsF3Rss3ZhTKR
+@title Bellman-Ford algorithm
+@created 1421638271033
+@weight 0.5
 
 Find negative cycle if it exists
     If no negative cycle, find min-cost s-t path P {

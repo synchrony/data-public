@@ -1,4 +1,5 @@
-* :kCjjHB3gjbWivrO1: Stanford University Libraries (web page)
-    @created 1451959893243
-    @alias http://library.stanford.edu/
-    @weight 0.5
+@id kCjjHB3gjbWivrO1
+@title Stanford University Libraries (web page)
+@alias http://library.stanford.edu/
+@created 1451959893243
+@weight 0.5

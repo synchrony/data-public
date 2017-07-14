@@ -1,3 +1,4 @@
-* :BAO0rGgJCMignnUL: a data structure found in many Unix file systems. Each inode stores all the information about a file system object (file, device node, socket, pipe, etc.), except data content and file name
-    @created 1375380981673
-    @weight 0.5
+@id BAO0rGgJCMignnUL
+@title a data structure found in many Unix file systems. Each inode stores all the information about a file system object (file, device node, socket, pipe, etc.), except data content and file name
+@created 1375380981673
+@weight 0.5

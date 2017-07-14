@@ -1,3 +1,4 @@
-* :8TskVER89eMZmU4g: in contrast, when an input tuple arrives on either of its input, the SIHJ operator is able to produce all join results of that tuple with all previously seen inputs, because these are kept track of in the hash table of the SIHJ operator. This ensures that it does not matter at which point during query processing a particular input for a triple pattern arrives, the final result is always complete with respect to the data in the sources that were retrieved
-    @created 1427225090819
-    @weight 0.5
+@id 8TskVER89eMZmU4g
+@title in contrast, when an input tuple arrives on either of its input, the SIHJ operator is able to produce all join results of that tuple with all previously seen inputs, because these are kept track of in the hash table of the SIHJ operator. This ensures that it does not matter at which point during query processing a particular input for a triple pattern arrives, the final result is always complete with respect to the data in the sources that were retrieved
+@created 1427225090819
+@weight 0.5

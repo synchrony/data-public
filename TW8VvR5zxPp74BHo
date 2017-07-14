@@ -1,6 +1,7 @@
-* :TW8VvR5zxPp74BHo: RenameMe
-    @created 1340264452307
-    @weight 0.5
+@id TW8VvR5zxPp74BHo
+@title RenameMe
+@created 1340264452307
+@weight 0.5
 
 GregorianCalendar c = new GregorianCalendar();
 c.setTime(yourDate);

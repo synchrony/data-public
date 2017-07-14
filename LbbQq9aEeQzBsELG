@@ -1,3 +1,4 @@
-* :LbbQq9aEeQzBsELG: Reification in RDF and Jena is the ability to treat a Statement as a Resource, and hence to make assertions about that statement. A statement may be reified as many different resources, allowing different manifestations ("statings") of that statement to be treated differently if required.
-    @created 1310224688413
-    @weight 0.5
+@id LbbQq9aEeQzBsELG
+@title Reification in RDF and Jena is the ability to treat a Statement as a Resource, and hence to make assertions about that statement. A statement may be reified as many different resources, allowing different manifestations ("statings") of that statement to be treated differently if required.
+@created 1310224688413
+@weight 0.5

@@ -1,5 +1,6 @@
-* :X0WagaYuCpQWNzS2: switch off the Typeatron's battery power, remove both external jumpers, connect the Typeatron's USB port to the computer with a cable, start the slip-to-udp.py script (in extendo-demos), then start the typeatron-control.maxpat sketch (in typeatron).  When finished, replace the jumpers.
-    @created 1413254937147
-    @weight 0.5
-    * :tJYHiLqvvqxkaz6e: 
-    * :VI1qegGob921JAq4: 
+@id X0WagaYuCpQWNzS2
+@title switch off the Typeatron's battery power, remove both external jumpers, connect the Typeatron's USB port to the computer with a cable, start the slip-to-udp.py script (in extendo-demos), then start the typeatron-control.maxpat sketch (in typeatron).  When finished, replace the jumpers.
+@created 1413254937147
+@weight 0.5
+* :tJYHiLqvvqxkaz6e: 
+* :VI1qegGob921JAq4: 

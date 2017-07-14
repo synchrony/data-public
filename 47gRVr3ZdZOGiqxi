@@ -1,4 +1,5 @@
-* :47gRVr3ZdZOGiqxi: Cisco Talos Security Intelligence and Research Group - Cisco (web page)
-    @created 1463356860271
-    @alias http://www.cisco.com/c/en/us/products/security/talos.html
-    @weight 0.5
+@id 47gRVr3ZdZOGiqxi
+@title Cisco Talos Security Intelligence and Research Group - Cisco (web page)
+@alias http://www.cisco.com/c/en/us/products/security/talos.html
+@created 1463356860271
+@weight 0.5

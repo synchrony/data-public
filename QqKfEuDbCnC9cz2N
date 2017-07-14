@@ -1,4 +1,5 @@
-* :QqKfEuDbCnC9cz2N: don't delete isolated notes any more :-)  We need a new solution there; I might even remove the command.
-    @created 1484525811930
-    @weight 0.5
-    @priority 0.5
+@id QqKfEuDbCnC9cz2N
+@title don't delete isolated notes any more :-)  We need a new solution there; I might even remove the command.
+@created 1484525811930
+@weight 0.5
+@priority 0.5

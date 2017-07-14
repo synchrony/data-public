@@ -1,4 +1,5 @@
-* :mnajELR5VuQbqcq8: ISWC2012 | The 11th International Semantic Web Conference (web page)
-    @created 1354739722888
-    @alias http://iswc2012.semanticweb.org/
-    @weight 0.5
+@id mnajELR5VuQbqcq8
+@title ISWC2012 | The 11th International Semantic Web Conference (web page)
+@alias http://iswc2012.semanticweb.org/
+@created 1354739722888
+@weight 0.5

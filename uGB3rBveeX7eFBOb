@@ -1,3 +1,4 @@
-* :uGB3rBveeX7eFBOb: /etc/init.d/sshd restart
-    @created 1465628813604
-    @weight 0.5
+@id uGB3rBveeX7eFBOb
+@title /etc/init.d/sshd restart
+@created 1465628813604
+@weight 0.5

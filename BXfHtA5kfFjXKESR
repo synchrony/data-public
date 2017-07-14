@@ -1,4 +1,5 @@
-* :BXfHtA5kfFjXKESR: Semantic Sensor Web | Kno.e.sis (web page)
-    @created 1446954038366
-    @alias http://knoesis.org/projects/ssw
-    @weight 0.5
+@id BXfHtA5kfFjXKESR
+@title Semantic Sensor Web | Kno.e.sis (web page)
+@alias http://knoesis.org/projects/ssw
+@created 1446954038366
+@weight 0.5

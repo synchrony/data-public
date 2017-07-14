@@ -1,3 +1,4 @@
-* :33148IFD1Y5qE5VU: describes a technique for deriving metadata about sensors from time series data, rather than requiring sensor metadata to be explicitly provided.  In environmental time series, similar patterns can be observed periodically over time. These patterns can be characteristic to a type of sensor data, and therefore help to recognize it.
-    @created 1354051634257
-    @weight 0.5
+@id 33148IFD1Y5qE5VU
+@title describes a technique for deriving metadata about sensors from time series data, rather than requiring sensor metadata to be explicitly provided.  In environmental time series, similar patterns can be observed periodically over time. These patterns can be characteristic to a type of sensor data, and therefore help to recognize it.
+@created 1354051634257
+@weight 0.5

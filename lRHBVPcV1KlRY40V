@@ -1,4 +1,5 @@
-* :lRHBVPcV1KlRY40V: detecting devices using "tail -f /var/log/system.log"
-    @created 1339089945812
-    @weight 0.75
-    * :FbXtHB5CxOqpNMfY: 
+@id lRHBVPcV1KlRY40V
+@title detecting devices using "tail -f /var/log/system.log"
+@created 1339089945812
+@weight 0.75
+* :FbXtHB5CxOqpNMfY: 

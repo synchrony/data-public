@@ -1,4 +1,5 @@
-* :BbRkGsRWaCyKmg5K: EOS Clearing House (ECHO) | EOSDIS - Earthdata Website (web page)
-    @created 1391050134934
-    @alias https://earthdata.nasa.gov/echo
-    @weight 0.5
+@id BbRkGsRWaCyKmg5K
+@title EOS Clearing House (ECHO) | EOSDIS - Earthdata Website (web page)
+@alias https://earthdata.nasa.gov/echo
+@created 1391050134934
+@weight 0.5

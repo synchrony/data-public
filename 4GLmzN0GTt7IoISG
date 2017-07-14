@@ -1,6 +1,7 @@
-* :4GLmzN0GTt7IoISG: random matrix
-    @created 1497055770356
-    @weight 0.5
+@id 4GLmzN0GTt7IoISG
+@title random matrix
+@created 1497055770356
+@weight 0.5
 
 > replicate(2, rnorm(3)) 
            [,1]        [,2]

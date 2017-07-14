@@ -1,3 +1,4 @@
-* :EWwSQt1l8Eg7b92N: boolean smp = graph.features.vertex().supportsMetaProperties()
-    @created 1497047263612
-    @weight 0.5
+@id EWwSQt1l8Eg7b92N
+@title boolean smp = graph.features.vertex().supportsMetaProperties()
+@created 1497047263612
+@weight 0.5

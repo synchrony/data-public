@@ -1,6 +1,7 @@
-* :ONkzZaFs0WfdhbLi: the major dependencies of SPARQL-OSC
-    @created 1339094708193
-    @weight 0.5
-    * :bFae3Dv52AeAtQjD: 
-    * :H7Ywc1UttbD74Qoo: 
-    * :KxwZCciq14FXsB4E: 
+@id ONkzZaFs0WfdhbLi
+@title the major dependencies of SPARQL-OSC
+@created 1339094708193
+@weight 0.5
+* :bFae3Dv52AeAtQjD: 
+* :H7Ywc1UttbD74Qoo: 
+* :KxwZCciq14FXsB4E: 

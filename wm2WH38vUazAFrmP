@@ -1,4 +1,5 @@
-* :wm2WH38vUazAFrmP: RDF 1.1 Concepts and Abstract Syntax (web page)
-    @created 1434078305074
-    @alias http://www.w3.org/TR/rdf11-concepts/
-    @weight 0.5
+@id wm2WH38vUazAFrmP
+@title RDF 1.1 Concepts and Abstract Syntax (web page)
+@alias http://www.w3.org/TR/rdf11-concepts/
+@created 1434078305074
+@weight 0.5

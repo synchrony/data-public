@@ -1,3 +1,4 @@
-* :1aXFBl4lyTqzmzB3: df on Mac OS X reveals the devfs file system, mounted at /dev, which is always at 100% capacity
-    @created 1378850028590
-    @weight 0.5
+@id 1aXFBl4lyTqzmzB3
+@title df on Mac OS X reveals the devfs file system, mounted at /dev, which is always at 100% capacity
+@created 1378850028590
+@weight 0.5

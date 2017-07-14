@@ -1,4 +1,5 @@
-* :HbQhbkCAEIpoYI4l: Home Page of Global WordNet Association (web page)
-    @created 1326074787969
-    @alias http://www.globalwordnet.org/
-    @weight 0.5
+@id HbQhbkCAEIpoYI4l
+@title Home Page of Global WordNet Association (web page)
+@alias http://www.globalwordnet.org/
+@created 1326074787969
+@weight 0.5

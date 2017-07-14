@@ -1,3 +1,4 @@
-* :f69OBaoyjybL6RA7: density altitude in feet = pressure altitude in feet + (120 x (OAT - ISA temperature))
-    @created 1489761160622
-    @weight 0.5
+@id f69OBaoyjybL6RA7
+@title density altitude in feet = pressure altitude in feet + (120 x (OAT - ISA temperature))
+@created 1489761160622
+@weight 0.5

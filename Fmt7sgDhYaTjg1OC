@@ -1,3 +1,4 @@
-* :Fmt7sgDhYaTjg1OC: gunzip -c foo.csv.gz | wc -l
-    @created 1426820756783
-    @weight 0.5
+@id Fmt7sgDhYaTjg1OC
+@title gunzip -c foo.csv.gz | wc -l
+@created 1426820756783
+@weight 0.5

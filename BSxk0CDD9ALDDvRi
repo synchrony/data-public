@@ -1,3 +1,4 @@
-* :BSxk0CDD9ALDDvRi: p_sorgo         float  %9.0g                  ProducciÛn (Ton) de sorgo
-    @created 1496474373152
-    @weight 0.5
+@id BSxk0CDD9ALDDvRi
+@title p_sorgo         float  %9.0g                  ProducciÛn (Ton) de sorgo
+@created 1496474373152
+@weight 0.5

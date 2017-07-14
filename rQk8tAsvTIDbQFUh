@@ -1,6 +1,7 @@
-* :rQk8tAsvTIDbQFUh: RenameMe
-    @created 1470263958481
-    @weight 0.5
+@id rQk8tAsvTIDbQFUh
+@title RenameMe
+@created 1470263958481
+@weight 0.5
 
 png("/tmp/mygraphic.png", width=1400, height=600) # pixels
 # do your plotting here

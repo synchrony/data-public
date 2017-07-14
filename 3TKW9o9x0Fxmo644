@@ -1,6 +1,7 @@
-* :3TKW9o9x0Fxmo644: create, attach, and mount an EBS volume
-    @created 1488084636924
-    @weight 0.5
+@id 3TKW9o9x0Fxmo644
+@title create, attach, and mount an EBS volume
+@created 1488084636924
+@weight 0.5
 
 # first create and attach the volume, then
 sudo mkfs -t ext4 /dev/xvdg

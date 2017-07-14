@@ -1,3 +1,4 @@
-* :FgXF2k4hiVhmAqhq: names(data.frame(x=c(1,2),y=c(30,40)))
-    @created 1445360563038
-    @weight 0.5
+@id FgXF2k4hiVhmAqhq
+@title names(data.frame(x=c(1,2),y=c(30,40)))
+@created 1445360563038
+@weight 0.5

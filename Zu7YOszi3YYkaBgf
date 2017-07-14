@@ -1,3 +1,4 @@
-* :Zu7YOszi3YYkaBgf: $whoami is the value of the variable named "whoami". $(whoami) is the result of executing the command "whoami".
-    @created 1488670730198
-    @weight 0.5
+@id Zu7YOszi3YYkaBgf
+@title $whoami is the value of the variable named "whoami". $(whoami) is the result of executing the command "whoami".
+@created 1488670730198
+@weight 0.5

@@ -1,3 +1,4 @@
-* :VYbzqN97Zck6jIF0: g = TinkerGraphFactory.createTinkerGraph()
-    @created 1366479141969
-    @weight 0.5
+@id VYbzqN97Zck6jIF0
+@title g = TinkerGraphFactory.createTinkerGraph()
+@created 1366479141969
+@weight 0.5

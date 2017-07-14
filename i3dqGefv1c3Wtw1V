@@ -1,4 +1,5 @@
-* :i3dqGefv1c3Wtw1V: Astronomy resources (web page)
-    @created 1310539747573
-    @alias http://cdsweb.u-strasbg.fr/astroweb.html
-    @weight 0.25
+@id i3dqGefv1c3Wtw1V
+@title Astronomy resources (web page)
+@alias http://cdsweb.u-strasbg.fr/astroweb.html
+@created 1310539747573
+@weight 0.25

@@ -1,3 +1,4 @@
-* :HIWvndaZzhrupCer: time $ANDROID_HOME/tools/android update sdk --no-ui --obsolete --force
-    @created 1384744419640
-    @weight 0.5
+@id HIWvndaZzhrupCer
+@title time $ANDROID_HOME/tools/android update sdk --no-ui --obsolete --force
+@created 1384744419640
+@weight 0.5

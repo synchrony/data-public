@@ -1,6 +1,7 @@
-* :heVBpM7u15lggsKd: RenameMe
-    @created 1371631012710
-    @weight 0.5
+@id heVBpM7u15lggsKd
+@title RenameMe
+@created 1371631012710
+@weight 0.5
 
 g = TinkerGraphFactory.createTinkerGraph()
 pg = new PropertyGraphSail(g)

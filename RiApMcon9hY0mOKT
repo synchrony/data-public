@@ -1,3 +1,4 @@
-* :RiApMcon9hY0mOKT: replace cursor position, perhaps, by moving to beginning of line, then moving right one space at a time
-    @created 1471072701322
-    @weight 0.5
+@id RiApMcon9hY0mOKT
+@title replace cursor position, perhaps, by moving to beginning of line, then moving right one space at a time
+@created 1471072701322
+@weight 0.5

@@ -1,4 +1,5 @@
-* :70u6xF5crjP3XhnW: I first created a letter frequency table based on value text from joshkb.  This gave me the sequence "etaionsrlchmfdupgwybvkxjqz", which is a variant of the usual "etaoin shrdlu" sequence found in English text in general.  I then paired this sequence of letters with a list of two-key Typeatron chords which I had ranked in order of increasing difficulty.  Thus, the most frequently used letters such as 'e' received the chords such as 3232 which I found quickest and easiest to type, whereas the letters least frequently used, such as 'z', received the trickiest of the first 26 chords on the list, such as 4554 (originally 4545, which was even harder).  All chords beginning with the 1 key were reserved for special commands, as were all chords of a single key, such as 22 (space) or 33 (newline).
-    @created 1415989546122
-    @weight 0.5
-    * :EFUx78J31Jy6cpIi: 
+@id 70u6xF5crjP3XhnW
+@title I first created a letter frequency table based on value text from joshkb.  This gave me the sequence "etaionsrlchmfdupgwybvkxjqz", which is a variant of the usual "etaoin shrdlu" sequence found in English text in general.  I then paired this sequence of letters with a list of two-key Typeatron chords which I had ranked in order of increasing difficulty.  Thus, the most frequently used letters such as 'e' received the chords such as 3232 which I found quickest and easiest to type, whereas the letters least frequently used, such as 'z', received the trickiest of the first 26 chords on the list, such as 4554 (originally 4545, which was even harder).  All chords beginning with the 1 key were reserved for special commands, as were all chords of a single key, such as 22 (space) or 33 (newline).
+@created 1415989546122
+@weight 0.5
+* :EFUx78J31Jy6cpIi: 

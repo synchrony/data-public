@@ -1,4 +1,5 @@
-* :GXajXhRUA5617enb: DBLP Bibliography Database in RDF (FU Berlin) - the Datahub (web page)
-    @created 1445198088920
-    @alias http://datahub.io/dataset/fu-berlin-dblp
-    @weight 0.5
+@id GXajXhRUA5617enb
+@title DBLP Bibliography Database in RDF (FU Berlin) - the Datahub (web page)
+@alias http://datahub.io/dataset/fu-berlin-dblp
+@created 1445198088920
+@weight 0.5

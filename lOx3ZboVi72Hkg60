@@ -1,3 +1,4 @@
-* :lOx3ZboVi72Hkg60: System.out.format("@(%s %.2f=%.2f+%.2f)\n", e.getInferredClassName(), e.getScore(), e.getOutScore(), e.getInScore());
-    @created 1414171188698
-    @weight 0.5
+@id lOx3ZboVi72Hkg60
+@title System.out.format("@(%s %.2f=%.2f+%.2f)\n", e.getInferredClassName(), e.getScore(), e.getOutScore(), e.getInScore());
+@created 1414171188698
+@weight 0.5

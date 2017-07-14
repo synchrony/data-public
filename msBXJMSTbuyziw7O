@@ -1,6 +1,7 @@
-* :msBXJMSTbuyziw7O: RenameMe
-    @created 1361839163620
-    @weight 0.5
+@id msBXJMSTbuyziw7O
+@title RenameMe
+@created 1361839163620
+@weight 0.5
 
 git filter-branch -f --tree-filter 'rm -rf unwantedfile' HEAD
 git push origin master --force

@@ -1,6 +1,7 @@
-* :ifee661xdv3kTGy5: bash: use curly braces to group commands
-    @created 1499745150092
-    @weight 0.5
+@id ifee661xdv3kTGy5
+@title bash: use curly braces to group commands
+@created 1499745150092
+@weight 0.5
 
 (for when operator precedence doesn't do it for you)
 

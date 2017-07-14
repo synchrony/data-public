@@ -1,3 +1,4 @@
-* :DL1WISYkTXq6UCo3: as.numeric(Sys.time())
-    @created 1364415263311
-    @weight 0.5
+@id DL1WISYkTXq6UCo3
+@title as.numeric(Sys.time())
+@created 1364415263311
+@weight 0.5

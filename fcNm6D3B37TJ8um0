@@ -1,3 +1,4 @@
-* :fcNm6D3B37TJ8um0: private File mindMapDirectory = new File("/home/jeff/tmp");
-    @created 1470117573798
-    @weight 0.5
+@id fcNm6D3B37TJ8um0
+@title private File mindMapDirectory = new File("/home/jeff/tmp");
+@created 1470117573798
+@weight 0.5

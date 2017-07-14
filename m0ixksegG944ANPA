@@ -1,6 +1,7 @@
-* :m0ixksegG944ANPA: RenameMe
-    @created 1422285367460
-    @weight 0.5
+@id m0ixksegG944ANPA
+@title RenameMe
+@created 1422285367460
+@weight 0.5
 
 # export vertices from Brain-mode, then
 cat /tmp/joshkb-vertices.tsv |grep bibtex-reference|sed 's/.*bibtex-reference.....//'|grep "^@" > /tmp/bibtex-escaped.txt
