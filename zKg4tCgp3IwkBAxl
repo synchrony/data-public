@@ -1,0 +1,6 @@
+@id zKg4tCgp3IwkBAxl
+@title the error
+@created 1500670693836
+@weight 0.5
+
+I pulled changes from github before exporting my graph and committing my own. (I thought my local repository was up to date relative to my local graph, but I was wrong; I had changed the graph.)
