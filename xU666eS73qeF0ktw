@@ -3,8 +3,8 @@
 @created 1497505068773
 @weight 0.5
 
-sudo docker stop $(sudo docker ps -a -q)97d99c8eaa6e
-sudo docker rm $(sudo docker ps -a -q)97d99c8eaa6e
+sudo docker stop $(sudo docker ps -a -q)
+sudo docker rm $(sudo docker ps -a -q)
 
 or only the stopped ones:
-sudo docker rm $(sudo docker ps -a -f status=exited -q)97d99c8eaa6e
+sudo docker rm $(sudo docker ps -a -f status=exited -q)
