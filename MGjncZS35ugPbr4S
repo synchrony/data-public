@@ -1,0 +1,4 @@
+@id MGjncZS35ugPbr4S
+@title [markdown]The diameter of a graph can be smaller than it can be in a tree of the same number of things. That's because in a graph, anything can be connected to anything. If it takes too many hops to get from A to B, you can just add a connection from A to B, and now they are one hop apart.
+@created 1500849260799
+@weight 0.5

@@ -1,0 +1,25 @@
+@id kh667uKCjKn8WzfB
+@title error + solution :: "_ seems like it should be defined"
+@created 1500869111241
+@weight 0.5
+* :gQeESgONJElUNbjo: 
+
+-- this way, it doesn't know what "root" is in f
+main = do
+  (root : inputFile :_)  <- getArgs
+  input <- readFile inputFile
+  let pairs = pairFilesToContents $ readSmsnLines input
+  mapM_ (f root) pairs where
+    -- root is in the where clause's scope only if it is an argument to mapM_
+    f :: FilePath -> (FilePath, String) -> IO ()
+    f (name, content) = writeFile (root ++ name) content
+
+-- but this way it's okay
+main = do
+  (root : inputFile :_)  <- getArgs
+  input <- readFile inputFile
+  let pairs = pairFilesToContents $ readSmsnLines input
+  mapM_ (f root) pairs where
+    -- root is in the where clause's scope only if it is an argument to mapM_
+    f :: FilePath -> (FilePath, String) -> IO ()
+    f root (name, content) = writeFile (root ++ name) content

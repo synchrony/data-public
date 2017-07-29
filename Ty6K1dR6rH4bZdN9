@@ -1,4 +1,4 @@
 @id Ty6K1dR6rH4bZdN9
-@title [markdown]NOTE: Depending on how you install Docker, you might have to append `sudo` to each of the docker commands below. For instance, if it says to run `docker ps`, you will have to run `sudo docker ps` instead.
+@title [markdown]Depending on how you install Docker, you might have to append `sudo` to each of the docker commands below. For instance, if it says to run `docker ps`, you will have to run `sudo docker ps` instead.
 @created 1497338976298
 @weight 0.5
