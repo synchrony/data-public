@@ -1,0 +1,25 @@
+@id D5VZAnlLOxvO6dRi
+@title convert label vector (with NaNs) to one-hot vector (without)
+@created 1501297031316
+@weight 0.5
+
+vec = data2['heatingorsystemtypeid']
+
+# replace NaN with -1, which will be the least label
+minLabel = vec.min()
+if minLabel < 0: vec += vec.min()
+vec = pd.Series.fillna(vec, -1) 
+    # this -1 for NaN becomes 1 next
+
+# Pack those labels into the integers from 0 to n-1
+    # That zero indexing is important in the one-hot conversion step.
+d = {}
+valCounts = pd.Series.value_counts(vec, dropna=False);
+vals = sorted( list( valCounts.index ) )
+for i in range(len(vals)): d[vals[i]] = i
+vec = vec.apply(lambda x: d[x])
+
+# convert to one-hot
+vam = vec.as_matrix()
+vec_1hot = np.eye(len(vals))[vam]
+vec_1hot

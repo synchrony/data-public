@@ -1,0 +1,11 @@
+@id GipYTPjdBvSagx3n
+@title in categorical vectors, replace NaN with -1
+@created 1501205955819
+@weight 0.5
+
+inds = pd.isnull(data2["heatingorsystemtypeid"])
+data2.loc[inds,"heatingorsystemtypeid"] = -1
+
+# PITFALL: the expression data2 appears twice above.
+  If the first of those is changed to data,
+  then data, and not data2, receives the change.

@@ -1,0 +1,9 @@
+@id imxHpPbh16J5awib
+@title ? foldr on an infinite list
+@created 1501372751982
+@weight 0.5
+
+from Snake.hs:
+
+fromList :: [a] -> Stream a
+fromList = foldr (:|) (error "Streams must be infinite")
