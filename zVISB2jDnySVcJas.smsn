@@ -1,8 +1,8 @@
 @id zVISB2jDnySVcJas
 @title RenameMe
 @created 1395067736444
-@weight 0.5
-
+@text ```
 ./configure
 make
 make install
+```

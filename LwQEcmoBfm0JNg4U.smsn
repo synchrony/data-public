@@ -1,4 +1,3 @@
 @id LwQEcmoBfm0JNg4U
 @title [markdown]If you are in a public place and don't want your private notes visible, you can set a minimum sharability level (`C-c C-s C-m [number]`). (The minimum sharability must be at least the sharability of the root of the current view, though; otherwise you would not be permitting yourself to see anything.)
 @created 1490251939115
-@weight 0.5

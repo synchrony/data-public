@@ -1,4 +1,3 @@
 @id ncD0szRfPgZ5WibT
 @title "While convenient, statically imported methods can be confusing for new users, especially those who are translating their code between the console (which is Groovy-based) and a Java IDE. Take care with the use of the in() method in this context, as the word in is reserved in Groovy. For the console, you must explicitly use this method as __.in()."
 @created 1469061944316
-@weight 0.5

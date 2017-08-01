@@ -2,4 +2,3 @@
 @title JACK Audio Connection Kit|How do I configure my linux system to allow JACK to use realtime scheduling? (web page)
 @alias http://jackaudio.org/faq/linux_rt_config.html
 @created 1487583472441
-@weight 0.5

@@ -1,4 +1,3 @@
 @id iWI5ZPwjxMCq6edl
 @title a design pattern that restricts the Instantiation of a class to one object. This is useful when exactly one object is needed to coordinate actions across the system
 @created 1380992913694
-@weight 0.5

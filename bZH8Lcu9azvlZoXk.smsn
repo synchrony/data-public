@@ -1,4 +1,3 @@
 @id bZH8Lcu9azvlZoXk
 @title a consistent transaction is one that starts with a database in a consistent state and ends with the database in a consistent state.  Consistent state means that there is no violation of any integrity constraints.
 @created 1394223874033
-@weight 0.5

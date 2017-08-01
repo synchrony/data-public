@@ -1,4 +1,3 @@
 @id LozMH8gHZ35PENPo
 @title for i in Larry Curly Moe; do echo "hello $i"; done
 @created 1385506274372
-@weight 0.5

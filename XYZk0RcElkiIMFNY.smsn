@@ -1,10 +1,10 @@
 @id XYZk0RcElkiIMFNY
 @title multiple Dockerfiles sharing a context
 @created 1493933749587
-@weight 0.5
-
+@text ```
 Specify the Dockerfile separately from, and in a subfolder of, the context:
 
   docker build -f docker-files/Dockerfile .
 
 Source: http://stackoverflow.com/questions/27068596/how-to-include-files-outside-of-dockers-build-context
+```

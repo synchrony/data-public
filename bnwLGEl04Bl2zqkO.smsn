@@ -1,10 +1,10 @@
 @id bnwLGEl04Bl2zqkO
 @title smsn \ stuff I would like to read
 @created 1490296652197
-@weight 0.5
-
+@text ```
 on identity: http://dl.acm.org/citation.cfm?id=2907148
 
 Scott Fahlman's "ASystemForRepresentingAndUsingRealWorldKnowledge PhD AITR-450.pdf"
 
 Brachman & Levesque's "Knowledge Representation and Reasoning.pdf"
+```

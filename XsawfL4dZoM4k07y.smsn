@@ -1,8 +1,8 @@
 @id XsawfL4dZoM4k07y
 @title Emacs needs filenames and module names to correspond
 @created 1499745024488
-@weight 0.5
-
+@text ```
 Could have saved some time by looking that up
 
 The lesson: If I sense that something might be a big waste of time, look for prior art
+```

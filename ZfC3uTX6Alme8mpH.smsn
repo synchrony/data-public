@@ -1,11 +1,11 @@
 @id ZfC3uTX6Alme8mpH
 @title RenameMe
 @created 1343199424275
-@weight 0.5
-
+@text ```
 # endpoint : http://api.talis.com/stores/wordnet/services/sparql
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 SELECT ?s WHERE {
     ?s rdfs:label "tenon"@en-us
 }
 LIMIT 10
+```

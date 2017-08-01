@@ -1,8 +1,8 @@
 @id Jx7QCfPkANHa4Hh0
 @title RenameMe
 @created 1329169027191
-@weight 0.5
-
+@text ```
 (load-ntriples "/home/josh/tmp/result.nt")
 (commit-triple-store)
 (triple-count)
+```

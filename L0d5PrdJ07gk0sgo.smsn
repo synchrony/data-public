@@ -1,8 +1,7 @@
 @id L0d5PrdJ07gk0sgo
 @title wanted to read (NYT & Haskell), 2017-07-27
 @created 1501188797929
-@weight 0.5
-
+@text ```
 haskell
 http://www.mchaver.com/posts/2017-07-12-lens-tutorial-1.html
 https://gist.github.com/mchaver/d00a4ea654c618cf16457d9de84f1a02
@@ -25,3 +24,4 @@ https://www.nytimes.com/2017/07/27/science/study-happy-save-money-time.html?hpw&
 podcasts
 https://play.google.com/music/listen#/ps/Ijrsuoagxoijuxbsvl27l4mymy4
 https://play.google.com/music/listen#/ps/Ipqhn3j2i7ugrjaybi563av2smy
+```

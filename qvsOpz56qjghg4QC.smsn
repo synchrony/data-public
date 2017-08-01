@@ -1,4 +1,3 @@
 @id qvsOpz56qjghg4QC
 @title an Apache project to perform graph processing on big data. Giraph utilizes Apache Hadoop's MapReduce implementation to process graphs
 @created 1392237412887
-@weight 0.5

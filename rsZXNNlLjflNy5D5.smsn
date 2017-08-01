@@ -1,8 +1,7 @@
 @id rsZXNNlLjflNy5D5
 @title LDBC_Gen usage
 @created 1491520731018
-@weight 0.5
-
+@text ```
 cd images
 docker build -t gremlin/ldbc_gen -f gremlin-ldbc_gen.dockerfile .
 cd ..
@@ -16,3 +15,4 @@ OPTS="JAVA_OPTS='-Xms1G -Xmn128M -Xmx4G'"
 DATASET=/runtime/data/social_network.100u_1y.json
 QUERY=/runtime/queries/count-edges.groovy
 docker run  -it -v `pwd`/runtime:/runtime -e "$OPTS" -e DATASET=$DATASET gremlin/ldbc_gen gremlin.sh -e $QUERY
+```

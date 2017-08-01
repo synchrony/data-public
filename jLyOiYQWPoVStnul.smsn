@@ -1,4 +1,3 @@
 @id jLyOiYQWPoVStnul
 @title Branches imply a cycle problem in our graph that can be overcome either through more code (edge labels) or by reordering the data. That data ordering I suspect might be desirable even given the code solution.
 @created 1491543656681
-@weight 0.5

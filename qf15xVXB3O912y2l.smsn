@@ -1,8 +1,7 @@
 @id qf15xVXB3O912y2l
 @title [done]. two Docker images for smsm: master and develop
 @created 1493933364445
-@weight 0.25
-
+@text ```
 Move the extant smsn images to smsn-develop.
 Create a new dockerhub repo, smsn-develop.
 Push to hub.
@@ -16,3 +15,5 @@ Edit documentation on dockerhub, inc. develop.
 
 Report: master doesn't work.
   I changed require smsn-mode to require brain-mode, and then it would load, but when I searched for some text it cycled forever (i.e. 30 seconds).
+```
+@weight 0.25

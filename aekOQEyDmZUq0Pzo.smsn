@@ -1,8 +1,7 @@
 @id aekOQEyDmZUq0Pzo
 @title RenameMe
 @created 1329401456209
-@weight 0.5
-
+@text ```
 PREFIX drugs: <http://www4.wiwiss.fu-berlin.de/dailymed/resource/drugs/>
 PREFIX sider: <http://www4.wiwiss.fu-berlin.de/sider/resource/sider/>
 SELECT DISTINCT * WHERE {
@@ -10,3 +9,4 @@ SELECT DISTINCT * WHERE {
     ?drug sider:sideEffect ?effect .
     ?effect rdfs:label ?label .
 }
+```

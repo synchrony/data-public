@@ -1,8 +1,8 @@
 @id 3RdyX43hVfDFkJDI
 @title RenameMe
 @created 1470777533311
-@weight 0.5
-
+@text ```
 ftp example.org
 ls /path/to/dir
 get target-file.txt
+```

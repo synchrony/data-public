@@ -1,8 +1,7 @@
 @id iBolAiftGsH9ozjI
 @title notes from gremlin console
 @created 1491611112378
-@weight 0.5
-
+@text ```
 jeff@jbb-thinkpad:~/apps/tinkerpop/gremlin-console$ bin/gremlin.sh 
 
          \,,,/
@@ -58,3 +57,4 @@ gremlin> g.V(1405).properties()
 ==>vp[idV->e5rXp2NpiBdNuRAh]
 ==>vp[acronym->]
 gremlin> jeff@jbb-thinkpad:~/apps/tinkerpop/gremlin-console$
+```

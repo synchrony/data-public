@@ -1,4 +1,3 @@
 @id 7KI5YHQAbkyUnP8N
 @title x = {AudioIn.ar([1]).distort}.play
 @created 1322875842748
-@weight 0.5

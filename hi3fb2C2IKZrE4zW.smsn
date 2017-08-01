@@ -1,4 +1,3 @@
 @id hi3fb2C2IKZrE4zW
 @title a graph whose vertices can be listed in the order v1, v2, ..., vn such that the edges are {vi, vi+1} where i = 1, 2, …, n − 1
 @created 1466530826985
-@weight 0.5

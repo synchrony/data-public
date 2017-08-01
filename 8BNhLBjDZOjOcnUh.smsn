@@ -1,4 +1,3 @@
 @id 8BNhLBjDZOjOcnUh
 @title sp <- splinefun(tailav$x, tailav$y); plot(sp(tailav$x), x=tailav$x, type="l")
 @created 1339996072097
-@weight 0.5

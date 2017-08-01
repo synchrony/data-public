@@ -1,4 +1,3 @@
 @id 5I7HnkgcG5fI2bg6
 @title per RDF 1.1 an RDF triple consists of three components: subject (IRI or blank node), predicate (IRI), and object (IRI, literal, or blank node)
 @created 1447028439968
-@weight 0.5

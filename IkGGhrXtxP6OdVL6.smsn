@@ -1,4 +1,3 @@
 @id IkGGhrXtxP6OdVL6
 @title choose any number of sound sources from a timbre menu, then choose for each sound source a color.  The sound sources form a shape (e.g. for three sources, a triangle) in which the colors blend linearly.  Analogously, the timbre of the resulting tone at any point within the GSM is a mixture of the sound sources, so that the timbre corresponds to the color and vice versa.  This alleviates cognitive load for the synthesizer programmer by moving parts of the sonic functionality into the visual domain.
 @created 1410220130921
-@weight 0.5

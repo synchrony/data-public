@@ -1,4 +1,3 @@
 @id KYhxRSVzZ46iBH3f
 @title Btw. I have moved all of the "external search" commands from SmSn-mode proper, and put them in the example init file. I may be the only one using them, anyway. I found it necessary to add key bindings for company-specific search services I can't add to the source code, so instead these can just be a jumping-off point for user-defined commands. Be sure to update your init file if you use them.
 @created 1491453550020
-@weight 0.5

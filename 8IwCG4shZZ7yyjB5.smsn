@@ -1,4 +1,3 @@
 @id 8IwCG4shZZ7yyjB5
 @title array has homogeneous type, specificable at creation with dtype arg : c = np.array( [ [1,2], [3,4] ], dtype=complex )
 @created 1477038561672
-@weight 0.5

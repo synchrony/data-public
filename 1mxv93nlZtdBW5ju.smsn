@@ -1,4 +1,3 @@
 @id 1mxv93nlZtdBW5ju
 @title write_graph(g, file="/tmp/out.graphml", format="graphml")
 @created 1471906231427
-@weight 0.5

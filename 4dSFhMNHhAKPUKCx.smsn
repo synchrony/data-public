@@ -1,8 +1,7 @@
 @id 4dSFhMNHhAKPUKCx
 @title RenameMe
 @created 1462002661040
-@weight 0.5
-
+@text ```
 # the audio-audio window of simultaneity
 pss <- 0
 sd <- 2
@@ -10,3 +9,4 @@ sd <- 2
 x <- 2*sd/50 * (-50:50)
 y <- dnorm(x, mean=pss, sd=sd)
 plot(x=x, y, type="l")
+```

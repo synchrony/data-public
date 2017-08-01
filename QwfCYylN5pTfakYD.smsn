@@ -1,8 +1,7 @@
 @id QwfCYylN5pTfakYD
 @title in fact Matrix.transpose sometimes gives normal output too
 @created 1496962069664
-@weight 0.5
-
+@text ```
 It's even weirder than I thought.
 
 ```
@@ -27,4 +26,5 @@ macroexpand: Wrong number of arguments: (lambda (x1) "transpose :: [[Int]] -> [[
 
 Takes a matrix (a list of lists of ints) and returns its transposition.
 " (cons (quote progn) (cons (list (quote process-send-string) (quote haskell-emacs--proc) (list (quote format) "%S" (list (quote haskell-emacs--optimize-ast) (list (quote quote) (cons (quote Matrix\.transpose) (list x1)))))) (quote ((haskell-emacs--get 0)))))), 2
+```
 ```

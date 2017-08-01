@@ -1,4 +1,3 @@
 @id 5o94ol1RGg4qRw0o
 @title independent optimization of database requests overlooks potential savings which can be achieved when they are optimized collectively
 @created 1351795100214
-@weight 0.5

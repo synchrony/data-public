@@ -1,4 +1,3 @@
 @id BsNCCXtvzSyEDNgo
 @title where help* is transitive recursive help, e.g. if x helps y helps z then x helps z
 @created 1478155915986
-@weight 0.5

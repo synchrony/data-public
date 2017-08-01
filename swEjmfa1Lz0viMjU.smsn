@@ -1,8 +1,8 @@
 @id swEjmfa1Lz0viMjU
 @title What does it mean for the graph to hold a "KeyValueTree"?
 @created 1492925599656
-@weight 0.5
-
+@text ```
 That's a generic class implemented by the topics-and-pages model.
 
 in PGTopicGraph.java
+```

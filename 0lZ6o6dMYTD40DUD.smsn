@@ -1,7 +1,7 @@
 @id 0lZ6o6dMYTD40DUD
 @title RenameMe
 @created 1333139634004
-@weight 0.5
-
+@text ```
 h <- hist(nchar(as.character(v$value)), breaks=500, plot=FALSE)
 plot(h$counts, log="xy")
+```

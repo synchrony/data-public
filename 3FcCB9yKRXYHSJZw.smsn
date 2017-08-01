@@ -1,8 +1,7 @@
 @id 3FcCB9yKRXYHSJZw
 @title RenameMe
 @created 1445389205543
-@weight 0.5
-
+@text ```
 DELETE { GRAPH ?g1 { ?s ?p ?o } }
 WHERE { GRAPH ?g1 {
  FILTER ( strStarts(str(?g1),"Poststateless-Eve") )
@@ -14,3 +13,4 @@ WHERE { GRAPH ?g1 {
  FILTER (?time1 < ?time2)
  } }
 } ;
+```

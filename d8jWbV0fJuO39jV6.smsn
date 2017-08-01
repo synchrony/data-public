@@ -1,8 +1,7 @@
 @id d8jWbV0fJuO39jV6
 @title RenameMe
 @created 1330384506737
-@weight 0.5
-
+@text ```
 @prefix wni: <http://www.w3.org/2006/03/wn/wn20/instances/>
 @prefix wn20schema: <http://www.w3.org/2006/03/wn/wn20/schema/>
 
@@ -16,3 +15,4 @@ v. wn20schema:derivationallyRelated.
 @prefix wn20instances: <http://www.w3.org/2006/03/wn/wn20/instances/>
 
 wn20instances:synset-heavy-adjective-1
+```

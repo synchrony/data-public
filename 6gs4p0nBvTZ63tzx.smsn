@@ -1,9 +1,9 @@
 @id 6gs4p0nBvTZ63tzx
 @title RenameMe
 @created 1471472452059
-@weight 0.5
-
+@text ```
 EquivalentClasses(
    :NarcisticPerson 
    ObjectHasSelf( :loves ) 
  )
+```

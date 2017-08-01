@@ -1,8 +1,7 @@
 @id lmgIWM5kSl08oZwy
 @title RenameMe
 @created 1331530805748
-@weight 0.5
-
+@text ```
 git flow release start 1.x
 # now remove SNAPSHOT from version numbers
 mvn clean
@@ -52,3 +51,4 @@ git push --tags
 git checkout develop
 
 # now bump the Maven version and CHANGELOG.md to the next SNAPSHOT
+```

@@ -1,7 +1,7 @@
 @id xolW20mSQx6bg36r
 @title RenameMe
 @created 1371176859298
-@weight 0.5
-
+@text ```
 library(stringr) 
 str_locate("aabcd", "bcd")
+```

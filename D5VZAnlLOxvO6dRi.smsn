@@ -1,8 +1,7 @@
 @id D5VZAnlLOxvO6dRi
 @title convert label vector (with NaNs) to one-hot vector (without)
 @created 1501297031316
-@weight 0.5
-
+@text ```
 vec = data2['heatingorsystemtypeid']
 
 # replace NaN with -1, which will be the least label
@@ -23,3 +22,4 @@ vec = vec.apply(lambda x: d[x])
 vam = vec.as_matrix()
 vec_1hot = np.eye(len(vals))[vam]
 vec_1hot
+```

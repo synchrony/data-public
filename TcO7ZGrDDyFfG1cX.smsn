@@ -1,4 +1,3 @@
 @id TcO7ZGrDDyFfG1cX
 @title a complexity class containing the languages that are complete for NL, the class of decision problems that can be solved by a nondeterministic Turing machine using a logarithmic amount of memory space
 @created 1465333778903
-@weight 0.5

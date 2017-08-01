@@ -1,4 +1,3 @@
 @id oMZeue7KGsWOa7Gx
 @title ``Expressions in a given agent's native language should be understood by some other agent that uses a different implementation language and domain assumptions. So, the first layer is that of (syntactic) translation between languages in the same family (or between families) of languages . An other layer is concerned with guaranteeing that the semantic content of tokens is preserved among applications [...]''  ``A final layer addresses the communication between agents.''
 @created 1345178615884
-@weight 0.5

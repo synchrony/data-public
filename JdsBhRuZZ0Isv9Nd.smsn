@@ -1,7 +1,7 @@
 @id JdsBhRuZZ0Isv9Nd
 @title RenameMe
 @created 1370127794435
-@weight 0.5
-
+@text ```
 cd titan
 bin/gremlin.sh
+```

@@ -1,4 +1,3 @@
 @id 4dy4eI9rHZI8JFEX
 @title the _ in (_ + 3) feels different from the _ in "derive instance newtypeBPM :: Newtype BPM _", but no, they can both usefully be thought of as the same thing : an unnamed variable argument
 @created 1485040748602
-@weight 0.5

@@ -1,4 +1,3 @@
 @id pHWKctt1nY13L1sW
 @title [markdown]Search for text with `C-c s`. If you then type the word "cat" and press `enter`, every note containing the word "cat" will appear. Search for "cat*" and every word that begins with "cat", like "catch" or "category", will appear. There are more tricks like that; for details, check out the [Apache Lucene query syntax](https://lucene.apache.org/core/2_9_4/queryparsersyntax.html#Wildcard).
 @created 1490250453000
-@weight 0.5

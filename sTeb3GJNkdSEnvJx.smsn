@@ -1,4 +1,3 @@
 @id sTeb3GJNkdSEnvJx
 @title [markdown]Change the height of the tree with `h [number]`, where `number` is between 1 and 7. This controls how many generations of the arrow relationship are shown; for instance, in backward-view, a height of two shows parents and grandparents.
 @created 1490249739331
-@weight 0.5

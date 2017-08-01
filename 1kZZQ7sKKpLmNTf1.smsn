@@ -1,8 +1,7 @@
 @id 1kZZQ7sKKpLmNTf1
 @title RenameMe
 @created 1362162925215
-@weight 0.5
-
+@text ```
 (let ((default-directory "~/.emacs.d/elisp/"))
       (normal-top-level-add-subdirs-to-load-path))
 
@@ -19,3 +18,4 @@
 (load-file "/Users/josh/projects/notmine/emacspeak/lisp/mac-voices.el")
 (setq mac-default-speech-rate 300)
 (load-file "/Users/josh/projects/notmine/emacspeak/lisp/emacspeak-setup.el")
+```

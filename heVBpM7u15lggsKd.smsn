@@ -1,8 +1,7 @@
 @id heVBpM7u15lggsKd
 @title RenameMe
 @created 1371631012710
-@weight 0.5
-
+@text ```
 g = TinkerGraphFactory.createTinkerGraph()
 pg = new PropertyGraphSail(g)
 // or with the compact style
@@ -10,3 +9,4 @@ pg = new PropertyGraphSail(g)
 g2 = new SailGraph(pg)
 g2.saveRDF('/tmp/out.ttl', 'turtle');
 //g2.saveRDF('/tmp/out.nt', 'n-triples');
+```

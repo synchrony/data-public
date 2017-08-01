@@ -1,8 +1,7 @@
 @id tWwNeHWmSoK28nQE
 @title the problem description, written up for tidal list (not sent)
 @created 1496998315286
-@weight 0.5
-
+@text ```
 maybe post at http://ask.tidalcycles.org/questions/ask/
 
 Can I add a custom module hierarchy to what Emacs loads when Tidal starts?
@@ -16,3 +15,4 @@ I would also like to add code that's not just in a file, but in a module hierarc
 (There is a similar question here:
 http://ask.tidalcycles.org/question/61/how-and-where-do-i-define-and-use-custom-functions/
 It focuses on Atom, and doesn't mention modules.)
+```

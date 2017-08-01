@@ -1,4 +1,3 @@
 @id yoPGyyC0cipQP0YC
 @title Every data structure but the RSLT maxes out at some order, usually the first. Higher order data is recorded as "metadata". The metadata is in another language, and is harder to work with, less queriable, less automable. Some select person or persons understand the data, and they must work with it by hand. Tasks in the metadata are difficult to automate, relative to tasks in the data.
 @created 1469061944056
-@weight 0.5

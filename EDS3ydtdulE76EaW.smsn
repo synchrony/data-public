@@ -1,4 +1,3 @@
 @id EDS3ydtdulE76EaW
 @title I have written an extension to export EoB graphs in a format I can import into R, and also done a first run of PageRank on my personal graph.  The results are not very interesting, and seem to correlate more with node degree (I used an order-agnostic but weighted PageRank) than what I perceive as the importance of atoms.  Those atoms do tend to be highly ranked, but they share this position with other, relatively unimportant atoms which simply connect to a lot of other, unimportant nodes.  Perhaps the graph is too tree-like for PageRank, currently.
 @created 1315176979749
-@weight 0.5

@@ -1,4 +1,3 @@
 @id 3kwvfpZkFCENH85O
 @title Merge is a commutative monoid. Is there a library for those? (I looked.) Could I add two different monoid instances to the same type?
 @created 1485040030257
-@weight 0.5

@@ -1,4 +1,3 @@
 @id jVOTy953LQDn1WaH
 @title "Unfortunately we often find that developers try to treat these data structures as though they were objects by putting business rule methods in them. This is awkward because it creates a hybrid between a data structure and an object."
 @created 1471551197722
-@weight 0.5

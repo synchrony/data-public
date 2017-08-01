@@ -1,4 +1,3 @@
 @id JKBSzUpcCvt20Hp0
 @title similar to a deadlock, except that the states of the processes involved in the livelock constantly change with regard to one another, none progressing
 @created 1399227030116
-@weight 0.5

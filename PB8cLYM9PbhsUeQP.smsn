@@ -1,5 +1,4 @@
 @id PB8cLYM9PbhsUeQP
 @title regular expression matching over event streams has been well studied [as of this 2008 paper], while matching more general patterns is harder, due to richer languages and efficiency considerations
 @created 1352129069447
-@weight 0.5
 * :kkTeQq89RkVeIj9P: 

@@ -1,8 +1,7 @@
 @id YJJY7gRsNUM799mY
 @title RenameMe
 @created 1471476754096
-@weight 0.5
-
+@text ```
 DatatypeDefinition(
    :majorAge
    DataIntersectionOf(
@@ -10,3 +9,4 @@ DatatypeDefinition(
      DataComplementOf( :minorAge ) 
    ) 
  )
+```

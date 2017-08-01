@@ -1,8 +1,7 @@
 @id V2R4tXaZSYC0ZxJh
 @title RenameMe
 @created 1421638380154
-@weight 0.5
-
+@text ```
 while there exists a man m who is free and has not proposed to everyone {
     m proposes to highest-ranked w who has not rejected him yet
     if w is free, m is engaged to w
@@ -12,3 +11,4 @@ while there exists a man m who is free and has not proposed to everyone {
         else w rejects m
     }
 }
+```

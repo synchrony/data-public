@@ -1,8 +1,7 @@
 @id 20tGcKIGv0yiopWc
 @title smsn bullets, good unicode characters for
 @created 1492640430831
-@weight 0.5
-
+@text ```
 source: https://unicode-table.com/en/#2317
 
 ʘ
@@ -79,3 +78,4 @@ HTML-code: &#8414;
 Viewdata Square
 Unicode number: U+2317
 HTML-code: &#8983;
+```

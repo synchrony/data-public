@@ -1,4 +1,3 @@
 @id JdXTScPIrMMVwEpe
 @title ffmpeg -i cut.mp4 -filter:v "crop=50:220:640:60" -c:a copy out.mp4
 @created 1483073521809
-@weight 0.5

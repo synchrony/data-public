@@ -1,4 +1,3 @@
 @id aHFk4KhEiPkO4DR3
 @title [markdown]Provided that Gremlin Server is running, you should be able to use SmSn-mode key bindings, all of which begin with `C-c`, to interact with your knowledge graph as soon as you start Emacs and type:
 @created 1495925080796
-@weight 0.5

@@ -1,4 +1,3 @@
 @id unVEDbTK5PpZ75VZ
 @title egrep "^\[markdown\]" medit.1.md > medit.2.md
 @created 1494130811157
-@weight 0.5

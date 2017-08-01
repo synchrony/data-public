@@ -1,8 +1,7 @@
 @id KfD6ApRWr0VF6eJ0
 @title RenameMe
 @created 1411776455786
-@weight 0.5
-
+@text ```
 // Return RC high-pass filter output samples, given input samples,
  // time interval dt, and time constant RC
  function highpass(real[0..n] x, real dt, real RC)
@@ -12,3 +11,4 @@
    for i from 1 to n
      y[i] := α * y[i-1] + α * (x[i] - x[i-1])
    return y
+```

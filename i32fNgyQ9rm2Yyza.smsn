@@ -1,4 +1,3 @@
 @id i32fNgyQ9rm2Yyza
 @title [markdown]For SmSn support, you must create a smsn directory under gremlin-server/ext and copy the SmSn Server standalone JAR into it:
 @created 1495925080693
-@weight 0.5

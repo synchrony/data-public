@@ -1,8 +1,7 @@
 @id 5vgQV5TNW7b7z2nb
 @title updating the SmSn Sandbox
 @created 1491077120270
-@weight 0.5
-
+@text ```
 # use a screen session
 
 screen -S docker
@@ -37,3 +36,4 @@ IMAGE=joshsh/smsn
 VERSION=latest
 NAME=smsn-sandbox
 HOST=fortytwo.net
+```

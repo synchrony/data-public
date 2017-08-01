@@ -1,7 +1,7 @@
 @id niY1U4A3IWnRb7Bt
 @title # = |=| = override
 @created 1493537906743
-@weight 0.5
-
+@text ```
 d1 $ (|=| speed "2") $ sound "arpy*4" |=| speed "1"
 In this case, speed will always equal 2.
+```

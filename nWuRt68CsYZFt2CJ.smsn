@@ -2,4 +2,3 @@
 @title In gremlin console, follow the directions here to connect to the graph (assumning it's exposed at 8182)
 @alias http://tinkerpop.apache.org/docs/current/reference/#console-remote-console
 @created 1491292254363
-@weight 0.5

@@ -1,4 +1,3 @@
 @id oo4IPupgJNMH9SUG
 @title e.g. owl:sameAs between the DBpedia concept of sodium (which includes isotopes) and the OpenCyc concept of sodium (which refers to a piece of pure metallic sodium).  You can talk about the number of neutrons of an instance of DBpedia's sodium, but not of an instance of OpenCyc's sodium.
 @created 1344144130056
-@weight 0.5

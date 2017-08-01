@@ -1,4 +1,3 @@
 @id K1LuffdhUz7D82OV
 @title when you want to associate two atoms (for example, creating a collection of such association pairs), you can either create a tuple, as a new atom, for each association, or you can designate one of the two atoms as the root and place the other underneath it as a child
 @created 1378886565312
-@weight 0.5

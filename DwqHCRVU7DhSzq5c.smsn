@@ -1,4 +1,3 @@
 @id DwqHCRVU7DhSzq5c
 @title proof: Suppose hat a MST T* contains e.  Delete edge e from T*, add edge f in C.  Which f do we add to make T*-e+f a spanning tree?
 @created 1310234505230
-@weight 0.5

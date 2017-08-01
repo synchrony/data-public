@@ -1,8 +1,7 @@
 @id 93z9H1Vxeb0UMtBO
 @title a longer statement, including the error messages
 @created 1496960866335
-@weight 0.5
-
+@text ```
 Evaluating `(Matrix.transpose ’((1 2 3) (4 5 6)))` prints something weird to the message-buffer:
 ```
 Takes a matrix (a list of lists of ints) and returns its transposition.
@@ -11,3 +10,4 @@ Takes a matrix (a list of lists of ints) and returns its transposition.
 However, another function defined at .emacs.d/haskell-fun/Matrix.hs behaves like you might expect: `(Matrix.identity 1)` prints `((1))` in the message buffer.
 
 I evaluated those expressions from within a buffer, using C-x C-e. I'm running GNU Emacs 26.0.50 in Ubuntu. I chose stack when prompted during installation of haskell-emacs.
+```

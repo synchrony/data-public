@@ -1,4 +1,3 @@
 @id 248bNmvUT16J1Ch7
 @title it indicates how long downstream servers should cache a record before querying an authoritative name server for the record once again
 @created 1428526205602
-@weight 0.5

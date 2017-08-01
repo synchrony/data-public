@@ -1,8 +1,7 @@
 @id uhdkCTZIWQziLg9D
 @title switch
 @created 1469061912082
-@weight 0.5
-
+@text ```
 switch (month) {
             case 1:  monthString = "January";
                      break;
@@ -12,3 +11,4 @@ switch (month) {
             default: monthString = "Invalid month";
                      break;
         }
+```

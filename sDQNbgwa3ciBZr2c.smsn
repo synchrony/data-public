@@ -1,4 +1,3 @@
 @id sDQNbgwa3ciBZr2c
 @title java -Xms1G -Xmx1G -d64 -server -XX:+UseConcMarkSweepGC -jar foo.jar
 @created 1337482429987
-@weight 0.5

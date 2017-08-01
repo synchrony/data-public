@@ -1,4 +1,3 @@
 @id GFC79mQtA5WJkwBN
 @title A reader should evaluate what is right of the "$" before what is left of it. Therefore a$b$c should be evaluated as a$(b$c), not (a$b)$c.
 @created 1469061899608
-@weight 0.5

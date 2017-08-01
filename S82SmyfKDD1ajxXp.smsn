@@ -1,8 +1,7 @@
 @id S82SmyfKDD1ajxXp
 @title ?friendly message about smsn
 @created 1497505831029
-@weight 0.5
-
+@text ```
 . the second passage might sound aggressive
 
 Does anybody want the nonlinear text editor, Semantic Synchrony? It's just like what you're used to, except your text being only implicitly connected to the things near it (that's how linear text (and audio) are), instead passages of text are explicitly connected to each other, in ways that you choose. Also there are no fonts; instead there are programs like "if something's private then show it in red, but don't show it unless I'm in private-stuff-too mode".
@@ -14,3 +13,4 @@ Joshua Shinavier, I, and a Gitter and Github user by the name of rsindha are the
 It might have been invented in the sixties, though -- we've had the technology since then -- and kept a secret. That happened with statistics, somebody tells me.
 
 Soon you'll be able to name the ways you choose.
+```

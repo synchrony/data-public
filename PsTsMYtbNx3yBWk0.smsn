@@ -1,4 +1,3 @@
 @id PsTsMYtbNx3yBWk0
 @title ax <- approx(tailav$x, tailav$y, n=150); plot(ax$y, x=ax$x, type="l")
 @created 1339997004888
-@weight 0.5

@@ -1,4 +1,3 @@
 @id vhQgQJuxtp3xukWK
 @title docker run -d -P --name web -v /src/webapp:/webapp training/webapp python app.py
 @created 1487927043289
-@weight 0.5

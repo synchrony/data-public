@@ -1,10 +1,10 @@
 @id XswIN6fXVZ1trB92
 @title rslt for markup
 @created 1493883366761
-@weight 0.5
-
+@text ```
 Read a markup document.
   Recognize headers
   Recognize links
   Represent it
     paragraphs = things separated by empty lines
+```

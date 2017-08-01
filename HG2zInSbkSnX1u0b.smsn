@@ -1,4 +1,3 @@
 @id HG2zInSbkSnX1u0b
 @title a heap similar to a binary heap but also supports quick merging of two heaps
 @created 1465522145569
-@weight 0.5

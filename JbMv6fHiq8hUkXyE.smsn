@@ -1,8 +1,7 @@
 @id JbMv6fHiq8hUkXyE
 @title todo : sanity check : dims of six orig and merged df
 @created 1497083916159
-@weight 0.5
-
+@text ```
 The size of the merged one is a little bigger than the sum of the others, which is appropriate (if some sets are missing years or cities, which is true at least for years).
 
 jeff@jbb-lenovo:~/colombia/data,in-file-refactored$ du -hs *.csv20M     conflict.csv
@@ -20,3 +19,4 @@ Type "help", "copyright", "credits" or "license" for more information.
 175.8
 >>> exit()
 jeff@jbb-lenovo:~/colombia/data,in-file-refactored$
+```

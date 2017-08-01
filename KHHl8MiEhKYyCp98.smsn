@@ -1,4 +1,3 @@
 @id KHHl8MiEhKYyCp98
 @title detecting multiply-subscribed queries will only work well if the clients actually specify the same queries, which can be encouraged by providing a standard set of parameterizable query templates (e.g. as easily selected options in user interfaces)
 @created 1428521416775
-@weight 0.5

@@ -1,8 +1,7 @@
 @id vwSuTEEZnFOm6ySO
 @title RenameMe
 @created 1326595326132
-@weight 0.5
-
+@text ```
 http://download.librdf.org/source/
 
 tar -xzf raptor-*.tar.gz
@@ -31,3 +30,4 @@ make check
 
 su
 make install
+```

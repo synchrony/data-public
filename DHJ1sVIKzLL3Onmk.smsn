@@ -1,8 +1,7 @@
 @id DHJ1sVIKzLL3Onmk
 @title RenameMe
 @created 1367486745033
-@weight 0.5
-
+@text ```
 public String toString(final InputStream in) throws IOException {
     InputStreamReader is = new InputStreamReader(in);
     BufferedReader br = new BufferedReader(is);
@@ -15,3 +14,4 @@ public String toString(final InputStream in) throws IOException {
 
     return sb.toString();
 }
+```

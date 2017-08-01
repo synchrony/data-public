@@ -1,4 +1,3 @@
 @id nu2alfTCKV64LMkM
 @title mvn dependency:get -Dartifact=org.janusgraph:janusgraph-cql:0.2.0-SNAPSHOT
 @created 1494884955427
-@weight 0.5

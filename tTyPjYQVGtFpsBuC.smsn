@@ -1,4 +1,3 @@
 @id tTyPjYQVGtFpsBuC
 @title [markdown]Start the highlight with `z`. Cut the highlight with `x`, copy it with `c`, paste it with `v`. There is also a way to copy a note without highlighting it: `C-c r`. Similarly, to copy only the text of the note, not its address, use `C-c v` (it stands for "value").
 @created 1490249979700
-@weight 0.5

@@ -1,8 +1,7 @@
 @id SuICxCRbJvVjnR41
 @title RenameMe
 @created 1331530962334
-@weight 0.5
-
+@text ```
 rm -rf /tmp/sesametools
 cp -r . /tmp/sesametools
 cd /tmp/sesametools
@@ -11,3 +10,4 @@ rm -rf .git/ .idea/
 rm -rf `find . -name "*.iml"`
 cd ..
 zip -r sesametools-0.6.zip sesametools/
+```

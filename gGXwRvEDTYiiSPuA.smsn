@@ -1,8 +1,7 @@
 @id gGXwRvEDTYiiSPuA
 @title cars for tall people
 @created 1500501370058
-@weight 0.5
-
+@text ```
 sedans
   hyndai elantra
   ford focus
@@ -27,3 +26,4 @@ trucklike ones
   toyota avalon
   cadillac ct-6
   chevy tahoe
+```

@@ -1,8 +1,7 @@
 @id COm7EJSeroA3dl3q
 @title unary operators do casting, too
 @created 1491191783715
-@weight 0.5
-
+@text ```
 "For unary (single-argument) arithmetic operators:
 If the operand is of type byte, short, or char, the result is a value of type int.
 Otherwise, a unary numeric operand remains as is and is not converted.
@@ -15,3 +14,4 @@ short c = a + b;    // Compilation error
 
 The reason is that the result of the addition is an int value, which cannot be stored in a variable typed short unless you explicitly cast it, as in:
 short c = (short) (a + b);
+```

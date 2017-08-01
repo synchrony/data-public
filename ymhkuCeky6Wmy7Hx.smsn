@@ -1,8 +1,7 @@
 @id ymhkuCeky6Wmy7Hx
 @title check_for_module.py
 @created 1492716634576
-@weight 0.5
-
+@text ```
 import sys
 import imp
 
@@ -19,3 +18,4 @@ except ImportError:
     found = False
 
 print "found: " + str(found)
+```

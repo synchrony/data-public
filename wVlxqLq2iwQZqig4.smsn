@@ -2,4 +2,3 @@
 @title cider = clojure + emacs (web page)
 @alias https://github.com/clojure-emacs/cider
 @created 1487568598893
-@weight 0.5

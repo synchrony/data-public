@@ -1,4 +1,3 @@
 @id OggfZBudeb2n7RtX
 @title java -Djava.security.manager -Djava.security.policy=java.policy com.example.SomeClass
 @created 1338844710163
-@weight 0.5

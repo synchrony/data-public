@@ -1,9 +1,7 @@
 @id 27H5wTcPP3DwaWw9
 @title my incomplete tensorflow install
 @created 1499627243884
-@weight 0.5
-* :5XKOIyujdARgzpIp: 
-
+@text ```
 Use Docker!
 
 sudo docker run -v /home/jeff/code/tflow:/home/jovyan/work -it --rm -p 8888:8888 jupyter/tensorflow-notebook      
@@ -24,3 +22,5 @@ The anaconda install didn't work for me:
   It uses 2.7
   It aborts installation with:
     IOError: [Errno 13] Permission denied: '/usr/local/lib/python2.7/dist-packages/six.pyc'
+```
+* :5XKOIyujdARgzpIp: 

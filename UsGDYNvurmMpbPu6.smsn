@@ -1,4 +1,3 @@
 @id UsGDYNvurmMpbPu6
 @title the query processor needs to be able to efficiently collect data from multiple, heterogeneous and possibly redundant data sources, and respond flexibly when some sources are unavailable
 @created 1351488932267
-@weight 0.5

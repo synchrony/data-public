@@ -1,8 +1,8 @@
 @id oI6BohPnUi7sNV7P
 @title scales generalized ,, 7-tone(12et) | one weird interval
 @created 1497931827640
-@weight 0.5
-
+@text ```
 7-tone scale generalized: iterate a group transformation until close to identity
   => one weird interval
   => ? lots of similar triads with one interruption
+```

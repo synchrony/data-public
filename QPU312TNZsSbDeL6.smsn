@@ -1,8 +1,7 @@
 @id QPU312TNZsSbDeL6
 @title RenameMe
 @created 1343199764580
-@weight 0.5
-
+@text ```
 @prefix wordnet: <http://purl.org/vocabularies/princeton/wordnet/schema#>
 @prefix wn30: <http://purl.org/vocabularies/princeton/wn30/>
 
@@ -11,3 +10,4 @@ wn30:synset-chair-noun-1 = v
 v. wordnet:action.
            
 v. wn20schema:hyponymOf* distinct.
+```

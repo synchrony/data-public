@@ -1,4 +1,3 @@
 @id dkMH03sZpHHziEtD
 @title as.data.frame(table(c("foo", "bar", "foo")))$Freq
 @created 1339395718670
-@weight 0.5

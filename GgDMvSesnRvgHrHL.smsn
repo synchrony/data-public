@@ -1,9 +1,9 @@
 @id GgDMvSesnRvgHrHL
 @title read from GraphML
 @created 1405519836384
-@weight 0.5
-
+@text ```
 g = TinkerGraph.open();
 reader = GraphMLReader.build().create()
 stream = new FileInputStream("/Users/josh/projects/tinkerpop/tinkerpop3/data/grateful-dead.xml")
 reader.readGraph(stream, g);
+```

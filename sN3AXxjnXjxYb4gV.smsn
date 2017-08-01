@@ -1,4 +1,3 @@
 @id sN3AXxjnXjxYb4gV
 @title curl https://bootstrap.pypa.io/ez_setup.py -o - | sudo python
 @created 1474043538935
-@weight 0.5

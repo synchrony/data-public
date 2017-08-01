@@ -1,4 +1,3 @@
 @id kKp6NAycyHj2OCu4
 @title WHERE Art.__id = 'bench:Article' AND name1.__id < name2.__id
 @created 1383949669917
-@weight 0.5

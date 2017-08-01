@@ -1,11 +1,11 @@
 @id om6aJYlAqyKuvcND
 @title [boring]. birthday message
 @created 1493955297072
-@weight 0.25
-@priority 0.0
-
+@text ```
 I went to my Linux User Group tonight, like I generally do. 
 
 [the rest dubious]
 
 I feel lucky to know so many people that my status quo information
+```
+@weight 0.25

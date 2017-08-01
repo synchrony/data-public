@@ -1,8 +1,7 @@
 @id sEfMD1ip8T6Ty7nc
 @title a custom guitar tuning
 @created 1495693668163
-@weight 0.5
-
+@text ```
 # The tuning
 Low E, wound, 32 lbs => 0.05858" a.k.a. 58.6
 A, wound, 28 lbs => 41
@@ -33,3 +32,4 @@ D'Addario's 10s range in tension from about 16 lbs to 20 lbs:
   http://www.daddario.com/DAstringtensionguide.Page?sid=55c19e66-8f2d-4986-b4ca-da5320c91b62
 They have the low E a little floppier than the low A, which always feels dumb to me, so I won't do that.
 I hope that doesn't mean my low E will overpower the others.
+```

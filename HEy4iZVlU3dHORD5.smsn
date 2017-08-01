@@ -1,4 +1,3 @@
 @id HEy4iZVlU3dHORD5
 @title [markdown]Additional file-related variables -- for export only -- include `smsn-default-vertices-file` (for all notes in a tab-separated format), `smsn-default-edges-file` (for an adjacency list of parent-child relationships), and others for advanced or experimental features.
 @created 1495925080793
-@weight 0.5

@@ -1,8 +1,7 @@
 @id L4ouD7gpDjgdYlyq
 @title example from SmSn
 @created 1472283425259
-@weight 0.5
-
+@text ```
 public void setValue(final String value) {
         if (null != value && 0 == value.length()) {
             throw new IllegalArgumentException("empty value is not valid");
@@ -10,3 +9,4 @@ public void setValue(final String value) {
 
         this.value = value;
     }
+```

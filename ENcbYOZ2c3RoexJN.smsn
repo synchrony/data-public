@@ -1,8 +1,7 @@
 @id ENcbYOZ2c3RoexJN
 @title RenameMe
 @created 1471377907787
-@weight 0.5
-
+@text ```
 + :CW09ghd: more, kind of obvious
     · :k8y3T8b: styles.topic (style)
     · :lnuAnVt: {{{
@@ -10,3 +9,4 @@ SubClassOf(
    :Grandfather
    ObjectIntersectionOf( :Man :Parent )
  )
+```

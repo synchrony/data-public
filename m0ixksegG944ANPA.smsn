@@ -1,8 +1,7 @@
 @id m0ixksegG944ANPA
 @title RenameMe
 @created 1422285367460
-@weight 0.5
-
+@text ```
 # export vertices from Brain-mode, then
 cat /tmp/joshkb-vertices.tsv |grep bibtex-reference|sed 's/.*bibtex-reference.....//'|grep "^@" > /tmp/bibtex-escaped.txt
 
@@ -21,3 +20,4 @@ for (i=1; i < a.length; i++) {
 
 ps = new PrintStream(new FileOutputStream(new File("/tmp/thesis.bib")));
 ps.println(sb.toString());
+```

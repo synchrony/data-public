@@ -1,4 +1,3 @@
 @id 3ObPbhGgueoYEc7V
 @title data <- read.csv(file("/tmp/committers.csv"), header=FALSE)
 @created 1498590720270
-@weight 0.5

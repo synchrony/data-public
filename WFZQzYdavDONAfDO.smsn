@@ -1,8 +1,7 @@
 @id WFZQzYdavDONAfDO
 @title RenameMe
 @created 1337641606142
-@weight 0.5
-
+@text ```
 ########################################
 # common functions
 
@@ -289,3 +288,4 @@ vertex.data <- read.table(file("/tmp/joshkb-vertices.tsv"), header=TRUE, sep="\t
 c <- data.frame(creates, date=as.POSIXct(creates$V1 / 1000, origin="1970-01-01 GMT", tz="GMT"))
 cs <- subset(c, date > as.POSIXct("2013-07-28") & date < as.POSIXct("2013-07-30"))
 m <- merge(cs, v, by.x="V3", by.y="id")
+```

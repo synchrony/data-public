@@ -1,8 +1,7 @@
 @id g4UgZVM4VilhpG6f
 @title RenameMe
 @created 1421638496313
-@weight 0.5
-
+@text ```
 Voltage [V] 3
 Frame Diameter [mm] 10
 Body Length [mm] 3.4
@@ -14,3 +13,4 @@ Start Voltage [V] 2.3
 Start Current [mA] 85
 Terminal Resistance [Ohm] 75
 Vibration Amplitude [G] 0.8
+```

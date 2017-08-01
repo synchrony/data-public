@@ -1,8 +1,7 @@
 @id 0k0Adpjwsh5ve66h
 @title RenameMe
 @created 1484965513739
-@weight 0.5
-
+@text ```
 power up the Yun and connect to it by SSID
 
 visit in browser: arduino.local
@@ -13,3 +12,4 @@ change Yun configuration (e.g. change name and password)
 configure wireless network on Yun
 reconnect to your local network
 visit the Yun at [newname].local
+```

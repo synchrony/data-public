@@ -2,4 +2,3 @@
 @title docker save: image <-> .tar archive
 @alias https://docs.docker.com/engine/reference/commandline/save/#examples
 @created 1495781219569
-@weight 0.5

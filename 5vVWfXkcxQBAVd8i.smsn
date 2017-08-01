@@ -1,4 +1,3 @@
 @id 5vVWfXkcxQBAVd8i
 @title . when switching from unlabeled-edges graph to markup-rslt style, these long ("verbatim") nodes had children, which was not compatible. so I copied the text of each and made a child containing that, and then changed the text of the original to be "a long node (first) and what were once its children", to preserve its other parents if they exist
 @created 1486111841797
-@weight 0.5

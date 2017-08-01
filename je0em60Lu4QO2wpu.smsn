@@ -1,8 +1,7 @@
 @id je0em60Lu4QO2wpu
 @title the solution
 @created 1500670789170
-@weight 0.5
-
+@text ```
 Roll my local repos back to the last commit I made myself -- that is, without the changes I had pulled too early.
 
 Export onto that.
@@ -14,3 +13,4 @@ Checkout the latest versions from github.
 "apply" the patch: git apply patch.txt
 
 It complained that some of the changes didn't apply. I sampled some, and in all cases it was because the change had already been made. Not sure how. *shrug*
+```

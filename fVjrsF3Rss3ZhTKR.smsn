@@ -1,8 +1,7 @@
 @id fVjrsF3Rss3ZhTKR
 @title Bellman-Ford algorithm
 @created 1421638271033
-@weight 0.5
-
+@text ```
 Find negative cycle if it exists
     If no negative cycle, find min-cost s-t path P {
         OPT(v) = min-cost of v-t path
@@ -22,3 +21,4 @@ Find negative cycle if it exists
             Final answer: OPT(n-1, s)
         Time complexity is O(m*n)
     }
+```

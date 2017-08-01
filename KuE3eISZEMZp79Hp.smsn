@@ -1,7 +1,7 @@
 @id KuE3eISZEMZp79Hp
 @title RenameMe
 @created 1392956321541
-@weight 0.5
-
+@text ```
 chmod 700 ~/.ssh
 chmod 600 ~/.ssh/authorized_keys
+```

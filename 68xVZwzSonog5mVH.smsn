@@ -1,5 +1,4 @@
 @id 68xVZwzSonog5mVH
 @title materialized views are similar to continuous queries in that they are effectively queries that need to be reevaluated or incrementally updated whenever the base data changes
 @created 1351478798568
-@weight 0.5
 * :4BcrSsRKRMvIAkGP: 

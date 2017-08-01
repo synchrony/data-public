@@ -1,8 +1,7 @@
 @id 4BkoQhaBjXsHNqRe
 @title RenameMe
 @created 1382496319666
-@weight 0.5
-
+@text ```
 on a rooted Android phone...
 back up your personal data
 copy Google apps zip and appropriate CyanogenMod ROM zip onto sdcard
@@ -15,3 +14,4 @@ advanced ClockworkMod features > Wipe Dalvik Cache > Yes
 install zip from sdcard > choose ROM from sdcard > [ROM] > Yes
 install zip from sdcard > choose gapps from sdcard > [gapps] > Yes
 reboot system now
+```

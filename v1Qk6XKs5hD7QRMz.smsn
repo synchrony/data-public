@@ -1,4 +1,3 @@
 @id v1Qk6XKs5hD7QRMz
 @title `append-to-file start end file` (`M-x append-to-file filename`) appends the highlighted region to filename
 @created 1501051838650
-@weight 0.5

@@ -1,4 +1,3 @@
 @id MFLs3S5rkULjVEYQ
 @title "we experimentally evaluate the effectiveness of the ontological approach, using an activity dataset collected in smart-home setting. Preliminary results suggest that ontological techniques underperform data-driven ones, mainly because they lack support for reasoning with temporal information. Indeed, we show that, when ontological techniques are extended with even simple forms of temporal reasoning, their effectiveness is comparable to the one of a state-ofthe-art technique based on Hidden Markov Models"
 @created 1444537365967
-@weight 0.5

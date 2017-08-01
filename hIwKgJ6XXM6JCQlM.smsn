@@ -1,4 +1,3 @@
 @id hIwKgJ6XXM6JCQlM
 @title the system supported continuous queries expressed using a very restricted subset of SQL, in order to make guarantees about efficient (incremental) evaluation and append-only query results
 @created 1351453325828
-@weight 0.5

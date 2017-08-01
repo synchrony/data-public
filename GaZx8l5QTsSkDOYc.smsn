@@ -1,8 +1,7 @@
 @id GaZx8l5QTsSkDOYc
 @title RenameMe
 @created 1485651854246
-@weight 0.5
-
+@text ```
 (A,B) is a formal concept of a context (G, M, I) provided that:
 A ⊆ G,
 B ⊆ M,
@@ -14,3 +13,4 @@ for every object in G that is not in A, there is some attribute in B that the ob
 for every attribute in M that is not in B, there is some object in A that does not have that attribute.
 
 -- wikipedia
+```

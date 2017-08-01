@@ -1,8 +1,7 @@
 @id INpmYaWIck1oKqPX
 @title try, catch and finally
 @created 1491181977188
-@weight 0.5
-
+@text ```
 try {
     // Code bock
 }
@@ -17,3 +16,4 @@ finally {
     // Code always executed after the
     // try and any catch block
 }
+```

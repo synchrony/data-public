@@ -1,4 +1,3 @@
 @id YfEN2KXhzZaW6fUW
 @title values <- readLines("/tmp/values")
 @created 1339615509334
-@weight 0.5

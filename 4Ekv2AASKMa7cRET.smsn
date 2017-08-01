@@ -1,4 +1,3 @@
 @id 4Ekv2AASKMa7cRET
 @title example: "This is a 4-second sequence with unit duration 0.125 sec. Each consecutive note has unit duration. The pitches go (root 0) (scale diff -1) [(scale diff -1) (scale diff +1)]*3 in scale (0 3 5 7 10 12). Next the unit duration is 0.5 seconds. Pitches go (root = 5th of scale) (sd -1) (sd-1) (sd 1) (sd -1).
 @created 1489633471109
-@weight 0.5

@@ -1,8 +1,7 @@
 @id Z9GNViTAX1pRHE45
 @title imagine what topics you could map daily
 @created 1492590914853
-@weight 0.5
-
+@text ```
 person
 social
 info
@@ -11,3 +10,4 @@ goal|problem
 mystery
 positive. {? passion}
 ? fantasy
+```

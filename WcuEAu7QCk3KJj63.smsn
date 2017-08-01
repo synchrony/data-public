@@ -1,8 +1,8 @@
 @id WcuEAu7QCk3KJj63
 @title RenameMe
 @created 1348124354036
-@weight 0.5
-
+@text ```
 cp /usr/local/include/sox.h /Library/Frameworks/Python.framework/Versions/2.7/include/python2.7
 python setup.py build
 python setup.py install
+```

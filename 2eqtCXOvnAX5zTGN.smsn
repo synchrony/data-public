@@ -1,4 +1,3 @@
 @id 2eqtCXOvnAX5zTGN
 @title solves the travelling salesman problem exactly in O(n^2 2^n) using dynamic programming
 @created 1381081213755
-@weight 0.5

@@ -1,9 +1,7 @@
 @id XpzmgR8GPuAqvbjA
 @title nice ! categories to use when subdividing this
 @created 1493607152531
-@weight 0.75
-@priority 0.5
-
+@text ```
 Repair
 Search
 Knots (did I mean ? Tensions)
@@ -13,3 +11,6 @@ Haste & compromise
 Titling
 Value (e.g. whether to express|record)
 Keeping it organized
+```
+@weight 0.75
+@priority 0.5

@@ -1,4 +1,3 @@
 @id ukxkksoKTTdgT05c
 @title git diff HEAD HEAD~1 --diff-filter=D --name-only
 @created 1488582392298
-@weight 0.5

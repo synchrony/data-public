@@ -1,9 +1,9 @@
 @id yvqNzXXsB6bVBlnP
 @title view ?semi-parsed tcpdump
 @created 1493015131575
-@weight 0.5
-
+@text ```
 I left off at
   http://stackoverflow.com/questions/8952773/chrome-web-inspector-web-socket-debugging/10525328#10525328
 which came from here
   http://stackoverflow.com/questions/3925118/how-to-debug-websockets
+```

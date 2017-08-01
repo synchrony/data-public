@@ -1,8 +1,7 @@
 @id Myvx3N5KCB6UmhHL
 @title RenameMe
 @created 1362085732277
-@weight 0.5
-
+@text ```
 \usepackage[pdftex]{graphicx}
 
 ...
@@ -13,3 +12,4 @@
 \caption{Extendo architecture}
 \label{smsn-architecture}
 \end{figure}
+```

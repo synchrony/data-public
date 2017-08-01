@@ -1,8 +1,7 @@
 @id as1S9UvBP4tAEAPu
 @title RenameMe
 @created 1371079470622
-@weight 0.5
-
+@text ```
 # Make sure you have the right sample size.
 # Expand to three levels and paste into Vim.
 echo "" > /tmp/notes && vim /tmp/notes
@@ -25,3 +24,4 @@ epi / tot
 sem / tot
 dec / tot
 (epi + sem + dec) / tot
+```

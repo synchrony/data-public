@@ -1,8 +1,7 @@
 @id nOUHreMK7OEo6ena
 @title RenameMe
 @created 1475809782569
-@weight 0.5
-
+@text ```
 Id if needed | Promoted from | Text
              |               | is grandma okay
 **           | *             | respond fast to [recruiter]
@@ -10,3 +9,4 @@ Id if needed | Promoted from | Text
 **           |               | | respond fast to [recruiter]
 Top (leftmost) layer is priority-ranked.
 The node labeled ** is marked to be promoted from within "find a job" perhaps because it outranks the expected|perceived(an average over earlier folds of its descendents) value of <find a job>.
+```

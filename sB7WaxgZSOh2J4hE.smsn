@@ -1,8 +1,8 @@
 @id sB7WaxgZSOh2J4hE
 @title RenameMe
 @created 1470695508681
-@weight 0.5
-
+@text ```
 graph = TinkerGraph.open()
 g = graph.traversal()
 g.V()
+```

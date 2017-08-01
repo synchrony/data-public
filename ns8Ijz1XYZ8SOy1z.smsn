@@ -1,9 +1,7 @@
 @id ns8Ijz1XYZ8SOy1z
 @title relevant type signatures
 @created 1501443605265
-@weight 0.5
-@priority 0.0
-
+@text ```
 In Snake.hs and UI.hs[1] the following are defined:
     step :: Game -> IO Game
     handleEvent :: Game -> BrickEvent Name Tick -> EventM Name (Next Game)
@@ -19,3 +17,4 @@ The other two functions used in the definition of `handleEvent g (AppEvent Tick)
     class Applicative m => Monad (m :: * -> *) where
       (>>=) :: m a -> (a -> m b) -> m b
             -- Defined in ‘GHC.Base’
+```

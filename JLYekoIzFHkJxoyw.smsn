@@ -1,8 +1,8 @@
 @id JLYekoIzFHkJxoyw
 @title RenameMe
 @created 1384276290450
-@weight 0.5
-
+@text ```
 tone(speakerPin, 440);
 delay(1000);
 noTone(speakerPin);
+```

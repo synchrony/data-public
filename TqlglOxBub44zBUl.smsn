@@ -1,8 +1,7 @@
 @id TqlglOxBub44zBUl
 @title a brief statement
 @created 1496960854306
-@weight 0.5
-
+@text ```
 Although this works:
 (Matrix.identity 1)
 
@@ -11,3 +10,4 @@ this doesn't:
 
 I evaluated them using C-x C-e
 They are defined at /home/jeff/.emacs.d/haskell-fun/Matrix.hs
+```

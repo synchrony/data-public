@@ -1,7 +1,7 @@
 @id 97fVArhw72Xkad5D
 @title ^? = view
 @created 1497568762782
-@weight 0.5
-
+@text ```
 Prelude Control.Lens> [1,2,3] ^? ix 5
 Nothing
+```

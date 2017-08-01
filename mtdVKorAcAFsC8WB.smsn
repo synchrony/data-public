@@ -1,7 +1,7 @@
 @id mtdVKorAcAFsC8WB
 @title RenameMe
 @created 1361838112815
-@weight 0.5
-
+@text ```
 git reset --hard a3a08c0ace6b5fb03e74d446276f86de9664f5a8
 git push origin master --force
+```

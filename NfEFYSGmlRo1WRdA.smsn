@@ -1,8 +1,7 @@
 @id NfEFYSGmlRo1WRdA
 @title table : the R command
 @created 1496878021186
-@weight 0.5
-
+@text ```
 > c(1,1,1,2,2,3) -> temp
 > temp
 [1] 1 1 1 2 2 3
@@ -10,3 +9,4 @@
 temp
 1 2 3 
 3 2 1
+```

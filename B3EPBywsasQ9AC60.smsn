@@ -1,4 +1,3 @@
 @id B3EPBywsasQ9AC60
 @title [markdown]Now all you need is to add a few lines to your `~/.emacs` initialization file. You can copy and modify the contents of the example .el file [here](https://github.com/synchrony/smsn-mode/blob/master/doc) or follow along below.
 @created 1495925080756
-@weight 0.5

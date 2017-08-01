@@ -1,4 +1,3 @@
 @id aD2y8xZUodWMf0R3
 @title when the TTL has passed for all cells in a row, the row ceases to exist (HBase has no explicit create or delete of a row: it exists if there are cells with values in them)
 @created 1397672481547
-@weight 0.5

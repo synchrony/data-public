@@ -1,8 +1,7 @@
 @id sMH4DbeIBd8N6F9O
 @title RenameMe
 @created 1471476658075
-@weight 0.5
-
+@text ```
 DatatypeDefinition(
    :personAge
    DatatypeRestriction( xsd:integer           
@@ -10,3 +9,4 @@ DatatypeDefinition(
      xsd:maxInclusive "150"^^xsd:integer
    )
  )
+```

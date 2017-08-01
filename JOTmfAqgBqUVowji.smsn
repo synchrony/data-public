@@ -1,4 +1,3 @@
 @id JOTmfAqgBqUVowji
 @title note: this ignores the leap second issue.  There is a built-in .leap.seconds constant in case you need that level of precision.
 @created 1337640671962
-@weight 0.5

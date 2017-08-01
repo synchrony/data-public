@@ -1,7 +1,7 @@
 @id BIAs6Z4ZJOdEEySP
 @title to do that, usually you'll want (^..), which turns things into singleton lists
 @created 1497569183321
-@weight 0.5
-
+@text ```
 Prelude Control.Lens> [1..4] ^.. traverse
 [1,2,3,4]
+```

@@ -1,4 +1,3 @@
 @id Tsm77rFB9K86Arqc
 @title a wrapper script that sits on top of other tools (e.g., Differential, linters, unit test frameworks, Git, Mercurial, and SVN) and provides pretty good command-line access to manage code review and perform some related revision control operations
 @created 1494272996959
-@weight 0.5

@@ -1,8 +1,7 @@
 @id Kp82E04aXrjss0qG
 @title RenameMe
 @created 1471377907789
-@weight 0.5
-
+@text ```
 ClassAssertion(
    ObjectIntersectionOf(
      :Person
@@ -10,3 +9,4 @@ ClassAssertion(
    )
    :Jack
  )
+```

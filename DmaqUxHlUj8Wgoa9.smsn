@@ -1,5 +1,4 @@
 @id DmaqUxHlUj8Wgoa9
 @title avoid creating hybrid classes that are neither pure data structures (possibly with accessors) nor pure "objects", which transform, mutate, etc. while hiding their internals
 @created 1471550634231
-@weight 0.5
 * :1NKlJdflhLwnQ2jM: 

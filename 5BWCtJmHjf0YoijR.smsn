@@ -1,8 +1,7 @@
 @id 5BWCtJmHjf0YoijR
 @title [obsolete].  most of the essay
 @created 1493420090299
-@weight 0.25
-
+@text ```
 # Now anyone can process information nonlinearly!
 
 The reader sometimes feels this like a bad authority problem. The author chooses the reader's path. In a graph, it's tables of contents all the way down -- and they can overlap and go in circles if you want. That lets you target the information you care about faster.
@@ -61,3 +60,5 @@ People are stupid, and stupid people make bad decisions.
 Knowledge is wasted in private.
 
 Learning is too slow.
+```
+@weight 0.25

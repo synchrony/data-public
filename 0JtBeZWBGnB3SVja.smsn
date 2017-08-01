@@ -1,8 +1,7 @@
 @id 0JtBeZWBGnB3SVja
 @title URI, IRI, URL and URN
 @created 1495319257286
-@weight 0.5
-
+@text ```
 URI includes URN and URL.
 IRI = URI expanded("internationalized") from ascii to unicode
 
@@ -11,3 +10,4 @@ URL specifies via "how to find it".
   "HTTP name lookup is a complex, powerful and evolving set of standards"
 URN encompasses, e.g., ISBN numbers.
   "The URN for that edition would be urn:ISBN0-486-27557-4"
+```

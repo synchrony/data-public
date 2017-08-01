@@ -1,4 +1,3 @@
 @id rDUowUmpvT3DGoh6
 @title "Kobe is a tool that aids mobile classifier development. With the help of a SQL-like programming interface, Kobe performs profiling and optimization of classifiers to achieve an optimal energy-latency-accuracy tradeoff. We show through experimentation on five real scenarios, classifiers on Kobe exhibit tight utilization of available resources."
 @created 1435155237552
-@weight 0.5

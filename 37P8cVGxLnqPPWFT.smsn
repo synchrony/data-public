@@ -1,8 +1,7 @@
 @id 37P8cVGxLnqPPWFT
 @title RenameMe
 @created 1412609633305
-@weight 0.5
-
+@text ```
 mkdir .foo # this becomes a hidden directory
 mkdir _foo
 mkdir ./-foo # this directory requires special care
@@ -19,3 +18,4 @@ cp bar.txt .foo
 cp bar.txt ./-foo
 
 # now verify that bar.txt in all directories is accessible via HTTP (it is)
+```

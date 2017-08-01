@@ -1,9 +1,7 @@
 @id NbPwo0jkSpbxwULZ
 @title initial setup of the SmSn Sandbox
 @created 1488308020123
-@weight 0.5
-@priority 0.25
-
+@text ```
 # do the following within a screen session
 screen -S docker
 
@@ -42,3 +40,5 @@ sudo docker build -t joshsh/smsn:{2017-03-20} .
 HOST=localhost
 PORT=8182
 curl -i -N -vv -H "Connection: Upgrade" -H "Upgrade: websocket" -H "Host: $host" -H "Origin: http://$HOST" -k "http://$HOST:$PORT/gremlin"
+```
+@priority 0.25

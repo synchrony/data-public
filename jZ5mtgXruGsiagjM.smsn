@@ -1,4 +1,3 @@
 @id jZ5mtgXruGsiagjM
 @title this applies the changes of the specified commit to the current branch, even if the current branch is incompatible with the branch the changes were originally applied to.  Apparently, Git takes file renaming into account in the process.
 @created 1341547767815
-@weight 0.5

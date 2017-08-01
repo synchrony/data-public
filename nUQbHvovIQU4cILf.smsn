@@ -1,8 +1,8 @@
 @id nUQbHvovIQU4cILf
 @title in bash, at smsn+/, evaluate this script
 @created 1499242465959
-@weight 0.5
-
+@text ```
 sed 's/^ *. \:[a-zA-Z0-9]\{16\}\: /\n/' input.auto.md \
   | egrep "^\[markdown\]" \
   | sed 's/^\[markdown\]/\n/' > "why/nonlinear.md"
+```

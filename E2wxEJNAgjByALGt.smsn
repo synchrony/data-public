@@ -1,8 +1,7 @@
 @id E2wxEJNAgjByALGt
 @title RenameMe
 @created 1348123456135
-@weight 0.5
-
+@text ```
 autoreconf -i
 ./configure
 
@@ -12,3 +11,4 @@ vim src/formats_i.c
 
 make -s
 sudo make install
+```

@@ -1,8 +1,7 @@
 @id phKZl8jdpMDHZo48
 @title how sid wants smsn to be easy
 @created 1497510038111
-@weight 0.5
-
+@text ```
 i don't think i can even figure out how to use the meta key in emacs mac
 installing the docker way sure seems more satisfying. i dont know if i can get this running though
 i think it would be useful to add actual example commands to your install instrucitons
@@ -15,3 +14,4 @@ just tell people to use docker, have all the explanation on one page, then give 
 Maybe most of your target audience can get it to work, but I can't
 the configuration of emacs is just hell. can you just redistribute emacs with it set up already?
 drive
+```

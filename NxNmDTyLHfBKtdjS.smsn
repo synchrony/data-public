@@ -1,8 +1,7 @@
 @id NxNmDTyLHfBKtdjS
 @title RenameMe
 @created 1483504889338
-@weight 0.5
-
+@text ```
 cd ~/work
 mkdir git_jbb
 cd git_jbb
@@ -12,3 +11,4 @@ echo "testing" >> testing_git.txt
 git add testing_git.txt
 git commit -m "testing this new local repo"
 git push origin master
+```

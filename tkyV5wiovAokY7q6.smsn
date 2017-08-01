@@ -1,8 +1,7 @@
 @id tkyV5wiovAokY7q6
 @title RenameMe
 @created 1421637926183
-@weight 0.5
-
+@text ```
 O(j) = best of {{j} + O(p(j)), O(j-1)}
 OPT(j) = max{w(j) + OPT(p(j)), OPT(j-1)}
     
@@ -11,3 +10,4 @@ if j = 0 then 0
 else
     max{wj) + OPT(p(j)), OPT(j-1)}
 end
+```

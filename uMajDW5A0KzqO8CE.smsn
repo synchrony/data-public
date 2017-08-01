@@ -1,4 +1,3 @@
 @id uMajDW5A0KzqO8CE
 @title [in a hashset] "you may want to specify an initial capacity that's about twice the size to which you expect the set to grow."
 @created 1491189338537
-@weight 0.5

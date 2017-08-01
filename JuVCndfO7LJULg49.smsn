@@ -1,9 +1,7 @@
 @id JuVCndfO7LJULg49
 @title categs for organizing this
 @created 1493619814169
-@weight 0.75
-@priority 0.5
-
+@text ```
 Trust (self, others, principles)
   Verified, scientific trust
 Contradiction
@@ -15,3 +13,6 @@ Transcendance
   Retrospection (post-change)
 metaconsistency
 grit. (perseverance in the face of incomplete ?self)
+```
+@weight 0.75
+@priority 0.5

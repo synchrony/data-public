@@ -1,4 +1,3 @@
 @id xY99H9V3iNvp76KC
 @title wget "http://example.org/post-test" --post-file myfile.txt
 @created 1368984745067
-@weight 0.5

@@ -1,8 +1,7 @@
 @id w9iuSa5IsOzqEYpw
 @title RenameMe
 @created 1397619144133
-@weight 0.5
-
+@text ```
 conf = new BaseConfiguration();
 conf.setProperty("storage.backend", "cassandra");
 conf.setProperty("storage.hostname", "127.0.0.1");
@@ -12,3 +11,4 @@ sail = new GraphSail(g)
 sg = new SailGraph(sail)
 sg.loadRDF("/tmp/graph-example-1.ntriple", "n-triples")
 sg.E[0..5]
+```

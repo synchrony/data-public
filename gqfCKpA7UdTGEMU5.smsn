@@ -1,8 +1,7 @@
 @id gqfCKpA7UdTGEMU5
 @title water change formula in R
 @created 1495173133658
-@weight 0.5
-
+@text ```
 gallons.to.cm3 <- function(gallons) { gallons * 3785.41 }
 
 water.density.gcm3 <- 1
@@ -16,3 +15,4 @@ end.salinity.sg <- 1.025
 
 # assuming, as a first approximation, that the volume doesn't change
 salt.mass.to.add.g <- (end.salinity.sg - start.salinity.sg) * volume.cm3 * water.density.gcm3
+```

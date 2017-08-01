@@ -1,4 +1,3 @@
 @id CR6ykGju23iQMHk3
 @title for sentences in order, a single text (or markup) blob is a good default: it saves disk space, because consecutive sentences are connected by a single character, which takes less space than a graph relationship
 @created 1486370718446
-@weight 0.5

@@ -1,8 +1,7 @@
 @id ePpCRJIRLM7n42BW
 @title RenameMe
 @created 1479410392189
-@weight 0.5
-
+@text ```
 # limit load factor
 n.limit
 
@@ -26,3 +25,4 @@ va <- vs * sqrt(n.limit)
 
 # alternative method
 va <- va0 * sqrt(w/w0)
+```

@@ -1,4 +1,3 @@
 @id GOJa4JHVn4p11a1o
 @title a programming idiom used in several object-oriented languages like C++, D, Ada and Vala. The technique was invented by Bjarne Stroustrup[2] to deal with resource allocation and deallocation in C++. In this language, if an exception is thrown, and proper exception handling is in place, the only code that will be executed for the current scope are the destructors of objects declared in that scope. Resource management therefore needs to be tied to the lifespan of suitable objects in order to gain automatic allocation and reclamation
 @created 1380992879260
-@weight 0.5

@@ -1,4 +1,3 @@
 @id dkGkYR4or6fEMchp
 @title "The Hand Shaking Sensor (HSSensor) component, which runs on Shimmer motes, is positioned on the wrist of right arm of the monitored person to acquire accelerometer data for handshake recognition. The HSSensor senses the 3-axial accelerometer sensor according to a given sampling time, buffers the sensed data from the X, Y, Z channels of the accelerometer, computes specific features on the acquired raw data, and uses a classifier based on a decision tree to detect handshaking."
 @created 1444287951831
-@weight 0.5

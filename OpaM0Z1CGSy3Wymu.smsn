@@ -1,4 +1,3 @@
 @id OpaM0Z1CGSy3Wymu
 @title substr("foo", 1, 1000)
 @created 1343080545904
-@weight 0.5

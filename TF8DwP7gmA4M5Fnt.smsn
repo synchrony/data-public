@@ -1,4 +1,3 @@
 @id TF8DwP7gmA4M5Fnt
 @title rules for device names are not stringent. They can be up to 248 bytes long, and two devices can share the same name
 @created 1412546843032
-@weight 0.5

@@ -1,8 +1,7 @@
 @id PhqlifoEpENH9IZP
 @title RenameMe
 @created 1339612519125
-@weight 0.5
-
+@text ```
 # note: escaped characters are not considered
 v <- read.table(file("/tmp/joshkb-vertices.tsv"), header=TRUE, sep="\t", quote="", comment.char="")
 values <- v$value
@@ -115,3 +114,4 @@ sum(subset(df.diff, d.len.x > root2)$diff)/sum(subset(df, d.len.norm.x > root2)$
 * notes with 47 chars are as common as we predict
     * notes with more than 47 chars are 2% less common than predicted, but approach the predicted probabilities asymptotically
 * for some reason, notes 80 characters long are much less common than predicted
+```

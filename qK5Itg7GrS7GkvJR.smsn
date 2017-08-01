@@ -1,8 +1,8 @@
 @id qK5Itg7GrS7GkvJR
 @title RenameMe
 @created 1365793565526
-@weight 0.5
-
+@text ```
 pdf("/tmp/mydoc.pdf") # use width and height parameters if needed
 # do your plotting here
 dev.off()
+```

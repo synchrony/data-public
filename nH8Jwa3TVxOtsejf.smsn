@@ -1,9 +1,9 @@
 @id nH8Jwa3TVxOtsejf
 @title allOf is a fold, like 'and', for traversals
 @created 1497580064512
-@weight 0.5
-
+@text ```
 Prelude Control.Lens> allOf (traverse._2) even [(1,2),(3,4)]
 True
 Prelude Control.Lens> :t allOf
 allOf :: Getting Data.Monoid.All s a -> (a -> Bool) -> s -> Bool
+```

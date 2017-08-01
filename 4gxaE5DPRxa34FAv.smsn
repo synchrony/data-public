@@ -1,5 +1,4 @@
 @id 4gxaE5DPRxa34FAv
 @title switch off Extend-o-Hand's battery power, unplug the Bluetooth modem's RX/TX jumper, connect Extend-o-Hand's serial cable to the computer, start the slip-to-udp.py script (in extendo-demos), then start the extendo-hand-control.maxpat sketch (in extendo-hand).  When finished, reconnect the Bluetooth modem.
 @created 1413225459668
-@weight 0.5
 * :VI1qegGob921JAq4: 

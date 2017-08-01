@@ -1,8 +1,7 @@
 @id hVK641WgstafzbEb
 @title RenameMe
 @created 1477583917465
-@weight 0.5
-
+@text ```
 2 1 2 0 2 NAU7802KGI-ND 2.27000 4.54 T
 IC ADC 24BIT I2C/SRL 16DIP
 HTSUS: 8542.39.0000 ECCN: 3A001A3
@@ -10,3 +9,4 @@ LEAD: LEAD FREE ROHS: ROHS COMP REACH: REACH UNAFFECTED DEC-2015
 Mercury: Cert on File. For more information contact RoHS@DigiKey.com
 COUNTRY/ORIGIN: TAIWAN
 CAGE: 56JL7
+```

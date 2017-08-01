@@ -1,5 +1,4 @@
 @id 3namHV1cTqRXGWE1
 @title I suggest we mark questions with a non-zero priority.  We can then remove the non-zero priority when the question has been answered.  It's crude, but it should work, and it separates the concern of the semantics of a note from the concern of "hey, look at this".
 @created 1492871559208
-@weight 0.5
 @priority 0.25

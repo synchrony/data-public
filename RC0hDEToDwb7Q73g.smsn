@@ -1,4 +1,3 @@
 @id RC0hDEToDwb7Q73g
 @title g.V().each{v-> v.property("foo").remove()}
 @created 1470719634860
-@weight 0.5

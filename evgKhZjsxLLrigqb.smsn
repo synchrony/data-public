@@ -1,8 +1,7 @@
 @id evgKhZjsxLLrigqb
 @title RenameMe
 @created 1485148768255
-@weight 0.5
-
+@text ```
 A proposed solution (it's an online game) to a short list of problems
 ---
 The problems include:
@@ -24,3 +23,4 @@ Players get to:
 Still undetermined
   I want a market to arise for independent servers, allowing users to fact-check their data. Fact-checking would come in two forms, human and machine. Machine fact-checking, that is the verification that an article's contents are what they should be, faces a memory challenge; however, since ad-free reporting can be encoded as text, the memory challenge is easier than it might sound.
   Players will be reluctant to reward, say, the "truth" judgments of people they distrust. This could be overcome by letting them direct their donations toward the truth judgments of people they believed, but then there is the danger of creating information-bubbles (where people reinforce each others' beliefs without learning much).
+```

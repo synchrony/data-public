@@ -1,8 +1,7 @@
 @id q2L2zcDF2GGJxEiy
 @title RenameMe
 @created 1345688436952
-@weight 0.5
-
+@text ```
 # create a session in AG Web View, then
 ./jig.sh config/drugbank-local-session.props
 
@@ -27,3 +26,4 @@ g.common(d[0], d[9])
 d0 = g.v(d[0]).nearby(2).aggr
 d9 = g.v(d[9]).nearby(2).aggr
 intersect(d0, d9)
+```

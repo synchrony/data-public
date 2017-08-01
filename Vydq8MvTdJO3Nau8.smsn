@@ -1,4 +1,3 @@
 @id Vydq8MvTdJO3Nau8
 @title I built these out of two halves of a 2x23 array of stackable headers, connecting on the bottom half the five rightmost pins with each other and the five leftmost pins with each other.  Any of these two sets of ten ports can therefore be used either as a common ground or as a common power source.  All other ports (including the pair in the middle of the bottom row) are connected only to their partner in the opposite header.
 @created 1412874837292
-@weight 0.5

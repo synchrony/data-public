@@ -1,4 +1,3 @@
 @id 6CfSnrxS4IZxz5Js
 @title sudo useradd josh --create-home --home /home/josh --groups adm
 @created 1342542461600
-@weight 0.5

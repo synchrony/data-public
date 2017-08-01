@@ -1,4 +1,3 @@
 @id mTe1toJCQ4ik9J6z
 @title keep a list of positions the knight can get to, each marked with the minimum number of moves to get there. after each generation, determine if the target is one of them. if not, determine if there are any additional places it can get to. if not, it can't get there.
 @created 1491340616230
-@weight 0.5

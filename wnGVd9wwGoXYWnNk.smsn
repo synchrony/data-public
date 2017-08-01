@@ -1,8 +1,7 @@
 @id wnGVd9wwGoXYWnNk
 @title RenameMe
 @created 1395163356226
-@weight 0.5
-
+@text ```
 # This may or may not be necessary:
 yum install mysql
 yum install mysql-server
@@ -23,3 +22,4 @@ mysqld_safe --user=mysql --skip-grant-tables &
 
 ./usr/bin/mysql_install_db
 ./usr/bin/mysqld_safe
+```

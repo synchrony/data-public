@@ -1,4 +1,3 @@
 @id EvdVuA4qil86Lv1r
 @title something is expected to happen at some point, and you want to be reminded to keep checking whether it has happened yet.  Check periodically or exponentially.  Once the event occurs, the ticket may be closed.
 @created 1338507082820
-@weight 0.5

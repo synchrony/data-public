@@ -1,6 +1,4 @@
 @id Q0r0qJIJpaDsnvj5
 @title App s e n = App state event ("resource name")*
 @created 1501441259608
-@weight 0.5
-
-* where "resource name" can mean the viewport (widget currently in focus), or the cursor location, or maybe other stuff
+@text * where "resource name" can mean the viewport (widget currently in focus), or the cursor location, or maybe other stuff

@@ -1,4 +1,3 @@
 @id qkBsXlPR9B5zede8
 @title the tab-separated format takes 11% as many lines, 17% as many bytes uncompressed, and 43% is many bytes gzip-compressed as the GraphML format
 @created 1493079477753
-@weight 0.5

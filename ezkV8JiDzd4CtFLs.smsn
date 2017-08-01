@@ -2,4 +2,3 @@
 @title graknlabs/graql-haskell: A library for building and executing Graql queries on a Grakn knowledge graph using Haskell (web page)
 @alias https://github.com/graknlabs/graql-haskell
 @created 1484347552325
-@weight 0.5

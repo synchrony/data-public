@@ -1,4 +1,3 @@
 @id v9RyCxNSGewKBBci
 @title an owl:allValuesFrom owl:Restriction A subsumes another owl:allValuesFrom restriction B if the property restricted by B is a rdfs:subPropertyOf the property restricted by A, and the restricted class of B is a rdfs:subClassOf the restricted class of A. Recall that any class is a subclass of itself, and any property is a subproperty of itself
 @created 1349461921852
-@weight 0.5

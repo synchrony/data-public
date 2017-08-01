@@ -1,8 +1,7 @@
 @id Vd1ZaTNbz3RzBQfN
 @title RenameMe
 @created 1484803877228
-@weight 0.5
-
+@text ```
 # TODO: use up-to-date figures for the specific aircraft
 # TODO: oil weight and balance
 # TODO: variable front-seat arm(s)
@@ -27,3 +26,4 @@ gross.weight
 
 overall.arm <- (weights %*% arms) / gross.weight
 overall.arm
+```

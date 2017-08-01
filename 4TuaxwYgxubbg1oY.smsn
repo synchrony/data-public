@@ -1,4 +1,3 @@
 @id 4TuaxwYgxubbg1oY
 @title mvn install:install-file -DgroupId=com.datomic -DartifactId=datomic -Dfile=datomic-0.1.3164.jar -DpomFile=pom.xml
 @created 1342240926782
-@weight 0.5

@@ -1,8 +1,8 @@
 @id 7UTezramxdYqjE3r
 @title RenameMe
 @created 1412530297114
-@weight 0.5
-
+@text ```
 install.packages('gmp')
 library(gmp) 
 factorize(2^32+1)
+```

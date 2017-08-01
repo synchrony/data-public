@@ -1,10 +1,10 @@
 @id GRLDcVwqZOkPhPdz
 @title RenameMe
 @created 1483061246282
-@weight 0.5
-
+@text ```
 I may have been delaying merging changes to both_kb (I still haven't, yours or mine) is that I was worried the merge could somehow go wrong. Coding, I've had merges go very wrong, conflicts passing through undetected. But in a graph, that's impossible, right?
 
 If two intended-distinct nodes map to the same address, just keep all their stuff. It's not so bad.
 
 If two copies of the node have different edits, just keep everything in both nodes.
+```

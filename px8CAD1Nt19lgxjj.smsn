@@ -1,4 +1,3 @@
 @id px8CAD1Nt19lgxjj
 @title at the command line, start the daemon with "deluge", start the Web UI in the background with "deluge-web &", then visit port 8112 in a Web browser.  Connect to the daemon process in the UI and choose a good password.
 @created 1376843102267
-@weight 0.5

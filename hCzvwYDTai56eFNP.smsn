@@ -1,4 +1,3 @@
 @id hCzvwYDTai56eFNP
 @title I implemented the Direction, and called it RelSpec. It is reified; that is, RelSpecs are another kind of node in the RSLT graph.
 @created 1469061944054
-@weight 0.5

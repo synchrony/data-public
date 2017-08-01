@@ -1,4 +1,3 @@
 @id qQYOwCy6aQRscZXI
 @title automates the scientific method of debugging. The Delta Debugging algorithm isolates failure causes automatically - by systematically narrowing down failure-inducing circumstances until a minimal set remains
 @created 1413234671205
-@weight 0.5

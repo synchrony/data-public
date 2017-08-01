@@ -1,8 +1,8 @@
 @id MSIUWYUVChCjCVBb
 @title RenameMe
 @created 1392744330577
-@weight 0.5
-
+@text ```
 g = new LinkedDataSailGraph(new MemoryStoreSailGraph())
 v = g.v("http://dbpedia.org/resource/Berlin")
 v.outE
+```

@@ -1,8 +1,7 @@
 @id dEM1WK9Ij0fwGgn1
 @title RenameMe
 @created 1359586050085
-@weight 0.5
-
+@text ```
 var foo = false;
 
 var TwitLogic = {};
@@ -30,3 +29,4 @@ TwitLogic.SparqlWidget = function(settings) {
 }
 
 var w = new TwitLogic.SparqlWidget({...});
+```

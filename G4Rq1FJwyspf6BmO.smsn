@@ -1,4 +1,3 @@
 @id G4Rq1FJwyspf6BmO
 @title manages the namespace, file system metadata, and access control. There is exactly one NameNode in each cluster
 @created 1395093451202
-@weight 0.5

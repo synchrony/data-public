@@ -1,9 +1,9 @@
 @id P2ARQj73vMdKKIGC
 @title RenameMe
 @created 1485049619914
-@weight 0.5
-
+@text ```
 > let showPerson { first: x, last: y } = y <> ", " <> x
 
 > :type showPerson
 forall r. { first :: String, last :: String | r } -> String
+```

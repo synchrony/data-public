@@ -1,4 +1,3 @@
 @id 76bzNwvDut9Yot7J
 @title mvn install:install-file -DgroupId=edu.hawaii.jmotif -DartifactId=jmotif-lib -Dversion=0.93 -Dpackaging=jar -DcreateChecksum=true -Dfile=jmotif.lib-0.93.jar
 @created 1354670926290
-@weight 0.5

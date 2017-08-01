@@ -1,8 +1,7 @@
 @id ZVykbFj1PYJ3IjuT
 @title pitfall ! some parsers need lexeme applied to their arguments
 @created 1494749126714
-@weight 0.5
-
+@text ```
 > parseMaybe (sepBy (lexeme $ string "s") (lexeme $ string ",")) "s,s" 
 Just ["s","s"]
 > parseMaybe (sepBy (string "s") (string ",")) "s,s"
@@ -18,3 +17,4 @@ Just ["s","s"]
       In an equation for ‘it’:
           it = parseMaybe (sepBy (string "s") (string ",")) "s,s"
 >
+```

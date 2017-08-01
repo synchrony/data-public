@@ -1,8 +1,7 @@
 @id 0fDxHrHGXG8fgOKw
 @title my technical interview prep program in R
 @created 1460514321299
-@weight 0.75
-
+@text ```
 all.alg <- c(
   all.dp <- c(
     "Bellman–Ford algorithm",
@@ -310,3 +309,5 @@ choose.task <- function() {
 }
 
 choose.task()
+```
+@weight 0.75

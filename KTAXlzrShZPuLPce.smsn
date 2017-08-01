@@ -1,4 +1,3 @@
 @id KTAXlzrShZPuLPce
 @title "Note that you can replace any tensor in your computation graph using feed_dict -- it's not restricted to just placeholders."
 @created 1499895183174
-@weight 0.5

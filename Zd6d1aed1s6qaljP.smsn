@@ -1,6 +1,5 @@
 @id Zd6d1aed1s6qaljP
 @title if all output tuples are equally important, the best strategy is to produce as many result tuples as quickly as possible.  If output tuples have different degress of importance from the user's perspective, the best output behavior is to return more important results as early as possible
 @created 1351491817814
-@weight 0.5
 * :Zb8d6BLiHLXkGwsJ: 
 * :Aqr41PC0RRP07Aiu: 

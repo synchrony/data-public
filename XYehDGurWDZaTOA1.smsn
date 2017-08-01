@@ -1,8 +1,7 @@
 @id XYehDGurWDZaTOA1
 @title technologies they use
 @created 1492642960279
-@weight 0.5
-
+@text ```
 RapidMiner
 machine learning
 NLP
@@ -20,3 +19,4 @@ Cloud
 Jenkins
 AWS
 Chief
+```

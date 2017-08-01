@@ -1,4 +1,3 @@
 @id L7FL8tlDxpaihSZJ
 @title related threads run simultaneously (their time slices aligned) on different timeshared CPUs.  Reduces communication overhead among threads of a single process.
 @created 1352924454326
-@weight 0.5

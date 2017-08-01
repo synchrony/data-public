@@ -1,7 +1,6 @@
 @id Cbsz0Wmq4j4cX2zl
 @title "It has often been stated [28, 36, 38, 39] that modelling context with OWL, the de facto standard for ontologies, would not be possible. A main difficulty is that OWL (version 1.0) does not support to describe a relation as a partial ordering relation, which would be required to characterise location hierarchies such as that of Ye et al. [40], other containment hierarchies, and ordering of sensor values, since reflexivity and antisymmetry of relations cannot be described in the description logic SHOIQ underlying OWL-DL."
 @created 1444176451955
-@weight 0.5
 * :mOf8Bc6LSeO7usSR: 
 * :msGFaqbUGPQCBSaK: 
 * :Sh8uzQ7WOGJLtyuH: 

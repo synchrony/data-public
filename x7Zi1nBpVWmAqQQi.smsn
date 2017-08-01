@@ -1,8 +1,7 @@
 @id x7Zi1nBpVWmAqQQi
 @title RenameMe
 @created 1448403674829
-@weight 0.5
-
+@text ```
 @online{doe2010anonymity,
   title={Anonymity on the {W}eb},
   author={Doe, John},
@@ -10,3 +9,4 @@
   url = {http://example.org/anonymity-on-the-web.html},
   urldate = {2015-11-24}
 }
+```

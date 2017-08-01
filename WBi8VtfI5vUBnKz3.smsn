@@ -1,4 +1,3 @@
 @id WBi8VtfI5vUBnKz3
 @title a horizontal partition of data in a database or search engine. Each individual partition is referred to as a shard or database shard. Each shard is held on a separate database server instance, to spread load
 @created 1463279963599
-@weight 0.5

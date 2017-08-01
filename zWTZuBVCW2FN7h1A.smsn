@@ -1,8 +1,7 @@
 @id zWTZuBVCW2FN7h1A
 @title RenameMe
 @created 1421638465330
-@weight 0.5
-
+@text ```
 <dependency>
         <groupId>...</groupId>
         <artifactId>...</artifactId>
@@ -14,3 +13,4 @@
                 </exclusion>
         </exclusions>
 </dependency>
+```

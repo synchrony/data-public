@@ -1,8 +1,7 @@
 @id a3dTUuLpOvXUc59T
 @title RenameMe
 @created 1331011563767
-@weight 0.5
-
+@text ```
 prefix govdata: <http://reference.data.gov/def/govdata/>
 prefix hosp: <http://health.data.gov/def/hospital/>
 prefix org: <http://www.w3.org/ns/org#>
@@ -18,3 +17,4 @@ select distinct ?id ?type ?name ?long ?lat {
     ?address vcard:latitude ?lat.
     rdf:foo rdf:hosp ?type.
 }
+```

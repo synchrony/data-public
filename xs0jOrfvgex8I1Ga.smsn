@@ -1,8 +1,7 @@
 @id xs0jOrfvgex8I1Ga
 @title RenameMe
 @created 1474672166837
-@weight 0.5
-
+@text ```
 # if necessary (e.g. on GL-AR150)
 opkg update
 opkg install openssl-util
@@ -15,3 +14,4 @@ wget --no-check-certificate https://pypi.python.org/packages/3c/d8/a9fa247ca60b0
 tar -xzf pyserial-*.tar.gz*
 cd pyserial-*
 python setup.py install
+```

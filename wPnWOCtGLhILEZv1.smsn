@@ -1,8 +1,7 @@
 @id wPnWOCtGLhILEZv1
 @title RenameMe
 @created 1416674067647
-@weight 0.5
-
+@text ```
 # necessary?
 install.packages("tm")
 
@@ -26,3 +25,4 @@ sent_scores <- meta(s)
 # get positive and negative terms from General Inquirer
 posterms_GI()
 negterms_GI()
+```

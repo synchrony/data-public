@@ -1,5 +1,4 @@
 @id xy4Sqx4qMkaLnpZ0
 @title event queries have a hybrid semantic, because they use event operation algebra to detect events and they use SPARQL queries to include background knowledge about these events and their relationships
 @created 1423911344169
-@weight 0.5
 * :Vfrm0ZsLwcJIUBLq: 

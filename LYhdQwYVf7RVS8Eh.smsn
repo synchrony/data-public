@@ -1,4 +1,3 @@
 @id LYhdQwYVf7RVS8Eh
 @title sed 's/^\[markdown\]/\n/' medit.2.md > medit.3.md
 @created 1494130934229
-@weight 0.5

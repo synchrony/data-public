@@ -1,4 +1,3 @@
 @id 82JvooVciGFuGdHv
 @title far field signals (e.g. radio) attenuate with distance squared, whereas near field communication attenuates with the distance cubed.  In addition, the earth shunts the electric field, further attenuating the signal and making near-field communication more difficult to intercept
 @created 1411833070014
-@weight 0.5

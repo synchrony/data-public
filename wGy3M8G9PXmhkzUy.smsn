@@ -1,4 +1,3 @@
 @id wGy3M8G9PXmhkzUy
 @title cat chrY.fa | tr '[actgACTG]' '\n' | grep "."
 @created 1329517502460
-@weight 0.5

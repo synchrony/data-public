@@ -1,4 +1,3 @@
 @id xj8rz4CaEKyUmPPR
 @title Traversing from parent to child means going from general to specific. Freeplane permits a node to contain many specifics, because a node in a tree can have any number of children. However, a node in a tree cannot have many contexts. It can be arrived at by exactly one path.
 @created 1469061899598
-@weight 0.5

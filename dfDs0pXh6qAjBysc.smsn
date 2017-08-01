@@ -1,8 +1,7 @@
 @id dfDs0pXh6qAjBysc
 @title select rows based on a column
 @created 1496704058998
-@weight 0.5
-
+@text ```
 >>> x
 array([[ 0,  1,  2,  3],
        [ 4,  5,  6,  7],
@@ -13,3 +12,4 @@ array([False,  True,  True], dtype=bool)
 >>> x[b]
 array([[ 4,  5,  6,  7],
        [ 8,  9, 10, 11]])
+```

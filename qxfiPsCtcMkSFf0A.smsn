@@ -1,7 +1,7 @@
 @id qxfiPsCtcMkSFf0A
 @title example from smsn.Note
 @created 1472282712968
-@weight 0.5
-
+@text ```
 public Note(final Note copy) {
         this();
+```

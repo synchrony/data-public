@@ -1,4 +1,3 @@
 @id K0gYcHA3OQzPFdnb
 @title note that subsequence (in which items are consecutive) is different from a substring (see substring vs. subsequence) and this should not be confused with the longest common subsequence problem
 @created 1381088665134
-@weight 0.5

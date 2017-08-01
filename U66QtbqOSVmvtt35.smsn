@@ -1,7 +1,7 @@
 @id U66QtbqOSVmvtt35
 @title RenameMe
 @created 1364169288158
-@weight 0.5
-
+@text ```
 cd clj-ripple
 lein
+```

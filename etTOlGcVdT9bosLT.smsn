@@ -2,7 +2,7 @@
 @title Sample random rows in dataframe \ Stack Overflow
 @alias https://stackoverflow.com/questions/8273313/sample-random-rows-in-dataframe
 @created 1499638657755
-@weight 0.5
-
+@text ```
 df[ sample( nrow(df), 3) , ]
 sample() is weird: the first argument is either a source of data to sample from, or an integer, the maximum for the generated sample numbers.
+```

@@ -1,6 +1,4 @@
 @id 0IAcGKQTSS4oOtgN
 @title ? why will this scale lookup not work in tidal-extensions.hs
 @created 1498122048860
-@weight 0.5
-
-let lkScale = fmap . lk12 . (M.! scaleNameMap)
+@text let lkScale = fmap . lk12 . (M.! scaleNameMap)

@@ -1,4 +1,3 @@
 @id NN3LJSxJZOmAIafQ
 @title var myOtherUrl = "http://example.com/index.html?url=" + encodeURIComponent(myUrl);
 @created 1340258644538
-@weight 0.5

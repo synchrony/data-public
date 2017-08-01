@@ -1,4 +1,3 @@
 @id gDGWBMzxZ0Cujeqa
 @title Source = host directory = a spot outside of Docker on the machine running Docker where the volume's data persists
 @created 1487926873583
-@weight 0.5

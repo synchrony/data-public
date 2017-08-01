@@ -1,8 +1,7 @@
 @id HM6CTfPUY7DiEjid
 @title RenameMe
 @created 1340095989097
-@weight 0.5
-
+@text ```
 # use the export service in Brain-mode, then:
 v <- read.table(file("/tmp/joshkb-vertices.tsv"), header=TRUE, sep="\t", quote="", comment.char="")
 # note: values are corrupted for ease of viewing
@@ -201,3 +200,4 @@ fives <- subset(m, membership==5)
 
 # Tiny (162), the "death and depression word list"
 sixes <- subset(m, membership==6)
+```
