@@ -6,7 +6,7 @@ I installed Haskell-emacs by running "package-list-packages" and selecting it. T
 
 My .emacs file includes some auto-generated code that seems intended to load haskell-emacs on startup:
 
-```
+[escaped]```
 (custom-set-variables
  ;; custom-set-variables was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
@@ -18,7 +18,7 @@ My .emacs file includes some auto-generated code that seems intended to load has
      ("melpa-stable" . "http://stable.melpa.org/packages/"))))
  '(package-selected-packages (quote (haskell-emacs haskell-mode))))
 (package-initialize)
-```
+[escaped]```
 
 One of the examples suggested in the haskell-emacs README is to run  `(Matrix.identity 1)`. In the (still-open) Emacs session from which I installed haskell-emacs, I can go to *scratch* and evaluate that, and it prints `((1))` to the *Messages* buffer.
 
