@@ -4,7 +4,11 @@
 @text ```
 library("igraph")
 
-gg <- sample_pa(n=10000, directed=TRUE)
+n.vertices <- 10000
+gg <- sample_pa(n=n.vertices, directed=TRUE)
 head(degree(gg, mode="out"))
 dist <- degree_distribution(gg)
+
+# alternatively
+g <- barabasi.game(n.vertices, directed = TRUE)
 ```

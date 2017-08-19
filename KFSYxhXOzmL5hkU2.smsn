@@ -1,0 +1,4 @@
+@id KFSYxhXOzmL5hkU2
+@title fmap is a lift
+@created 1502066978267
+@text In the same vein, if we write fmap :: (a -> b) -> (f a -> f b), we can think of fmap not as a function that takes one function and a functor and returns a functor, but as a function that takes a function and returns a new function that's just like the old one, only it takes a functor as a parameter and returns a functor as the result. It takes an a -> b function and returns a function f a -> f b. This is called lifting a function. Let's play around with that idea by using GHCI's :t command:
