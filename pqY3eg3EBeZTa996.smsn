@@ -1,0 +1,8 @@
+@id pqY3eg3EBeZTa996
+@title examples of each
+@created 1504481255701
+@text ```
+see ~/code/studies/monad-transformers/rwh/src/UglyStack.hs
+
+search for "implicitGet" and "explicitGet"
+```

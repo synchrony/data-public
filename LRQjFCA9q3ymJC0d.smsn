@@ -1,0 +1,9 @@
+@id LRQjFCA9q3ymJC0d
+@title ? the way order can matter is confusing
+@created 1504493472133
+@text ```
+e.g. Real World Haskell, Chapter 18, Monad transformers:
+  http://book.realworldhaskell.org/read/monad-transformers.html
+
+Section titled "Transformer stacking order is important"
+```

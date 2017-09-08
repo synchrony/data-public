@@ -1,0 +1,7 @@
+@id 5gPI71T9nlJbNVXi
+@title homework for java-haskell integration
+@created 1502657848760
+@text ```
+in Haskell we would be reading in the graph (from the SmSn core currently written in Java) and calling the RDF4j APIs to construct RDF statements, then serialize RDF graphs in any of a number of formats
+you can look at RDFWriter (which I am removing) to see what we're currently doing in Java
+```
