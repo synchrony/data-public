@@ -1,0 +1,7 @@
+@id ke9gSRCpnEYzSjov
+@title REPL can list callers, callees
+@created 1503466707990
+@text ```
+:wc :whocalls   <name>      List the callers of some name
+:cw :callswho   <name>      List the callees of some name
+```

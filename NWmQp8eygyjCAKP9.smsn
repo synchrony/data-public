@@ -1,0 +1,26 @@
+@id NWmQp8eygyjCAKP9
+@title ? whether to prefix a do loop with [Monad]T
+@created 1504456411202
+@text ```
+Here, it gets prefixed:
+
+  ~/code/studies/monad-transformers/bowen/src/One.hs
+
+  readUserName, readEmailAddress :: MaybeT IO String
+  readEmailAddress = readUserName
+  readUserName = MaybeT $ do
+    -- This do loop would be an IO (Maybe String)
+    -- MaybeT just wraps it; the do loop is still an IO (Maybe String).
+    str <- getLine
+    if length str > 5 then return $ Just str
+                      else return Nothing
+
+But not here:
+
+  ~/code/studies/monad-transformers/rwh/src/LocalReader.hs:
+
+  announce :: MonadReader String m => String -> m String
+  announce condition  = do
+    it <- ask
+    return (condition ++ ", it is " ++ it)
+```

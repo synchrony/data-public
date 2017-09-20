@@ -1,0 +1,12 @@
+@id WlanXbq1Dqz5GuXp
+@title mutual recursion: expressions and terms
+@created 1503367649075
+@text ```
+example, from Expr-studies/prefix-that-must-abut.hs:
+
+expr :: Parser Float
+expr = makeExprParser term ops
+
+term :: Parser Float
+term = parens expr <|> (lexeme L.float)
+```
