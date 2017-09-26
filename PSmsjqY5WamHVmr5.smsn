@@ -1,0 +1,3 @@
+@id PSmsjqY5WamHVmr5
+@title once again, the responsiveness of the sensor seems to exceed the sampling frequency of the Arduino. I taped the sensor to my desk, then sampled the sensor into a circular buffer as I touched the table with a (rated) 200 Hz vibration motor. The sensor setup picked up about 14 samples per cycle of the vibration motor, for about 2814 Hz, or 0.35 milliseconds per sample. The timing numbers from the sketch but the sampling latency at 0.81 milliseconds. Either way, the regular crests and troughs from the vibration motor are clearly visible.
+@created 1506319639749

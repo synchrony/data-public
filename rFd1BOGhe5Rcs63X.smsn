@@ -1,0 +1,3 @@
+@id rFd1BOGhe5Rcs63X
+@title I didn't even need to use R, as it is clear that the sound detector's latency is well under 1 millisecond. I placed a piezo speaker in a box with the sound detector, then measured the time between activating the speaker (at a frequency of 440 Hz, although the frequency is irrelevant) and exceeding a threshold about the median value of the sound sensor. The threshold does have an affect on the response time, but the latter is always in the low hundreds of microseconds.
+@created 1506059444668
