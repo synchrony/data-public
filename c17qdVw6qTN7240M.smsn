@@ -1,0 +1,3 @@
+@id c17qdVw6qTN7240M
+@title degree <- igraph::degree(g, mode="all")
+@created 1507515961808
