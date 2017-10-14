@@ -1,0 +1,3 @@
+@id mug2ptLVc91IL6Bh
+@title this solenoid runs on 5V, but it draws too much power for an Arduino's digital pins. Use a MOSFET to control it with Arduino.
+@created 1506926003385
