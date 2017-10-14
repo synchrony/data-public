@@ -1,0 +1,4 @@
+@id KVdR2MpTzcmwUgFz
+@title valueMap() :: Vertex (or Edge?) -> Map
+@created 1507440624244
+@text g.V(hercules).out('battled').valueMap()

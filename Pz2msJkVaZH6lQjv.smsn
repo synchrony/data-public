@@ -1,0 +1,9 @@
+@id Pz2msJkVaZH6lQjv
+@title reifying the tplt properties
+@created 1507154736709
+@text ```
+// pitfall: the edge property "usesTplt" must be distinct from the vertex property "tplt", which must be distnct from the vertex label "tplt"
+
+// It's a list of strings.
+graph.makePropertyKey("tplt").multiplicity(MANY2ONE).cardinality(LIST).dataType(String).make()
+```

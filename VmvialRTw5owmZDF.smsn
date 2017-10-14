@@ -1,0 +1,4 @@
+@id VmvialRTw5owmZDF
+@title add an edge
+@created 1507149247397
+@text e = juno.addEdge("knows", graph.addVertex())

@@ -1,0 +1,3 @@
+@id Hd89Rv7007pHwSVJ
+@title because whatever the projections p', q' from Int, we can let m :: Int -> (Int, Bool), m i = (p' i, q' i)
+@created 1505550283471
