@@ -1,0 +1,3 @@
+@id A2VSiYXxRwDHW8eA
+@title applicative do is not automatically used when (the output type is appliciative and not monadic); it requires enabling the extension
+@created 1507413444679

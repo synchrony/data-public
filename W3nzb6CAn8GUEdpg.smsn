@@ -1,0 +1,22 @@
+@id W3nzb6CAn8GUEdpg
+@title load a graph
+@created 1507060365083
+@text ```
+// this makes a few assumptions about the storage and index backends
+
+// without output
+graph = JanusGraphFactory.open('conf/janusgraph-berkeleyje-es.properties')
+GraphOfTheGodsFactory.load(graph)
+g = graph.traversal()
+
+
+// with output
+graph = JanusGraphFactory.open('conf/janusgraph-berkeleyje-es.properties')
+==>standardjanusgraph[berkeleyje:../db/berkeley]
+
+GraphOfTheGodsFactory.load(graph)
+==>null
+
+g = graph.traversal()
+==>graphtraversalsource[standardjanusgraph[berkeleyje:../db/berkeley], standard]
+```

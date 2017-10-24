@@ -1,0 +1,9 @@
+@id tuzVCzBIRDNRiVEE
+@title iterate a relationship
+@created 1507061377305
+@text ```
+the double underscore is for "anonymous|rootless|unbound" traversal; it's like a lambda
+
+hercules = g.V(saturn).repeat(__.in('father')).times(2).next()
+==>v[1536]
+```

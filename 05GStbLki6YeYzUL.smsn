@@ -1,0 +1,3 @@
+@id 05GStbLki6YeYzUL
+@title applicative has no ordering, unlike monad; it is useful for parallellization. pieces of an applicative expression do not depennd on each other; cannot encode dependencies.
+@created 1507403890815

@@ -1,0 +1,21 @@
+@id EoaSMm90LSVtssV5
+@title variable names, and a not-equal-to clause
+@created 1507065792938
+@text ```
+// preliminary
+pluto = g.V().has('name', 'pluto').next()
+==>v[2048]
+
+// who are pluto's cohabitants?
+g.V(pluto).out('lives').in('lives').values('name')
+==>pluto
+==>cerberus
+
+
+// pluto can't be his own cohabitant
+g.V(pluto).out('lives').in('lives').where(is(neq(pluto))).values('name')
+==>cerberus
+
+g.V(pluto).as('x').out('lives').in('lives').where(neq('x')).values('name')
+==>cerberus
+```

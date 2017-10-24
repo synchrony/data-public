@@ -1,0 +1,4 @@
+@id pMJnVLpRSEv8Jfyt
+@title class Bifunctor f where bimap :: (a -> a') -> (b -> b') -> (f a b -> f a' b')
+@created 1505808188930
+* :WNpPCFI2F4Kc3we6: 

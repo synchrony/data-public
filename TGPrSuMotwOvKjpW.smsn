@@ -1,0 +1,4 @@
+@id TGPrSuMotwOvKjpW
+@title Datalog >(mostly) Sparql
+@created 1506484767084
+@text It stores immutable facts. Somewhere online, someone describes Sparql as "non-recursive Datalog". (Datalog is the query language Datomic uses, based on Prolog.) However that same source said there were some things that would be hard to implement in Datalog: "not encodable directly in Datalog: LIMIT, ORDER BY, OFFSET ??? (Work-Arounds could be thought of, likely not to be very elegant)."
