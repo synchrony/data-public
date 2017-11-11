@@ -1,0 +1,4 @@
+@id P7hII3kMBsbks9V9
+@title cwltool --print-rdf https://raw.githubusercontent.com/common-workflow-language/workflows/master/workflows/hello/hello.cwl#main /home/stain/bin/cwltool 1.0.20161207161158 (web page)
+@alias https://gist.github.com/stain/1b73331d855cbad8882008d677d6c440
+@created 1510233249706
