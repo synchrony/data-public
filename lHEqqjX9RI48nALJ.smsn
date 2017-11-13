@@ -1,0 +1,4 @@
+@id lHEqqjX9RI48nALJ
+@title remove facts (literals) with "-"
+@created 1508717624434
+@text - works_in('John', 'Production')

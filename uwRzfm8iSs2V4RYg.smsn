@@ -1,0 +1,15 @@
+@id uwRzfm8iSs2V4RYg
+@title memoization dodges some infinite loops
+@created 1508717574420
+@text ```
+indirect_manager(X,Y) <= (manager[X] == Y)
+# another indirect manager of X is Y, if there is a Z so that the manager of X is Z, 
+#   and an indirect manager of Z is Y
+indirect_manager(X,Y) <= (manager[X] == Z) & indirect_manager(Z,Y)
+print(indirect_manager('Sam',X))
+
+manager['Mary'] = 'John'
+manager['John'] = 'Mary'
+
+print(indirect_manager('John',X))
+```

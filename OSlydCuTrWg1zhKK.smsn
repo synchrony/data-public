@@ -1,0 +1,13 @@
+@id OSlydCuTrWg1zhKK
+@title how to print to screen at each tick
+@created 1509162850796
+@text ```
+* Viewing and using Cycle Number / Time - TidalCycles q&a (web page)
+                @alias http://ask.tidalcycles.org/question/451/viewing-and-using-cycle-number-time/
+
+import System.IO.Unsafe
+
+showCycle x = unsafePerformIO (print x >> return True)
+
+d1 $ when showCycle (# gain 1) (sound "bd")
+```

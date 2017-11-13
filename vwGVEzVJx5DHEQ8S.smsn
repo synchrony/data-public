@@ -1,0 +1,20 @@
+@id vwGVEzVJx5DHEQ8S
+@title all of them
+@created 1508716421883
+@text ```
+len_ (P[X]==len_(Y)) <= body : P[X] is the count of values of Y (associated to X by the body of the clause)
+
+sum_ (P[X]==sum_(Y, for_each=Z)) <= body : P[X] is the sum of Y for each Z. (Z is used to distinguish possibly identical Y values)
+
+min_, max_ (P[X]==min_(Y, order_by=Z)) <= body : P[X] is the minimum (or maximum) of Y sorted by Z.
+
+tuple_ (P[X]==tuple_(Y, order_by=Z)) <= body : P[X] is a tuple containing all values of Y sorted by Z.
+
+concat_ (P[X]==concat_(Y, order_by=Z, sep=',')) <= body : same as 'sum' but for string. The strings are sorted by Z, and separated by ','.
+
+rank_ (P[X]==rank_(group_by=Y, order_by=Z)) <= body : P[X] is the sequence number of X in the list of Y values when the list is sorted by Z.
+
+running_sum_ (P[X]==running_sum_(N, group_by=Y, order_by=Z)) <= body : P[X] is the sum of the values of N, for each Y that are before or equal to X when Y's are sorted by Z.
+
+mean_ and linear_regression : see our reference
+```
