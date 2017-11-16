@@ -1,0 +1,14 @@
+@id nv6x3CSnniIWRFR8
+@title free fall time analysis in R
+@created 1510756606494
+@text ```
+g <- 9.8 # surface of Earth
+six.ft <- 1.82
+
+h <- c(0:100)/100 * 2
+t <- sqrt(2*h / g)
+
+plot(h, t*1000, type="l"); abline(v=c(six.ft*3/8, six.ft, six.ft*5/8), col="red"); abline(h=250, col="blue")
+
+g <- 24.79 # surface of Jupiter
+```
