@@ -1,0 +1,9 @@
+@id K3kAexfEEA0XHwMh
+@title "nest loops" using (&)
+@created 1508711417648
+@text ```
+print(X.in_(range(5)) &
+          Y.in_(range(5)) &
+              (Z==X+Y) &
+              (Z<3))
+```

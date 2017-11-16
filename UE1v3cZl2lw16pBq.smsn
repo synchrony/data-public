@@ -1,0 +1,7 @@
+@id UE1v3cZl2lw16pBq
+@title narrow|widen: select something to hide the rest
+@created 1508699857729
+@text ```
+C-x n n: narrow
+C-x n w: widen
+```

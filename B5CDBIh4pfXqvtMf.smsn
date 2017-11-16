@@ -1,0 +1,9 @@
+@id B5CDBIh4pfXqvtMf
+@title add a note
+@created 1509760656507
+@text ```
+Knowledge graphs are good for making complicated information easier to see and understand. In this video I use Semantic Synchrony[1] to map some of the call structure of Tidal[2].
+
+[1] https://github.com/synchrony/smsn/wiki
+[2] http://tidalcycles.github.io/
+```

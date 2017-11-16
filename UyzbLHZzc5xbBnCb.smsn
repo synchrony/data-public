@@ -1,0 +1,3 @@
+@id UyzbLHZzc5xbBnCb
+@title flush lets many samplers send to the same midi stream; each sampler has to write its output, and then flush sorts those messages before sending
+@created 1509304751841

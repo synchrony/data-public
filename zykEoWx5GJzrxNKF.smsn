@@ -1,0 +1,13 @@
+@id zykEoWx5GJzrxNKF
+@title use (<=) as "if" in definitions
+@created 1508714457162
+@text ```
+>>> (tax_rate_progressive[X] == 0.33) <= (0 <= X)
+tax_rate_progressive[1]==(*,X,'0.33') <= >=(X,'0')
+>>> (tax_rate_progressive[X] == 0.50) <= (100 <= X)
+tax_rate_progressive[1]==(*,X,'0.5') <= >=(X,'100'
+>>> (tax_rate_progressive[70]==Y)
+[(0.33,)]
+>>> (tax_rate_progressive[150]==Y)
+[(0.5,)]
+```
