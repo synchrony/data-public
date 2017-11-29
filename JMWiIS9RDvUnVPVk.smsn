@@ -1,0 +1,10 @@
+@id JMWiIS9RDvUnVPVk
+@title PITFALL: ifte is an ordinary function, hence tab-unaware
+@created 1511153632465
+@text ```
+I had written the below without parentheses. Haskell complained that ifte was getting too many arguments.
+
+ifte test
+     (const mzero)
+     (return n)
+```

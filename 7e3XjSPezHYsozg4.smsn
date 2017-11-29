@@ -1,0 +1,9 @@
+@id 7e3XjSPezHYsozg4
+@title the laws for "fair MonadPlus" use interleave at the top level but mplus underneath
+@created 1511149670285
+@text ```
+interleave mzero m = m
+interleave (return a ‘mplus‘ m1) m2 = return a ‘mplus‘ interleave m2 m1
+mzero >>− k = mzero
+mplus (return a) m >>− k = interleave (k a) (m >>− k)
+```

@@ -1,0 +1,16 @@
+@id ISB8uYAPyo7esFAF
+@title interleave vs. mplus: mplus never gets past an infinite first argument
+@created 1511136086881
+@text ```
+"More abstractly, in addition to the laws in Definition 2.1, mplus
+satisfies an extra law:
+
+m1 ‘mplus‘ m 'm1
+
+whenever m1 is a computation that can backtrack arbitrarily many
+times. This law is undesirable as it compromises completeness.
+This undesirable property is a direct consequence of the associativity
+of mplus: it holds up to finite observations in any implementation
+of MonadPlus which satisfies the laws in Definition 2.1 (including
+the specific List monad)."
+```

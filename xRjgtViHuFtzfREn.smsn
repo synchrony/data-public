@@ -1,0 +1,10 @@
+@id xRjgtViHuFtzfREn
+@title [done]. in the parser, ".." must be surrounded by space
+@created 1511663393870
+@text ```
+must be something to do with lexemes, because this works:
+
+> parse (sepBy (string "s") (string ",")) "" ("s,s,s" :: String)
+Right ["s","s","s"]
+```
+@weight 0.25
