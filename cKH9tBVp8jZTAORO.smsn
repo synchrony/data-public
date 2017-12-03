@@ -1,0 +1,15 @@
+@id cKH9tBVp8jZTAORO
+@title how ifte works
+@created 1511152303338
+@text ```
+It's like Prolog's "soft cut".
+
+ifte (return a) th el = th a
+ifte mzero th el = el
+ifte (return a ‘mplus‘ m) th el = th a ‘mplus‘ (m >>= th)
+
+"The first two equivalences formalise the basic intuition of the construct."
+
+"The third equivalence is more interesting: as soon as the test command succeeds once, the th branch is immediately executed and the el branch can never be tried ... the el branch is only attempted when the
+test fails on the initial (rather than on a backtracking) try"
+```
