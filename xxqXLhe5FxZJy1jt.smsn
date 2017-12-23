@@ -1,0 +1,8 @@
+@id xxqXLhe5FxZJy1jt
+@title write/1 shows something, "the" user-friendly way
+@created 1513126048696
+@text ```
+?-  write(+(2,3)).   
+2+3   
+yes
+```

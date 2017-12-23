@@ -1,0 +1,10 @@
+@id UUG1u7RiC97yIQgW
+@title for = to isntantiate a variable used in ==, order matters
+@created 1513116704647
+@text ```
+?- a=X,a==X.
+X = a.
+
+?- a==X,a=X.
+false.
+```

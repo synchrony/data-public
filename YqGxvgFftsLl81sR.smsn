@@ -1,0 +1,8 @@
+@id YqGxvgFftsLl81sR
+@title mystery: the first two args of findall don't have to be related
+@created 1513290871190
+@text ```
+?- findall(_,descend(martha,_),Z),  length(Z,N).
+Z = [_G4125045, _G4125042, _G4125039, _G4125036],
+N = 4.
+```

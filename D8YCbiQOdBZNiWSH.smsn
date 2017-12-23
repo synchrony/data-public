@@ -1,0 +1,11 @@
+@id D8YCbiQOdBZNiWSH
+@title concatenation in DCGs is weirdly terse
+@created 1513033114124
+@text ```
+For instance, this generates the language a^n b^n: all strings consisting of n as followed by n bs. (Empty list qualifies.)
+
+s  -->  [].   
+s  -->  l,s,r.   % concatenation, weirdly terse
+l  -->  [a].   
+r  -->  [b].
+```

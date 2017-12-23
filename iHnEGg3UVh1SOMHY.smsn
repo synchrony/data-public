@@ -1,0 +1,7 @@
+@id iHnEGg3UVh1SOMHY
+@title Integer division drops the remainder.
+@created 1512941870325
+@text ```
+This evaluates to true:
+3  is  7/2.
+```

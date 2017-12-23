@@ -1,0 +1,7 @@
+@id irvidNfEqblITrKt
+@title it allows for more functional exceptions
+@created 1513208049493
+@text ```
+enjoys(vincent,X)  :-  burger(X),   
+                       neg(big_kahuna_burger(X)).
+```

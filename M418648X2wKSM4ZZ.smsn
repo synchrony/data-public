@@ -1,0 +1,19 @@
+@id M418648X2wKSM4ZZ
+@title zcompare: find the relationship between two unbound vars
+@created 1513635310534
+@text ```
+Sometimes it knows:
+
+    10 ?- X in 0..10, Y in 11..20,zcompare(C, X, Y).
+    C = (<),
+    X in 0..10,
+    Y in 11..20.
+    
+Sometimes it can't:
+    
+    11 ?- X in 0..11, Y in 11..20,zcompare(C, X, Y).
+    X in 0..11,
+    zcompare(C, X, Y),
+    freeze(C, clpfd:zcompare_(C, X, Y)),
+    Y in 11..20.
+```

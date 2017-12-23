@@ -1,0 +1,13 @@
+@id B6rU885yQsZ1kEVO
+@title memoisation \ Prolog
+@created 1513270565932
+@text ```
+:-  dynamic  lookup/3. 
+        
+   add_and_square(X,Y,Res):- 
+         lookup(X,Y,Res),  !. 
+    
+   add_and_square(X,Y,Res):- 
+         Res  is  (X+Y)*(X+Y), 
+         assert(lookup(X,Y,Res)).
+```

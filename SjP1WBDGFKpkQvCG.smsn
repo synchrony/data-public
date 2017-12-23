@@ -1,0 +1,4 @@
+@id SjP1WBDGFKpkQvCG
+@title (#=) > (is)?
+@created 1513532399388
+@text "You can use #= as a declarative version of is, in what is otherwise not a clp(fd) program. X is 3+Y requires Y to be ground, while X #= 3+Y works if X is ground and Y is not."

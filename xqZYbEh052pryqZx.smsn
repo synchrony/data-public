@@ -1,0 +1,12 @@
+@id xqZYbEh052pryqZx
+@title use atom_codes to process atoms (names) like lists
+@created 1513121051508
+@text ```
+Suppose you want to duplicate an atom abc into the atom abcabc. This is how you could do it:   
+   
+    ?-  atom_codes(abc,X),  append(X,X,L),  atom_codes(N,L).   
+       
+    X  =  [97,  98,  99]   
+    L  =  [97,  98,  99,  97,  98,  99]   
+    N  =  abcabc
+```

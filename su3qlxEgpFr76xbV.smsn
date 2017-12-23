@@ -1,0 +1,20 @@
+@id su3qlxEgpFr76xbV
+@title to read a variable-length file: use at_end_of_stream/1
+@created 1513439963427
+@text ```
+.
+   main:- 
+         open(’houses.txt’,read,Str), 
+         read_houses(Str,Houses), 
+         close(Str), 
+         write(Houses),  nl. 
+
+   % what you read from an empty stream is nothing    
+   read_houses(Stream,[]):- 
+         at_end_of_stream(Stream). 
+    
+   read_houses(Stream,[X|L]):- 
+         \+  at_end_of_stream(Stream), 
+         read(Stream,X), 
+         read_houses(Stream,L).
+```

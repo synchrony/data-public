@@ -1,0 +1,9 @@
+@id Gwt2ULTyedK1oxKh
+@title for instance, imagine adding compound sentences to a grammar
+@created 1513032763872
+@text ```
+s  -->  s,conj,s.
+conj  -->  [and].
+conj  -->  [or].
+conj  -->  [but].
+```

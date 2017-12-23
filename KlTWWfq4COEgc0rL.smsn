@@ -1,0 +1,4 @@
+@id KlTWWfq4COEgc0rL
+@title minor point: put base rule ahead of recursive rules
+@created 1512927975401
+@text This can find some extra (terminating) solutions in the case of a generally non-terminating program. But goal ordering, not rule ordering, is more important; that's where non-termination comes from.

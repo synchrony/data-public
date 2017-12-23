@@ -1,0 +1,16 @@
+@id 6kxPyXjZn0yPhfdd
+@title finding domain, size of domain, whether something is CLP(FD)d, ..
+@created 1513817798713
+@text ```
+fd_var(+Var) True iff Var is a CLP(FD) variable.
+
+fd_inf(+Var, -Inf) Inf is the infimum of the current domain of Var.
+
+fd_sup(+Var, -Sup) Sup is the supremum of the current domain of Var.
+
+fd_size(+Var, -Size) Determine the size of a variable’s domain. Size is the number of elements of the current domain of Var, or the atom sup if the domain is unbounded.
+
+fd_dom(+Var, -Dom) Dom is the current domain of Var. This predicate is useful if you want to reason about domains. If you just want to display domains for debugging, use the graphic debugger or toplevel.
+
+indomain/1 binds it’s argument to members of it’s domain on backtracking.
+```

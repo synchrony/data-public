@@ -1,0 +1,10 @@
+@id lcNK3cSkFXur1Glo
+@title examples of it, simple
+@created 1513354808842
+@text ```
+?- findall(a,fail,List).
+List = [].
+
+?- findall(a, _=derp; _=merp, List).
+List = [a, a].
+```
