@@ -1,0 +1,9 @@
+@id NJ38acXVDIhW8WGJ
+@title an example that puts that into practice
+@created 1513120088286
+@text ```
+complexterm(X):-   
+          nonvar(X),   % without this line, the next would fail
+          functor(X,_,A),   
+          A  >  0.
+```

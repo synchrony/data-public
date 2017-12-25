@@ -1,0 +1,11 @@
+@id kbM6YwSFfUifE1Wh
+@title the CLP comparison operators
+@created 1513532348754
+@text ```
+X #>= Y
+X #=< Y
+X #= Y
+X #\= Y
+X #> Y
+X #< Y
+```

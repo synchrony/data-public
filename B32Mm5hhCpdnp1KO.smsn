@@ -1,0 +1,9 @@
+@id B32Mm5hhCpdnp1KO
+@title ? it's valid to have a headless rule
+@created 1512694602247
+@text ```
+* Tutorial — Creating Web Applications in SWI-Prolog (web page)
+                @alias http://www.pathwayslms.com/swipltuts/html/index.html
+
+:- http_handler(/, say_hi, []).
+```

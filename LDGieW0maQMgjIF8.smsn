@@ -1,0 +1,4 @@
+@id LDGieW0maQMgjIF8
+@title terminals (lists) and nonterminals can be mixed in the same body of a DCG
+@created 1513094000828
+@text prop --> ['('], prop, [and], prop, [')'].

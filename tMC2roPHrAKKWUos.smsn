@@ -1,0 +1,5 @@
+@id tMC2roPHrAKKWUos
+@title ? reading non-Prolog data is hard
+@alias http://www.learnprolognow.org/lpnpage.php?pagetype=html&pageid=lpn-htmlse54
+@created 1513440170505
+@text "Now for the nastier problem. Recall that read/2 only reads in Prolog terms."

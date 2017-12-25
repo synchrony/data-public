@@ -1,0 +1,9 @@
+@id EPECAoJtgWgycO5H
+@title these, for instance, work, because the partially applied function is never reified as a thing in itself
+@created 1513530085790
+@text ```
+I found this in the paper on higher-order Prolog.
+
+filter(>(5), [3, 7], As).
+map(plus(1), [2, 3, 4], As)
+```

@@ -1,0 +1,13 @@
+@id oIupoZEAW9ZYSbeF
+@title the types of terms, in code
+@created 1513123510581
+@text ```
+type(X,atom) :- atom(X).
+type(X,number) :- number(X).
+type(X,var) :- var(X).
+type(X,constant) :- atom(X) ; number(X).
+type(X,simple) :- var(X) ; type(X,constant).
+type(X,complex) :- not( atom(X); number(X); var(X) ).
+type(X,term).
+```
+@priority 0.5

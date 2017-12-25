@@ -1,0 +1,12 @@
+@id KmOa8AtZLXGDwSwY
+@title Prolog / DCGs / why they are called extra arguments
+@created 1513096854996
+@text ```
+s  -->  np(subject),vp.   
+   
+ translates into:
+   
+s(A,B)  :-   
+        np(subject,A,C),   
+        vp(C,B).
+```

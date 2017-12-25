@@ -1,0 +1,13 @@
+@id cDWjS3uKwxbd40Db
+@title lists are ordinary functors
+@created 1513119609840
+@text ```
+?- '[|]'(a,[])=X.
+X = [a].
+
+?-  functor([a],Functor,Arity).
+Functor = '[|]',
+Arity = 2.
+
+?-
+```

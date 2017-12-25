@@ -1,0 +1,4 @@
+@id W6U4QY6EEInC1aLX
+@title this asks a user whether attribute A has value V
+@created 1513785083852
+@text ask(A,V) :- write(A:V), write("?"), read(y).

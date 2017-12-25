@@ -1,0 +1,8 @@
+@id wYV9GXPJlHWt0QWQ
+@title ! use right, not left, recursion
+@created 1512927861894
+@text ```
+If in a rule the first goal is identical (modulo variable names) to the head, it will never terminate.
+
+Put the recursive goal(s) as far to the right (late) as possible.
+```

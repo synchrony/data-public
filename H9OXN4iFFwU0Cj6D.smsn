@@ -1,0 +1,8 @@
+@id H9OXN4iFFwU0Cj6D
+@title TaxBrain's backend
+@created 1512590759187
+@text ```
+"Tax-Calculator computes federal individual income taxes and Federal Insurance Contribution Act(FICA) taxes for a sample of tax filing units in years beginning with 2013 .
+
+TaxData creates a microdataset that closely reproduces the multivariate distribution of income, deduction and credit items in 2009, extrapolated through 2026 levels in accordance with Congressional Budget Office forecasts available in spring 2016. It is intended to match similar but confidential data used by the Congressional Joint Committee on Taxation. The underlying dataset must be purchased from the Statistics of Income division of the Internal Revenue Service. Additional information on non-filers is taken from the March 2013 Current Population Survey."
+```

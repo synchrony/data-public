@@ -1,0 +1,3 @@
+@id BAIfFyRXwnqLfeEd
+@title use "listing." to see all defined functions, including how DCG (->) rules were translated into ordinary Prolog (:-). to see just one of them, say, "listing(np)."
+@created 1513032100107
