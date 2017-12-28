@@ -5,5 +5,5 @@
 memberByAppend(X,List) :- append(_,[X|_],List).
 
 memberByPattern(X,[H|T]) :- X = H;
-			    memberByPattern(X,T).
+                memberByPattern(X,T).
 ```

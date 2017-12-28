@@ -6,7 +6,7 @@ The bagof below produces a separate List for each value of Mother. Findall collc
 
 findall(List, 
         bagof(Child,
-	      descend(Mother,Child),
-	      List), 
+          descend(Mother,Child),
+          List), 
         Z).
 ```

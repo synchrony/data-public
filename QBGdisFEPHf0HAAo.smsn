@@ -4,7 +4,7 @@
 @text ```
 bagof(List, 
       Mother^bagof(Child,
-		   descend(Mother,Child),
-		   List), 
+           descend(Mother,Child),
+           List), 
       Z).
 ```

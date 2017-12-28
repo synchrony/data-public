@@ -4,7 +4,7 @@
 @text ```
 subset([],Super) :- list(Super).
 subset(Sub,Super) :- findall( X,
-			      (member(X,Sub), not(member(X,Super))),
-			      List )
-		     = [].
+                  (member(X,Sub), not(member(X,Super))),
+                  List )
+             = [].
 ```

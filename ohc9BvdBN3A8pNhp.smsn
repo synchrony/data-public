@@ -5,7 +5,7 @@
 e.g. in the following program to compute the maximum of a list
 
     max(List,Max) :- List = [Head|_],
-    		 max(List,Head,Max).
+             max(List,Head,Max).
     
     max([],Acc,Acc).
     max([Elt|Rest],Acc,Max) :- Elt >  Acc, max(Rest,Elt,Max).
