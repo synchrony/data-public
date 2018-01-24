@@ -1,0 +1,12 @@
+@id OcCeZEuok3uwhfEV
+@title recursive sets
+@created 1515711504157
+@text ```
+.
+  # The rec keyword denotes a "recursive set",
+  # in which attributes can refer to each other.
+  (let a = 1; in     { a = 2; b = a; }.b)
+  #=> 1
+  (let a = 1; in rec { a = 2; b = a; }.b)
+  #=> 2
+```

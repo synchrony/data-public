@@ -1,0 +1,4 @@
+@id czgrIoZIGuRlGt15
+@title --dry-run: see what would happen
+@created 1515783480156
+@text e.g. "nix-env -u --dry-run"

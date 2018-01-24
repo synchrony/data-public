@@ -2,7 +2,7 @@
 @title sometimes you've got to test that the tail is nonempty, to avoid duplicate solutions
 @created 1513125074305
 @text ```
-% This duplicates (maybe very differently) the "ground" function, which tests whether a term is completely instantiated.
+% This re-implements (maybe very differently) the "ground" function, which tests whether a term is completely instantiated.
 
 groundList([]).
 groundList([H|T]) :- groundTerm(H), groundList(T).

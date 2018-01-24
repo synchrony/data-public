@@ -1,0 +1,10 @@
+@id Ywb1gi7TkSXZ5HGq
+@title via currying
+@created 1515711033800
+@text ```
+. 
+  # A function has exactly one argument.
+  # Multiple arguments can be achieved with currying.
+  ((x: y: x + "-" + y) "a" "b")
+  #=> "a-b"
+```
