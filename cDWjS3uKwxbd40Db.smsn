@@ -9,5 +9,7 @@ X = [a].
 Functor = '[|]',
 Arity = 2.
 
-?-
+?- functor([a,b],Functor,Arity).
+Functor = '[|]',
+Arity = 2.
 ```

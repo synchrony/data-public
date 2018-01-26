@@ -1,0 +1,10 @@
+@id VVaIBTudzRoe4Yfw
+@title logical short-cirtcuit operators ~ if-else statements
+@created 1515715580960
+@text ```
+Operator expression         Equivalent to
+! A                         if A then false else true
+A || B                      if A then true else B
+A && B                      if A then B else false
+A -> B                      if A then B else true
+```

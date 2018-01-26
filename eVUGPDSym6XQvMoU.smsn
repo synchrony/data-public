@@ -7,3 +7,4 @@ e.g. here var(X) succeeds, even though the query later instantiates X to a (maki
 ?-  var(X),  X  =  a.   
     X  =  a
 ```
+@priority 0.5

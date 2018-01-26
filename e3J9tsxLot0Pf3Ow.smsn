@@ -1,0 +1,11 @@
+@id e3J9tsxLot0Pf3Ow
+@title referring to the contents of a set using "with"
+@created 1515712093565
+@text ```
+.
+  # The body of a `with` block is evaluated with
+  # a set's mappings bound to variables.
+  (with { a = 1; b = 2; };
+    a + b)
+  # => 3
+```

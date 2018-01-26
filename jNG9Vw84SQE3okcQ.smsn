@@ -2,7 +2,8 @@
 @title some (in)equality operators
 @created 1513117381864
 @text ```
-=   The unification predicate.     
+.
+   =   The unification predicate.     
     Succeeds if it can unify its arguments, fails otherwise.     
   \=   The negation of the unification predicate.     
     Succeeds if = fails, and vice-versa.     

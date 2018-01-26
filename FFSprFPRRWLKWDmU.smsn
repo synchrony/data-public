@@ -1,0 +1,18 @@
+@id FFSprFPRRWLKWDmU
+@title via sets (and even "set patterns")
+@created 1515712220245
+@text ```
+.
+  # Sets are useful when we need to pass multiple values
+  # to a function.
+  (args: args.x + "-" + args.y) { x = "a"; y = "b"; }
+  #=> "a-b"
+
+  # This can be written more clearly using set patterns.
+  ({x, y}: x + "-" + y) { x = "a"; y = "b"; }
+  #=> "a-b"
+
+  # Adding ", ..." allows ignoring extra keys.
+  ({x, y, ...}: x + "-" + y) { x = "a"; y = "b"; z = "c"; }
+  #=> "a-b"
+```

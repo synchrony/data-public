@@ -1,0 +1,11 @@
+@id iggmIXTqb3C5vdS5
+@title need semicolons ... sometimes
+@created 1515715252531
+@text ```
+let
+  square = x: x*x;
+ 
+  sumOfSquares = x: y: square x + square y;
+in
+  sumOfSquares 3 7 # but somehow not here
+```

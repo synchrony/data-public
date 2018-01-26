@@ -1,5 +1,5 @@
 @id YAdSFSS9PKnfIqrb
-@title for if-else, use (->) and (;)
+@title for if-else, use ?(call,) (->) and (;)
 @created 1513526041604
 @text ```
 I found this in the paper on higher order Prolog.
