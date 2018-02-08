@@ -1,0 +1,12 @@
+@id GOagRQVHND5Thr1G
+@title do that using symbols() or Symbol()
+@created 1517010258768
+@text ```
+>>> x, y = symbols('x y')
+>>> expr = x + 2*y
+
+or equivalently:
+x = Symbol("x")
+y = Symbol("y")
+z = Symbol("z")
+```

@@ -1,0 +1,4 @@
+@id drz1DVNLZvrm2x6L
+@title supposedly solveset() can solve a system of multiple equations, but I haven't gotten it to do that. however, solve(), nonlinsolve() and linsolve() all do it.
+@created 1517266435723
+@priority 0.5

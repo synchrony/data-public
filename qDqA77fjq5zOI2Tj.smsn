@@ -1,0 +1,13 @@
+@id qDqA77fjq5zOI2Tj
+@title == : test for expression (not algebraic) equality
+@created 1517010699528
+@text ```
+>>> y==x  # as algebra, maybe, but as expressions, not true
+False
+
+>>> y+1==1+y-x+x
+True
+
+>>> (x+1)**2==x**2+2*x+1
+False
+```
