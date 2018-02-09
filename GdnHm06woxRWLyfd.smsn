@@ -1,0 +1,11 @@
+@id GdnHm06woxRWLyfd
+@title three libraries
+@created 1518033385215
+@text ```
+. 
+    library(http/json) provides support for the core JSON object serialization.
+
+    library(http/json_convert) converts between the primary representation of JSON terms in Prolog and more application oriented Prolog terms. E.g. point(X,Y) vs. object([x=X,y=Y]).
+
+    library(http/http_json) hooks the conversion libraries into the HTTP client and server libraries.
+```

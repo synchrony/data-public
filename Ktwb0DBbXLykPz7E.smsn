@@ -1,0 +1,6 @@
+@id Ktwb0DBbXLykPz7E
+@title some (sub)expressions involving numbers are not in SymPy
+@created 1517011257082
+@text "Whenever you combine a SymPy object and a SymPy object, or a SymPy object and a Python object, you get a SymPy object, but whenever you combine two Python objects, SymPy never comes into play, and so you get a Python object."
+* :TOdtjHCWQoOPzrzI: 
+* :5nzEU5axZZvIzyBR: 

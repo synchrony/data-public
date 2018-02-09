@@ -1,0 +1,3 @@
+@id TOdtjHCWQoOPzrzI
+@title "Python ints work much the same as SymPy Integers, but there is one important exception: division. In SymPy, the division of two Integers gives a Rational"
+@created 1517011335544

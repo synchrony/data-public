@@ -1,0 +1,10 @@
+@id 4gx5IMrcMfXeeHRk
+@title SymPy objects are immutable
+@created 1517011876333
+@text ```
+>> expr = cos(x)
+>>> expr.subs(x, 0)
+1
+>>> expr
+cos(x)
+```
