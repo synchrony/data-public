@@ -1,0 +1,15 @@
+@id p3TKmgqWmhcm8vDi
+@title reconfiguring docker-smsn for a user-configurable repo list
+@created 1519613520572
+@text ```
+Make the top-level activity log and smsn.yaml file into links, see if smsn runs that way. 
+
+Rather than build smsn.yaml into the Docker image, read it from /mnt/smsn-data
+
+Make conf/smsn.yaml into a link to /mnt/smsn-data/smsn.yaml
+
+Remove smsn.yaml from the docker image.
+
+Revise the smsn-docker instructions, and provide a model smsn.yaml file
+  Point out that if someone edits smsn.yaml, they'll have to restart not just smsn (in the docker container), but emacs.
+```

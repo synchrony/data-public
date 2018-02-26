@@ -1,0 +1,10 @@
+@id lyQdvgIPjhxVPZFL
+@title ? brick-based recording instrument
+@created 1518148341877
+@text ```
+-- check out Can Ince's tracker --
+
+assign keys to pitches, patterns
+whenever the player plays a key, the ui notes what time it is
+upon exit, the ui returns a list(?map..) of tonics, patterns, etc.
+```

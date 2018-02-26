@@ -1,0 +1,7 @@
+@id RiQAjGZ5XiXCNUUi
+@title select series or rectangular subspace from data frame
+@created 1518815680639
+@text ```
+df.ix[:,101] # this generates a series
+df.ix[:,[101]] # this generates a data frame
+```
