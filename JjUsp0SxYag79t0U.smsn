@@ -1,0 +1,3 @@
+@id JjUsp0SxYag79t0U
+@title ability too define a schema in an interoperable (non-Haskell) format such as YAML, but also to make schema available at compile time as Haskell types. Also needed is run-time access to the schema for the purpose of reasoning and consistency checking.
+@created 1519055923200
