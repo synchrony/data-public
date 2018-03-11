@@ -1,0 +1,19 @@
+@id z7Hevy4FQ56J5fRi
+@title SmSn statements in YAML
+@created 1519856138769
+@text ```
+statements
+-
+  - role: [father]
+    entity: [Zeus]
+  - role: [mother]
+    entity: [Alcmene]
+  - role: [child]
+-
+  - role: [father]
+    entity: [Zeus]
+  - role: [mother]
+    entity: [Hera]
+  - role: [child]
+    entity: [Athena]
+```
