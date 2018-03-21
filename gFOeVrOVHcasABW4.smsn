@@ -1,3 +1,16 @@
 @id gFOeVrOVHcasABW4
-@title ? why fails ? (X==True) & (Y==not(X))
+@title ? can use user-defined ones, but not  builtin functions, in queries
 @created 1508702075191
+@text ```
+this fails
+    pyDatalog.create_terms('not')
+    (X==True) & (Y==not(X))
+
+but this works:
+    >>> def nott(x): return not(x)
+    >>> pyDatalog.create_terms('nott')
+    >>> print( (X==True) & (Y==nott(X)) )
+    X    | Y    
+    -----|------
+    True | False
+```

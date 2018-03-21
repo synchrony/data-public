@@ -1,0 +1,11 @@
+@id eU3KAtylKtPdmQ6D
+@title aggregate|group data \ pandas
+@created 1520965297229
+@text ```
+people = purchases.groupby(
+    ['household', 'household-member'])['value','vat-paid'].agg('sum')
+
+# Then do this to restore the group-defining variables
+people = people.reset_index(level = ['household', 'household-member'])
+    # https://stackoverflow.com/questions/20461165/how-to-convert-pandas-index-in-a-dataframe-to-a-column
+```

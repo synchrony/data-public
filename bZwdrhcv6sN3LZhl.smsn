@@ -1,0 +1,11 @@
+@id bZwdrhcv6sN3LZhl
+@title PITFALL: index v. column
+@created 1520897450851
+@text ```
+Certain operations, for instance groupby, can turn columns into indices:
+  people = purchases.groupby(
+    ['household', 'household-member'])['value','vat-paid'].agg('sum')
+
+To turn those indices back into ordinary columns, do this:
+  people.reset_index(level = ['household', 'household-member'])
+```

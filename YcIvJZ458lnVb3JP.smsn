@@ -1,0 +1,24 @@
+@id YcIvJZ458lnVb3JP
+@title to use Python functions (or whole libraries), create terms for them after defining them
+@created 1520098041231
+@text ```
+A whole library
+    import math
+    pyDatalog.create_terms('math')
+    print(X==2) & (Y==math.sqrt(X))
+    X | Y
+    --|--------------
+    2 | 1.41421356237
+
+A user-defined function
+    In [9]:
+    def twice(a):
+        return a+a
+    
+    pyDatalog.create_terms('twice')
+    print((X==1) & (Y==twice(X)))
+    X | Y
+    --|--
+    1 | 2
+```
+* :GjYu2NLmFrhStabY: 

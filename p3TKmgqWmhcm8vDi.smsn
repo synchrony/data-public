@@ -2,7 +2,7 @@
 @title reconfiguring docker-smsn for a user-configurable repo list
 @created 1519613520572
 @text ```
-Make the top-level activity log and smsn.yaml file into links, see if smsn runs that way. 
+Make the top-level activity log and smsn.yaml file into links.
 
 Rather than build smsn.yaml into the Docker image, read it from /mnt/smsn-data
 

@@ -1,4 +1,4 @@
 @id mPBFhccIQbSt7y9p
-@title ? what did they mean by this
+@title shorthand for function definition
 @created 1508715479731
 @text Please note that we used f[X]=<expr> above, as a shorter notation for (f[X]==Y) <= (Y==expr)
