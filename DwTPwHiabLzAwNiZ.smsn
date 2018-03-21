@@ -1,0 +1,3 @@
+@id DwTPwHiabLzAwNiZ
+@title map (\x -> x 100) $ map (*) [1..10]
+@created 1521038915021
