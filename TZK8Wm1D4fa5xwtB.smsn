@@ -1,0 +1,3 @@
+@id TZK8Wm1D4fa5xwtB
+@title and $ map (\x -> (length x) > 3) ["fooo", "barrr", "bazzz"]
+@created 1521056548262
