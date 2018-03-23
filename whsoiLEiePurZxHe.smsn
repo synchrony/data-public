@@ -1,4 +1,10 @@
 @id whsoiLEiePurZxHe
-@title delete definitions with "del"
+@title delete ("retract") definitions with "del"
 @created 1508714691658
-@text del net_salary[X]
+@text ```
+del net_salary[X]
+  this deletes the function's definition but retains the term
+
+del net_salary
+  this erases the term
+```

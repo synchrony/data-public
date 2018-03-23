@@ -1,0 +1,11 @@
+@id f8MNOSjl7pBo2yTk
+@title example: factorial
+@created 1520218526445
+@text ```
+def factorial(0) = 1
+
+@addpattern(factorial)
+def factorial(n is int if n > 0) =
+    """Compute n! where n is an integer >= 0."""
+    range(1, n+1) |> reduce$(*)
+```
