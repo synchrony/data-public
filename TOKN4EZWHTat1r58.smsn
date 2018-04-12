@@ -1,0 +1,27 @@
+@id TOKN4EZWHTat1r58
+@title N2508Z weight and balance in R
+@created 1521876036448
+@text ```
+empty.cg <- 10.97
+empty.pounds <- 1110.4
+oil.arm <- -36.0
+pilot.arm <- 11.5
+pasngr.arm <- 42.0
+fuel.arm <- 24.5
+bags.arm <- 69.0
+fuel.pounds.per.gal <- 6
+oil.pounds.per.gal <- 7.5
+fuel.pounds <- function() { fuel.gallons * fuel.pounds.per.gal }
+oil.pounds <- function() { oil.quarts / 4 * oil.pounds.per.gal }
+arms <- c(empty.cg, fuel.arm, oil.arm, pilot.arm, pasngr.arm, bags.arm)
+weights() <- function() { c(empty.pounds, fuel.pounds(), oil.pounds(), pilot.pounds, pasngr.pounds, bags.pounds) }
+moment <- function() { sum(arms * weights()) }
+cg <- function() { moment() / sum(weights()) }
+
+bags.pounds <- 10
+pilot.pounds <- 170
+pasngr.pounds <- 170
+
+fuel.gallons <- 15
+oil.quarts <- 6
+```
