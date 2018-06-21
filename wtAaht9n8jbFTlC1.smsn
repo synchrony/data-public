@@ -1,0 +1,3 @@
+@id wtAaht9n8jbFTlC1
+@title L.filter (\s -> (L.length s) == 3) ["two", "of", "these", "are", "kept"]
+@created 1529344570158
