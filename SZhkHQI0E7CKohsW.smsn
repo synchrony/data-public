@@ -2,9 +2,8 @@
 @title instantiate Neo4jGraph
 @created 1405194281827
 @text ```
-//:install com.tinkerpop neo4j-gremlin 3.0.0-SNAPSHOT
-:install com.tinkerpop neo4j-gremlin 3.0.0.M1
+:install org.apache.tinkerpop neo4j-gremlin 3.3.3
 
-import com.tinkerpop.gremlin.neo4j.structure.Neo4jGraph;
+import org.apache.tinkerpop.gremlin.neo4j.structure.Neo4jGraph;
 g = Neo4jGraph.open('/tmp/neo4j')
 ```
