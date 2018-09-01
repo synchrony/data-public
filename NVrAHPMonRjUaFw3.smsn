@@ -1,0 +1,3 @@
+@id NVrAHPMonRjUaFw3
+@title ssh -i [keypair].pem ec2-user@[public-ip]
+@created 1535261163076
