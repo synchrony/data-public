@@ -1,0 +1,10 @@
+@id Jp5OEyerfFGUe3Iw
+@title time series for charging the battery, in R
+@created 1541257350917
+@text ```
+mins <- c(3, 16, 27, 39, 50, 60, 73)
+volts <- c(3.98, 4.10, 4.13, 4.16, 4.18, 4.19, 4.20)
+
+plot(mins, volts)
+```
+* :d8K09pVnQaQNCWvg: 
