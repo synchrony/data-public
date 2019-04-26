@@ -37,5 +37,7 @@ max.fuel.gallons <- (max.weight - total.weight + fuel.pounds) / fuel.pounds.per.
 total.weight
 total.moment
 cg
+
+# max 29.725 gallons for two 170 lb POB, 10 pounds of luggage
 max.fuel.gallons
 ```
