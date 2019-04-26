@@ -1,0 +1,3 @@
+@id kBIZjCq3YVzSd0Q4
+@title let S be a source schema and T a target schema. Then a SO tgd is a formula of the form ∃f1 ... ∃fm( (∀x1(φ1 → ψ1)) ∧ ... ∧ (∀xn(φn → ψn))), where each fi is a function symbol, each φi is a conjunction of atoms from S and equalities of terms, and each ψi is a conjunction of atoms from T
+@created 1555338792967
