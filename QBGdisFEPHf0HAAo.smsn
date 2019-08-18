@@ -1,0 +1,10 @@
+@id QBGdisFEPHf0HAAo
+@title or by using an outer bagof
+@created 1513356334398
+@text ```
+bagof(List, 
+      Mother^bagof(Child,
+           descend(Mother,Child),
+           List), 
+      Z).
+```

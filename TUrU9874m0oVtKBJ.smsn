@@ -1,0 +1,13 @@
+@id TUrU9874m0oVtKBJ
+@title RenameMe
+@created 1421637674675
+@text ```
+# default password is "logKext"
+sudo logKextClient
+set Password=[...]
+set LogPath=[...]
+set Encrypt=off
+quit
+# now delete the old log file
+sudo rm /Library/Preferences/com.fsb.logKext
+```

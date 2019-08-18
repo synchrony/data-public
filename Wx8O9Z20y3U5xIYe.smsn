@@ -1,0 +1,3 @@
+@id Wx8O9Z20y3U5xIYe
+@title if ( !(ob instanceof Note) ) throw new ClassCastException();
+@created 1469061912095

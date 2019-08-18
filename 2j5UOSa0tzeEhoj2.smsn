@@ -1,0 +1,3 @@
+@id 2j5UOSa0tzeEhoj2
+@title r = new Random(); n = 100; t0 = System.currentTimeMillis(); for (i = 0; i < n; i++) System.console().readLine ("\n" + (char) (((int) 'A') + r.nextInt(26)) + "\n"); t1 = System.currentTimeMillis(); System.out.println(n + " letters in " + (t1-t0) + " ms (" + ((t1-t0)/(1000.0*n)) + "s per letter)")
+@created 1542999825022

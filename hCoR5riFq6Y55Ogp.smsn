@@ -1,0 +1,11 @@
+@id hCoR5riFq6Y55Ogp
+@title RenameMe
+@created 1396245782446
+@text ```
+t <- read.csv(file("/tmp/coinbase.csv"))
+
+s <- data.frame(timestamp=t$Timestamp, balance=t$Balance, btc.amount=t$BTC.Amount,
+    transfer.total=t$Transfer.Total, transfer.total.currency=t$Transfer.Total.Currency,
+    transfer.fee=t$Transfer.Fee, transfer.fee.currency=t$Transfer.Fee.Currency,
+    to=t$To, notes=t$Notes)
+```

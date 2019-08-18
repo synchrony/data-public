@@ -1,0 +1,12 @@
+@id uAYFOcVdLaMT3Q8S
+@title edge labels & property keys == relation types
+@created 1507433767547
+@text ```
+" There are methods in the JanusGraph API to query for the existence or retrieve relation types which encompasses both property keys and edge labels."
+
+mgmt = graph.openManagement()
+if (mgmt.containsRelationType('name'))
+    name = mgmt.getPropertyKey('name')
+mgmt.getRelationTypes(EdgeLabel.class)
+mgmt.commit()
+```

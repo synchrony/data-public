@@ -1,0 +1,13 @@
+@id AUN9kU5UWkTz4nYM
+@title query by name, get vertex value map, find grandchild
+@created 1507060856967
+@text ```
+saturn = g.V().has('name', 'saturn').next()
+==>v[256]
+
+g.V(saturn).valueMap()
+==>[name:[saturn], age:[10000]]
+
+g.V(saturn).in('father').in('father').values('name')
+==>hercules # hercules is saturn's grandchild
+```

@@ -1,0 +1,3 @@
+@id DRxWTWTNKvrGGK0X
+@title "Our system provides an end-to-end solution for face recognition; it receives video input from a camera, detects the locations of the face(s) using the Viola-Jones algorithm, subsequently recognizes each face using the Eigenface algorithm, and outputs the results to a display."
+@created 1442950278239

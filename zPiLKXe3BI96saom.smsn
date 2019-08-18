@@ -1,0 +1,3 @@
+@id zPiLKXe3BI96saom
+@title for more speed: don't test e.g. the upper-left neighbor, because that adjacency would already have been detected in the other direction
+@created 1491343498771

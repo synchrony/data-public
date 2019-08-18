@@ -1,0 +1,16 @@
+@id hYaRD4ZDLMzNxnbr
+@title RenameMe
+@created 1342409634518
+@text ```
+cat /Volumes/encrypted/mob-stats/activity.log |grep "view\|create" > /tmp/mob-activity
+
+activity <- read.table(file("/tmp/mob-activity"))
+v <- read.table(file("/tmp/tinkernotes-vertices.txt"), header=TRUE, sep="\t", quote="", comment.char="")
+e <- read.table(file("/tmp/tinkernotes-edges.txt"), header=TRUE)
+
+# look at the most edited and viewed notes
+t <- table(activity$V3)
+m <- merge(data.frame(t), v, by.x="Var1", by.y="id")
+s <- m[with(m, order(-Freq)),]
+s[1:100,]
+```

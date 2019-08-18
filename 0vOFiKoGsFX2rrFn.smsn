@@ -1,0 +1,3 @@
+@id 0vOFiKoGsFX2rrFn
+@title length (takeWhile (<1000) (scanl1 (+) (map sqrt [1..]))) + 1
+@created 1521053374174

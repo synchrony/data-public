@@ -1,0 +1,11 @@
+@id SqKzMlygTeGv4WED
+@title once the top node is a type, Nix stops evaluating
+@created 1515715878780
+@text ```
+> { age = 2014 — 1988; }
+{ age = <CODE>; }
+
+Wait, what the heck does ‘<CODE>’ mean? Instead of showing us ‘26’ like we were expecting, Nix didn’t bother doing the subtraction at all. Whaa?
+
+Remember when we talked about Nix’s evaluation order? Evaluation of our program is equivalent to simply forcing the entire expression, and Nix stops forcing as soon as the top node is a data-type. Well, a set is a data-type, so it stops, and doesn’t do any more evaluation ‘inside’ the set. So expressions like ‘2014 – 1988’ are left unevaluated because they were not required in order to determine the outermost data-type.
+```

@@ -1,0 +1,3 @@
+@id riHWTzkRyxDROh7g
+@title the "A–Za–z0–9-_" ids are *almost* compatible with Turtle.  Only ids which begin with "-" and digits are problematic.  E.g. "atom:f00", "atom:f00-", "atom:f00_", "atom:f00-bar", "atom:f00_bar", "atom:_f00" are all good, but "atom:-f00" and "atom:00f" are not legal.
+@created 1422031135263

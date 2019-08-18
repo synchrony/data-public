@@ -1,0 +1,3 @@
+@id CLli3scU9K9FEvht
+@title "Non-static nested classes (inner classes) have access to other members of the enclosing class, even if they are declared private"
+@created 1491187848557

@@ -1,0 +1,16 @@
+@id RrTpMCSnnxlJvb7s
+@title out-relatives, values and "label"s
+@created 1507061752093
+@text ```
+gremlin> g.V(hercules).out('father', 'mother')
+==>v[1024]
+==>v[1792]
+gremlin> g.V(hercules).out('father', 'mother').values('name')
+==>jupiter
+==>alcmene
+gremlin> g.V(hercules).out('father', 'mother').label()
+==>god
+==>human
+gremlin> hercules.label()
+==>demigod
+```

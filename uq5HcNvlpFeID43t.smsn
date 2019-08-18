@@ -1,0 +1,3 @@
+@id uq5HcNvlpFeID43t
+@title makes use of knowledge available beforehand to do query planning and optimization. However, the plan built at compile time might be corrected according to newly acquired knowledge about sources
+@created 1427181417256

@@ -1,0 +1,3 @@
+@id MbO0iNfykVT7lTgS
+@title the strongest consistency model. It requires that if a process reads any memory location, the value returned by the read operation is the value written by the most recent write operation to that location
+@created 1463347491438

@@ -1,0 +1,4 @@
+@id 736oB8SbMkOY3p8M
+@title you can even omit file extension
+@created 1495315488899
+@text "If you are using, for example, Apache, you can set it up to do content negotiation. You keep the file extension (such as .png) on the file (e.g. mydog.png), but refer to the web resource without it. "

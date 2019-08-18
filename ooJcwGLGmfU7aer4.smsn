@@ -1,0 +1,3 @@
+@id ooJcwGLGmfU7aer4
+@title creates an RDF view of a graph in which both vertices and edges are first-class objects.  Properties become statements, there is an "id" and rdf:type statement per vertex and edge, and there is a "label", "head", and "tail" statement per edge.
+@created 1370833134803

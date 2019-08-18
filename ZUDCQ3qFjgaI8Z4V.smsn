@@ -1,0 +1,10 @@
+@id ZUDCQ3qFjgaI8Z4V
+@title to stay platform-neutral
+@created 1507069904443
+@text ```
+Jeffrey Benjamin Brown @JeffreyBenjaminBrown 18:30
+How will I know if I'm using a backend-specific feature?
+
+Joshua Shinavier @joshsh 18:31
+if you see "janusgraph" or "neo4j" in your Java includes
+```

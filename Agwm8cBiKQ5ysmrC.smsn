@@ -1,0 +1,3 @@
+@id Agwm8cBiKQ5ysmrC
+@title sudo usermod -aG docker $(whoami) # then logout/login
+@created 1488642283198

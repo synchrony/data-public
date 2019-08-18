@@ -1,0 +1,8 @@
+@id VYDLJAuSUNHZvY9L
+@title RenameMe
+@created 1369336638372
+@text ```
+g = new SailGraph(new GraphSail(new Neo4jGraph('/tmp/rdf-ex')))
+g.loadRDF('/tmp/neo.rdf', 'rdf-xml')
+g.E[0..5]
+```

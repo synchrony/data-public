@@ -1,0 +1,8 @@
+@id CSysWmkUIvxGK1SG
+@title RenameMe
+@created 1395256526274
+@text ```
+vim ~/.bash_profile
+
+export FAUNUS_HOME=/Users/josh/projects/aurelius/faunus
+```

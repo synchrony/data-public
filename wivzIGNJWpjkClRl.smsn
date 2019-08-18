@@ -1,0 +1,9 @@
+@id wivzIGNJWpjkClRl
+@title RenameMe
+@created 1471476278665
+@text ```
+SubObjectPropertyOf( 
+   ObjectPropertyChain( :hasParent :hasParent ) 
+   :hasGrandparent 
+ )
+```

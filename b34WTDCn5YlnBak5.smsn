@@ -1,0 +1,3 @@
+@id b34WTDCn5YlnBak5
+@title if they !did overlap, could designate characters that represent, up to at least 2^5 (32 chars), which of the titles the node belongs to. for instance, if there are 3 titles, could use 1 to indicate belongs to the first two, 2 to indicate the outer 2, and 3 to indicate the last 2. If the user can count in binary there's an easy correspondence to memorize at least up to 2^3 (3 titles; the powerset on three things having cardinality 8).
+@created 1471763076818

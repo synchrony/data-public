@@ -1,0 +1,3 @@
+@id 9xr2xztg59mh611t
+@title docker run should start bash. the user runs start-smsn.sh, which starts it, redirecting output from stdout to a file called ~/smsn-messages. The user then opens emacs, and can visit smsn-messages if they want.
+@created 1497346053361

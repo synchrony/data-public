@@ -1,0 +1,9 @@
+@id PtXchRincJK0CkRL
+@title RenameMe
+@created 1421638327053
+@text ```
+divide: O(1)
+sort: 2*T(n/2)
+merge: O(n)
+T(n) = { 1 if n=1, else 2 T(n/2) + c*n }
+```

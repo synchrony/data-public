@@ -1,0 +1,11 @@
+@id EnkBHlmD0g4kDI52
+@title RenameMe
+@created 1485040166701
+@text ```
+forall t1.                
+  Eff                     
+    ( "console" :: CONSOLE
+    | t1                  
+    )                     
+    Unit
+```

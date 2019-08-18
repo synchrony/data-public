@@ -1,0 +1,19 @@
+@id 47OhjMOPfvPq36A9
+@title path reference
+@created 1515711167019
+@text ```
+. 
+  # A path must contain at least one slash, so a relative
+  # path for a file in the same directory needs a ./ prefix,
+  ./learn.nix
+  #=> /the-base-path/learn.nix
+
+  # Import paths must be absolute. Path literals
+  # are automatically resolved, so this is fine.
+    (import ./foo.nix)
+  # But this does not happen with strings.
+    (import "./foo.nix")
+    #=> error: string ‘foo.nix’ doesn't represent an absolute path
+
+  Relative path resolution happens at parse time, not runtime. It is not possible to pass around relative paths in the program to be resolved at some later time. Paths in the language are always absolute paths.
+```

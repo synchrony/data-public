@@ -1,0 +1,3 @@
+@id C0voSeKx51JPZ5DA
+@title we don't need ElementIdStrategy any more. Custom graph IDs were important, before, because we put GraphML under version control (consistent IDs let you keep the diffs small). We now put the VCS format under version control, and that does not include graph IDs (only SmSn IDs)
+@created 1502993338645

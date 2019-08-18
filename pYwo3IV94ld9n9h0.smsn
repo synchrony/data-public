@@ -1,0 +1,11 @@
+@id pYwo3IV94ld9n9h0
+@title data fields
+@created 1491189854234
+@text ```
+public class EnumTest {
+    Day day;
+    
+    public EnumTest(Day day) {
+        this.day = day;
+    }
+```

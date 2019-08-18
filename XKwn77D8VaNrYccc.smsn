@@ -1,0 +1,25 @@
+@id XKwn77D8VaNrYccc
+@title R script for photoresistor latency analysis
+@created 1506051764274
+@text ```
+# for each sample
+times <- read.csv(file("/tmp/times.csv"), header=FALSE)$V1
+#times50 <- times
+
+t <- c(2,5,10,25,50,100,200,300,400)
+m <- c(mean(times2), mean(times5), mean(times10), mean(times25), mean(times50), mean(times100), mean(times200), mean(times300), mean(times400))
+tsd <- c(sd(times2), sd(times5), sd(times10), sd(times25), sd(times50), sd(times100), sd(times200), sd(times300), sd(times400))
+
+#> tm
+#[1]   340.0690   452.1928   667.8519  1274.2222  2323.7500  3456.6667  7415.2000 14303.1579 44534.6667
+#> tsd
+#[1]    1.182653    1.234245   29.943156   53.864026   87.623461   68.993164  108.405477  432.262341 1610.344948
+
+trel <- 100*t/700
+ms <- tm/1000
+plot(ms, trel, ylim=c(0,max(trel)), xlim=c(0,max(ms)), ylab="percent saturated", xlab="milliseconds")
+abline(v=2, col="gray")
+lines(ms, trel)
+lines((tm-tsd)/1000, trel, col="gray")
+lines((tm+tsd)/1000, trel, col="gray")
+```

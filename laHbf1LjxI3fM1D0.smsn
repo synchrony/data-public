@@ -1,0 +1,9 @@
+@id laHbf1LjxI3fM1D0
+@title why do these use the same number of calls (when viewed using trace)?
+@created 1513200734788
+@text ```
+lastByReverse(List,X) :- reverse([X|_],List).
+
+lastByRecursion([X],X).
+lastByRecursion([H|T],X) :- lastByRecursion(T,X).
+```

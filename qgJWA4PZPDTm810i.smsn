@@ -1,0 +1,3 @@
+@id qgJWA4PZPDTm810i
+@title can be ameliorated if programs can be guaranteed to be strictly functional, without a possibility of I/O or other side-effects. One would also need guarantees of data isolation (else there is a possibility of a program communicating the contents of one's cache or previous queries to an external service by way of special, information-revealing requests).
+@created 1523370923041

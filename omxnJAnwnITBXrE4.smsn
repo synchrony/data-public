@@ -1,0 +1,3 @@
+@id omxnJAnwnITBXrE4
+@title a memory management technique developed for multitasking kernels, allowing a program to be designed as though there is only one kind of memory, "virtual" memory, which behaves like directly and contiguous addressable read/write memory
+@created 1354603708630

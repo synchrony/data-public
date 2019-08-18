@@ -1,0 +1,8 @@
+@id iiGz1fBDs7gzZRi1
+@title it can be reasonable to cut every branch
+@created 1513265020407
+@text ```
+class(Number,positive)  :-  Number  >  0, !.
+class(0,zero) :- !.
+class(Number,negative)  :-  Number  <  0, !.
+```

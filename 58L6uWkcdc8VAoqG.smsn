@@ -1,0 +1,13 @@
+@id 58L6uWkcdc8VAoqG
+@title range of Int32 \ haskell
+@created 1497161941529
+@text ```
+Prelude Data.WAVE Data.Int> doubleToSample 1
+2147483647
+Prelude Data.WAVE Data.Int> doubleToSample 1.01
+2147483647
+Prelude Data.WAVE Data.Int> doubleToSample 1.03
+2147483647
+Prelude Data.WAVE Data.Int> doubleToSample (-1)
+-2147483648
+```

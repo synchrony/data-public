@@ -1,0 +1,8 @@
+@id KMiTWGbkvcT4597u
+@title Weather Underground API
+@created 1489252085574
+@text ```
+export WUKEY=...
+
+wget http://api.wunderground.com/api/$WUKEY/conditions/q/CA/San_Francisco.json
+```

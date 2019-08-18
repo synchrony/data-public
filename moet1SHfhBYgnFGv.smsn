@@ -1,0 +1,3 @@
+@id moet1SHfhBYgnFGv
+@title execption: Matrices are the only mutable SymPy data structure. Use ImmutableMatrix if needed (e.g. because it's inside another SymPy object).
+@created 1517339859273

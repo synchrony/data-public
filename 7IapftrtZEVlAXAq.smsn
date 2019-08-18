@@ -1,0 +1,11 @@
+@id 7IapftrtZEVlAXAq
+@title What is AtomBase?
+@created 1492976127368
+@text ```
+It has a bunch of empty-looking functions that suggest it is never used, for instance
+
+    @Override
+    public EntityList<Atom> getChildren() {
+        return null;
+    }
+```

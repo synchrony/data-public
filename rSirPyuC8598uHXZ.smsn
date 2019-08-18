@@ -1,0 +1,3 @@
+@id rSirPyuC8598uHXZ
+@title define(relationName, numberOfArgs) makes it possible to add facts involving a relation, if it previously didn't exist
+@created 1513819912501

@@ -1,0 +1,4 @@
+@id IrPfgeOxpQTsBcL3
+@title /* find orphans */ List<Vertex> orphans = new LinkedList<Vertex>(); for (Vertex v : g.getVertices()) { if (null != v.getProperty("value") && !v.getEdges(Direction.IN).iterator().hasNext() && !v.getEdges(Direction.OUT).iterator().hasNext()) { orphans.add(v); }}; for (Vertex v : orphans) { System.out.println("* :" + v.getProperty("__id") + ": " +  v.getProperty("value")); }
+@created 1324199840697
+@weight 0.25

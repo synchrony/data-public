@@ -1,0 +1,9 @@
+@id IawKrL9Nhh6p2zKa
+@title Queries mutate variables into sets of solutions
+@created 1508710788299
+@text ```
+>>> X==False
+[(False,)]
+>>> X
+[False]
+```

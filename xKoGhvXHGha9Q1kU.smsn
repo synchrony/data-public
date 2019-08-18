@@ -1,0 +1,3 @@
+@id xKoGhvXHGha9Q1kU
+@title docker inspect --format='{{.LogPath}}' containername
+@created 1498799998664

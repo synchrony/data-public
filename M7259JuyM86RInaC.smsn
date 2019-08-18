@@ -1,0 +1,3 @@
+@id M7259JuyM86RInaC
+@title try/catch blocks are ugly and confusing, so it is better to extract the bodies of the try and catch blocks out into functions of their own
+@created 1467097128299

@@ -1,0 +1,9 @@
+@id rMGlFk7cdE9s4r80
+@title why does the append version of these run faster?
+@created 1513200787196
+@text ```
+memberByAppend(X,List) :- append(_,[X|_],List).
+
+memberByPattern(X,[H|T]) :- X = H;
+                memberByPattern(X,T).
+```

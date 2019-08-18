@@ -1,0 +1,8 @@
+@id rQk8tAsvTIDbQFUh
+@title RenameMe
+@created 1470263958481
+@text ```
+png("/tmp/mygraphic.png", width=1400, height=600) # pixels
+# do your plotting here
+dev.off()
+```

@@ -1,0 +1,11 @@
+@id JDmKUJIinXoyOQpl
+@title RenameMe
+@created 1395294821399
+@text ```
+cd $FAUNUS_HOME
+cp ./target/faunus-0.4.2.jar $REXSTER_HOME/ext
+cp ./target/faunus-0.4.2-job.jar $REXSTER_HOME/ext
+cp ./target/faunus-0.4.2-standalone/lib/* $REXSTER_HOME/ext
+cd $TITAN_HOME
+cp ./titan-rexster/target/titan-rexster-0.4.2.jar $REXSTER_HOME/ext
+```

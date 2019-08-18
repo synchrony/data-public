@@ -1,0 +1,14 @@
+@id GjYu2NLmFrhStabY
+@title ? cannot call a library function in a pyDatalog query
+@created 1520098341692
+@text ```
+>>> import math
+>>> pyDatalog.create_terms('math')
+>>> print(X==2) & (Y==math.sqrt(X))
+X
+-
+2
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+TypeError: unsupported operand type(s) for &: 'NoneType' and 'Query'
+```

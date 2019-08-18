@@ -1,0 +1,60 @@
+@id iBolAiftGsH9ozjI
+@title notes from gremlin console
+@created 1491611112378
+@text ```
+jeff@jbb-thinkpad:~/apps/tinkerpop/gremlin-console$ bin/gremlin.sh 
+
+         \,,,/
+         (o o)
+-----oOOo-(3)-oOOo-----
+plugin activated: tinkerpop.server
+plugin activated: tinkerpop.utilities
+plugin activated: tinkerpop.neo4j
+plugin activated: tinkerpop.tinkergraph
+gremlin> :remote connect tinkerpop.server conf/remote.yaml
+==>Configured localhost/127.0.0.1:8182
+gremlin> :remote console
+==>All scripts will now be sent to Gremlin Server - [localhost/127.0.0.1:8182] - type ':remote console' to return to local mode
+gremlin> g
+==>graphtraversalsource[neo4jgraph[Community [/mnt/smsn-data/neo4j]], standard]
+gremlin> g.V(1405)
+==>v[1405]
+gremlin> g.V(1405).properties
+==>bytecode=[[], [V(1405)]]
+==>class=class org.apache.tinkerpop.gremlin.process.traversal.dsl.graph.DefaultGraphTraversal
+==>graph=Optional[neo4jgraph[Community [/mnt/smsn-data/neo4j]]]
+==>steps=[GraphStep(vertex,[1405])]
+==>strategies=strategies[ConnectiveStrategy, RangeByIsCountStrategy, MatchPredicateStrategy, FilterRankingStrategy, InlineFilterStrategy, IncidentToAdjacentStrategy, AdjacentToIncidentStrategy, RepeatUnrollStrategy, PathRetractionStrategy, LazyBarrierStrategy, Neo4jGraphStepStrategy, ProfileStrategy, StandardVerificationStrategy]
+==>sideEffects=sideEffects[size:0]
+==>locked=false
+==>traverserRequirements=[]
+==>traverserGenerator=org.apache.tinkerpop.gremlin.process.traversal.traverser.B_O_TraverserGenerator@28f6a28b
+==>startStep=GraphStep(vertex,[1405])
+==>parent=org.apache.tinkerpop.gremlin.process.traversal.step.util.EmptyStep@9b2b7fa1
+==>endStep=GraphStep(vertex,[1405])
+gremlin> 
+gremlin>                                                        
+gremlin>                                                              
+gremlin>                                                              
+gremlin> g.V(1405).properties
+==>bytecode=[[], [V(1405)]]
+==>class=class org.apache.tinkerpop.gremlin.process.traversal.dsl.graph.DefaultGraphTraversal
+==>graph=Optional[neo4jgraph[Community [/mnt/smsn-data/neo4j]]]
+==>steps=[GraphStep(vertex,[1405])]
+==>strategies=strategies[ConnectiveStrategy, RangeByIsCountStrategy, MatchPredicateStrategy, FilterRankingStrategy, InlineFilterStrategy, IncidentToAdjacentStrategy, AdjacentToIncidentStrategy, RepeatUnrollStrategy, PathRetractionStrategy, LazyBarrierStrategy, Neo4jGraphStepStrategy, ProfileStrategy, StandardVerificationStrategy]
+==>sideEffects=sideEffects[size:0]
+==>locked=false
+==>traverserRequirements=[]
+==>traverserGenerator=org.apache.tinkerpop.gremlin.process.traversal.traverser.B_O_TraverserGenerator@28f6a28b
+==>startStep=GraphStep(vertex,[1405])
+==>parent=org.apache.tinkerpop.gremlin.process.traversal.step.util.EmptyStep@9b2b7fa1
+==>endStep=GraphStep(vertex,[1405])
+gremlin> g.V(1405).properties()
+==>vp[weight->0.5]
+==>vp[created->1469061934319]
+==>vp[sharability->0.5]
+==>vp[title->?]
+==>vp[idV->e5rXp2NpiBdNuRAh]
+==>vp[acronym->]
+gremlin> jeff@jbb-thinkpad:~/apps/tinkerpop/gremlin-console$
+```

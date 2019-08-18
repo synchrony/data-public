@@ -1,0 +1,17 @@
+@id BFeEOvbbltcRiTHB
+@title RenameMe
+@created 1412800476016
+@text ```
+base <- 64
+length <- 7
+
+# there are this many possibilities
+# (around 4 trillion for length-7 IDs, or 1*10^18 for length-10 IDs)
+poss <- base^length
+poss
+
+# expect a collision after this many trials on average
+# (around 2.6 million for length-7 IDs, or 1.3 billion for length-10 IDs)
+trials <- 1.25*sqrt(base^length)
+trials
+```

@@ -1,0 +1,11 @@
+@id aut8DBqDjvzrJ79J
+@title the examples of findall
+@created 1513355236077
+@text ```
+Then:
+    ?- findall(X,descend(martha,X),Z).
+    Z = [charlotte, caroline, laura, rose].
+    
+    ?- findall(fromMartha(X),descend(martha,X),Z).
+    Z = [fromMartha(charlotte), fromMartha(caroline), fromMartha(laura), fromMartha(rose)].
+```

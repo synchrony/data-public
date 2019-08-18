@@ -1,0 +1,3 @@
+@id H5yQxsYJJGmzlYdf
+@title In any table-processing software (Excel, SAS, ..), the numbers are elaborately manipulable, but the other concepts are static meta-data. That is, what the numbers represent is (one hopes) understood by the human users of the program, but not at all meaningful to the program itself. To answer from the previous table, "How many pounds of corn did Russia make in 1997?", a human needs to understand that pounds and tons are different, and translate the one number to the other.
+@created 1469061944058

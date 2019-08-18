@@ -1,0 +1,3 @@
+@id u9DCKD9FNBn7YTY3
+@title concurrent execution of transactions in a replicated database is one-copy-serializable if it is equivalent to a serial execution of these transactions over a single logical copy of the database
+@created 1463348807586

@@ -1,0 +1,4 @@
+@id JoDLiLC32vnTkpDm
+@title to import VCS in multiple stages (because huge), will need to restart after each stage
+@created 1497571785804
+@text importing personal took 262 seconds. could not then import public; got "it's already been imported". after restarting smsn and emacs, it worked.

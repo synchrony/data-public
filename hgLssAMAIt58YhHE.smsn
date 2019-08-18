@@ -1,0 +1,3 @@
+@id hgLssAMAIt58YhHE
+@title associativity    (m >>= f) >>= g   ≡ m >>= (\x -> f x >>= g)
+@created 1536511985126

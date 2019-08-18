@@ -1,0 +1,7 @@
+@id YWxg4hefoAXEXRdD
+@title a solution set with positive dimension has free variables
+@created 1517266196071
+@text ```
+>>> nonlinsolve([x*y, x*y - x], [x, y])
+{(0, y)}
+```

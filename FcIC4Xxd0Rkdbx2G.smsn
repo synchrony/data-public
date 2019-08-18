@@ -1,0 +1,3 @@
+@id FcIC4Xxd0Rkdbx2G
+@title mvn install:install-file -DgroupId=it.gerdavax.android -DartifactId=bluetooth -Dversion=0.3 -Dpackaging=jar -DcreateChecksum=true -Dfile=AndroidBluetoothAPI_0.3.jar
+@created 1395806438410

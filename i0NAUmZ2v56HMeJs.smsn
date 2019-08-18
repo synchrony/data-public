@@ -1,0 +1,7 @@
+@id i0NAUmZ2v56HMeJs
+@title elemOf
+@created 1497581129329
+@text ```
+Prelude Control.Lens Data.Monoid> elemOf (traverse._2) 2 [(1,2),(3,4)]
+True
+```

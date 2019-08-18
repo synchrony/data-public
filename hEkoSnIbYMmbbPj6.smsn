@@ -1,0 +1,10 @@
+@id hEkoSnIbYMmbbPj6
+@title then do this
+@created 1496703629884
+@text ```
+plt.figure()
+plt.boxplot(
+    [ s['a'] for s in slices ]
+    ,labels=b_vals)
+plt.show()
+```

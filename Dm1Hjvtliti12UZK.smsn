@@ -1,0 +1,3 @@
+@id Dm1Hjvtliti12UZK
+@title a technique for inserting fault tolerance into computing systems. It basically consists of storing a snapshot of the current application state, and later on, uses it for restarting the execution in case of failure
+@created 1381042494518

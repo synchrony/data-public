@@ -1,0 +1,3 @@
+@id MnUFe6mXnDCPYyI5
+@title curl -X POST --data-binary 'query=select ?s ?p ?o where {?s ?p ?o} limit 10' $SPARQL
+@created 1535262159606

@@ -1,0 +1,45 @@
+@id 7XRSPKmmVVqGo9Aw
+@title analysis in R of the potential energy of a Citabria in flight
+@created 1550246186306
+@text ```
+rav4.empty.lbs <- 3500
+citabria.empty.lbs <- 1110 + 6*20
+passengers.kg <- 2*75
+citabria.altitude.feet <- 3500
+rav4.speed.mph <- 80
+citabria.v.ne.mph <- 162
+
+lbs.to.kg <- 0.4536
+feet.to.meters <- 0.3048
+mph.to.ms <- 0.4470
+g.ms2 <- 9.8
+tnt.joules.per.g <- 4.184e3
+
+kinetic.energy <- function(mass.kg, velocity.ms) { (mass.kg * velocity.ms^2) / 2 }
+potential.energy <- function(mass.kg, height.m) { mass.kg * g.ms2 * height.m }
+
+rav4.laden.kg <- passengers.kg + lbs.to.kg * rav4.empty.lbs
+citabria.laden.kg <- passengers.kg + lbs.to.kg * citabria.empty.lbs
+
+# kinetic energy of car on impact (at high freeway speeds)
+rav4.kinetic.energy <- kinetic.energy(rav4.laden.kg, mph.to.ms * rav4.speed.mph)
+
+# kinetic energy of Citabria on impact (at V_ne)
+citabria.kinetic.energy <- kinetic.energy(citabria.laden.kg, mph.to.ms * citabria.v.ne.mph)
+
+# total potential energy of Citabria at a typical cruising altitude
+citabria.potential.energy <- potential.energy(citabria.laden.kg, feet.to.meters * citabria.altitude.feet)
+
+
+# kinetic energy of the plane is only 1.7 times that of the car
+citabria.kinetic.energy / rav4.kinetic.energy
+
+# potential energy of the plane is 6.7 times that of the car's kinetic energy
+citabria.potential.energy / rav4.kinetic.energy
+
+# about a quarter of a kilogram of TNT
+rav4.kinetic.energy / tnt.joules.per.g
+
+# about 1.7 kilograms of TNT
+citabria.potential.energy / tnt.joules.per.g
+```

@@ -1,0 +1,11 @@
+@id SUdPmLllXQRG8nZx
+@title functor(Input, Functor, Arity).
+@created 1513119508953
+@text ```
+?-  functor(f(a,b),F,A).   
+A  =  2   
+F  =  f   
+yes
+```
+* :MHpVTtNSiWtIOLKq: 
+* :HnR4CLvQXZmxgajv: 

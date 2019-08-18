@@ -1,0 +1,9 @@
+@id vtzxX754ImvENByJ
+@title add two variable-length vectors
+@created 1520218396425
+@text ```
+def __add__(self, vector(*other_pts)
+                if len(other_pts) == len(self.pts)) =
+        """Add two vectors together."""
+        map((+), self.pts, other_pts) |*> vector
+```

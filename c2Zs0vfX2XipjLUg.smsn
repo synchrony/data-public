@@ -1,0 +1,9 @@
+@id c2Zs0vfX2XipjLUg
+@title RenameMe
+@created 1471377907786
+@text ```
+EquivalentClasses(
+   :Mother
+   ObjectIntersectionOf( :Woman :Parent )
+ )
+```

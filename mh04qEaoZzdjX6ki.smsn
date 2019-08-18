@@ -1,0 +1,8 @@
+@id mh04qEaoZzdjX6ki
+@title recursive query
+@created 1507434816656
+@text ```
+g.V().has('name', 'hercules').repeat(out('father')).emit().values('name')
+
+emit() (if I understand right) returns all the reached vertices from the recursive bit, and not its origin
+```

@@ -1,0 +1,8 @@
+@id nLrGdHYBdriMdCA8
+@title text --parse-> intermediate data structure --process-> graph
+@created 1503340501105
+@text ```
+type End = Maybe Expr
+type Join = String -- a string in a Tplt
+data Half = Half End Join [(Expr,Join)] End
+```

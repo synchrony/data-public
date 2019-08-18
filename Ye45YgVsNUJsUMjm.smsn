@@ -1,0 +1,3 @@
+@id Ye45YgVsNUJsUMjm
+@title you need to sample a signal at at least twice the rate of the frequency of the signal.  Otherwise you run into aliasing artifacts
+@created 1330377753521

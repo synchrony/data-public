@@ -1,0 +1,3 @@
+@id EvAlnRT2N3WiaWAA
+@title a simple way to get GraphSail-on-Titan in Gremlin (as of Titan 0.4.4): replace blueprints-core with blueprints-graph-sail in titan-core/pom.xml and build Titan, skipping tests if impatient
+@created 1425323278476

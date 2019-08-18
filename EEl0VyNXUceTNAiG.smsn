@@ -1,0 +1,12 @@
+@id EEl0VyNXUceTNAiG
+@title RenameMe
+@created 1384447773970
+@text ```
+#ifdef FOO
+    ...
+#elif defined(BAR)
+    ...
+#else
+    ...
+#endif
+```

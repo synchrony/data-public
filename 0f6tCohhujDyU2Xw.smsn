@@ -1,0 +1,27 @@
+@id 0f6tCohhujDyU2Xw
+@title schema management in JanusGraph
+@created 1506957883732
+@text ```
+import org.janusgraph.core.EdgeLabel;
+import org.janusgraph.core.PropertyKey;
+
+man = graph.openManagement()
+
+man.getVertexLabels()
+man.getRelationTypes(EdgeLabel.class)
+man.getRelationTypes(PropertyKey.class)
+
+man.getGraphIndexes(Vertex.class);
+man.getGraphIndexes(Edge.class);
+man.getGraphIndexes(PropertyKey.class);
+
+pv = man.getRelationTypes(PropertyKey.class).next()
+
+pv = man.getRelationType("birthDate")
+
+pv.isPropertyKey()
+pv.cardinality()
+pv.dataType()
+```
+* :fqZJm7Oi7x0SboLU: 
+* :2Tx4AyFNg1Y64mUH: 

@@ -1,0 +1,12 @@
+@id Wa6rS2zccLeknCwO
+@title Gremlin remote console
+@created 1488838284713
+@text ```
+:plugin use tinkerpop.server
+
+:remote connect tinkerpop.server conf/remote.yaml
+
+:remote console
+
+g.V().count()
+```

@@ -1,0 +1,26 @@
+@id DJuh2QC7vnVE2pCS
+@title asked haskell-cafe :? why single-letter type variables
+@created 1502402720399
+@text ```
+Why do Haskellers tend to use uninformative single-letter type variables when short names are available?
+
+A case in point:
+
+    Megaparsec> :i ParsecT                                                         
+    type role ParsecT nominal nominal representational representational
+    newtype ParsecT e s (m :: * -> *) a ...
+
+I've gotten used to the conventions that "a" stands for anything and "m" stands for monad -- but without digging into the code it wasn't initially obvious to me whether "s" stood for stream or state.
+
+For someone checking out the code for the first time to find the meaning of those type variables, it seems like they would have to read introductory materials or do some by-hand type unification.
+
+And yet single-letter type variables don't seem to always be the standard:
+    
+    Megaparsec> :i between
+    between :: Applicative m => m open -> m close -> m a -> m a
+            -- Defined in ‘Control.Applicative.Combinators’
+
+So my questions are: (1) Are the brevity gains worth the confusion costs? (2) If I'm looking at a new library for the first time and trying to figure out what a type variable stands for, is there a canonical way to do that, or should I just flail through documentation at random until I find it?
+
+[1] https://github.com/jtdaugherty/brick/issues/131#issuecomment-320346170
+```

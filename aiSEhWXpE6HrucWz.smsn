@@ -1,0 +1,8 @@
+@id aiSEhWXpE6HrucWz
+@title open a stream, write to it, close it
+@created 1513439451006
+@text ```
+open(’hogwarts.txt’,write,Stream), 
+write(Stream,’Hogwarts’),  nl(Stream), 
+close(Stream).
+```

@@ -1,0 +1,3 @@
+@id jUVRQNufCZpWd75S
+@title legend("left", c("foo", "bar", "baz"), lty=1, col=c("red", "green", "blue"), bty='n')
+@created 1426389101868

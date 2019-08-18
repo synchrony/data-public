@@ -1,0 +1,11 @@
+@id a54yQtZvbZodJGoz
+@title vertex-centric queries, and showing the steps of a traversal
+@created 1507062091755
+@text ```
+"Retrieving battled edges incident to Hercules according to a constraint/filter on time is faster than doing a linear scan of all edges ..."
+
+toString() shows the steps
+
+gremlin> g.V(hercules).outE('battled').has('time', gt(1)).inV().values('name').toString()
+==>[GraphStep([v[24744]],vertex), VertexStep(OUT,[battled],edge), HasStep([time.gt(1)]), EdgeVertexStep(IN), PropertiesStep([name],value)]
+```

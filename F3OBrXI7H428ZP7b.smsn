@@ -1,0 +1,7 @@
+@id F3OBrXI7H428ZP7b
+@title to count matches: apply len_ to a variable
+@created 1508716246562
+@text ```
+(count_of_direct_reports[X]==len_(Y)) <= (manager[Y]==X)
+print(count_of_direct_reports['Mary']==Y)
+```

@@ -1,0 +1,3 @@
+@id nubRJArCgJpNSPlq
+@title [markdown]SmSn consists of two parts. The `client` or `front end`, Emacs in smsn-mode, is the part the user interacts with.  The `back end` or `server` is the part that hosts the graph. The front end displays a window of text representing some portion of the graph, and the user can edit that stuff. However, edits do not immediately affect the graph. Rather, the user must choose to "push" them to the graph. To push to the graph is to save your changes. (We call it pushing to the graph instead of saving changes because that makes pulling from the graph easier to understand.)
+@created 1490246414466

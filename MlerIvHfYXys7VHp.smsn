@@ -1,0 +1,3 @@
+@id MlerIvHfYXys7VHp
+@title overfit: low (even zero) training error. training error falls as a monotonic function of the polynomial order of the model. validation (or test) error will fall first, find a min, then rise
+@created 1474360379409

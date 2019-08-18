@@ -1,0 +1,9 @@
+@id CHGsU05MiUNT11QZ
+@title RenameMe
+@created 1329401210409
+@text ```
+PREFIX drugs: <http://www4.wiwiss.fu-berlin.de/dailymed/resource/drugs/>
+SELECT * WHERE {
+    drugs:1 owl:sameAs* ?drug .
+}
+```

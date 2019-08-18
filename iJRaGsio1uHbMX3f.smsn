@@ -1,0 +1,3 @@
+@id iJRaGsio1uHbMX3f
+@title stream database management systems (DSMS) represent a paradigm change in the database world because they move from persistent relations to transient streams, with the innovative assumption that streams can be consumed on the fly (rather then stored forever) and from user-invoked queries to continuous queries, i.e., queries which are persistently monitoring streams and are able to produce their answers even in the absence of invocation
+@created 1345178302472

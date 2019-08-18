@@ -1,0 +1,11 @@
+@id ixa5BrjeXIMh0SgS
+@title JSON in Groovy
+@created 1489612757025
+@text ```
+import groovy.json.JsonSlurper
+
+parser = new JsonSlurper()
+obj = parser.parseText("{\"foo\":42}")
+
+assert obj.foo == 42
+```

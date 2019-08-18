@@ -1,0 +1,3 @@
+@id fiGMcFcaKSkZ0p6G
+@title "loc" and "shape" are like mean and sd .. sometimes! but sometimes you need the inverse (e.g. for exponential), and sometimes one of the params doesn't exist, or there's an extra one
+@created 1477093525120

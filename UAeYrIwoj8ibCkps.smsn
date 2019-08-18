@@ -1,0 +1,8 @@
+@id UAeYrIwoj8ibCkps
+@title RenameMe
+@created 1484963632329
+@text ```
+npm install -g bower pulp
+bower update
+pulp -w build -O --to html/index.html
+```

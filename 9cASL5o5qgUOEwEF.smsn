@@ -1,0 +1,3 @@
+@id 9cASL5o5qgUOEwEF
+@title Since working for PHE, I have researched data structures and languages on my own. I became a devotee of static typing and functional programming. Using Haskell's Functional Graph Library, I wrote a data framework for what could be called a higher-order triplestore: a graph in which relationships can themselves belong to other relationships.[2] I also gained some proficiency in machine learning: I have written feedforward neural networks from scratch in Numpy and SciPy, and have used TensorFlow and PyBrain.
+@created 1487119810399

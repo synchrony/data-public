@@ -1,0 +1,7 @@
+@id xlPBh5XG2BvYMevf
+@title COPY statements: "COPY native new-in-container"
+@created 1496742134591
+@text ```
+creates the 'new-in-container' folder
+copies the *contents* of the folder at 'native' into that new folder
+```

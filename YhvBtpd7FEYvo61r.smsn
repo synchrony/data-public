@@ -1,0 +1,3 @@
+@id YhvBtpd7FEYvo61r
+@title a software design pattern, whereby an algorithm's behaviour can be selected at runtime. Formally speaking, the strategy pattern defines a family of algorithms, encapsulates each one, and makes them interchangeable. Strategy lets the algorithm vary independently from clients that use it
+@created 1380998648251

@@ -1,0 +1,3 @@
+@id oK2L3jqfaQZeQHkV
+@title [markdown]If you are sharing a graph with someone else, their personal and private notes are invisible to you, and vice-versa. (Actually you could share the personal ones too; it depends how you set up your git repositories. See [git-smsn](https://github.com/synchrony/git-smsn).) If a public note has a private note as a child, that private note will be invisible to everyone except its owner. However, non-owners will still see an empty line in its place, indicating that something is there.
+@created 1490252008760

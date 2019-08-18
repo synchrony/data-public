@@ -1,0 +1,3 @@
+@id tErvbK2k3lTFp3yA
+@title if a class A is the owl:intersectionOf a list of constituent classes and a class B is the owl:intersectionOf a list of constituent classes, then A is a rdfs:subClassOf B if every constituent of A is a rdfs:subClassOf some constituent of B
+@created 1349461921850

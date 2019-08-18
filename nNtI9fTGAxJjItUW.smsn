@@ -1,0 +1,18 @@
+@id nNtI9fTGAxJjItUW
+@title RenameMe
+@created 1312618444446
+@text ```
+First normal form (1NF) sets the very basic rules for an organized database:
+    * Eliminate duplicative columns from the same table.
+    * Create separate tables for each group of related data and identify each row with a unique column or set of columns (the primary key). 
+Second normal form (2NF) further addresses the concept of removing duplicative data:
+    * Meet all the requirements of the first normal form.
+    * Remove subsets of data that apply to multiple rows of a table and place them in separate tables.
+    * Create relationships between these new tables and their predecessors through the use of foreign keys. 
+Third normal form (3NF) goes one large step further:
+    * Meet all the requirements of the second normal form.
+    * Remove columns that are not dependent upon the primary key. 
+Finally, fourth normal form (4NF) has one additional requirement:
+    * Meet all the requirements of the third normal form.
+    * A relation is in 4NF if it has no multi-valued dependencies.
+```

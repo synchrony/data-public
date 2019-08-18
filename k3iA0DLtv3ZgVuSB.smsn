@@ -1,0 +1,4 @@
+@id k3iA0DLtv3ZgVuSB
+@title don't write "functor(..)=expr"; rather, "functor(.., X, ..), X=expr"
+@created 1513386285739
+@priority 0.5

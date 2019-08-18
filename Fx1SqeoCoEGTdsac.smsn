@@ -1,0 +1,14 @@
+@id Fx1SqeoCoEGTdsac
+@title how I made a local git repo
+@created 1483504875111
+@text ```
+cd ~/work
+mkdir git_jbb
+cd git_jbb
+mkdir priv_kb.git && cd priv_kb.git && git init --bare --shared=all
+git clone file:///home/jeff/work/git_jbb/priv_kb.git && cd priv_kb
+echo "testing" >> testing_git.txt
+git add testing_git.txt
+git commit -m "testing this new local repo"
+git push origin master
+```

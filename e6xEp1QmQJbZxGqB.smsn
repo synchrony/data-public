@@ -1,0 +1,4 @@
+@id e6xEp1QmQJbZxGqB
+@title there are several senses in which you can restrict a search to a country.  You can a) use the country-specific search engine (e.g. http://google.co.in for India), b) use the "gl" parameter to execute the search as if you were located in that country (e.g. https://www.google.com/#q=santosha&gl=in), and c) use site: to restrict results to hosts in the target country (e.g. site:*.in)
+@created 1417016279926
+* :QSz8EaAfH9e9eSWB: 

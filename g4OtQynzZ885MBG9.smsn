@@ -1,0 +1,3 @@
+@id g4OtQynzZ885MBG9
+@title IdGraph is lightweight; you can initialize one to wrap a graph for as little as a single operation, then throw it away, with little overhead
+@created 1363618612592

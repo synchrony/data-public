@@ -1,0 +1,3 @@
+@id Lf8ya33561a6cwng
+@title [markdown]Exit Emacs by, from within it, running `M-x kill-emacs`. Exit the bash shell in the docker container by running `exit`. At this point you've still got one window open that's showing a lot of Semantic Synchrony messages. You can quit that window by pressing `Ctrl-C` from within it.
+@created 1497340308967

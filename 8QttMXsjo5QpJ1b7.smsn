@@ -1,0 +1,3 @@
+@id 8QttMXsjo5QpJ1b7
+@title the multiple stages of XJoin may produce spurious duplicate tuples because they can perform overlapping work.  To address this problem, XJoin uses a duplicate prevention mechanism based on timestamps
+@created 1351737063259

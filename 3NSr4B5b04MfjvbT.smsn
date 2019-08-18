@@ -1,0 +1,3 @@
+@id 3NSr4B5b04MfjvbT
+@title it is recommended that the Cassandra data directory and commit log reside on separate disks, or at least separate partitions
+@created 1400891276059

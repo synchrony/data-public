@@ -1,0 +1,35 @@
+@id sEfMD1ip8T6Ty7nc
+@title a custom guitar tuning
+@created 1495693668163
+@text ```
+# The tuning
+Low E, wound, 32 lbs => 0.05858" a.k.a. 58.6
+A, wound, 28 lbs => 41
+D, wound, 26 pounds => 29.6
+G, wound, 24 pounds => 21.3
+B, plain, 22 pounds => 15.6
+high E, plain, 20 pounds => 11.1
+
+## Other values for the low E I considered:
+Low E, wound, 31 lbs => 0.0576" a.k.a. 57.6
+  Problem: Tune this down to D and the result is a tension of 24 lbs
+
+# calculations
+The site I used for calculations:
+  https://wahiduddin.net/calc/calc_guitar_string.htm
+
+# goals
+The site below says a good(easy + good tone) string tension range is between 20 and 30 lbs.
+I'll try tensions from 20 on the high strings to 30 on the low ones.
+I'll make the low E even a little more tense, because sometimes I tune it down to D.
+
+# evidence those goals are based on
+These strings:
+  https://www.elixirstrings.com/support/string-tension-for-tuning-guitar
+have tensions all over the place, from 17 to 40.
+
+D'Addario's 10s range in tension from about 16 lbs to 20 lbs:
+  http://www.daddario.com/DAstringtensionguide.Page?sid=55c19e66-8f2d-4986-b4ca-da5320c91b62
+They have the low E a little floppier than the low A, which always feels dumb to me, so I won't do that.
+I hope that doesn't mean my low E will overpower the others.
+```

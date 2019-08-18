@@ -1,0 +1,21 @@
+@id 1kZZQ7sKKpLmNTf1
+@title RenameMe
+@created 1362162925215
+@text ```
+(let ((default-directory "~/.emacs.d/elisp/"))
+      (normal-top-level-add-subdirs-to-load-path))
+
+(require 'tinkernotes)
+
+(defvar tinkernotes-rexster-host "127.0.0.1")
+(defvar tinkernotes-rexster-port "8182")
+(defvar tinkernotes-rexster-graph "tinkernotes"))
+
+;; Emacspeak configuration
+(setq load-path (cons "/Users/josh/projects/notmine/emacspeak/lisp" load-path))
+(setq emacspeak-directory "/Users/josh/projects/notmine/emacspeak")
+(setq dtk-program "mac")
+(load-file "/Users/josh/projects/notmine/emacspeak/lisp/mac-voices.el")
+(setq mac-default-speech-rate 300)
+(load-file "/Users/josh/projects/notmine/emacspeak/lisp/emacspeak-setup.el")
+```

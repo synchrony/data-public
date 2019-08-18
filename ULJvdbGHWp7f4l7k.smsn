@@ -1,0 +1,8 @@
+@id ULJvdbGHWp7f4l7k
+@title RenameMe
+@created 1455842157967
+@text ```
+net.fortytwo.ripple.demo.sailType = org.openrdf.sail.memory.MemoryStore
+net.fortytwo.ripple.demo.memoryStorePersistFile = /tmp/ripple-ms-nt
+net.fortytwo.ripple.demo.memoryStorePersistFileFormat = ntriples
+```

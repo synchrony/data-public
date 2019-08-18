@@ -1,0 +1,3 @@
+@id rwL61vAzMvsFFLaG
+@title "Since sensors often must collaborate in order to perform a given sensing task about the environment, determining the utility of a remote sensor’s data is important in conserving power due to the necessity of communication. Thus, the problem we are addressing in this paper is how to dynamically query sensors and route data in a network so that information gain is maximized while latency and bandwidth consumption is minimized."
+@created 1444338824362

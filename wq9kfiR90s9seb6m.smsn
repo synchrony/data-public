@@ -1,0 +1,3 @@
+@id wq9kfiR90s9seb6m
+@title [markdown]One way to add SmSn-mode and its dependencies to your Emacs environment is to create a directory under ~/.emacs.d, and within this, create a symbolic link to SmSn-mode:
+@created 1495925080748

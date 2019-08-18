@@ -1,0 +1,8 @@
+@id F3Ah1a3hposindHD
+@title while. (skipping: do while)
+@created 1469061912082
+@text ```
+while (expression) {
+     statement(s)
+}
+```

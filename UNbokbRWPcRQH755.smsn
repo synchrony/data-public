@@ -1,0 +1,4 @@
+@id UNbokbRWPcRQH755
+@title woman: man pages in Emacs
+@created 1492930298391
+@text Type M-x woman. It will prompt for a command. Once that buffer is open, then from another buffer you can type M-/ to complete words (e.g. long options) in it.

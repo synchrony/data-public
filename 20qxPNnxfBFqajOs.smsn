@@ -1,0 +1,3 @@
+@id 20qxPNnxfBFqajOs
+@title fmap: pure to functor. liftM: pure to monad. lift: monad to monadT monad
+@created 1504481087102

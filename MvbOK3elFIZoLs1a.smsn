@@ -1,0 +1,3 @@
+@id MvbOK3elFIZoLs1a
+@title a design pattern consisting of a source of command objects and a series of processing objects. Each processing object contains logic that defines the types of command objects that it can handle; the rest are passed to the next processing object in the chain
+@created 1380996676851

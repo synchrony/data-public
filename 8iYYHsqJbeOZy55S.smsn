@@ -1,0 +1,4 @@
+@id 8iYYHsqJbeOZy55S
+@title ? when to use next()
+@created 1507435455154
+@text Sometimes it looks like it doesn't do anything, because (I think) gremlin unwraps 1-element (and other) lists to print

@@ -1,0 +1,3 @@
+@id GaK48eknXVlzuGWQ
+@title (open-triple-store "iogds" :catalog "testing" :port 10042 :read-only t)
+@created 1326231117891

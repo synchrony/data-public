@@ -1,0 +1,7 @@
+@id RE3OYIVYo6d9X2T9
+@title RenameMe
+@created 1326595413238
+@text ```
+$ rapper -qo dot /path/to/data.rdf > data.dot
+$ dot -Tpng -o data.png data.dot
+```

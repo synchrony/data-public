@@ -1,0 +1,3 @@
+@id lbxUWFOHvAormWOj
+@title the switch in the anemometer apparently floats when open and connects to GND when closed.  You can test this by placing an LED between the anemometer output and +3.3V; it is illuminated, alternately, half of the time as the anemometer spins
+@created 1473308873878

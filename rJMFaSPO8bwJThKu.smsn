@@ -1,0 +1,3 @@
+@id rJMFaSPO8bwJThKu
+@title DANGER ! `conda install _` installs to the root python distribution, even if you're in a conda environment. Must specify `conda install -n env-name package`
+@created 1495435490710

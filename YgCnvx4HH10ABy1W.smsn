@@ -1,0 +1,3 @@
+@id YgCnvx4HH10ABy1W
+@title In Emacs, for instance, if we evaluate an expression in the code buffer, it prints the evaluated expression in the interactive *tidal* buffer (the repl). If I want to paste that expression back into the code buffer, I have to switch buffers, manually highlight it, copy, then switch back to the first buffer and paste. I'm hoping it's possible to make a new shortcut so that when I evaluate an expression, its string representation is copied to the clipboard (the "kill ring" in Emacs-speak).
+@created 1494021942904

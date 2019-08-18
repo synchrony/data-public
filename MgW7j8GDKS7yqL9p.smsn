@@ -1,0 +1,7 @@
+@id MgW7j8GDKS7yqL9p
+@title RenameMe
+@created 1395512674572
+@text ```
+git tag -d release01 
+git push origin :refs/tags/release01
+```

@@ -1,0 +1,10 @@
+@id GX47KYkAGdje7yHI
+@title write to a file in Groovy
+@created 1484700883918
+@text ```
+file = new File('/tmp/out.txt')
+
+file.withWriter('UTF-8') { writer ->
+    writer.write('Hello, world!')
+}
+```

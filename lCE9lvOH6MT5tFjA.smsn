@@ -1,0 +1,3 @@
+@id lCE9lvOH6MT5tFjA
+@title as most current query processing architectures are already pipelined, it seems logical to apply them to data streams. However, two classes of query operators are impractical for processing long or infinite data streams. Unbounded stateful operators maintain state with no upper bound in size and, so, run out of memory. Blocking operators read an entire input before emitting a single output and, so, might never produce a result
+@created 1352231090963

@@ -1,0 +1,10 @@
+@id eVUGPDSym6XQvMoU
+@title the result of var/1 depends on order, and can look like it contradicts another part of the same query
+@created 1513119311485
+@text ```
+e.g. here var(X) succeeds, even though the query later instantiates X to a (making it a non-var)
+
+?-  var(X),  X  =  a.   
+    X  =  a
+```
+@priority 0.5

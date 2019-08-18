@@ -1,0 +1,3 @@
+@id sls2AQtgm6qXyeF4
+@title However, ``information which is stated about a named graph is understood to refer to each statement within the graph.  For instance, the statement that somebody is the creator of a named graph implies that he is the creator of each statement within the graph.''\footnote{Isn't this a problem?  For example, if you give a graph an rdf:type of rdfg:Graph, does this imply that each statement in the graph is also a graph?  If that's the case, then Named Graph semantics should be very flexible w.r.t. graph and subgraph renaming.  It also means that you can't express aggregative information about graphs, such as the number of statements or the checksum.}
+@created 1345178063882

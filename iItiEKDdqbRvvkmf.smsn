@@ -1,0 +1,12 @@
+@id iItiEKDdqbRvvkmf
+@title "first argument indexing" => speed
+@created 1513109241057
+@text ```
+"First argument indexing is a technique for making Prolog’s  
+knowledge base access more efficient. If in the query the first argument is instantiated  
+it allows Prolog to ignore all clauses where the first argument’s functor and arity is  
+different. This means, for example, that we can get all the possible categories of man  
+immediately without having to even look at the lexicon entries for all the other  
+hundreds or thousands of words that we might have in our lexicon."
+```
+* :tLQhy8RowoujkFzb: 

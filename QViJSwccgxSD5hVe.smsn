@@ -1,0 +1,3 @@
+@id QViJSwccgxSD5hVe
+@title [markdown]The last step is to start the front end. First, start a bash shell in the container. To do that, run `docker exec -it NAME bash`, where instead of `NAME` you put either the container ID ("c90aeafdfe3e" in this example) or the randomly-generated container name ("pensive_northcutt" in this example). If the prompt changed, then you are now "in" the container. Run `emacs`. You should see the Emacs splash screen. Last, from within Emacs, run `M-x smsn`. (`M-x` probably means `Alt-x`, but it's different on some systems.) If the screen turns blue, it's working.
+@created 1497339545825

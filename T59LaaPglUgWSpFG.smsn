@@ -1,0 +1,8 @@
+@id T59LaaPglUgWSpFG
+@title RenameMe
+@created 1484983361584
+@text ```
+module B where
+
+import A (class Fab)
+```

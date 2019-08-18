@@ -1,0 +1,3 @@
+@id VhROoQhhxLzC2BRW
+@title a software design pattern. It is a concurrency pattern used to explicitly control when threads may execute single-threaded code, like write operation to a file
+@created 1381000967280

@@ -1,0 +1,3 @@
+@id stbLu5beF6wXKD4Y
+@title instead calling array.remove( iterator.next() ) causes an error, because the iterator senses the modification and knows it was not responsible for it
+@created 1469061912108

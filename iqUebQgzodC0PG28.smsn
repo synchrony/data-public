@@ -1,0 +1,3 @@
+@id iqUebQgzodC0PG28
+@title power the laser with 3V, connecting the red wire to +3V and the white wire to GND.  I don't know what will happen if you connect the laser backwards. [note: I assume I powered the laser with the Arduino's 3.3V, not 3V]
+@created 1350423422143

@@ -1,0 +1,10 @@
+@id kBRnG8S1ozWRx3kx
+@title RenameMe
+@created 1398177558858
+@text ```
+//g = TitanFactory.open('conf/titan-cassandra-es.properties')
+g = TitanFactory.open('conf/titan-cassandra.properties')
+GraphOfTheGodsFactory.load(g)
+g.commit()
+g.shutdown()
+```

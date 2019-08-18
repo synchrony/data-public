@@ -1,0 +1,3 @@
+@id uvj37FQdoN4bdFHn
+@title my result: creating one index per vertex label, as opposed to a single index, has no apparent impact w.r.t. the number of rows in the tables or size on disk.
+@created 1492644969046

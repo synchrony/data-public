@@ -1,0 +1,4 @@
+@id aWkk1oOCvjrMUp90
+@title fails: sed 's/^ *. \:\([a-zA-Z0-9]\){16}/zzz/' input.txt > output.txt
+@created 1490303227043
+@weight 0.25

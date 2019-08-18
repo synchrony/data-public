@@ -1,0 +1,3 @@
+@id 6jgdxuXZo99zw7oG
+@title a method of garbage collection in computer software systems. In this scheme, the heap is divided into two equal halves, only one of which is in use at any one time. Garbage collection is performed by copying live objects from one semispace (the from-space) to the other (the to-space), which then becomes the new heap. The entire old heap is then discarded in one piece
+@created 1381030676405

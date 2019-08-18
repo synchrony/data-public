@@ -1,0 +1,3 @@
+@id nZ7RWQzBemFv8gs0
+@title a builtin command implemented by both the Bourne shell family (sh, ksh, bash, etc.) and the C shell family (csh, tcsh, etc.) of Unix command line shells. It unsets a shell variable, removing it from memory and the shell's exported environment
+@created 1452714082449

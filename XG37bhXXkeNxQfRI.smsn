@@ -1,0 +1,9 @@
+@id XG37bhXXkeNxQfRI
+@title RenameMe
+@created 1395968140872
+@text ```
+gt = ...TitanGraph...
+gt.getProperties()
+config = gt.getProperties().get("configuration")
+config.getProperties()
+```

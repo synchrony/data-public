@@ -1,0 +1,22 @@
+@id SOrOYCPQqMGWvv4t
+@title type signature simplifications Coconut allows
+@created 1520222381910
+@text ```
+each (simpler) lhs is translated into the corresponding rhs
+each rhs is a Python 3.5 type hint or a Python 3.6 variable annotation
+
+<type>?
+    => typing.Optional[<type>]
+<type>[]
+    => typing.Sequence[<type>]
+<type>$[]
+    => typing.Iterable[<type>]
+() -> <ret>
+    => typing.Callable[[], <ret>]
+<arg> -> <ret>
+    => typing.Callable[[<arg>], <ret>]
+(<args>) -> <ret>
+    => typing.Callable[[<args>], <ret>]
+-> <ret>
+    => typing.Callable[..., <ret>]
+```

@@ -1,0 +1,7 @@
+@id uk4wjm7fYrJmnxAX
+@title RenameMe
+@created 1395163528702
+@text ```
+# To stop, reportedly this should work:
+mysqladmin shutdown
+```

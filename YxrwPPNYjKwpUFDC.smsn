@@ -1,0 +1,8 @@
+@id YxrwPPNYjKwpUFDC
+@title RenameMe
+@created 1398130472019
+@text ```
+t = new Table()
+root.in.as("l").in.as("a").table(t)
+t
+```

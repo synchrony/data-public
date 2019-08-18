@@ -1,0 +1,7 @@
+@id LFY3Rb5pBjELH8do
+@title defeat laziness in the repl with :p
+@created 1515715960807
+@text ```
+nix-repl> :p { age = 2014-1987; }
+{ age = 27; }
+```

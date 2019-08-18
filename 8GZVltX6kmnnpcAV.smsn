@@ -1,0 +1,16 @@
+@id 8GZVltX6kmnnpcAV
+@title a minimal Makefile
+@created 1497068007017
+@text ```
+# Offers "make clean" too.
+# If files thought1 and thought2 exists,
+# then you can create|update file "speech" with "make speech".
+
+speech : thought1 thought2 # target name : dependencies
+    cat thought1 >> speech
+    echo "no seriously" >> speech
+    cat thought2 >> speech
+
+clean : # usual is to delete intermediate dependencies and not final output
+    rm thought1 thought2
+```

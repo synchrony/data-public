@@ -1,0 +1,12 @@
+@id YJJY7gRsNUM799mY
+@title RenameMe
+@created 1471476754096
+@text ```
+DatatypeDefinition(
+   :majorAge
+   DataIntersectionOf(
+     :personAge 
+     DataComplementOf( :minorAge ) 
+   ) 
+ )
+```

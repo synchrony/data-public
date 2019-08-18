@@ -1,0 +1,14 @@
+@id CQO1JYWkrnrSqVP4
+@title circuit/1: constrain a list of indices to be a Hamiltonian circuit
+@created 1513810156371
+@text ```
+which for some reason can't start with 1 unless there's no choice:
+
+?- length(Vs, _), circuit(Vs), label(Vs).
+Vs = [] ;
+Vs = [1] ;
+Vs = [2, 1] ;
+Vs = [2, 3, 1] ;
+Vs = [3, 1, 2] ;
+Vs = [2, 3, 4, 1] .
+```

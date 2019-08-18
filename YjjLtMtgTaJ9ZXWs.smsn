@@ -1,0 +1,13 @@
+@id YjjLtMtgTaJ9ZXWs
+@title a name that is only used once might be superfluous
+@created 1512954915238
+@text ```
+I had written this:
+    fastRev([],   Acc,Acc).
+    fastRev([H|T],Acc,Res) :- NewAcc = [H|Acc],
+                              fastRev(T, NewAcc, Res).
+
+but this is faster:
+    fastRev([],   Acc,Acc).
+    fastRev([H|T],Acc,Res) :- fastRev(T, [H|Acc], Res).
+```

@@ -1,0 +1,4 @@
+@id Wdd1Y0zxRqoiIVT2
+@title /* delete orphans */ List<Vertex> orphans = new LinkedList<Vertex>(); for (Vertex v : g.getVertices()) { if (null != v.getProperty("value") && !v.getEdges(Direction.IN).iterator().hasNext() && !v.getEdges(Direction.OUT).iterator().hasNext()) { orphans.add(v); }}; for (Vertex v : orphans) { g.removeVertex(v); }
+@created 1324199840698
+@weight 0.25

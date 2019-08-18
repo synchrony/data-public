@@ -1,0 +1,3 @@
+@id WxIGXRCnBXEcErCi
+@title clients publish information about objects at a particular location and/or submit queries to obtain information about other published located-objects. Queries are matched against the attribute keys and values of located-objects stored in the AMS. Standing queries, called "subscriptions", can also be specified.
+@created 1428379338887

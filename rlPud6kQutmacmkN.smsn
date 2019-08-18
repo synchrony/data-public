@@ -1,0 +1,8 @@
+@id rlPud6kQutmacmkN
+@title Nix prints escape characters
+@created 1515713381122
+@text ```
+jeff@jeff-inspiron-2017:~$ nix-instantiate --eval --expr '"Hello \"world"'
+"Hello \"world"
+jeff@jeff-inspiron-2017:~$
+```

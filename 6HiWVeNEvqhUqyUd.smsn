@@ -1,0 +1,9 @@
+@id 6HiWVeNEvqhUqyUd
+@title RenameMe
+@created 1471377907797
+@text ```
+EquivalentClasses(
+   :HappyPerson
+   ObjectAllValuesFrom( :hasChild :HappyPerson )
+ )
+```

@@ -1,0 +1,14 @@
+@id lCzu6Ahphz9CLIm6
+@title RenameMe
+@created 1445634062356
+@text ```
+library("igraph")
+
+n.vertices <- 10000
+gg <- sample_pa(n=n.vertices, directed=TRUE)
+head(degree(gg, mode="out"))
+dist <- degree_distribution(gg)
+
+# alternatively
+g <- barabasi.game(n.vertices, directed = TRUE)
+```

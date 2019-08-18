@@ -1,0 +1,3 @@
+@id r3ZAPIOQE5kBm9al
+@title sort method: for each thing, ask if it is in a likely to review parent. if not, ask whether it should have any (and if yes, do that, weighted above the others). if not, somehow record that unimportance, to avoid repeating the work
+@created 1483060448778

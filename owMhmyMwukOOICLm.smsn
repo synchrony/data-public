@@ -1,0 +1,3 @@
+@id owMhmyMwukOOICLm
+@title matrix[ seq(matrix,matrix) ] works unless seq = np.array. (seq = list, for instance, works)
+@created 1477085335574

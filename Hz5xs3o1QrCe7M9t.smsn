@@ -1,0 +1,3 @@
+@id Hz5xs3o1QrCe7M9t
+@title [markdown]Semantic Synchrony changes the cursor color to indicate which submode the user is in: A black cursor indicates the "edit submode", and a green one indicates "move submode". From within Docker, the cursor is outside of our control. However, when you switch modes, a message will appear at the bottom of the screen indicating that you did. (If you're ever unsure which mode you're in, try pressing one of the keys `i`, `j`, `k` or `l`. If that moves the cursor, you're in move-submode; if it prints a character, you're in edit-submode.)
+@created 1497341301383

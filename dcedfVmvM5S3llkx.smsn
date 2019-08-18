@@ -1,0 +1,3 @@
+@id dcedfVmvM5S3llkx
+@title curl -H "Accept: text/csv" -u username:password --data-urlencode query@/tmp/myquery.rq http://example.org/sparql > result.csv
+@created 1361590703941

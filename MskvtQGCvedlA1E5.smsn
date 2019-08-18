@@ -1,0 +1,12 @@
+@id MskvtQGCvedlA1E5
+@title by using an outer findall
+@created 1513355895735
+@text ```
+The bagof below produces a separate List for each value of Mother. Findall collcts them all into Z.
+
+findall(List, 
+        bagof(Child,
+          descend(Mother,Child),
+          List), 
+        Z).
+```

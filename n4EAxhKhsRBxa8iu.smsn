@@ -1,0 +1,7 @@
+@id n4EAxhKhsRBxa8iu
+@title error to ask about
+@created 1495679923366
+@text ```
+If I apply "slow 4" to this, it sounds unchanged.
+d1 $ up (choose [0,3,7]) |*| sound "psr"
+```

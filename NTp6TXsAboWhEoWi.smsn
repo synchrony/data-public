@@ -1,0 +1,8 @@
+@id NTp6TXsAboWhEoWi
+@title RenameMe
+@created 1310234505256
+@text ```
+OPT(n, w) = max
+w_n + OPT(n-1, w-w_n),
+OPT(n-1, w)
+```

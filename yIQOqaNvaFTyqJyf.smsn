@@ -1,0 +1,7 @@
+@id yIQOqaNvaFTyqJyf
+@title model : rsync -av --delete source/ sink/
+@created 1469061891501
+@text ```
+Trying, after deleting bk and then recreating it empty:
+sudo rsync -av --delete ~ /media/jeff/linux/bk
+```

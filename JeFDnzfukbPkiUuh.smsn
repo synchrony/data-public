@@ -1,0 +1,10 @@
+@id JeFDnzfukbPkiUuh
+@title RenameMe
+@created 1477088297708
+@text ```
+>>> from numpy import poly1d
+>>> p = poly1d([3,4,5])
+>>> print p
+   2
+3 x + 4 x + 5
+```

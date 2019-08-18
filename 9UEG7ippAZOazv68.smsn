@@ -1,0 +1,9 @@
+@id 9UEG7ippAZOazv68
+@title "marking out feet" with .
+@created 1493537095885
+@text ```
+equivalent:
+d1 $ sound "bd bd . sd sd sd . bd sd"
+d1 $ sound "[bd bd] [sd sd sd] [bd sd]"
+```
+@priority 0.5

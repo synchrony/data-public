@@ -1,0 +1,8 @@
+@id jjbtXrLkZWZm5RPQ
+@title ? how is my setof-based implementation of uniq so fast?
+@created 1513373204098
+@text ```
+uniq(List,UniquedList) :- setof(X,member(X,List), UniquedList).
+
+If I call it on a list of 1s, it always has a trace of length 4, no matter how long the list.
+```

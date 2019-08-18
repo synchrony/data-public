@@ -1,0 +1,8 @@
+@id wuGr60by4CLYnkCc
+@title RenameMe
+@created 1329400772516
+@text ```
+SELECT * WHERE {
+    <http://www4.wiwiss.fu-berlin.de/dailymed/resource/drugs/1> ?p ?o .
+}
+```

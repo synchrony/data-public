@@ -1,0 +1,12 @@
+@id sBPfsgF7YNDRRys4
+@title pitfall: run() can be called as a member of a session or as a member of an operation
+@created 1499894985880
+@text ```
+e.g. these are equivalent
+
+  sess.run(train_step, feed_dict={x: batch_xs, y_: batch_ys})
+   # https://www.tensorflow.org/get_started/mnist/pros
+
+  train_step.run(feed_dict={x: batch_xs, y_: batch_ys})
+   # https://raw.githubusercontent.com/tensorflow/tensorflow/r1.2/tensorflow/examples/tutorials/mnist/mnist_softmax.py
+```

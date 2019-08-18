@@ -1,0 +1,10 @@
+@id JITaO6fC3c8yqcvz
+@title an operator can be used as a variable name
+@alias http://hackage.haskell.org/package/base-4.10.0.0/docs/src/Data.Function.html#on
+@created 1512408568007
+@text ```
+e.g. here (.*.) is a variable:
+
+on :: (b -> b -> c) -> (a -> b) -> a -> a -> c
+(.*.) `on` f = \x y -> f x .*. f y
+```

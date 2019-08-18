@@ -1,0 +1,9 @@
+@id Biivdu4UYFEWWUtU
+@title RenameMe
+@created 1471377907793
+@text ```
+EquivalentClasses(
+   :Parent
+   ObjectSomeValuesFrom( :hasChild :Person )
+ )
+```

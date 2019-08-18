@@ -1,0 +1,15 @@
+@id 99nvw8DTsrW9buml
+@title a big query
+@created 1507137262697
+@text ```
+g.V(pluto).outE('lives').values('reason')
+==>no fear of death
+
+g.E().has('reason', textContains('loves'))
+==>e[6xs-sg-m51-e8][1024-lives->512]
+==>e[70g-zk-m51-lc][1280-lives->768]
+
+g.E().has('reason', textContains('loves')).as('source').values('reason').as('reason').select('source').outV().values('name').as('god').select('source').inV().values('name').as('thing').select('god', 'reason', 'thing')
+==>[god:neptune, reason:loves waves, thing:sea]
+==>[god:jupiter, reason:loves fresh breezes, thing:sky]
+```

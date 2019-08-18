@@ -1,0 +1,3 @@
+@id ykVESqTRN75t1UPx
+@title "When the Smart-It device is awake, its accelerometer is read with a hard sampling rate of 1 MHz, but only in intervals of short duration at a much lower soft sampling rate to minimise energy consumption."
+@created 1436024453023

@@ -1,0 +1,9 @@
+@id mn1lAwO5W36S125i
+@title RenameMe
+@created 1471472379529
+@text ```
+EquivalentClasses( 
+   :JohnsChildren 
+   ObjectHasValue( :hasParent :John )
+ )
+```

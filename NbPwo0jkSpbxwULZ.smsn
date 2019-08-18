@@ -1,0 +1,44 @@
+@id NbPwo0jkSpbxwULZ
+@title initial setup of the SmSn Sandbox
+@created 1488308020123
+@text ```
+# do the following within a screen session
+screen -S docker
+
+docker pull jeffreybbrown/smsn
+#docker pull jeffreybbrown/smsn.2017-03-04
+
+export IMAGE=jeffreybbrown/smsn
+#export IMAGE=jeffreybbrown/smsn.2017-03-04
+
+# on Hactar
+docker run --expose=8182 -p 127.0.0.1:8182:8182 --name "smsn-sandbox" -v /joshsh/data/smsn/sandbox/:/mnt/smsn-data -it jeffreybbrown/smsn
+
+
+
+# note: using --net instead of --network on Mac
+docker run -it --name "smsn-sandbox" -v /tmp/neo4j-docker/:/mnt/smsn-data --net="host" $IMAGE
+
+# open a second terminal
+docker exec -it "smsn-sandbox" /bin/bash
+
+# inspect the published port
+docker port smsn-sandbox 8182
+
+
+docker network create -d bridge mybridge
+
+docker network connect bridge smsn-sandbox
+
+iptables -t nat -A DOCKER -p tcp --dport 8182 -j DNAT --to-destination <CONTAINERIP>:<PORT>
+
+docker inspect smsn-sandbox
+
+sudo docker build -t joshsh/smsn:{2017-03-20} .
+
+# test Websocket connection
+HOST=localhost
+PORT=8182
+curl -i -N -vv -H "Connection: Upgrade" -H "Upgrade: websocket" -H "Host: $host" -H "Origin: http://$HOST" -k "http://$HOST:$PORT/gremlin"
+```
+@priority 0.25

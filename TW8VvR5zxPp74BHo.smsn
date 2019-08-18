@@ -1,0 +1,8 @@
+@id TW8VvR5zxPp74BHo
+@title RenameMe
+@created 1340264452307
+@text ```
+GregorianCalendar c = new GregorianCalendar();
+c.setTime(yourDate);
+XMLGregorianCalendar date2 = DatatypeFactory.newInstance().newXMLGregorianCalendar(c);
+```

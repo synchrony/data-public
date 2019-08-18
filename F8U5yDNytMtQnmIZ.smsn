@@ -1,0 +1,22 @@
+@id F8U5yDNytMtQnmIZ
+@title an example illustrating both properties of cut
+@created 1513205068448
+@text ```
+If you ask s(X,Y), it will find:
+  s(11,11)
+  s(1,y) for y in [1,3]
+  s(0,0)
+In the rule for q(X,Y), it is committed to the first value it took, 1, so it never finds q(x,_) for x > 1. And since ! commits to that branch of q, it never finds q(22,22) either.
+
+--
+
+s(X,Y):-  q(X,Y).   
+s(0,0).
+
+q(11,11).
+q(X,Y):-  i(X),  !, j(Y).
+q(22,22).
+   
+i(1).   i(2).
+j(1).   j(2).  j(3).
+```
