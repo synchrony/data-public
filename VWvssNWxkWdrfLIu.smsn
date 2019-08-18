@@ -1,8 +1,0 @@
-@id VWvssNWxkWdrfLIu
-@title explicit type checks
-@created 1491192394585
-@text ```
-if( param instanceof Double) {
-    System.out.println("param is a Double");
-  }
-```

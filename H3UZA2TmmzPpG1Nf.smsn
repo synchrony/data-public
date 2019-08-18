@@ -1,9 +1,0 @@
-@id H3UZA2TmmzPpG1Nf
-@title the sense in which >>- is conjunction
-@created 1511149416092
-@text ```
-In `a >>- f`, `a` and `f` have different types, but these both fail:
-
-observe $ mzero >>- const (return 1)
-observe $ return 1 >>- const mzero
-```

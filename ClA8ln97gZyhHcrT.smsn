@@ -1,3 +1,0 @@
-@id ClA8ln97gZyhHcrT
-@title suffix <- function(s, n) { substr(s, nchar(s) - n + 1, nchar(s) }
-@created 1521239850272

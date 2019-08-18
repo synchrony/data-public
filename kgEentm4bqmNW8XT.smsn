@@ -1,7 +1,0 @@
-@id kgEentm4bqmNW8XT
-@title get min, max
-@created 1501194841855
-@text ```
-def myRange(vector): return (np.min(vector),np.max(vector));
-myRange(data['heatingorsystemtypeid'])
-```

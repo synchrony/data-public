@@ -1,3 +1,0 @@
-@id HRIkBahhZUMgXtNa
-@title x = {AudioIn.ar([1]).clip2(0.3)}.play
-@created 1322875842748

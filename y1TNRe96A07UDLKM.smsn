@@ -1,7 +1,0 @@
-@id y1TNRe96A07UDLKM
-@title RenameMe
-@created 1455843868231
-@text ```
-net.fortytwo.ripple.demo.sailType = org.openrdf.sail.nativerdf.NativeStore
-net.fortytwo.ripple.demo.nativeStoreDirectory = /Users/josh/data/mydata-ns
-```

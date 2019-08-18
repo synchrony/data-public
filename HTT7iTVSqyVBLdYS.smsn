@@ -1,3 +1,0 @@
-@id HTT7iTVSqyVBLdYS
-@title Gradle or Maven integration, including the ability to package and publish a Java-only module, a Haskell-only module, or a Java/Haskell module within the same project, to import any of the above in another project as dependencies, and to import any of the above into the project itself as dependencies
-@created 1519054980942

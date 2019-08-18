@@ -1,9 +1,0 @@
-@id CQG88yKnnYfAOi8A
-@title example of that
-@created 1502066551173
-@text ```
-*Main> :t  fmap (*3) (+100)
-fmap (*3) (+100) :: Num b => b -> b
-*Main> fmap (*3) (+100) $ 2
-306
-```

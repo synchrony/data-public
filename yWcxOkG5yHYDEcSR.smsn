@@ -1,7 +1,0 @@
-@id yWcxOkG5yHYDEcSR
-@title how to code it
-@created 1513208069004
-@text ```
-neg(Goal)  :-  Goal,!,fail.   
-neg(Goal).
-```

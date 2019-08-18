@@ -1,3 +1,0 @@
-@id lBT8aAn161wGEOyX
-@title [markdown]Assuming you have placed `gremlin-server-smsn-example.yaml` in Gremlin Server's conf directory, you can start the server (while giving it some extra heap space) with:
-@created 1495925080702

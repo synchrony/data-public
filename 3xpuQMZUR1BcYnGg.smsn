@@ -1,8 +1,0 @@
-@id 3xpuQMZUR1BcYnGg
-@title for Reader, fmap = (.)
-@created 1505708240808
-@text ```
-fmap :: (a->b) -> F a -> F b
-fmap :: (a->b) -> (r -> a) -> (r -> b)
-fmap f g = f . g
-```

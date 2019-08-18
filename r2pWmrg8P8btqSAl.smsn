@@ -1,9 +1,0 @@
-@id r2pWmrg8P8btqSAl
-@title RenameMe
-@created 1421638530048
-@text ```
-m = [:]
-# note: iterate() or cap().next() not strictly necessary in the REPL
-g.V.type.groupCount(m).iterate()
-m
-```

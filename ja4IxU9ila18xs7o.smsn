@@ -1,4 +1,0 @@
-@id ja4IxU9ila18xs7o
-@title queries can apply functions to previously bound terms
-@created 1508701887964
-@text (Y==1) & (X==Y+1)

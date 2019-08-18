@@ -1,3 +1,0 @@
-@id ZKpyOVOrZwHz58Xg
-@title docker inspect --format='{{range .NetworkSettings.Networks}}{{.IPAddress}}{{end}}' web
-@created 1487921443723

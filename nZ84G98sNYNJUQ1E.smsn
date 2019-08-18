@@ -1,3 +1,0 @@
-@id nZ84G98sNYNJUQ1E
-@title accessing data in memory reduces the I/O reading activity when querying the data which provides faster and more predictable performance than disk. In applications where response time is critical, such as telecommunications network equipment and mobile ads networks, main memory databases are often used
-@created 1351741682039

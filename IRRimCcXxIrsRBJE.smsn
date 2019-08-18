@@ -1,3 +1,0 @@
-@id IRRimCcXxIrsRBJE
-@title sudo docker run -it --name "docker-smsn" -v /home/jeff/docker-smsn/test-graph/:/mnt/smsn-data  --network="host" docker-smsn.version
-@created 1488582267819

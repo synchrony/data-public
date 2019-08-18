@@ -1,3 +1,0 @@
-@id TzRppLKXV0fXeDPt
-@title /opt/conda/bin/conda install jupyter -y --quiet && /opt/conda/bin/jupyter notebook --notebook-dir=/mnt --ip='*' --port=8888 --no-browser --allow-root
-@created 1516917539678

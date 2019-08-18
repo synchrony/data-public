@@ -1,3 +1,0 @@
-@id aYA2divSR8Ibdec6
-@title [markdown]Move-submode is fast because it uses single-key commands, but that makes it impossible to type many words. For instance `f` in move-submode switches to forward view, so you cannot type the letter `f` while in move-submode. Edit mode is the mode to use when you want to write text.
-@created 1490248812590

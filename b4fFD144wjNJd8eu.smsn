@@ -1,4 +1,0 @@
-@id b4fFD144wjNJd8eu
-@title add an edge and properties in one step
-@created 1507440756248
-@text battle = theseus.addEdge('battled', cerberus, 'time', 22)

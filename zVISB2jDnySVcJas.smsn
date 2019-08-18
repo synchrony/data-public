@@ -1,8 +1,0 @@
-@id zVISB2jDnySVcJas
-@title RenameMe
-@created 1395067736444
-@text ```
-./configure
-make
-make install
-```

@@ -1,4 +1,0 @@
-@id sKzOpAFyvIgGVRRJ
-@title ? supposedly, use a newtype to expose the interface and hide the implementation of {a monad stack,}
-@created 1504460116282
-@text But ~/code/studies/monad-transformers/rwh/src/UglyStack.hs will only compile if I comment out the deriving clause under the newtype declaration.

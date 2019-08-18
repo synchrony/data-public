@@ -1,7 +1,0 @@
-@id BJDrwECsE1RbnVvT
-@title synths "sy" and "sya" :: beware: can't _
-@created 1493706776120
-@text ```
-qf ->rename speed
-  speed has effects elsewhere; if qf is renamed to speed, they interact badly
-```

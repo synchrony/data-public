@@ -1,3 +1,0 @@
-@id jj0IYion7kpGt9ZL
-@title g.getTypes(TitanKey.class).toList().collectEntries({ [it, it.getDataType()] })
-@created 1396060457837

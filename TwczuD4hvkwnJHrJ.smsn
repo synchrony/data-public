@@ -1,4 +1,0 @@
-@id TwczuD4hvkwnJHrJ
-@title "create" variables before using them
-@created 1508701836104
-@text pyDatalog.create_terms('X,Y')

@@ -1,3 +1,0 @@
-@id gR0DZjfH9AueMn5E
-@title it applies a streaming algebra to standard SPARQL syntax using an event-driven model of RDF streams (in which each incoming triple is an event which may trigger the production of results).  The data store indexes only that data which is necessary for the production of intermediate results, discarding irrelevant input as early as possible
-@created 1349984217287

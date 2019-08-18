@@ -1,3 +1,0 @@
-@id 5zy3Vw7G4a3OCrmt
-@title "we can tell the compiler that we promise to assign a MountainBike to obj by explicit casting: `MountainBike myBike = (MountainBike)obj;`. This cast inserts a runtime check that obj is assigned a MountainBike so that the compiler can safely assume that obj is a MountainBike. If obj is not a MountainBike at runtime, an exception will be thrown."
-@created 1491190507221

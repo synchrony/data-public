@@ -1,8 +1,0 @@
-@id sB7WaxgZSOh2J4hE
-@title RenameMe
-@created 1470695508681
-@text ```
-graph = TinkerGraph.open()
-g = graph.traversal()
-g.V()
-```

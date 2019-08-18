@@ -1,3 +1,0 @@
-@id 3f6bq1i7Cjw201TS
-@title "Perhaps, the simplest discriminative approach is nearest neighbor (NN), in which a novel sequence of observations is compared with a set of template sequences in a training set, and the most closely matching sequences in the training set vote for their activity labels."
-@created 1444118575762

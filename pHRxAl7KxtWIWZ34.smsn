@@ -1,3 +1,0 @@
-@id pHRxAl7KxtWIWZ34
-@title "Constructors are not members, so they are not inherited by subclasses, but the constructor of the superclass can be invoked from the subclass."
-@created 1491190367515

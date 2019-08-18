@@ -1,3 +1,0 @@
-@id cvsjEr94rNIl84rE
-@title this method starts starts from a resource r in a graph g and navigates the web of data by following the links which are found between resources. When a fixpoint is reached, that is, when all the reachable graphs are collected, the query is evaluated against the resulting merged graph
-@created 1426815178326

@@ -1,7 +1,0 @@
-@id rkkp0ia9JrjqPrwB
-@title an example (of both parents)
-@created 1513815744691
-@text ```
-?- global_cardinality([1,1,1,2],[1-3,2-1]).
-true.
-```

@@ -1,9 +1,0 @@
-@id PQeeBAEfJnTHGiqb
-@title state constraints in {}
-@created 1513819222711
-@text ```
-?- {X =:= 5.0, Y > X}, X=Z.
-X = Z, Z = 5.0,
-{Y>5.0} ;
-false.
-```

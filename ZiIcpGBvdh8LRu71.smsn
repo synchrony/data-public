@@ -1,9 +1,0 @@
-@id ZiIcpGBvdh8LRu71
-@title substitute value for x in y
-@created 1517010607149
-@text ```
->>> x = symbols('x')
->>> y = x + 1
->>> y.subs(x, 2)
-3
-```

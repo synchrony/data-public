@@ -1,3 +1,0 @@
-@id sDvQFMgVaYAfofs2
-@title pmi(x;y) := log( p(x,y) / p(x)*p(y) ) = log( p(y|x) / p(y) )
-@created 1380152117687

@@ -1,3 +1,0 @@
-@id wwdRAGalHj6Xgl5x
-@title the INSERT operation in SPARQL 1.1 Update introduced a critical new property: By inserting data into a graph, collaborating SPARQL queries can store intermediate results and communicate with each other. In an environment supporting simultaneous, continuous evaluation of multiple queries, SPARQL can be used to create entire event processing applications
-@created 1353992705458

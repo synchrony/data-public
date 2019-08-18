@@ -1,4 +1,0 @@
-@id pH3LoViUNiROaZOs
-@title applicative style v. RecordWildCards
-@created 1507397658267
-@text applicative style (not app-do) syntax doesn't let you name things; it just uses currying. so there's a choice between record-wildcards and applic style

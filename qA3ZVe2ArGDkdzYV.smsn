@@ -1,3 +1,0 @@
-@id qA3ZVe2ArGDkdzYV
-@title as of 2017-09-24, the latency of response from speaker to sound detector is between 2 and 3 milliseconds. Additional expermentation (with a lower threshold, and alternative speaker, or an alternative amplifier circuit for the sound detector, perhaps tuned to a particular frequency) would probably make a latency of < 2 ms possible
-@created 1506310299487

@@ -1,9 +1,0 @@
-@id 6jqDlKFPZTdFxGb2
-@title RenameMe
-@created 1373472237092
-@text ```
-import org.openrdf.sail.memory.MemoryStore;
-g = new SailGraph(new MemoryStore())
-g.loadRDF('/Users/marko/Desktop/neo.rdf', 'rdf-xml'))
-g.E[0..5]
-```

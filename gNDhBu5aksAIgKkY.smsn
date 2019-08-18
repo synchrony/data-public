@@ -1,8 +1,0 @@
-@id gNDhBu5aksAIgKkY
-@title ? indexOfNthVisible
-@created 1492928816705
-@text ```
-The input to this function is the index of the note in the sublist only of visible atoms; the output is the index in the full list.
-
-If there are two nodes, and the first is hidden, then indexOfNthVisible(0) = 1.
-```

@@ -1,3 +1,0 @@
-@id ZqfPYesOuDQyuJdn
-@title a binary tree derived from a sequence of numbers; it can be uniquely defined from the properties that it is heap-ordered and that a symmetric (in-order) traversal of the tree returns the original sequence
-@created 1465179967955

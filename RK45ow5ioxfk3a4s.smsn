@@ -1,4 +1,0 @@
-@id RK45ow5ioxfk3a4s
-@title define a function in terms of variables
-@created 1508714037563
-@text net_salary[X] = salary[X]*(1-tax_rate[None])

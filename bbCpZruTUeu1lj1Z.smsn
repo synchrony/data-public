@@ -1,3 +1,0 @@
-@id bbCpZruTUeu1lj1Z
-@title a Unix program that updates text files according to instructions contained in a separate file, called a patch file. The patch file (also called a patch for short) is a text file that consists of a list of differences and is produced by running the related diff program with the original and
-@created 1395068799267

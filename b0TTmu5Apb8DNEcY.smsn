@@ -1,4 +1,0 @@
-@id b0TTmu5Apb8DNEcY
-@title the "priority" option to http_handler
-@created 1512689942795
-@text "lets a single handler handle everything below the route as well. If you need to override an existing handler, you may need the priority option. priority(0) is default."

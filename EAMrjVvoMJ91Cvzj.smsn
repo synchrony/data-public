@@ -1,8 +1,0 @@
-@id EAMrjVvoMJ91Cvzj
-@title instantiate TinkerGraph
-@created 1398525127464
-@text ```
-graph = TinkerFactory.createClassic();
-g = graph.traversal()
-g.V().values()
-```

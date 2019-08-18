@@ -1,4 +1,0 @@
-@id oi8wWoQL44qK9rRC
-@title to switch locally to a globally extant branch
-@created 1498951620367
-@text git checkout -b develop remotes/origin/develop

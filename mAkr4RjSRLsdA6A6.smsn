@@ -1,3 +1,0 @@
-@id mAkr4RjSRLsdA6A6
-@title "an inner class is associated with an instance of its enclosing class and has direct access to that object's methods and fields. Also, because an inner class is associated with an instance, it cannot define any static members itself."
-@created 1491188004328

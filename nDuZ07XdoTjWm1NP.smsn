@@ -1,8 +1,0 @@
-@id nDuZ07XdoTjWm1NP
-@title superDirtState port = ... Sound.Tidal.Stream.state backend dirt
-@created 1509150200388
-@text ```
-superDirtState port = do
-  backend <- superDirtBackend port
-  Sound.Tidal.Stream.state backend dirt
-```

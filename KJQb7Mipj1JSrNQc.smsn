@@ -1,7 +1,0 @@
-@id KJQb7Mipj1JSrNQc
-@title find missing values in data frame
-@created 1501207055915
-@text ```
-pd.isnull(data["hashottuborspa"])
-returns a vector of booleans
-```

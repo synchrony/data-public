@@ -1,3 +1,0 @@
-@id u0x30mk1FHpoOs6W
-@title a[:6:2] = -1000    # equivalent to a[0:6:2] = -1000; from start to position 6, exclusive, set every 2nd element to -1000
-@created 1477079719781

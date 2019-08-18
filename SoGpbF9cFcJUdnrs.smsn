@@ -1,8 +1,0 @@
-@id SoGpbF9cFcJUdnrs
-@title superDirtSetters :: IO Time -> IO (ParamPattern -> IO (), (Time -> [ParamPattern] -> ParamPattern) -> ParamPattern -> IO ())
-@created 1509150098462
-@text ```
-superDirtSetters getNow = do ds <- superDirtState 57120
-                             return (setter ds, transition getNow ds)
-```
-* :nDuZ07XdoTjWm1NP: 

@@ -1,3 +1,0 @@
-@id NcOT4zD7GWp3QrRh
-@title special forms of DTOs. They are data structures with public (or beanaccessed) variables; but they typically have navigational methods like save and find. Typically these Active Records are direct translations from database tables, or other data sources
-@created 1471551197721

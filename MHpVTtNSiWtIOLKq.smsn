@@ -1,8 +1,0 @@
-@id MHpVTtNSiWtIOLKq
-@title functor/3 can be used to construct ("partially uninstantiated"?) terms
-@created 1513119798858
-@text ```
-?-  functor(T,f,7).   
-   
-T  =  f(_G286,  _G287,  _G288,  _G289,  _G290,  _G291,  _G292)
-```

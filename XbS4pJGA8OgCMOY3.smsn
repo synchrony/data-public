@@ -1,3 +1,0 @@
-@id XbS4pJGA8OgCMOY3
-@title [markdown]A buffer in Emacs is a collection of text. A buffer can represent a file, or a folder in your hard drive, or a list of messages (e.g. warnings and errors) from Emacs to the user -- Emacs is flexible that way. Emacs also lets you keep the same buffer open in two separate windows, which is handy for comparing two distant parts of the same buffer.
-@created 1490246379804

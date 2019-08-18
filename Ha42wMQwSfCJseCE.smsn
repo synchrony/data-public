@@ -1,3 +1,0 @@
-@id Ha42wMQwSfCJseCE
-@title after a closing </stream> tag is sent/received, both client and server SHOULD close the underlying connection (usually a TCP connection)
-@created 1341637920123

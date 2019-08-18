@@ -1,3 +1,0 @@
-@id GhWOscPANzelg0ec
-@title on 2018-01-12, I found it necessary to alter DEFAULT_REQUEST_TIMEOUT_SECONDS in cqlsh.py, but I then ran into the coordinator timeout (which was only slightly longer than the default request timeout of 10 seconds)
-@created 1515781664220

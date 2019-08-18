@@ -1,3 +1,0 @@
-@id vuJmc8L9JDxaIBLY
-@title clients specify their desired bandwidth limits as part of their subscriptions.  The AMS guarantees never to send more traffic to a client than the bandwidth limit specifies, even if it means not sending all of hte update information that the client's subscription query has matched
-@created 1428521927261

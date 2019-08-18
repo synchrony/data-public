@@ -1,3 +1,0 @@
-@id BvC4fjPYY0H5j6RG
-@title given a,b,c and i : a -> c, j : b -> c, c is the coproduct of a and b if for every similarly arranged c',i' and j', there exists a unique m from c to c' such that j' = m . j and i' = m . i
-@created 1505550930659

@@ -1,8 +1,0 @@
-@id U4LV38U3k3OoGPFZ
-@title RenameMe
-@created 1518201214024
-@text ```
-net.fortytwo.ripple.demo.sailType = net.fortytwo.linkeddata.sail.LinkedDataSail
-net.fortytwo.ripple.demo.linkedDataSailBaseSail = org.openrdf.sail.nativerdf.NativeStore
-net.fortytwo.ripple.demo.nativeStoreDirectory = /Users/lebot/Desktop/ripple-store
-```

@@ -1,7 +1,0 @@
-@id 17dpa1y9VwfKTLtP
-@title InfluxDB installation
-@created 1485722038327
-@text ```
-brew update
-brew install influxdb
-```

@@ -1,9 +1,0 @@
-@id Vv5g83V0MmFEe8wZ
-@title hide|show mode: select something to hide it
-@created 1508699794035
-@text ```
-M-x hs-mode (hide-show mode)
-C-c @ C-M-(h/s) = hide/show
-  if in a bracketed expression, it will fold
-  in Python it will also fold by tab indentation, but not (at least without some setup?) Haskell
-```

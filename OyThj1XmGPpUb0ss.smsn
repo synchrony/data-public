@@ -1,4 +1,0 @@
-@id OyThj1XmGPpUb0ss
-@title extends the symmetric hash join to use less memory by allowing parts of the hash tables to be moved to secondary storage
-@created 1351618034914
-* :5YLNikHO2Aqyy8wX: 

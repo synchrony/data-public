@@ -1,4 +1,0 @@
-@id trGQejxUxhfylEbf
-@title cumulative/3: Make sure some concurrent tasks do not exceed a resource threshold.
-@created 1513816704439
-@text "The  constraint holds iff at  each time slot during the  start and end of each task, the total resource consumption  of all tasks running at  that time does not exceed  the global  resource limit."

@@ -1,3 +1,0 @@
-@id 2ldBU8vpYQd1s94u
-@title whereas EC is only a liveness guarantee (updates will be observed eventually), strong eventual consistency (SEC) adds the safety guarantee that any two nodes that have received the same (unordered) set of updates will be in the same state
-@created 1463287493435

@@ -1,7 +1,0 @@
-@id QrMGs2bH6kRSue2b
-@title start it
-@created 1507060178336
-@text ```
-$ cd janusgraph-0.1.1-hadoop2
-$ bin/gremlin.sh
-```

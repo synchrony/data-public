@@ -1,3 +1,0 @@
-@id ibKRUPN35hxK4Nz2
-@title I read on the "differences between Purescript and Haskell" page that " the Prelude module provides a Semigroupoid instance for the -> type, which gives us function composition"  and wanted to read about (->) but did not find it.
-@created 1485040043529

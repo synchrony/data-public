@@ -1,3 +1,0 @@
-@id LDwfpWv4LIvYENfQ
-@title write.table(t, file("/tmp/r-out.csv"), sep=",");
-@created 1342034286277

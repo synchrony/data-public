@@ -1,3 +1,0 @@
-@id cmn5WkD0umXZtELg
-@title better suited [than Hartig's pull-based non-blocking iterator] to deal with network latency as it is driven by incoming data and does not require temporary rejection of answers
-@created 1429161218834

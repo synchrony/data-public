@@ -1,3 +1,0 @@
-@id FFjKvMuXHZIdF2zi
-@title do NOT use periods in database names, e.g. "fortytwo.net-drupal".  These are illegal and will cause problems when you try to import from a dump.  Instead, use underscores, e.g. "fortytwo_net_drupal".
-@created 1330560647808

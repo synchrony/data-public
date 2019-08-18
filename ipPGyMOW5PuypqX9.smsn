@@ -1,8 +1,0 @@
-@id ipPGyMOW5PuypqX9
-@title RenameMe
-@created 1441662731863
-@text ```
-x <- 0.02 * (1:100) - 1
-y <- dnorm(x, mean=0, sd=0.25)
-plot(x=x, y)
-```

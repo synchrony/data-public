@@ -1,7 +1,0 @@
-@id tUTIKiwOMDqi4PbD
-@title query a function using a variable for input and another for output
-@created 1508711751596
-@text ```
-# give me all the X and Y so that the salary of X is Y
-print(salary[X]==Y)
-```

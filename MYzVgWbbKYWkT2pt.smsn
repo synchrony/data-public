@@ -1,3 +1,0 @@
-@id MYzVgWbbKYWkT2pt
-@title applicative do extension determines when there are no dependencies, and optimizes accordingly. more stable in 8.2 ghc. but it can cause reorderings; not safe for the IO monad, some others.
-@created 1507397215540

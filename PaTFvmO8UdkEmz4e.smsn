@@ -1,3 +1,0 @@
-@id PaTFvmO8UdkEmz4e
-@title holds file system data. Each data node manages its own locally-attached storage and stores a copy of some or all blocks in the file system.  There are one or more Data Nodes in each cluster
-@created 1395093500641

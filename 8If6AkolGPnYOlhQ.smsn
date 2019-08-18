@@ -1,3 +1,0 @@
-@id 8If6AkolGPnYOlhQ
-@title I have found, by experiment, that my SparkFun photoresistor has a latency of less than 1 ms in a dark environment and with a low threshold. It does take the photoresistor much longer to reach higher thresholds (e.g. > 44 ms for a threshold at around half of the maxiumum resistance). The latency rises more or less linearly until around 20% of maxiumum resistance, at which point it is between 2 and 3 ms, then it appears to rise asymptotically. tl;dr the reactivity of the photoresistor far exceeds human perceptual thresholds, so long as you set the conditions correctly.
-@created 1506051745762

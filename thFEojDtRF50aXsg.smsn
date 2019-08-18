@@ -1,3 +1,0 @@
-@id thFEojDtRF50aXsg
-@title if a process reads a value previously written to a memory location, it cannot subsequently read any earlier value from that location
-@created 1463348247793

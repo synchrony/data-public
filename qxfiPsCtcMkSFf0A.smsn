@@ -1,7 +1,0 @@
-@id qxfiPsCtcMkSFf0A
-@title example from smsn.Note
-@created 1472282712968
-@text ```
-public Note(final Note copy) {
-        this();
-```

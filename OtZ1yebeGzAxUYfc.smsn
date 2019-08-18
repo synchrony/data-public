@@ -1,3 +1,0 @@
-@id OtZ1yebeGzAxUYfc
-@title [markdown]It must start with a bullet -- a single non-whitespace character, followed by some whitespace. After that on the same line, write the note's title. With no whitespace before the bullet, the new note becomes a member of the first generation. Whitespace before the bullet can be used to make it a member of a later generation, but only if it has a full chain of intermediate ancestors, and only if that generation is already visible.
-@created 1498194957512

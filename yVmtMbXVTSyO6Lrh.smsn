@@ -1,5 +1,0 @@
-@id yVmtMbXVTSyO6Lrh
-@title /* dump to file */ g.stopTransaction(TransactionalGraph.Conclusion.SUCCESS); IdGraph g2 = new IdGraph(g); OutputStream out = new FileOutputStream(new File("/Volumes/encrypted/joshkb/joshkb-full.xml")); GraphMLWriter w = new GraphMLWriter(g2); w.setNormalize(true); w.outputGraph(out); out.close();
-@created 1324199840703
-@weight 0.25
-* :USPg40ORiVz7jOVF: 

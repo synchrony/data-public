@@ -1,3 +1,0 @@
-@id 4h4EclRaRTHurVjV
-@title irregularity: some Matrix functions operate in place (mutating it); those return None. Others do not, and return a new Matrix.
-@created 1517339972003

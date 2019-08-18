@@ -1,4 +1,0 @@
-@id GvbM8sH8pdeKG3qJ
-@title what the paper says
-@created 1513531600109
-@text "Uses of call/N for larger N can be replaced by multiple calls to apply/3 using the idea of currying. For example, call(F,X1,X2,R) can be replaced by the conjunction apply(F,X1,FX1), apply(FX1,X2,R)."

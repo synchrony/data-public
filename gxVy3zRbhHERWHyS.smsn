@@ -1,9 +1,0 @@
-@id gxVy3zRbhHERWHyS
-@title RenameMe
-@created 1471377907789
-@text ```
-SubClassOf(
-   :Grandfather
-   ObjectIntersectionOf( :Man :Parent )
- )
-```

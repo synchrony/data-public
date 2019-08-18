@@ -1,8 +1,0 @@
-@id tz1m3TcGaaajhwCB
-@title simplify: test for algebraic equality using
-@created 1517011080853
-@text ```
-a = (x + 1)**2
-b = x**2 + 2*x + 1
-simplify(a - b) == 0
-```

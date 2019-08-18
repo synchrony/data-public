@@ -1,4 +1,0 @@
-@id ynCyIvzP1udA9M8y
-@title finding all unresolved constraints: call_residue_vars/2
-@created 1513817833390
-@text call_residue_vars/2 calls a predicate, then reports all unresolved constraints or frozen variables. Since usually a proper program resolves all it’s variables, this is useful for finding things not resolved.

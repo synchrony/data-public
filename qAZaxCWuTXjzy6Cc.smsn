@@ -1,3 +1,0 @@
-@id qAZaxCWuTXjzy6Cc
-@title by sampling the photoresistor just after the light source is turned off, one can see that the resistor response drops off exponentially (i.e. the resistance rises). Plotting the response on a log=y scale, it appears as a roughly straight line. It takes about 29 ms for the value read by Arduino to drop from a maxiumum value of 200 to a value of 38 (not the asymptotic minimum in this case). This drop can be expected to take longer and longer, the closer to the asymptotic minimum (e.g. zero) it is allowed to drop. As a first approximation, the sensor takes around 15 ms to drop from its maximum value to half of its minimum value. This is pretty significant w.r.t. sensory thresholds.
-@created 1506804237095

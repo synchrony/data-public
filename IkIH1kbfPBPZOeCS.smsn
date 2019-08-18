@@ -1,4 +1,0 @@
-@id IkIH1kbfPBPZOeCS
-@title chrislusf/seaweedfs: SeaweedFS is a simple and highly scalable distributed file system. There are two objectives: to store billions of files! to serve the files fast! Instead of supporting full POSIX file system semantics, SeaweedFS choose to implement only a key~file mapping. Similar to the word "NoSQL", you can call it as "NoFS". (web page)
-@alias https://github.com/chrislusf/seaweedfs
-@created 1526135625498

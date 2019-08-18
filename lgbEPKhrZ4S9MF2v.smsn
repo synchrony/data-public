@@ -1,3 +1,0 @@
-@id lgbEPKhrZ4S9MF2v
-@title find . -name "*.c" -exec sed -i "s/oldWord/newWord/g" '{}' \;
-@created 1367503108611

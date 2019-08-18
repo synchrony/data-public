@@ -1,4 +1,0 @@
-@id eE6nIpmObi3IQQCL
-@title Coconut's `map` can apply to multiple lists
-@created 1520218841698
-@text map((+), self.pts, other_pts) |*> vector

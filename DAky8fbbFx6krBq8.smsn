@@ -1,4 +1,0 @@
-@id DAky8fbbFx6krBq8
-@title chains of redefinitions are not automatic
-@created 1517946526634
-@text . if X is part of Y, and X changes, Y remains the same

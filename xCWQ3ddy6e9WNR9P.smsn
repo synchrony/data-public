@@ -1,9 +1,0 @@
-@id xCWQ3ddy6e9WNR9P
-@title convert float column to int
-@created 1501208238384
-@text ```
-# PITFALL: NaN only permissible in float, not int
-
-data2["heatingorsystemtypeid"] = data2[
-    "heatingorsystemtypeid"].astype('int');
-```

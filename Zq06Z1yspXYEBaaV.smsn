@@ -1,3 +1,0 @@
-@id Zq06Z1yspXYEBaaV
-@title ellipsis: fill in missing indices. e.g. for a rank-5 matrix, x[4,...,5,:] = x[4,:,:,5,:].
-@created 1477080124647

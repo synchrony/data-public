@@ -1,3 +1,0 @@
-@id GjVyToVRNtHrzoIW
-@title If malloc-allocated storage is distinguishable by address range from the stack/heap storage, then malloc may be used to allocate (non-relocatable) objects.[5] These objects must be enumerable, so that the GC can first trace these objects (they must have proper tags), and then sweep and explicitly free those objects which have become garbage.
-@created 1310224688419

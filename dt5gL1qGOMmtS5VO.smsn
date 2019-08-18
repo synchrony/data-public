@@ -1,5 +1,0 @@
-@id dt5gL1qGOMmtS5VO
-@title RDF streams may be useful for abstracting low-level data streams into higher-level data.  These may take the form of RDF Molecules \footnote{RDF Molecules are the smallest meaningful subgraphs \textit{in the presence of blank nodes}. Without blank nodes, there is presumably nothing wrong with statement-level provenance.} or RDF statements (requiring C-SPARQL semantics for RDF statement streams or instantaneous RDF graphs).
-@created 1350029763061
-* :ilOzKHvFJun96U8c: 
-* :BbSplxHRzVKj6gM9: 

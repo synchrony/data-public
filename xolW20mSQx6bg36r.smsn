@@ -1,7 +1,0 @@
-@id xolW20mSQx6bg36r
-@title RenameMe
-@created 1371176859298
-@text ```
-library(stringr) 
-str_locate("aabcd", "bcd")
-```

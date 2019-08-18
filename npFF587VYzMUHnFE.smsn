@@ -1,8 +1,0 @@
-@id npFF587VYzMUHnFE
-@title taking the magnitude of an arbitrary-length vector
-@created 1520217275844
-@text ```
-def __abs__(self) =
-        """Return the magnitude of the vector."""
-        self.pts |> map$(pow$(?, 2)) |> sum |> pow$(?, 0.5)
-```

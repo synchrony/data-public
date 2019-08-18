@@ -1,3 +1,0 @@
-@id cINk33YcIJAH0gv9
-@title the lag can be decreased to about +-10 ms by starting the audio in a separate thread, while delaying the video (in the main thread) by about 10 ms
-@created 1506665566045

@@ -1,3 +1,0 @@
-@id qrDqPAHRNpONBiyv
-@title smsn : in copy-node, copy the text too. then, when pasting, if the text has changed, show the new followed by a note saying this doesn't match what was in the kill ring buffer followed by what the krb had
-@created 1483256550490

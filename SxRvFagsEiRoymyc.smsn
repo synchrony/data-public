@@ -1,8 +1,0 @@
-@id SxRvFagsEiRoymyc
-@title modular arithmetic
-@created 1512941870326
-@text ```
-This evaluates to true:
-
-1 is mod(7,2).
-```

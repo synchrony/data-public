@@ -1,3 +1,0 @@
-@id 08IGZiOGnmhpTpgO
-@title grep "^.\{121\}" foo.txt -- find lines longer than 120 chars
-@created 1414259101239

@@ -1,4 +1,0 @@
-@id BTfnK9arJZt9uz67
-@title variables in Prolog have either total or zero certainty
-@created 1513479634480
-@text "In Prolog we have only two possibilities, for an atomic result. Know absolutely nothing, or know exactly. Obviously we might have unbound variables within a list or term, but for each variable there are only these two states."

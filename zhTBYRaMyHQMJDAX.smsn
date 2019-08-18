@@ -1,3 +1,0 @@
-@id zhTBYRaMyHQMJDAX
-@title SymPy reorders arguments to commutative operators. Make a non-commutative one with "Symbol('A', commutative=False)"
-@created 1517341321158

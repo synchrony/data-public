@@ -1,3 +1,0 @@
-@id wwFpVI9vlPs0E7tk
-@title cqlsh -e 'describe schema;' > /tmp/cqlsh.txt
-@created 1517671388623

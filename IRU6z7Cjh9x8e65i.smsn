@@ -1,3 +1,0 @@
-@id IRU6z7Cjh9x8e65i
-@title [markdown]`Visit` a note with `n` or `t`. This creates a new buffer, showing a forward-view of the note's children. `n` closes the old buffer; `t` leaves it open.
-@created 1490249526034

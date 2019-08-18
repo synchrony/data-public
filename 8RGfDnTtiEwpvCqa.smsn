@@ -1,3 +1,0 @@
-@id 8RGfDnTtiEwpvCqa
-@title derivative(), integral(), limit() all have unevaluated counterparts. to evaluate such a thing, use doit().
-@created 1517263561687

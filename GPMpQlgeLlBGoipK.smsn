@@ -1,8 +1,0 @@
-@id GPMpQlgeLlBGoipK
-@title RenameMe
-@created 1485715183273
-@text ```
-data <- read.csv(file("/Users/josh/data/misc/muslim_countries.csv"), header=FALSE, col.names=c("country", "percentage", "", "", "", "", "", "", ""))
-m.countries <- subset(data[with(data, order(-percentage)),][,1:2], percentage>50.0)
-m.countries
-```

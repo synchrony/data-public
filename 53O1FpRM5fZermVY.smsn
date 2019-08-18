@@ -1,8 +1,0 @@
-@id 53O1FpRM5fZermVY
-@title sudo docker run --name anac -itd -p 8888:8888 -v /home/jeff/tax.co:/mnt continuumio/anaconda3
-@created 1515789716006
-@text ```
-Or, if tax.co is not a top-level folder:
-
-sudo docker run --name anac -itd -p 8888:8888 -v /home/jeff/javeriana/tax.co:/mnt continuumio/anaconda3
-```

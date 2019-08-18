@@ -1,9 +1,0 @@
-@id O5PEORPgI1xEDpmg
-@title start some transactions
-@created 1507148914943
-@text ```
-graph = JanusGraphFactory.open("berkeleyje:/tmp/janusgraph")
-juno = graph.addVertex() //Automatically opens a new transaction
-juno.property("name", "juno")
-graph.tx().commit() //Commits transaction
-```

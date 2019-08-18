@@ -1,8 +1,0 @@
-@id X2EMLgi6Lf7YCsZ4
-@title how to make a virtualenv for python
-@created 1508699674023
-@text ```
-virtualenv [name of folder to create]
-go there
-source bin/activate
-```

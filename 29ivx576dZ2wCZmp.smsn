@@ -1,9 +1,0 @@
-@id 29ivx576dZ2wCZmp
-@title RenameMe
-@created 1471377907786
-@text ```
-EquivalentClasses(
-   :Parent
-   ObjectUnionOf( :Mother :Father )
- )
-```

@@ -1,4 +1,0 @@
-@id TzeptmAOeq3W7Sog
-@title use .data to turn a query into a list
-@created 1508710653916
-@text print(X.in_(range(5)).data)

@@ -1,7 +1,0 @@
-@id Gou5RW6mHjWT5k78
-@title RenameMe
-@created 1471377907771
-@text ```
-ObjectPropertyDomain( :hasWife :Man )
-ObjectPropertyRange( :hasWife :Woman )
-```

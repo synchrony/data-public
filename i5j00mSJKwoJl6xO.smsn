@@ -1,3 +1,0 @@
-@id i5j00mSJKwoJl6xO
-@title prefix <- function(s, n) { substr(s, 1, n) }
-@created 1521239850271

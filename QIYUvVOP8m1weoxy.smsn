@@ -1,8 +1,0 @@
-@id QIYUvVOP8m1weoxy
-@title RenameMe
-@created 1394458405070
-@text ```
-g = new SparqlRepositorySailGraph("http://dbpedia.org/sparql");
-v = g.v('http://dbpedia.org/resource/Grateful_Dead')
-v.out()
-```

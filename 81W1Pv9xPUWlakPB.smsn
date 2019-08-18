@@ -1,7 +1,0 @@
-@id 81W1Pv9xPUWlakPB
-@title defeat laziness by turning on strictness
-@created 1515715939216
-@text ```
-$ nix-instantiate --eval --expr --strict '{ age = 2014-1987; }'
-{ age = 27; }
-```

@@ -1,3 +1,0 @@
-@id xwcpa86AMurPUDLS
-@title in practice, large constants in time complexity functions are not common (if the constant is large, it may be a sign that there's something wrong with the algorithm)
-@created 1310234505221

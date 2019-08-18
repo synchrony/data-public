@@ -1,4 +1,0 @@
-@id k6vMui1cYFWH3439
-@title DANGER ! update with "conda update _" : bloat
-@created 1495009194558
-@text "conda update --all" pulls in a lot of stuff, e.g. pyqt, python itself, new )to this computer) packages ..

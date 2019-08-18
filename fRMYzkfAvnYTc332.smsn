@@ -1,3 +1,0 @@
-@id fRMYzkfAvnYTc332
-@title forall e. Eff (console :: CONSOLE, random :: RANDOM | e) Unit
-@created 1485050017865

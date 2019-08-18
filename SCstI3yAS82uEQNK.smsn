@@ -1,3 +1,0 @@
-@id SCstI3yAS82uEQNK
-@title regardless of refresh rate, the LCD screen on the MacBook Pro appears to take significant time to transition from bright to dark; after the transition begins, it takes about 50 ms for a group of pixels to drop from peak brightness to a value about 1/5 of peak brightness. On contrast, it takes at most 5 ms to transition from that lower value to peak brightness. This suggests that any time-critical output should start with a dark field and transition to a bright image. It should also happen just before a frame refresh.
-@created 1506653684945

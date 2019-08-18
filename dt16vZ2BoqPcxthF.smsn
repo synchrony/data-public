@@ -1,8 +1,0 @@
-@id dt16vZ2BoqPcxthF
-@title antiquotation
-@created 1515710187637
-@text ```
-# Antiquotation lets you embed values into strings.
-  ("Your home directory is ${getEnv "HOME"}")
-  #=> "Your home directory is /home/alice"
-```

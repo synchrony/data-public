@@ -1,3 +1,0 @@
-@id PdGOt73Ftx1itfYk
-@title dataGen = pd.read_stata("data/general.dta")
-@created 1496703764064

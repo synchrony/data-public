@@ -1,8 +1,0 @@
-@id NSh9TqTtK7aS7oHu
-@title RenameMe
-@created 1326230537698
-@text ```
-(in-package :db.agraph.user)  
-(enable-!-reader)  
-(enable-print-decoded t)
-```

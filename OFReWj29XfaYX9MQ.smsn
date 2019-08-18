@@ -1,4 +1,0 @@
-@id OFReWj29XfaYX9MQ
-@title add a vertex
-@created 1507149013373
-@text juno = graph.addVertex() //Automatically opens a new transaction

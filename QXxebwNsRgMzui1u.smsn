@@ -1,3 +1,0 @@
-@id QXxebwNsRgMzui1u
-@title echo $(($(date +%s%N)/1000000))
-@created 1338654738258

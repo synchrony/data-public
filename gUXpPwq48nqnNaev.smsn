@@ -1,8 +1,0 @@
-@id gUXpPwq48nqnNaev
-@title RenameMe
-@created 1482395509839
-@text ```
-now k = 281 * 10**12, because
->>> 64**8 / (10**12)
-281.474976710656
-```

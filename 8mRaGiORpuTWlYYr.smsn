@@ -1,3 +1,0 @@
-@id 8mRaGiORpuTWlYYr
-@title apt install jackd2: created /etc/security/limits.d/audio.conf. It maybe also made the audio group, but I had to add myself to that group by hand.
-@created 1495161771465

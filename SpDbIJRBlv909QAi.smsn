@@ -1,8 +1,0 @@
-@id SpDbIJRBlv909QAi
-@title count unique values, including NaN
-@created 1501194314880
-@text ```
-pd.Series.value_counts(
-  data['heatingorsystemtypeid'],
-  dropna=False)
-```

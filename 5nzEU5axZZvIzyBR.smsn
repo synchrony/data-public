@@ -1,7 +1,0 @@
-@id 5nzEU5axZZvIzyBR
-@title "To avoid this, we can construct the rational object explicitly"
-@created 1517011415717
-@text ```
->>> Rational(1, 2)
-1/2
-```

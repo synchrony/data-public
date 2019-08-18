@@ -1,9 +1,0 @@
-@id 3erYPEcwuXzEBnhi
-@title forall( Condition, Action ) \ Prolog
-@created 1513636913500
-@text ```
-proves that for every binding of Cond, Action holds. If false, it doesn't say why.
-
-forall(member(Result = Formula, [2 = 1 + 1, 4 = 2 * 2]),
-       Result =:= Formula).
-```

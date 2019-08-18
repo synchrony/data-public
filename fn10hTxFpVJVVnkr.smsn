@@ -1,4 +1,0 @@
-@id fn10hTxFpVJVVnkr
-@title ? Brick.Main.App.appDraw :: s -> [Widget n]. The widgets are called "layers", "listed topmost first". This means layer in the sense of transparency, right?
-@created 1501483490372
-@weight 0.25

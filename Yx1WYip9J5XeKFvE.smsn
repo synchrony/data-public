@@ -1,3 +1,0 @@
-@id Yx1WYip9J5XeKFvE
-@title "In mobile computing, power is a limited resource. Like other devices, communication devices need to be properly managed to conserve energy. In this paper, we present the design and implementation of an innovative transport level protocol capable of significantly reducing the power usage of the communication device. The protocol achieves power savings by selectively choosing short periods of time to suspend communications and shut down the communication device. It manages the important task of queuing data for future delivery during periods of communication suspension, and decides when to restart communication. We also address the tradeoff between reducing power consumption and reducing delay for incoming data."
-@created 1435157734422

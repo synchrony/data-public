@@ -1,3 +1,0 @@
-@id EK32ZlU8ED9i5gog
-@title [makdown]Each note begins with a "bullet", which is either a `·` or a `+`. A `·` bullet indicates that the note is a "leaf", one that does not point to other notes. A `+` bullet indicates that the note is a "branch": one that points to others. (This information is redundant given the columns of numbers, but it does a little good and no harm.)
-@created 1498195879308

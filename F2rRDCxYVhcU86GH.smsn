@@ -1,3 +1,0 @@
-@id F2rRDCxYVhcU86GH
-@title What classes would I have to know about to rewrite the view function so that if node X has a child that starts with "!", then that child's text is appended to node X's text, even if X is folded (where folded means its children are not being listed on-screen).
-@created 1497512778109

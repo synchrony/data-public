@@ -1,5 +1,0 @@
-@id pyxThsJKmLg7gbfa
-@title compose functions with (..)
-@created 1520221321572
-@text (x -> x+1) .. (x -> x*2) (10)
-* :ffr7hCM1nsJmfoA2: 

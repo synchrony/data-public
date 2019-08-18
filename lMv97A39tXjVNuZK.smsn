@@ -1,3 +1,0 @@
-@id lMv97A39tXjVNuZK
-@title using a refresh rate of 40 fps, the graphic refresh tends to lag the onset of sound by about 50 ms despite being triggered first. By playing with delay(ms), I can get the lag down to around 20 ms before, but the lag seems to jump over the point of simultaneity rather than passing continuously through it. 20 ms is OK, but not as close as one would like.
-@created 1506663804360

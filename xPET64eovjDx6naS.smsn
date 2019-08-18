@@ -1,3 +1,0 @@
-@id xPET64eovjDx6naS
-@title "frequency-domain entropy is calculated as the normalized information entropy of the discrete FFT component magnitudes of the signal.  Again, the DC component of the FFT was excluded in this calculation.  This feature may support discrimination of activities with similar energy values."
-@created 1428127280008

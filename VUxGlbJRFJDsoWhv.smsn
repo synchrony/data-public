@@ -1,3 +1,0 @@
-@id VUxGlbJRFJDsoWhv
-@title because the Android SDK doesn't have an x64 version for Linux (as of 2013-11-17).  If you don't have the libraries, you will encounter "no such file or directory" errors when executing the binaries.  Note that it is also possible to specifically install only those libraries needed by aapt and/or adb.
-@created 1384746362762

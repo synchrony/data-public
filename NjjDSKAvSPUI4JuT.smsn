@@ -1,7 +1,0 @@
-@id NjjDSKAvSPUI4JuT
-@title Coconut "reduce" ~ Haskell "fold"
-@created 1520213122712
-@text ```
-In Coconut, this multiplies the numbers from 1 to n:
-  return range(1, n+1) |> reduce$(*)
-```

@@ -1,8 +1,0 @@
-@id eMFk3YMArRhcuH3v
-@title serving JanusGraph
-@created 1507152088125
-@text ```
-"4.2.2.1. Server Distribution
-
-The JanusGraph zip file contains a quick start server component that helps make it easier to get started with Gremlin Server and JanusGraph. Invoke bin/janusgraph.sh start to start Gremlin Server with Cassandra and ElasticSearch."
-```

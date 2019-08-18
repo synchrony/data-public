@@ -1,3 +1,0 @@
-@id HSYhQkj2zYBj3lpG
-@title a disadvantage of NBIJ is that the obtained results are not necessarily complete w.r.t. downloaded data, i.e., it is not guaranteed that all possible results that can be derived from downloaded data are actually computed. While all sources mentioned in an instantiated triple pattern are retrieved before processing the pattern, it is possible that data matching that pattern is contained in other sources retrieved later during query processing
-@created 1427225001939

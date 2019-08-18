@@ -1,3 +1,0 @@
-@id UD4RxxlSCgeHOlg7
-@title each user connected to the database sees a snapshot of the database at a particular instant in time. Any changes made by a writer will not be seen by other users of the database until the changes have been completed
-@created 1463340046770

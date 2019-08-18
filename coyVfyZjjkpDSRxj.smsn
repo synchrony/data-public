@@ -1,9 +1,0 @@
-@id coyVfyZjjkpDSRxj
-@title division rounds toward zero
-@created 1515713627150
-@text ```
-jeff@jeff-inspiron-2017:~$ nix-instantiate --eval --expr '(-3) / 2'
--1
-jeff@jeff-inspiron-2017:~$ nix-instantiate --eval --expr '3 / 2'
-1
-```

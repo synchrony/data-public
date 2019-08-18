@@ -1,3 +1,0 @@
-@id fPJOgXrfIFAIM1Eq
-@title if an object is a rdf:type an owl:allValuesFrom owl:Restriction, and the object has values for the specified property, then the values are of the specified type
-@created 1349461828572

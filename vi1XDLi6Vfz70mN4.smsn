@@ -1,3 +1,0 @@
-@id vi1XDLi6Vfz70mN4
-@title to leave a merge in the graph: leave the two earlier nodes, but to each attach a "updated to" rel going to the new one. when nodes connected to the old ones are displayed, show the new one, maybe with a * footnoting it
-@created 1476236007900

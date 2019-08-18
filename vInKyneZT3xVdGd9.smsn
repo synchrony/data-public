@@ -1,3 +1,0 @@
-@id vInKyneZT3xVdGd9
-@title to keep only the "first" of each row with a duplicate value, sort the data frame, then use the "duplicated" vector as a filter, e.g. sorted[!duplicated(sorted$name),]
-@created 1510964583066

@@ -1,9 +1,0 @@
-@id hGRjSqNC3MJTpcC2
-@title replace one branch entirely with another
-@created 1487547095333
-@text ```
-git checkout replacement
-git merge -s ours toreplace
-git checkout toreplace
-git merge replacement
-```

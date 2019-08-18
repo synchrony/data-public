@@ -1,7 +1,0 @@
-@id vlqYzWtc3GWHLVJG
-@title to declare a file a module (i.e. something with private predicates)
-@created 1513436972216
-@text ```
-:-  module(ModuleName, 
-           List_of_Predicates_to_be_Exported).
-```

@@ -1,7 +1,0 @@
-@id msBXJMSTbuyziw7O
-@title RenameMe
-@created 1361839163620
-@text ```
-git filter-branch -f --tree-filter 'rm -rf unwantedfile' HEAD
-git push origin master --force
-```

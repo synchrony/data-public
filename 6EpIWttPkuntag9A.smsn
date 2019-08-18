@@ -1,3 +1,0 @@
-@id 6EpIWttPkuntag9A
-@title the electronics of Digits are self-contained on the user’s wrist, but optically image the entirety of the user’s hand. This data is processed using a new pipeline that robustly samples key parts of the hand, such as the tips and lower regions of each ﬁnger. These sparse samples are fed into new kinematic models that leverage the biomechanical constraints of the hand to recover the 3D pose of the user’s hand. The proposed system works without the need for full instrumentation of the hand (for example using data gloves), additional sensors in the environment, or depth cameras which are currently prohibitive for mobile scenarios due to power and form-factor considerations.
-@created 1374525994574

@@ -1,3 +1,0 @@
-@id QL5z2OtwO7Xd7IJV
-@title SmSn lenses are acceptable but not stable, as the source may be changed externally.  Or are they stable, but only within a transaction?  It is not even clear that they are acceptable, as you don't necessarily get back exactly what you push.
-@created 1496787830803

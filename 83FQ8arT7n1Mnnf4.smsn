@@ -1,4 +1,0 @@
-@id 83FQ8arT7n1Mnnf4
-@title x <- "before"; e <- environment(); e$x <- "after"; x
-@created 1519255965697
-* :UQ5B5fqa7pdRE8vS: 

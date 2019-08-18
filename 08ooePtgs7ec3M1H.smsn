@@ -1,4 +1,0 @@
-@id 08ooePtgs7ec3M1H
-@title e <- new.env(); define.foo <- function(){e$foo <- "foo"}; define.foo(); e$foo
-@created 1519255480916
-* :wRgfJdPGqbnNjPkD: 

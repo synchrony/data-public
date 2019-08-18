@@ -1,3 +1,0 @@
-@id Ns44Lt7y0nZvZijO
-@title pipelining works only as long as operators are non-blocking, i.e. they do not stage the data without producing results for a long time
-@created 1351491649030

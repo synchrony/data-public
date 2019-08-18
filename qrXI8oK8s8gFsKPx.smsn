@@ -1,7 +1,0 @@
-@id qrXI8oK8s8gFsKPx
-@title functions can be evaluated to get values. literals are like statements; either they exist or not, but they don't evaluate to something else
-@created 1508717387659
-@text ```
-manager['bob']='sally' # function
-manages('sally','bob') # literal
-```

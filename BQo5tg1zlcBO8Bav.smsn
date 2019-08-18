@@ -1,3 +1,0 @@
-@id BQo5tg1zlcBO8Bav
-@title x.as(y) gives the name y to x; x.select(y).z lets z continue from whatever was named y in a previous(withinthe same dotted chain of function application) as-statement
-@created 1507077569538

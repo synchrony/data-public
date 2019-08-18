@@ -1,3 +1,0 @@
-@id 9JBl2HZhYV6c2qzj
-@title "If the buffer is read-only, Emacs will beep and refrain from deleting the text, but put the text in the kill ring anyway. This means that you can use the killing commands to copy text from a read-only buffer."
-@created 1338529203731

@@ -1,3 +1,0 @@
-@id uA1g5joEZitoYA7Y
-@title docker rm $(docker ps -a -q)
-@created 1487921892123

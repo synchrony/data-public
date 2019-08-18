@@ -1,4 +1,0 @@
-@id Adlw5o8UkURopPN0
-@title functions are contexts (and monads)
-@created 1502075408454
-@text "Not only is the function type (->) r a functor and an applicative functor, but it's also a monad. Just like other monadic values that we've met so far, a function can also be considered a value with a context. The context for functions is that that value is not present yet and that we have to apply that function to something in order to get its result value."

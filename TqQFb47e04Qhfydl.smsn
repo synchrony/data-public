@@ -1,4 +1,0 @@
-@id TqQFb47e04Qhfydl
-@title use ~ to negate a query
-@created 1508712162357
-@text print((salary[X]==Y) & ~(Y==110))

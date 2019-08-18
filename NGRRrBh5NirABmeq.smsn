@@ -1,3 +1,0 @@
-@id NGRRrBh5NirABmeq
-@title the user first enters contact/biographical information into a kiosk, which stores it in a database and assigns a unique ID number to their iBand. When the user shakes hands with another iBand user, ID numbers are exchanged and stored. Illumination patterns on LEDs woven into the fabric of the bracelet change incrementally to indicate the number of contacts collected and other information. When the user returns to the kiosk, it displays a list of new contacts by looking up the collected ID numbers in the database
-@created 1411834768432

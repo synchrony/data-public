@@ -1,3 +1,0 @@
-@id xP2A3fBi2amWfJrJ
-@title docker stop $(docker ps -a -q)
-@created 1487921892122

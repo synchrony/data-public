@@ -1,9 +1,0 @@
-@id rvcmueSiK254csrO
-@title NewType: create distinct subtypes
-@created 1520222759465
-@text ```
-UserId = NewType('UserId', int)
-some_id = UserId(524313)
-
-UserIds qualify as ints, but not the reverse.
-```

@@ -1,4 +1,0 @@
-@id 2JiAILfOLYXDrG7V
-@title "check /sys/block/sdX/queue/rotational, where sdX is the drive name. If it's 0, you're dealing with an SSD, and 1 means plain old HDD"
-@created 1414549795262
-* :gZRwIpJAu1m6Ihy3: 

@@ -1,7 +1,0 @@
-@id uPdpkaNa6gqgIU6K
-@title RenameMe
-@created 1364169297468
-@text ```
-java -cp "lib/*" jline.ConsoleRunner clojure.main
-[then just paste clj_ripple.clj contents into the REPL]
-```

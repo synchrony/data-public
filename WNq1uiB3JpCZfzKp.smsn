@@ -1,3 +1,0 @@
-@id WNq1uiB3JpCZfzKp
-@title the MapReduce framework operates exclusively on <key, value> pairs, that is, the framework views the input to the job as a set of <key, value> pairs and produces a set of <key, value> pairs as the output of the job, conceivably of different types
-@created 1395252459599

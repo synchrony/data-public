@@ -1,3 +1,0 @@
-@id lVcuajmQnOwIbdd9
-@title find . -type f -perm -001 2>/dev/null
-@created 1328556504558

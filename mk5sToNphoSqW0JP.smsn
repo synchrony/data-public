@@ -1,3 +1,0 @@
-@id mk5sToNphoSqW0JP
-@title [markdown]Shortcuts that begin with `C-c` are only available in smsn-mode. Other shortcuts that start with `C-` or `M-` are built into Emacs. Every command normally available in Emacs is available when Emacs is in smsn-mode. Move-submode, which is part of smsn-mode, offers some commands that don't require a modifier key. For instance, when in move-submode, you can press `b` to see a backward-view -- handy, but it means the letter `b` is not available for ordinary text entry.
-@created 1490607906167

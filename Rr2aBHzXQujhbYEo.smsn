@@ -1,3 +1,0 @@
-@id Rr2aBHzXQujhbYEo
-@title distributed query processing: queries are evaluated against the distributed sources by splitting the query in appropriate subqueries and combining the results from the remote sources
-@created 1427242144483

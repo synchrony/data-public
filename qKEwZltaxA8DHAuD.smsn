@@ -1,4 +1,0 @@
-@id qKEwZltaxA8DHAuD
-@title scripts for working with atmonto
-@created 1557966694564
-@text for i in `find /Users/joshsh/Downloads/allFilesTTL  -name "*.ttl"`; do rapper -i turtle -o ntriples $i >> all.nt; done

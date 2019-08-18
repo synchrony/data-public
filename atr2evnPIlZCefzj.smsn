@@ -1,7 +1,0 @@
-@id atr2evnPIlZCefzj
-@title consecutive writes make sense
-@created 1513126141108
-@text ```
-?-  write(a),write(’  ’),write(b).   
-a  b
-```

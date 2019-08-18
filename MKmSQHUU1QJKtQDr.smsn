@@ -1,9 +1,0 @@
-@id MKmSQHUU1QJKtQDr
-@title parse a file line by line in Groovy
-@created 1484681601064
-@text ```
-file = new File("/tmp/foo.csv")
-file.eachLine { line ->
-    System.out.println("line: " + line);
-}
-```

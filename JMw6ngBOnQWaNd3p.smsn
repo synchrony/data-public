@@ -1,3 +1,0 @@
-@id JMw6ngBOnQWaNd3p
-@title s <- spectrum(x); s$freq[which.max(s$spec)]
-@created 1427758229974

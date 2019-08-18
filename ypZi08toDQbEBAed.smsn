@@ -1,3 +1,0 @@
-@id ypZi08toDQbEBAed
-@title data.frame(committer=data$V1, commits=data$V2, adds=data$V3, deletes=data$V4, commits.total=cumsum(data$V2)/sum(data$V2), adds.total=cumsum(data$V3)/sum(data$V3), deletes.total=cumsum(data$V4)/sum(data$V4))
-@created 1498590720270

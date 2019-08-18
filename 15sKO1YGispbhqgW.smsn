@@ -1,8 +1,0 @@
-@id 15sKO1YGispbhqgW
-@title invoke: stack haddock
-@created 1505108279639
-@text ```
-Alternative ? From the docs online, it looked like I wanted this:
-
-haddock *.hs -h --odir=docs/
-```

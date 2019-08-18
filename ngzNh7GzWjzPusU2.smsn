@@ -1,3 +1,0 @@
-@id ngzNh7GzWjzPusU2
-@title the experimental setup is to place a photoresistor immediately in front of an LED, both controlled by an Arduino, in a darkened box. The photoresistor is assumed to have no latency. We wait for the value of the photoresistor to reach zero, then measure the time between the turning on of the LED and the photoresistor value reaching a predetermined threshold.
-@created 1506056756258

@@ -1,3 +1,0 @@
-@id 3IdUWRnW2XE56HJt
-@title out-of-order streams can be ordered by buffering and waiting for heartbeats, and the absence of a heartbeat can be compensated for with timeout mechanisms, in the worst case resulting in some query result imprecision
-@created 1352147942034

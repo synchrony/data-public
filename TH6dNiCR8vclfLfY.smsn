@@ -1,3 +1,0 @@
-@id TH6dNiCR8vclfLfY
-@title The \textit{structure} of a \textit{message} is a key-value tuple and is written in an agent communication language such as FIPA ACL. The propositional \textit{content} of the message is expressed in a \textit{content language} such as KIF or SL. Content expressions can be grounded by ontologies referenced within the ontology key-value tuple. The messages also contain the sender and receiver names, expressed as unique agent names.
-@created 1345179148419

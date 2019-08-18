@@ -1,3 +1,0 @@
-@id 92yWPECqpOD4hOdM
-@title so that we can generate query results, the global clock provides periodic "heartbeats" that tell us when no further stream elements or relation updates will occur with a timestamp lower than the heartbeat value
-@created 1352147845591

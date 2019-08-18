@@ -1,3 +1,0 @@
-@id WRngV4KUuRTXdDtk
-@title Reduce invocations are distributed by partitioning the intermediate keyspace into R pieces using a partiioning function (e.g. hash(key) mod R).  The number of partitions (R) and the partitioning function are specified by the user
-@created 1401123285833

@@ -1,3 +1,0 @@
-@id zG5dtstM7mF5JwXy
-@title example :: ExceptT MyErr IO a == IO (Either MyErr a); the LHS is just a newtype for a new monad instance that combines both effects
-@created 1508872806848

@@ -1,3 +1,0 @@
-@id FdiznLeZYj2PadWF
-@title lazy field: ghc warns(if it's enabled) if you forget to initialize the field, but puts an undefined in it. strict fields, it won't compile.
-@created 1507397809930

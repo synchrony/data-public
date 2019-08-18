@@ -1,4 +1,0 @@
-@id CTF2WHc1T0doK8jH
-@title no network dependencies during build other than a Maven repository; no initial setup. You should be able to just check out the git repository and build.
-@created 1519086519896
-* :NvU1GI3PS972rFV9: 

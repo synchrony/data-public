@@ -1,3 +1,0 @@
-@id K9YBpGFhT0byBkcd
-@title a data structure consisting of a group of nodes which together represent a sequence. Under the simplest form, each node is composed of a data and a reference (in other words, a link) to the next node in the sequence; more complex variants add additional links
-@created 1381025644419

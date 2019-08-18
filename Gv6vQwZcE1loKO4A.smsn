@@ -1,3 +1,0 @@
-@id Gv6vQwZcE1loKO4A
-@title When a message is sent it is encoded (e.g. using an \textit{encoding service}) into a \textit{payload}, and included in a \textit{transport message}, which is the payload itself plus a transport-specific \textit{envelope} (possibly using \textit{transport-specific properties}).  The payload is encoded using the \textit{encoding representation} appropriate for the transport.
-@created 1345179148419

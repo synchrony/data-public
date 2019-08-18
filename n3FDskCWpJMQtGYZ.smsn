@@ -1,3 +1,0 @@
-@id n3FDskCWpJMQtGYZ
-@title to load only selected public predicates from a module: ":-  use_module(module,[pred/1,..]).
-@created 1513437176176

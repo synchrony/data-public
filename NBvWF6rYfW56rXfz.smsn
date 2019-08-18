@@ -1,3 +1,0 @@
-@id NBvWF6rYfW56rXfz
-@title openssl s_client -connect {HOSTNAME}:{PORT} -showcerts
-@created 1397765509647

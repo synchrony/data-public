@@ -1,3 +1,0 @@
-@id wMVpgL9gpHnYea5k
-@title echo "" > /tmp/smsn-to-wiki.txt && vim /tmp/smsn-to-wiki.txt && cat /tmp/smsn-to-wiki.txt | sed 's/ :[a-zA-Z0-9]\{16\}://' | tr '·' '*' | sed 's/+ /* /'|grep -v "@created\|@source\|@weight" | tr '^' '?' | tr '\n' '^' | sed 's/\^ *@alias / -- /g' | tr '^' '\n' | sed 's/ (web page)//'
-@created 1503516030533

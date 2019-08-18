@@ -1,3 +1,0 @@
-@id hgC4xw7jfsxywsVE
-@title echo "125" | gpg --no-use-agent -o /dev/null --local-user [ID] -as - && echo "The correct passphrase was entered for this key"
-@created 1519803226645

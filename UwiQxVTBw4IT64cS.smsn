@@ -1,3 +1,0 @@
-@id UwiQxVTBw4IT64cS
-@title an owl:minCardinality owl:Restriction A subsumes another owl:minCardinality restriction B if the property restricted by B is a rdfs:subPropertyOf the property restricted by A, and the number of values specified by A is less than or equal to the number of values specified by B
-@created 1349461921853

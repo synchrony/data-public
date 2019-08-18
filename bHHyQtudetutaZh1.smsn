@@ -1,8 +1,0 @@
-@id bHHyQtudetutaZh1
-@title pitfall ! a variable name can differ from its associated sympy-symbol
-@created 1517010232010
-@text ```
->>> crazy = symbols('unrelated')
->>> crazy + 1
-unrelated + 1
-```

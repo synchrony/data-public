@@ -1,4 +1,0 @@
-@id 9FioJwQV1xTkQDzU
-@title use = instead of : in function definitions make "return" implicit
-@created 1520214315233
-@text def factorial(0) = 1

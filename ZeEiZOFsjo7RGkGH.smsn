@@ -1,3 +1,0 @@
-@id ZeEiZOFsjo7RGkGH
-@title write.table(df, file("/tmp/example.csv"), sep=",", row.names=FALSE, col.names=FALSE, quote=FALSE)
-@created 1483734225725

@@ -1,3 +1,0 @@
-@id H6MSs464NeXrlosT
-@title [markdown]If you can't remember the name (my usual state), you can show all the open buffers by pressing `C-x C-b`. This opens a second window, the `Buffer List`, with its own associated mode, `Buffer menu mode`. When the cursor is in the Buffer List, pressing `o` opens the buffer at point in the other window. ("At point" means "under the cursor" in Emacs-speak.) Buffer menu mode has all sorts of cool shortcuts, and the built-in Emacs documentation is outstanding; to learn about it, put the cursor in the buffer menu and press `?`.
-@created 1490252636916

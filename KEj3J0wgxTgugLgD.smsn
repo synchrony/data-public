@@ -1,3 +1,0 @@
-@id KEj3J0wgxTgugLgD
-@title protoc --proto_path=./idl/code.uber.internal/ --include_imports --include_source_info --descriptor_set_out=file.bin idl/code.uber.internal/data/schemas/geo/position.proto
-@created 1554420468378

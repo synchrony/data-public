@@ -1,3 +1,0 @@
-@id BDbWLmDCBSSDdx9u
-@title [markdown]One way to change the weight of a note is to insert a line after it that looks like "  @weight 0.75". There must be some leading space, and the number can be anything from 0 to 1 (inclusive). Sharability and priority can be changed similarly.
-@created 1490251513921

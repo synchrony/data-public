@@ -1,3 +1,0 @@
-@id ec8oCISwfIBdC521
-@title a memoized variant of call by name where, if the function argument is evaluated, that value is stored for subsequent uses
-@created 1537898962733

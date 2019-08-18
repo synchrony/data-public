@@ -1,4 +1,0 @@
-@id 00x1pFJP6PuFJk1m
-@title the tutorial distinguishes Symbols (something SymPy-specific) from Variables (Python-general)
-@created 1517010338373
-@text "the word 'Symbol' will refer to a SymPy Symbol and the word “variable” will refer to a Python variable."
