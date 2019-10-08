@@ -1,0 +1,4 @@
+@id zmGvh7sfL8axbvvf
+@title uber/petastorm: Petastorm library enables single machine or distributed training and evaluation of deep learning models from datasets in Apache Parquet format. It supports ML frameworks such as Tensorflow, Pytorch, and PySpark and can be used from pure Python code. (web page)
+@alias https://github.com/uber/petastorm
+@created 1566250752332
