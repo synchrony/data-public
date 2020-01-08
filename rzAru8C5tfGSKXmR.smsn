@@ -1,0 +1,3 @@
+@id rzAru8C5tfGSKXmR
+@title my observation: in APG, a tabular query result is just a set of hyperelements, which is also a graph. No distinction between SELECT and CONSTRUCT.
+@created 1576957808147

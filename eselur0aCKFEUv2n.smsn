@@ -1,0 +1,3 @@
+@id eselur0aCKFEUv2n
+@title possibly my own observation: graph DBs are heavily memory-based, even when backed by disk. No way around it.
+@created 1576957764369

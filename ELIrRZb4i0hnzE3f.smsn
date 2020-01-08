@@ -1,0 +1,16 @@
+@id ELIrRZb4i0hnzE3f
+@title fetch WellKnownTypes
+@created 1559182108268
+@text ```
+#!/bin/bash
+
+BASEURL=https://raw.githubusercontent.com/protocolbuffers/protobuf/master/src/google/protobuf/
+
+mkdir -p google/protobuf
+cd google/protobuf
+
+# note: we do not fetch descriptor.proto, which uses proto2 syntax
+for i in any duration field_mask timestamp wrappers; do wget ${BASEURL}${i}.proto; done
+
+cd -
+```
