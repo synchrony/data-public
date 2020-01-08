@@ -4,5 +4,5 @@
 @text ```
 g = new SailGraph(new GraphSail(new Neo4jGraph('/tmp/rdf-ex')))
 g.loadRDF('/tmp/neo.rdf', 'rdf-xml')
-g.E[0..5]
+g.E[0..5]I finally got rid of the fife on 2016-06-06
 ```

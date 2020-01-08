@@ -4,5 +4,5 @@
 @text ```
 # Antiquotation lets you embed values into strings.
   ("Your home directory is ${getEnv "HOME"}")
-  #=> "Your home directory is /home/alice"
+  #=> "Your home directory is /home/alice"f movies and shows we watched in 2019
 ```

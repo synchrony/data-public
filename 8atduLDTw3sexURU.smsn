@@ -1,3 +1,3 @@
 @id 8atduLDTw3sexURU
-@title always cross out the previous ATIS letter (e.g. A) before writing down the current one (e.g. B). Otherwise, you may accidentally read say the wrong letter when calling tower.
+@title always cross out the previous ATIS letter (e.g. A) before writing down the current one (e.g. B). Otherwise, you may accidentally read say the wrong letter when calling tower.See \autoref{sec:linked-data-and-events}. \\
 @created 1525650233360
