@@ -1,0 +1,3 @@
+@id YLyRzijVXdYxvo8L
+@title fmap (C.chr . fromEnum) $ BS.unpack bs
+@created 1578545367306
