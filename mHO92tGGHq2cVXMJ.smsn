@@ -1,0 +1,4 @@
+@id mHO92tGGHq2cVXMJ
+@title [AVRO-1340] use default to allow old readers to specify default enum value when encountering new enum symbols - ASF JIRA (web page)
+@alias https://issues.apache.org/jira/browse/AVRO-1340
+@created 1582572018072

@@ -1,0 +1,3 @@
+@id KdpPDg5W4VxYKk4W
+@title lns <- lines <$> readFile "/tmp/foo.csv"
+@created 1583051996145
