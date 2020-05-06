@@ -1,0 +1,3 @@
+@id 5iymIncdq1ER3Yu4
+@title a time and space-efficient implementation of lazy byte vectors using lists of packed Word8 arrays, suitable for high performance use, both in terms of large data quantities, or high speed requirements
+@created 1586040657961
