@@ -1,0 +1,15 @@
+@id IeZQYyRL7h0PHYkj
+@title adding a legend for the plot colors
+@created 1522954638025
+@text ```
+www.labri.fr/perso/nrougier/teaching/matplotlib/scripts/exercice_8.py
+
+basically just add this line
+
+  plt.legend(loc='upper left', frameon=False)
+
+assuming something like these already exists:
+
+  plt.plot(X, C, color="blue", linewidth=2.5, linestyle="-", label="cosine")
+  plt.plot(X, S, color="red",  linewidth=2.5, linestyle="-", label="sine")
+```

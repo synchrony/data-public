@@ -1,0 +1,7 @@
+@id gb4DBGYMyvpbBuam
+@title adjust margins with "limits"
+@created 1522951509542
+@text ```
+plt.xlim(X.min()*1.1, X.max()*1.1)
+  # this gives a 10% margin on either side of the figure's support
+```

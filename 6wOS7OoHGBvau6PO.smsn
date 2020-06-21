@@ -1,0 +1,4 @@
+@id 6wOS7OoHGBvau6PO
+@title Const and Identity are the atoms of ADTs
+@created 1522267561043
+@text e.g. type Maybe a = Either (Const () a) (Identity a)

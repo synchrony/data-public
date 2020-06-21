@@ -1,0 +1,14 @@
+@id w66DYb4YGpXipQVQ
+@title "ticks" = the orienting marks, usually on the boundaries
+@created 1522951577072
+@text ```
+# they don't have to be integers, and they can be given nondecimal labels
+
+plt.xticks([-np.pi, -np.pi/2, 0, np.pi/2, np.pi],
+       [r'$-\pi$', r'$-\pi/2$', r'$0$', r'$+\pi/2$', r'$+\pi$'])
+
+plt.yticks([-1, 0, +1])
+```
+* :AHRjBeRr3FAf1xX1: 
+* :o5LohuKqAI1b9Xle: 
+* :KzFngG1sxAD8BHAx: 

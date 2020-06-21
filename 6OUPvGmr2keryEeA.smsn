@@ -1,0 +1,16 @@
+@id 6OUPvGmr2keryEeA
+@title "annotate" : call out special points
+@created 1522954968235
+@text ```
+http://www.labri.fr/perso/nrougier/teaching/matplotlib/scripts/exercice_9.py
+
+# the vertical lines are made like this
+
+plt.plot([t,t],[0,np.cos(t)],
+         color ='blue',  linewidth=1.5, linestyle="--")
+
+# the called-out points, and their labels, and the arrow from the label to the point,
+# are made with the "annotate" command
+
+# the points themselves are re-drawn with the "scatter" command
+```

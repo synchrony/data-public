@@ -1,0 +1,12 @@
+@id R1e9CZwsV0aQeORz
+@title length & rhyme :: some notation
+@created 1525230281242
+@text ```
+rhyme 
+  each rhyme ending gets a letter of the alphabet starting at a
+  use * for a line that isn't rhymed with another
+
+line length: use a number, or ? for "any length works here"
+
+both: put the number first
+```

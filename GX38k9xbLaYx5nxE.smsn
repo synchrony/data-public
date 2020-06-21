@@ -1,0 +1,11 @@
+@id GX38k9xbLaYx5nxE
+@title cp \ bash :: include hidden files
+@alias https://superuser.com/questions/61611/how-to-copy-with-cp-to-include-hidden-files-and-hidden-directories-and-their-con
+@created 1521772460986
+@text ```
+Lets say you created the new folder (or are going to create one) and want to copy the files to it after the folder is created
+
+mkdir /home/<new_user>
+cp -r /etc/skel/. /home/<new_user>
+This will copy all files/folder recursively from /etc/skel in to the already existing folder created on the first line.
+```

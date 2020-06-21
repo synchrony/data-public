@@ -1,0 +1,28 @@
+@id gc4my3BnMtsWfvfK
+@title unfiled notes \ natural transformations \ category theory
+@created 1523308415937
+@text ```
+.
+  2-category: has "2-morphisms", morphisms between morphisms
+    example: Cat
+      Objects: (Small) categories
+      1-morphisms: Functors between categories
+      2-morphisms: Natural transformations between functors.
+        because a hom-set of functors is itself a category
+        in fact those are called hom-categories
+  two kinds of composition in Cat
+    functors and natural transf's both compose
+  horizontal vs. vertical composition of natural transf's
+    vertical composition : b . a, where
+        a :: F -> G, b :: G -> H
+        F, G, H :: C -> D
+    horizontal composition : b ∘ a, where
+        a :: F -> F' and F, F' :: C -> D
+        b :: G -> G' and G, G' :: D -> E
+      b ∘ a is a natural transf. from G . F to G' . F'
+      That it exists is surprising; see the proof sketch in
+        sec. 1.10, Natural Transformations, subsection "2-Categories",
+        starting from "let me sketch the construction".
+    "following Mac Lane I use the small circle [C-x 8 RET ring operator] for horizontal composition, although you may also encounter star in its place"
+  "Here’s a categorical rule of thumb: Every time you have composition, you should look for a category. We have vertical composition of natural transformations, and it’s part of the functor category. But what about the horizontal composition?"
+```

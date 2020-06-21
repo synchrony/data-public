@@ -1,0 +1,4 @@
+@id Bw034vNewOcfmMbu
+@title monoids are single-object categories
+@created 1522088393694
+@text For instance, the set of functions (+ x) that add a constant x to a number, is a set of functions from the reals to the reals. The single object in this case is the reals.

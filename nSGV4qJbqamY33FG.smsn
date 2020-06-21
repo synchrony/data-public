@@ -1,0 +1,33 @@
+@id nSGV4qJbqamY33FG
+@title unfiled \ recording
+@created 1523308242257
+@text ```
+my acoustic's neck has a 16" radius
+  christian's strat is probably 12"
+
+F5 in Claudia starts JACK
+
+JACK settings for builtin v. focusrite
+  focusrite: 2 in 4 out, 64 samples per buffer
+    (fewer than 64 seems to make glitches)
+  builtin: 2 in 2 out, 1024 samples per buffer
+    (I didn't try to push it to fewer samples)
+"to add a Calf effect in Ardour"
+  http://slackermedia.ml/handbook/doku.php?id=calf
+
+mics
+  lipstick mic rejects worse from the axis with the label than the other one
+  big diaphragm mic rejects excellent along its long axis and from behind the label, less well on the barred sides, and hears best from in front of the label
+
+buffer size, latency & pops
+  I recorded the metronome into the mic, then looked at the track,
+  256 sample buffer size
+    10 ms observed latency, 11.6 ms theoretical (2 * 256 / 441K)
+    chrome and smsn running, no observed pops in a 13 second recording
+  128 size
+    5 observed, 5.8 theoretical
+    again no pops
+
+ardour: export to CD format ..!
+  the higher-depth default is unplayable and fucks up ALSA or something
+```

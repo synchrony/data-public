@@ -1,0 +1,9 @@
+@id vx77892oAIJvUOb6
+@title "rocks"
+@created 1525574552372
+@text ```
+P back-rock: step back with P, then rock forward onto P', then replace P
+  the last of those three steps takes twice as long
+P front-rock: step forward with P, then rock backward onto P', then replace P
+  the last of those three steps takes twice as long
+```

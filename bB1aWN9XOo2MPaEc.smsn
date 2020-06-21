@@ -1,0 +1,4 @@
+@id bB1aWN9XOo2MPaEc
+@title with {-# LANGUAGE DeriveFunctor #-}, write "deriving Functor" after any ADT made of functors
+@created 1522723970678
+@text note that Identity and Const are functors

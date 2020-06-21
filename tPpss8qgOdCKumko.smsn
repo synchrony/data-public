@@ -1,0 +1,9 @@
+@id tPpss8qgOdCKumko
+@title to override the default CMD or ENTRYPOINT
+@created 1524862341745
+@text ```
+https://serverfault.com/questions/594281/how-can-i-override-cmd-when-running-a-docker-image
+
+docker run -it --entrypoint=/bin/bash $IMAGE -i
+  that second -i might be redundant
+```

@@ -1,0 +1,8 @@
+@id AHRjBeRr3FAf1xX1
+@title to make the curves lighter behind the tick labels
+@created 1522955160150
+@text ```
+# draw the ticks after the curves and use background alpha 
+
+http://www.labri.fr/perso/nrougier/teaching/matplotlib/scripts/exercice_10.py
+```

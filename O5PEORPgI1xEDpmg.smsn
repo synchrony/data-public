@@ -1,5 +1,5 @@
 @id O5PEORPgI1xEDpmg
-@title start some transactions
+@title to start some transactions in JanusGraph
 @created 1507148914943
 @text ```
 graph = JanusGraphFactory.open("berkeleyje:/tmp/janusgraph")

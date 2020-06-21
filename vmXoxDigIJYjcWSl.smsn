@@ -1,0 +1,4 @@
+@id vmXoxDigIJYjcWSl
+@title stream to audio \ bash :: cat /dev/urandom | aplay
+@alias https://unix.stackexchange.com/questions/13732/generating-random-noise-for-fun-in-dev-snd
+@created 1521913098278

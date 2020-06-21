@@ -1,0 +1,7 @@
+@id FkguMNDmwLMYIJul
+@title basic + spin while stepping sideways
+@created 1525475685566
+@text ```
+forward rock like normal
+during spin, replace back rock with right rock
+```

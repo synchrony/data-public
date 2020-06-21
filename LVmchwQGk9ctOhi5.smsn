@@ -1,0 +1,12 @@
+@id LVmchwQGk9ctOhi5
+@title python / PITFALL :: REPL & shell might use different "Python paths"
+@created 1525126880442
+@text ```
+This happened to me when using Docker.
+
+This post describes a solution:
+  https://stackoverflow.com/questions/30378105/python-modules-not-found-over-terminal-but-on-python-shell-linux
+
+Fully fleshed out code implementing that solution can be found in the "docker/go.sh" file in this project:
+  https://github.com/JeffreyBenjaminBrown/observatorio-mailing-list
+```

@@ -1,0 +1,14 @@
+@id xKLXDFQqvk3qzp7z
+@title linspace : generate a domain for some functions
+@created 1522951219996
+@text ```
+# This plots C and S (ranges) over the domain X
+
+X = np.linspace(-np.pi, np.pi, 256, endpoint=True)
+C,S = np.cos(X), np.sin(X)
+
+plt.plot(X,C)
+plt.plot(X,S)
+
+plt.show()
+```

@@ -1,0 +1,10 @@
+@id kDU3pvnoVNp29xtN
+@title ? by duality, since products are bifuntors, sums are also bifunctors
+@created 1522266976017
+@text ```
+Bartosz M, section 1.8 (Functoriality) of Category Theory:
+"By duality, a coproduct, if it’s defined for every pair of objects in a category, is also a bifunctor. In Haskell, this is exemplified by the Either type constructor being an instance of Bifunctor:"
+
+But we only reversed some of the arrows!
+```
+* :gHYCjNOE4nCJ50P5: 

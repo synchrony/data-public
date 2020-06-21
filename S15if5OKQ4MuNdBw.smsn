@@ -1,0 +1,12 @@
+@id S15if5OKQ4MuNdBw
+@title to make a Google Sheet publicly downloadable as .csv
+@created 1524086677837
+@text ```
+publish it:
+  from the Google Sheet, select File -> Publish to Web
+  choose Link (not Embed), and CSV (not Web Page)
+  copy the link
+
+download it (from bash):
+  curl 'link'
+```

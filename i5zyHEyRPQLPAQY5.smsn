@@ -1,0 +1,18 @@
+@id i5zyHEyRPQLPAQY5
+@title some language \ salsa (dance)
+@created 1525475872353
+@text ```
+all notes are from male point of view
+  so arguably gender notations are redundant but whatev
+
+let M,F = male, female
+let P,H = foot, hand
+  warning: sometimes I use F for foot rather than P
+
+let P (for foot) be in [L,R]
+let P' = the other foot
+
+GSH @ GSH, for G(ender) in [M,F] and S(ide) in [L,R]:
+  says whose hand is holding whose
+```
+@weight 0.75
