@@ -1,0 +1,4 @@
+@id KneDD2G4ndlOP5H6
+@title DockerWikibaseQueryService (web page)
+@alias https://query.personaldata.io/embed.html#PREFIX%20pdio%3A%20%3Chttp%3A%2F%2Fwiki.personaldata.io%2Fentity%2F%3E%0APREFIX%20pdiot%3A%20%3Chttp%3A%2F%2Fwiki.personaldata.io%2Fprop%2Fdirect%2F%3E%0A%0ASELECT%20%3Fitem%20%3Flabel%20%3Fweb%20WHERE%20%7B%0A%20%20%3Fitem%20pdiot%3AP121%20pdio%3AQ1991.%0A%20%20%3Fitem%20pdiot%3AP15%20%3Fweb%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%0A%20%20%20%20bd%3AserviceParam%20wikibase%3Alanguage%20%22en%22%20.%20%0A%20%20%20%20%3Fitem%20rdfs%3Alabel%20%3Flabel%0A%20%20%7D%0A%20%20%0A%7D%0ALIMIT%20100
+@created 1573679440495

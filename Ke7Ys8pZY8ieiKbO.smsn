@@ -1,3 +1,3 @@
 @id Ke7Ys8pZY8ieiKbO
-@title /usr/bin/ruby -e "$(curl -fsSL https://raw.github.com/gist/323731)"
+@title /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 @created 1328665618654

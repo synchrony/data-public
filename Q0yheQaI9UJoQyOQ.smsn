@@ -8,5 +8,5 @@ ig = new IdGraph(g, true, false)  // true for vertices, false for edges
 hercules = ig.addVertex("hercules")
 g.v("hercules")
 zeus = ig.addVertex("zeus")
-ig.addEdge("hercules-father", hercules, zeus, "father");
+ig.addEdge("hercules-father", hercules, zeus, "father");brief time playing baseball in elementary school
 ```

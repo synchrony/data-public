@@ -1,0 +1,3 @@
+@id 8NhNNQoOmPWXFxy6
+@title readFile  :: FilePath -> IO String
+@created 1578506559997

@@ -4,5 +4,5 @@
 @text ```
 Or, if tax.co is not a top-level folder:
 
-sudo docker run --name anac -itd -p 8888:8888 -v /home/jeff/javeriana/tax.co:/mnt continuumio/anaconda3
+sudo docker run --name anac -itd -p 8888:8888 -v /home/jeff/javeriana/tax.co:/mnt continuumio/anaconda3s for presentations for the next few weeks
 ```

@@ -1,0 +1,14 @@
+@id ozorT6PRBf8mP8M4
+@title steps to delete all content and history
+@created 1591205547757
+@text ```
+cat .git/config  # note <github-url>
+mv .git /tmp
+rm -rf *
+git init
+echo "TODO" > README.md
+git add README.md
+git commit -a -m "Initial commit"
+git remote add origin <github-url>
+git push -u --force origin master
+```

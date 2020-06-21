@@ -1,3 +1,3 @@
 @id bRIWmlDEixmyx5m3
-@title g <- graph.data.frame(adj)  # where adj is a two-column data frame
+@title g <- graph.data.frame(adj)  # where adj is a two-column data framey factor for elapsed time t with half-life h
 @created 1342074308342

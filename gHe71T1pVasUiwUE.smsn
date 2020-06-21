@@ -1,0 +1,3 @@
+@id gHe71T1pVasUiwUE
+@title gremlin-haskell appears to be a wrapper API for Gremlin Server, sending queries as text and receiving responses as JSON. It does not appear to delve into evaluation of Gremlin traversals.
+@created 1525838268629

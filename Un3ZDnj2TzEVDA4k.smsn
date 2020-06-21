@@ -1,0 +1,3 @@
+@id Un3ZDnj2TzEVDA4k
+@title java -jar target/avro-mocker.jar -schema /tmp/avro/data/schemas/geo/tmp.avsc -result /tmp/out.json
+@created 1553917382533

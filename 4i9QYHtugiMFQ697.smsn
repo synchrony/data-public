@@ -1,3 +1,3 @@
 @id 4i9QYHtugiMFQ697
-@title RETURN DISTINCT person.__id, name.__id
+@title RETURN DISTINCT person.__id, name.__idvoids (among other things) case sensitivity issues
 @created 1383949701969

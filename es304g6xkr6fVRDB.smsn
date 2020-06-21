@@ -1,3 +1,3 @@
 @id es304g6xkr6fVRDB
-@title "an agent’s actions will affect the subsequent data it receives. For example, an agent’s action of moving left instead of right means that the agent will receive different input from the environment at the next time step"
+@title "an agent’s actions will affect the subsequent data it receives. For example, an agent’s action of moving left instead of right means that the agent will receive different input from the environment at the next time step"\u2019s actions will affect the subsequent data it receives. For example, an agent\u2019s action of moving left instead of right means that the agent will receive different input from the environment at the next time step"
 @created 1484242997420

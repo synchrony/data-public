@@ -1,0 +1,3 @@
+@id L182huJaW5PUFnYc
+@title CREATE KEYSPACE tmp WITH REPLICATION = { 'class' : 'SimpleStrategy', 'replication_factor' : 3};
+@created 1538428687388

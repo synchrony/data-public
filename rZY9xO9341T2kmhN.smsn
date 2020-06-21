@@ -1,0 +1,35 @@
+@id rZY9xO9341T2kmhN
+@title my navlog program in R
+@created 1566656371932
+@text ```
+tc <- c() # degrees true
+dist <- c() # nm
+wind.dir <- c() # degrees true
+wind.speed <- c() # knots
+fuel.gal <- 35
+
+var <- 14
+fuel.burn.gal.h <- 4.9
+tas <- 95
+
+
+wta <- tc - (180 - wind.dir)
+wca <- asin(wind.speed * sin(wta*pi/180)/tas) * 180/pi
+th <- tc + wca
+mh <- th - var
+mc <- tc - var
+gs <- tas - wind.speed * cos(pi*(wind.dir-tc)/180)
+fuel.rem <- fuel.gal - fuel.burn.gal.h * cumsum(dist/gs)
+ete <- 60 * dist/gs
+eta <- cumsum(ete)
+
+
+mc
+wca
+th
+mh
+gs
+ete
+eta
+fuel.rem
+```

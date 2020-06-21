@@ -1,0 +1,3 @@
+@id InFHoYPytBxEbTov
+@title from a "both modified" or "both added" state, use "git checkout --ours" or "git checkout --theirs". Finally, use "git add"
+@created 1580152255933

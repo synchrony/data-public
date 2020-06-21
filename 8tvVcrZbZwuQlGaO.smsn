@@ -1,0 +1,3 @@
+@id 8tvVcrZbZwuQlGaO
+@title use Data.ByteString.Lazy.Char8 instead, which offers pack and unpack
+@created 1580827435221

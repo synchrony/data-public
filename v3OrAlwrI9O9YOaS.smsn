@@ -1,0 +1,3 @@
+@id v3OrAlwrI9O9YOaS
+@title unlike tracking a flight, for tracking a camping trip you should use a low frequency (for our April 2018 trip to Santa Cruz Island, I used a one-minute interval, and chose not to log locations when there was no motion). In addition, make sure you have selected "New file creation: Every time I start" in GPSLogger; I find that only the first day is logged if you have selected "Once a day".
+@created 1523057562399

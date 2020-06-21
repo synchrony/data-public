@@ -7,4 +7,4 @@ follow = mgmt.makeEdgeLabel('follow').multiplicity(MULTI).make()
 mother = mgmt.makeEdgeLabel('mother').multiplicity(MANY2ONE).make()
 mgmt.commit()
 ```
-* :fMHUyeyQzI6oLDn1: 
+* :vKvJ4wnTij6LLKp6: 

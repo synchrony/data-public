@@ -1,0 +1,3 @@
+@id bgfP8jTapU5maCRY
+@title OPT+ differs from OPTIONAL in that it is monotonic and may yield more results; whereas OPTIONAL is cautious and waits until all triples have been processed before it declares that a variable is unbound, OPT+ will produce a result immediately in which the variable is unbound, then produce additional results if it does become bound.
+@created 1572127400167

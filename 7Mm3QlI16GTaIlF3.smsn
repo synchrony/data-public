@@ -1,0 +1,3 @@
+@id 7Mm3QlI16GTaIlF3
+@title writeFile :: FilePath -> String -> IO ()
+@created 1578506559997
