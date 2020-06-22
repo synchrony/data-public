@@ -1,4 +1,4 @@
 @id zII0KgM9owxEQNZq
-@title wget http://127.0.0.1:8080/test --post-data "µπσΩ°·฿±¢Øøÿ äëïöü ÄËÏÖÜ"\u00B5\u03C0\u03C3\u03A9\u00B0\u00B7\u0E3F\u00B1\u00A2\u00D8\u00F8\u00FF \u00E4\u00EB\u00EF\u00F6\u00FC \u00C4\u00CB\u00CF\u00D6\u00DC"
+@title wget http://127.0.0.1:8080/test --post-data "µπσΩ°·฿±¢Øøÿ äëïöü ÄËÏÖÜ"
 @created 1488683619053
 * :jnoGI0IIFsRH5mzu: 

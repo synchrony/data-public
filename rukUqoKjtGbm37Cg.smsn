@@ -1,4 +1,4 @@
 @id rukUqoKjtGbm37Cg
-@title find /path/to -regex ".*\.\(jpg\|gif\|png\|jpeg\)" > logmy 2012-09-14 convo with Prof. Hendler
+@title find /path/to -regex ".*\.\(jpg\|gif\|png\|jpeg\)" > log
 @created 1469061934330
 * :SaqSRMWfErTYxgJj: 
