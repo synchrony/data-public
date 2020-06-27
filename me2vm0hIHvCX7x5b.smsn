@@ -1,0 +1,9 @@
+@id me2vm0hIHvCX7x5b
+@title occur (Emacs mode)
+@created 1593197748627
+@text ```
+M-s o starts
+occur mode, enter a regular expression.  The frame will split into two
+windows, and if you click a line in the occur window, your cursor will
+jump to that line in the regular window.
+```

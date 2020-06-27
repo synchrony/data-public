@@ -1,0 +1,8 @@
+@id 5mC2UDLd1ruScSVl
+@title motivation: some points from 4QL's README
+@created 1593137661253
+@text ```
+4QL is a rule-based database query language with negation allowed in premises and conclusions of rules.
+4QL is the first such language with tractable and at the same time intuitive semantics, even though the area of deductive databases is over 30 years old.
+4QL is founded on a four-valued semantics with truth values: true, false, inconsistent and unknown.
+```
