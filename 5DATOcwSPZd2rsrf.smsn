@@ -1,0 +1,14 @@
+@id 5DATOcwSPZd2rsrf
+@title press 'd' to show the "diff popup"
+@created 1593224363653
+@text ```
+The key command isn't really done at that point -- it will propmt the user for switches. For instance:
+
+`d d` brings you to a dedicated diff buffer
+`d s` brings you to a dedicated diff buffer, for only staged changes
+etc.
+
+For details on what can be done after pressing the first `d`, read about the "diff popup", e.g. here:
+
+https://emacsair.me/2017/09/01/magit-walk-through/
+```

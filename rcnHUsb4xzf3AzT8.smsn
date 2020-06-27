@@ -1,0 +1,13 @@
+@id rcnHUsb4xzf3AzT8
+@title rectangles in Emacs: how to copy, kill and yank
+@created 1593197125679
+@text ```
+C-x SPACE -- begin marking a rectangle
+  If a rectangle is highlighted this way,
+  ordinary commands to copy, kill and yank it can be used,
+  instead of the special ones below.
+
+C-x r M-w -- copy a rectangle
+C-x r k -- kill a rectangle
+C-x r y -- yank a copied or killed rectangle
+```

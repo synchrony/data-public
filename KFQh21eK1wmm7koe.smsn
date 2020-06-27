@@ -1,0 +1,4 @@
+@id KFQh21eK1wmm7koe
+@title exec bash -l
+@created 1592938061321
+@text Replaces current shell with a new one, rereads `.profile` and similar files.
