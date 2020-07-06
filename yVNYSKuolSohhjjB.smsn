@@ -1,0 +1,8 @@
+@id yVNYSKuolSohhjjB
+@title The logic behind the assignment.
+@created 1593481990086
+@text ```
+Where possible, each number is assigned the vowel it sounds closest too.
+That's not possible for 5, 8 and 9, though, because their vowels are dipthongs.
+I assigned them L, R and N so I can remember the mnemonic "LeaRN".
+```

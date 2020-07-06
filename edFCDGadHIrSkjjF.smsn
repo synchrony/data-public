@@ -1,0 +1,8 @@
+@id edFCDGadHIrSkjjF
+@title "Corrections" for live-code results.
+@created 1593348196626
+@text ```
+It could be that applying some functions to a pattern makes a great melody except for one particular note. Changing the underlying pattern and functions to fix that one note changes all the others, ruining the result. So instead, apply a function to the result, which chnages just the one note.
+
+This can be generalized. For instance, maybe that one pitch has to be changed every time it appears, or only every time it appears in conjunction with another pitcj in another voice. Or maybe not the pitch, but the time of a note needs changing.
+```

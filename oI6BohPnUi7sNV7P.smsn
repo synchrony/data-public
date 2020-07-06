@@ -3,6 +3,24 @@
 @created 1497931827640
 @text ```
 7-tone scale generalized: iterate a group transformation until close to identity
-  => one weird interval
-  => ? lots of similar triads with one interruption
+
+The diatonic scales can be derived from the cycle of fifths. If you start at C and rise a perfect 5th for a while, you'll get all the notes of the lydian scale if you stop as soon as you're a halfstep from unity.
+
+In higher EDOs, this idea can generate a bunch of new scales. For insta,ce, if you cycle by 14\31 until within 2\31 of the octave, you get this:
+
+> L.sort $ map (flip mod 31) $
+  takeWhile (\x -> abs (myMod x 31) > 2) $
+  [14,28..]
+[5,8,11,14,19,22,25,28]
+
+where
+```
+myMod :: Int -> Int -> Int
+myMod x b =
+  let m = mod' x b
+  in if m > round (fromIntegral b/2)
+     then m-b else m
+```
+
+Perhaps surprisingly, cycling by a single interval doesn't turn up very many new useful-looking things. But I didn't systematically explore compound transformations like "up 2, then up 5".
 ```
