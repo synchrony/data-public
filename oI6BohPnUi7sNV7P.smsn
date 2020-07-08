@@ -14,13 +14,13 @@ In higher EDOs, this idea can generate a bunch of new scales. For insta,ce, if y
 [5,8,11,14,19,22,25,28]
 
 where
-```
+\```
 myMod :: Int -> Int -> Int
 myMod x b =
   let m = mod' x b
   in if m > round (fromIntegral b/2)
      then m-b else m
-```
+\```
 
 Perhaps surprisingly, cycling by a single interval doesn't turn up very many new useful-looking things. But I didn't systematically explore compound transformations like "up 2, then up 5".
 ```
