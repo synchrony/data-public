@@ -1,0 +1,10 @@
+@id Ni0sMcOQLtmP6p9U
+@title pitfall: frequency scaling can cause big latency in Ardour
+@created 1469061934366
+@text ```
+System failed the quick sanity check... Looking for the cause
+
+!!! WARNING !!! - Your system seems to use frequency scaling.
+This can have a serious impact on audio latency.
+For best results turn it off, e.g. by chosing the 'performance' governor.
+```
