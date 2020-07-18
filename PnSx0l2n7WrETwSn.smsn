@@ -1,0 +1,10 @@
+@id PnSx0l2n7WrETwSn
+@title grep & sort :: sort files by number of grep matches
+@created 1594341322771
+@text ```
+grep "some regular expression" -r . -c | sort -n -t: -k2
+
+The -c field says "count total matches per file".
+The -t field states that the : is the separator.
+The -k2 field says use the 2nd field (fields are 1-indexed).
+```
