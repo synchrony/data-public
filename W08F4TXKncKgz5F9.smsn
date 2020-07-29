@@ -1,0 +1,3 @@
+@id W08F4TXKncKgz5F9
+@title I fixed this by not only uninstalling IDEA, but also deleting all of the supporting files in /Application, /Library, [home]/Application, and [home]/Library, then reinstalling IDEA
+@created 1596044339380
