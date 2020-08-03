@@ -7,3 +7,4 @@ sudo mkfs -t ext4 /dev/xvdg
 sudo mkdir /joshsh
 sudo mount /dev/xvdg /joshsh
 ```
+* :znVt6qFXfnTVdfdE: 
