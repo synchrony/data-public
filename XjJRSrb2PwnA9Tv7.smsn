@@ -1,0 +1,10 @@
+@id XjJRSrb2PwnA9Tv7
+@title calculation in R
+@created 1597511692661
+@text ```
+n <- 46.66
+s <- 36.73+32.52
+w <- 86.29
+e <- 90.44
+area <- n*w + (s-n)*sqrt(e^2-(s-n)^2)/2
+```
