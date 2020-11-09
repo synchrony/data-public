@@ -1,0 +1,101 @@
+@id AUeRFG1J36ZdfqEl
+@title querying for airports in Wikidata
+@created 1604085193079
+@text ```
+# Total airports (24786 as of 2020-10-30)
+select (count(distinct(?airport)) as ?count) WHERE {
+  ?airport ps:P31 wd:Q1248784.
+}
+
+# US airports with ICAO codes, names, and states
+SELECT ?airport ?code ?name ?stateName WHERE {
+  ?airport wdt:P31 wd:Q1248784 .
+  ?airport wdt:P17 wd:Q30 .
+  ?airport wdt:P239 ?code .
+  ?airport rdfs:label ?name .
+  ?airport wdt:P131 ?state .
+  ?state rdfs:label ?stateName .
+  FILTER (lang(?name) = 'en')
+  FILTER (lang(?stateName) = 'en')
+}
+
+# Count US airports (13958 as of 2020-10-30)
+select (count(distinct(?airport)) as ?count) WHERE {
+  ?airport wdt:P31 wd:Q1248784 .
+  ?airport wdt:P17 wd:Q30 .
+}
+
+# Airports ordered by increasing distance from Reid-Hillview
+SELECT ?airport ?code ?name ?elev ?dist ?country ?state WHERE {
+  ?airport wdt:P31 wd:Q1248784 .
+  OPTIONAL {
+    # Use FAA codes, not ICAO codes (wdt:P239), which the smallest airports don't have
+    ?airport wdt:P240 ?code .
+  }
+  OPTIONAL {
+    ?airport rdfs:label ?name .
+    FILTER (lang(?name) = 'en')
+  }
+  #OPTIONAL {
+  #  ?airport wdt:P17 ?c . # wd:Q30 is USA
+  #  ?c rdfs:label ?country .
+  #  FILTER (lang(?country) = 'en')
+  #}
+  #OPTIONAL {
+  #  ?airport wdt:P131 ?s . # wd:Q99 is California
+  #  ?s rdfs:label ?state .
+  #  FILTER (lang(?state) = 'en')
+  #}
+  OPTIONAL {
+    ?airport wdt:P2044 ?elev .
+  }
+  
+  ?airport wdt:P625 ?loc .
+  wd:Q7309935 wdt:P625 ?rhvLoc .
+  BIND(geof:distance(?loc, ?rhvLoc) AS ?dist).
+}
+ORDER BY ?dist
+
+# Grass runways near me
+SELECT ?airport WHERE {
+  ?airport wdt:P31 wd:Q1248784 .
+  ?airport wdt:P529 ?runway .
+  ?runway wdt:P186 ?material .
+  
+  ?airport wdt:P625 ?loc .
+  wd:Q7309935 wdt:P625 ?rhvLoc .
+  BIND(geof:distance(?loc, ?rhvLoc) AS ?dist).
+}
+ORDER BY ?dist
+
+# One specific airport
+select ?p ?o where {
+  wd:Q1431894 ?p ?o .
+}
+
+# Distinct runway materials (doesn't work)
+SELECT DISTINCT ?material WHERE {
+  ?airport wdt:P31 wd:Q1248784 .
+  ?airport wdt:P529 ?runway .
+  ?runway wdt:P186 ?material .
+}
+
+# Other / old
+select ?airport ?p ?o WHERE {
+  ?airport ps:P31 wd:Q1248784 .
+  ?airport ?p ?o .
+}
+select ?airport ?p ?q ?plab WHERE {
+  ?airport ps:P31 wd:Q1248784.
+  ?p ?q ?plab.
+}
+select distinct ?country ?countryLab WHERE {
+  ?airport wdt:P31 wd:Q1248784 .
+  ?airport wdt:P17 ?country .
+  ?country wdt:P1705 ?countryLab .
+}
+select ?airport ?country WHERE {
+  ?airport wdt:P31 wd:Q1248784 .
+  ?airport wdt:P17 ?country .
+}
+```
