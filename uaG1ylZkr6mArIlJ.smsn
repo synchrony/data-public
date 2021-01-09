@@ -1,0 +1,3 @@
+@id uaG1ylZkr6mArIlJ
+@title docker inspect -f "{{ .NetworkSettings.IPAddress }}" [container-id]
+@created 1600225341482

@@ -17,3 +17,4 @@ export MAVEN_HOME="/usr/local/apache-maven/current"
 export M2="/usr/local/apache-maven/current/bin"
 ]
 ```
+@weight 0.25

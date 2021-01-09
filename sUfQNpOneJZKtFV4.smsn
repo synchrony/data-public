@@ -1,0 +1,3 @@
+@id sUfQNpOneJZKtFV4
+@title "Inside LinkedIn, we have integration with LIquid is WIP. We have proposed a way to automatically convert all GMA data models (in PDL) to LIquid's RDF graph model, and currently in progress of building a gradle plug in automating the process, including schema evolution."
+@created 1608594385345
