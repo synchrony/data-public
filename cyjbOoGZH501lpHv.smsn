@@ -1,0 +1,25 @@
+@id cyjbOoGZH501lpHv
+@title The definition of a type family can pattern-match on type-level functions!
+@created 1609438395678
+@text ```
+-- See the comment at the bottom, very important.
+
+type family Contains (a :: Type) (b :: Type) :: Bool where
+  -- The order of these arguments is important.
+  -- Reverse it and the simpler clauses would prevent the more complex clauses from ever being reached.
+  Contains a (_ a _ _ _) = 'True
+  Contains a (_ _ a _ _) = 'True
+  Contains a (_ _ _ a _) = 'True
+  Contains a (_ _ _ _ a) = 'True
+  Contains a (_ a _ _)   = 'True
+  Contains a (_ _ a _)   = 'True
+  Contains a (_ _ _ a)   = 'True
+  Contains a (_ a _)     = 'True
+  Contains a (_ _ a)     = 'True
+  Contains a (f x) = Contains a x
+    -- (f x) is a type. 
+    -- f is a type-level function. (It could have been an underscore.) 
+    -- "Either Int" is something f can be.
+  Contains a a           = 'True
+  Contains _ _           = 'False
+```

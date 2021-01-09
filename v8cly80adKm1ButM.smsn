@@ -1,0 +1,9 @@
+@id v8cly80adKm1ButM
+@title examples of things OverloadedLists lets you write
+@created 1609693913272
+@text ```
+['0' .. '9']             :: Set Char
+[1 .. 10]                :: Vector Int
+[("default",0), (k1,v1)] :: Map String Int
+['a' .. 'z']             :: Text
+```

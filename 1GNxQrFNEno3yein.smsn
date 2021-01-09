@@ -1,0 +1,3 @@
+@id 1GNxQrFNEno3yein
+@title Like Nix, Bazel hashes all dependencies, so it can rerun code only when necessary.
+@created 1599917849218

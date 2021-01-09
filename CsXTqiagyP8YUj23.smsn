@@ -1,0 +1,15 @@
+@id CsXTqiagyP8YUj23
+@title JSON in Python
+@created 1604686140371
+@text ```
+>>> import json
+>>> data = {"a":1, "b":2}
+>>> with open('data.json', 'w') as f:
+...     json.dump(data, f)
+... 
+>>> with open('data.json', 'r') as f:
+...     data2 = json.load(f)
+... 
+>>> data2
+{'a': 1, 'b': 2}
+```

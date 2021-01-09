@@ -1,0 +1,9 @@
+@id 3iWlDvHmwu1VCVES
+@title UndecidableInstances allows, among other patterns, recursive type families, like this.
+@created 1609461286926
+@text ```
+type family Contains (a :: Type) (b :: k) :: Bool where
+  Contains a a     = 'True
+  Contains a (f x) = Or (Contains a f) (Contains a x)
+  Contains _ _     = 'False
+```

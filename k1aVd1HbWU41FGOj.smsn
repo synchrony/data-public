@@ -1,0 +1,4 @@
+@id k1aVd1HbWU41FGOj
+@title Not all functions from types to types are type families -- at least in a way that requires the extension.
+@created 1609438689227
+@text Either Int, for instance, is a function from types to types.

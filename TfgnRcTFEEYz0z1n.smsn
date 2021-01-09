@@ -1,0 +1,3 @@
+@id TfgnRcTFEEYz0z1n
+@title (define-key smsn-mode-map (kbd "C-c C-v p")       'smsn-toggle-properties-view)
+@created 1609435697586
