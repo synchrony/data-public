@@ -1,0 +1,3 @@
+@id 6Dybe2UHF2efZWIf
+@title (define-key smsn-mode-map (kbd "C-c C-s C-m")     'smsn-set-min-source-prompt)
+@created 1609435639937

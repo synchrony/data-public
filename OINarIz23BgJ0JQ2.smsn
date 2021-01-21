@@ -1,0 +1,10 @@
+@id OINarIz23BgJ0JQ2
+@title "publish" (expose) multiple ports of a Docker container
+@created 1601335474891
+@text ```
+Just use the -p (or --publish) option more than once -- e.g.
+
+er run -p 8000:8000 8001:2222
+
+source: https://stackoverflow.com/questions/20845056/how-can-i-expose-more-than-1-port-with-docker
+```

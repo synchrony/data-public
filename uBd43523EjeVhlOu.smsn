@@ -1,0 +1,14 @@
+@id uBd43523EjeVhlOu
+@title a PolyKinds example
+@created 1609460872674
+@text ```
+https://nauths.fr/en/2020/12/27/haskell-type-level-shenanigans.html
+
+type family Contains (a :: Type) (b :: k) :: Bool where
+  Contains a a     = 'True
+  Contains a (f x) = Or (Contains a f) (Contains a x)
+  Contains _ _     = 'False
+
+`b` can be of any kind. So for instance, if `b` is `Maybe Int Char`,
+then the second equation will decompose `b` into `Maybe Int` and `Char`.
+```

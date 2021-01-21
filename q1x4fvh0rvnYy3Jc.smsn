@@ -1,5 +1,5 @@
 @id q1x4fvh0rvnYy3Jc
-@title parametric polymorphism is good
+@title Haskell's parametric polymorphism implies naturality
 @created 1522894961588
 @text ```
 There is a more profound difference between Haskell’s polymorphic functions and C++ generic functions, and it’s reflected in the way these functions are implemented and type-checked. In Haskell, a polymorphic function must be defined uniformly for all types. One formula must work across all types. This is called parametric polymorphism.
@@ -7,5 +7,17 @@ There is a more profound difference between Haskell’s polymorphic functions an
 C++, on the other hand, supports by default ad hoc polymorphism, which means that a template doesn’t have to be well-defined for all types. Whether a template will work for a given type is decided at instantiation time, where a concrete type is substituted for the type parameter. Type checking is deferred, which unfortunately often leads to incomprehensible error messages.
 
 In C++, there is also a mechanism for function overloading and template specialization, which allows different definitions of the same function for different types. In Haskell this functionality is provided by type classes and type families.
+
+"Haskell’s parametric polymorphism has an unexpected consequence: any polymorphic function of the type:
+
+alpha :: F a -> G a
+
+where F and G are functors, automatically satisfies the naturality condition. Here it is in categorical notation (f is a function f::a->b):
+
+G f ∘ α_a = α_b ∘ F f
+  -- where F and G are functors, α :: F -> G, and f :: a -> b
+
+Because of type inference, these annotations are not necessary, and the following equation holds:
+
+fmap f . alpha = alpha . fmap f
 ```
-* :Ruiwvs5wQc1L352x: 
