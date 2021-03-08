@@ -1,0 +1,18 @@
+@id 49uhDdRuXUaziVgh
+@title meta-properties in Gremlin
+@created 1614190904007
+@text ```
+You can set meta-properties by jumping out of the traversal, e.g.
+
+gremlin> g.V(1).iterator().next().property("name", "The Dude").property("source", "The Big Lebowski")
+
+==>p[source->The Big Lebowski]
+
+
+You can retrieve meta-properties from within a traversal, e.g.
+
+gremlin> g.V().properties().properties()
+
+==>p[source->The Big Lebowski]
+```
+* :fPg22jXQmza8RUwW: 
