@@ -1,0 +1,17 @@
+@id P3qHIZbgWNY6nu2d
+@title parse, don't validate (software design principle)
+@alias https://juliu.is/permutate-parsers/
+@created 1612142961783
+@text ```
+Parse, don’t validate.
+
+The core difference between parsing and validating can be explained by looking at two very similar functions:
+
+    parseInt :: String -> Maybe Int
+    parseInt str = Text.Read.readMaybe str
+    
+    validateInt :: String -> Bool
+    validateInt str = Text.Read.readMaybe str /= Nothing
+
+As you can see, they look very similar. The main difference is that parseInt returns a useful value, the Int that we wanted to parse, while validateInt takes that useful value and throws it away. This is also mentioned in the wonderful Haskell Mini-Patterns Handbook as the “Evidence” pattern.
+```

@@ -1,0 +1,4 @@
+@id nP5q8nHOZm4qQfTW
+@title generate a TAGS file that Emacs can use for Python code
+@created 1613681266880
+@text find . -type f -name '*.py' | xargs etags

@@ -1,0 +1,14 @@
+@id DA3fTMBhazVloRK2
+@title email in Python
+@created 1612384793294
+@text ```
+Email generally:
+  https://docs.python.org/3/library/email.examples.html
+
+Attachments:
+  https://stackoverflow.com/questions/26582811/gmail-python-multiple-attachments
+
+If Google doesn't let me:
+  Turn on "less secure apps". (It gets turned off if it hasn't been used for a while.)
+  https://myaccount.google.com/lesssecureapps?pli=1&rapt=AEjHL4PrCR888F52HcWfYbIq1CTyyoAHnxMvMDMX73AKGY5AVRWuqHo6tbMw7q2Ps5-e5AY8eOmwu5C5sRh6mSIcUqRifF3RIQ
+```

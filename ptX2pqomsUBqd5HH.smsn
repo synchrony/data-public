@@ -1,0 +1,12 @@
+@id ptX2pqomsUBqd5HH
+@title ssh with git
+@created 1612303539903
+@text ```
+This is my (jbb) habit. I suspect there's a better way,
+as this has to be run each time I want a console
+that's a convenient place to commit from.
+
+From a console window that I'd like not to need to enter my git credentials into, run this:
+  ssh-agent bash
+  ssh-add
+```

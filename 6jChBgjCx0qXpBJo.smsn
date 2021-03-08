@@ -1,0 +1,9 @@
+@id 6jChBgjCx0qXpBJo
+@title Use items() to loop | iterate over a dictionary in Python.
+@created 1469061902443
+@text ```
+>>> d = { 1 : 2, 3 : 4 }
+>>> for k,v in d.items(): print(k," points to ", v)
+1  points to  2
+3  points to  4
+```

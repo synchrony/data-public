@@ -1,0 +1,4 @@
+@id 3ubw1bd6YIQBkLL6
+@title to show mounted volumes \ Docker
+@created 1610243119556
+@text docker inspect -f '{{ .Mounts }}' <container id>

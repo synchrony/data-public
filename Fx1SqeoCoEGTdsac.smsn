@@ -2,6 +2,8 @@
 @title how I made a local git repo
 @created 1483504875111
 @text ```
+The .git file extension is superfluous.
+
 cd ~/work
 mkdir git_jbb
 cd git_jbb
