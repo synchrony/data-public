@@ -1,0 +1,11 @@
+@id JpQn7ZkAGBUayXvz
+@title search for regex in many buffers
+@created 1611265612219
+@text ```
+M-x multi-occur-in-matching-buffers
+
+Will prompt first for a regex to match filenames.
+Use '.' for all buffers visiting files.
+
+Will then prompt for a regex.
+```

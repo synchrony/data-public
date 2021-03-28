@@ -1,0 +1,17 @@
+@id nXo5dNBLj2HSHQAx
+@title to read shell variables from a json file
+@created 1614901890346
+@text ```
+Source: https://unix.stackexchange.com/a/413886/211220
+
+The following expression reads a json file in which "paths" equals a sub-dictionary of terms,
+and turns each term into a shell variable.
+  eval "$(jq -r '.paths | to_entries | .[] | .key + "=\"" + .value + "\""' < paths.json)"
+For instance, it expects an input file called paths.json like this:
+  { "paths":
+    { "tax_co"     : "/mnt/tax_co/",
+      "tax_django" : "/mnt/web/",
+      "apache"     : "/mnt/apache2"
+    }
+  }
+```

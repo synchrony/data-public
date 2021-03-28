@@ -1,0 +1,18 @@
+@id xyeeXoVYOIXIMIpu
+@title To iterate over a Python dictionary in a Django template, omit lots of parentheses.
+@created 1614121493681
+@text ```
+Do not append () to the `items` method call in the template like you would in ordinary Python,
+Also, do not wrap the (key, value) variable name pair in parentheses like you optionally can in Python.
+
+For instance:
+
+  {% for name,path in tables.items %}
+    <a href={{path}} download>
+      Download {{name}}.<br>
+    </a>
+  {% endfor %}
+
+I learned the first point here:
+  https://stackoverflow.com/questions/8018973/how-to-iterate-through-dictionary-in-a-dictionary-in-django-template
+```
