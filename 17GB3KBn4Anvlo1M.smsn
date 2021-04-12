@@ -1,0 +1,97 @@
+@id 17GB3KBn4Anvlo1M
+@title a mess of stuff that didn't work for me but worked for others
+@created 1616454139318
+@text ```
+if True:
+  import multiprocessing as mp
+  import pebble
+  from   time import sleep
+  #
+  import python.constants as constants
+  import python.fetch     as fetch
+  import python.lib       as lib
+
+
+to_do = ( [ ( fetch.latest_buda_df, {} )
+            # ( fetch.latest_yahoo_df, {} )
+            ]
+         +
+         [ lambda: fetch.latest_kraken_df (p)
+           for p in constants.kraken_pairs_of_assets ]
+         )
+
+def my_apply ( pair ):
+    # First element should be a function,
+    # second should be an argument dictionary.
+    func = pair[0]
+    kwargs = pair[1]
+    return func ( **kwargs )
+
+# # Yet another thing to try.
+# # Somehow passes too many arguments to my_apply.
+# with pebble.ProcessPool () as pool:
+#     # https://stackoverflow.com/questions/38711840/python-multiprocessing-pool-timeout
+#     tasks, results = {}, {}
+#     for i in range ( len ( to_do ) ):
+#         tasks[i] = pool.schedule (
+#             my_apply,
+#             to_do[i] )
+#     for i in range ( len ( to_do ) ):
+#         try:
+#             result[i] = task.result()
+#         except TimeoutError:
+#             result[i] = None
+#     x = [i for i in results if i != None ]
+
+# Tried second. Works, but can't time the porcesses out,
+# at least not using lib.kill_after_n_seconds,
+# because processes in a Pool cannot have children.
+# IT WAS WORKING DAMMIT.
+# But now it gives a pickle error.
+# I tried https://stackoverflow.com/questions/1816958/cant-pickle-type-instancemethod-when-using-multiprocessing-pool-map/1816969#1816969
+# (see copyreg code below) but it doens't work for me.
+def fetch_many ():
+    pool = mp.Pool( len( to_do ) )
+    x = pool.map ( my_apply, to_do )
+    pool.close()
+    pool.join()
+    return x
+
+import copyreg
+import types
+
+def _pickle_method(method):
+    func_name = method.im_func.__name__
+    obj = method.im_self
+    cls = method.im_class
+    return _unpickle_method, (func_name, obj, cls)
+
+def _unpickle_method(func_name, obj, cls):
+  for cls in cls.mro():
+    try:
+        func = cls.__dict__[func_name]
+    except KeyError:
+        pass
+    else:
+        break
+  return func.__get__(obj, cls)
+
+copyreg.pickle(
+    types.MethodType,
+    _pickle_method,
+    _unpickle_method)
+
+# Never used. Might solve the problem with the second attempt,
+# but seems complex.
+# https://stackoverflow.com/questions/29494001/how-can-i-abort-a-task-in-a-multiprocessing-pool-after-a-timeout
+#def abortable_worker(func, *args, **kwargs):
+#    timeout = kwargs.get('timeout', None)
+#    p = ThreadPool(1)
+#    res = p.apply_async(func, args=args)
+#    try:
+#        out = res.get(timeout)  # Wait timeout seconds for func to complete.
+#        return out
+#    except multiprocessing.TimeoutError:
+#        print("Aborting due to timeout")
+#        raise
+```

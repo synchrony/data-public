@@ -1,0 +1,8 @@
+@id AskGC82M3HcLCN8b
+@title an example
+@created 1617642204313
+@text ```
+# launch interactive finder, read the list from STDIN, and write the user-selected item to STDOUT.
+
+find * -type f | fzf > selected
+```

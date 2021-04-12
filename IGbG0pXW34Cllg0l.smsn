@@ -1,0 +1,28 @@
+@id IGbG0pXW34Cllg0l
+@title lock a file in Python with the `filelock` library
+@created 1615407408676
+@text ```
+# Define this in two windows.
+def f ( window ):
+  import time
+  import filelock as l
+  lock = l.FileLock("a.lock")
+  with lock:
+      with open( "a", "a" ) as f:
+          if window == 0:
+              time.sleep( 8 )
+          f.write( "tmux window " + str(window) + " wrote this.\n" )
+
+# Run this in window 0.
+f ( 0 )
+
+# Then immediately run this in window 1
+f ( 1 )
+
+# The code in window 1 should seem to hang, until window 0's job completes,
+# at which point it will too, immediately.
+# Both processes should have written to "a", window 0 first.
+
+# Strangely, this leaves the .lock file in place,
+# but that appears to do no harm.
+```
