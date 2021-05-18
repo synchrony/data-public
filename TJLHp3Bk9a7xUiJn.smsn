@@ -1,0 +1,10 @@
+@id TJLHp3Bk9a7xUiJn
+@title the Uber AI that killed a pedestrian in 2018
+@created 1616714757689
+@text ```
+She was jaywalking with a bicycle.
+
+It was reclassifying her on the order of ten times a second between "bicyclist" and "pedestrian", recalculating her trajectory each time.
+
+It had no training data for jaywalking.
+```

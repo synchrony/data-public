@@ -1,0 +1,31 @@
+@id 7APKGfOnYS3xjruq
+@title the code
+@created 1616368898490
+@text ```
+from multiprocessing import Pool
+from time import sleep
+
+
+def f (a):
+    for i in range(0,a):
+        print("f",i)
+        sleep(0.5)
+
+def g (a,b): # ignore second argument
+    for i in range(0,a):
+        print("g",i)
+        sleep(0.5)
+
+def my_apply ( pair ):
+    # First element should be a function,
+    # second should be an argument dictionary.
+    return pair[0] ( **pair[1] )
+
+pool = Pool(8)
+x = pool.map ( my_apply,
+               [ ( f, { "a":2 } ),
+                 ( g, { "a":3,
+                        "b":3 } ) ] )
+pool.close()
+pool.join()
+```

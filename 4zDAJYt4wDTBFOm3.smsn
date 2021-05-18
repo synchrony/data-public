@@ -1,0 +1,26 @@
+@id 4zDAJYt4wDTBFOm3
+@title the code
+@created 1616371446265
+@text ```
+import multiprocessing as mp
+from time import sleep
+
+
+def f (a):
+    for i in range(0,a):
+        print("f",i)
+        sleep(0.5)
+
+def two_fs():
+    d = {}
+    for i in range(2):
+        d[i] = mp.Process ( target = lambda: f(3) )
+        d[i] . start ()
+    for i in range(2):
+        d[i] . join ( 3 ) # Wait this long, or until process finishes.
+        if d[i] . is_alive ():
+          # Choose one of these.
+            p . terminate () # May not work if process is stuck for good.
+            # p . kill () # Works for sure, but process cannot finish gracefully.
+        d[i] . join ()
+```

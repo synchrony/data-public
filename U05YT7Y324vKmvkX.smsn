@@ -1,0 +1,21 @@
+@id U05YT7Y324vKmvkX
+@title the code
+@created 1615511547920
+@text ```
+import subprocess, os
+
+my_env = os . environ . copy ()
+my_env["PYTHONPATH"] = (
+    ".:" + my_env [ "PYTHONPATH" ]
+    if "PYTHONPATH" in my_env . keys ()
+    else "." )
+
+x = subprocess . run (
+    ["ls", "-bucket", "-t"],
+    env    = my_env
+    stdout = subprocess . PIPE,
+    stderr = subprocess . PIPE )
+print( x . stdout . decode () )
+print( x . stderr . decode () )
+x . returncode
+```

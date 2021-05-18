@@ -1,0 +1,27 @@
+@id mpVpGinqFct3HwSr
+@title PITFALL: to refer to environment variables in the command being executed, use dictionary lookup rather than textual $-substitution
+@created 1615573842973
+@text ```
+For instance, the following won't work:
+
+    import subprocess, os
+    
+    some_path = "a/b/c"
+    my_env = os . environ . copy ()
+    my_env["HOSTNAME"] = (
+        some_path + ":" + my_env [ "HOSTNAME" ]
+        if "HOSTNAME" in my_env . keys ()
+        else some_path )
+    
+    x = subprocess . run (
+        ["echo","$HOSTNAME"],
+        env    = my_env,
+        stdout = subprocess . PIPE,
+        stderr = subprocess . PIPE )
+    print( x . stdout . decode () )
+    print( x . stderr . decode () )
+    x . returncode
+
+but of course you can just replace `"$HOSTNAME"`
+with `my_env["HOSTNAME"]`.
+```
