@@ -1,0 +1,11 @@
+@id NChaPc2cx2i41fGA
+@title simultaneous parameters go in {}s
+@created 1618506962256
+@text ```
+PITFALL: I'm writing this before I've settled on the precise way to indicate which parameter a value represents. 
+
+The following two passages are different, in that in one of them, four things happen at four different times, whereas in the other two things change simultaneously at two different times:
+
+pich:0  amp:1  pitch:2  amp:3
+{pich:0  amp:1}  {pitch:2  amp:3}
+```

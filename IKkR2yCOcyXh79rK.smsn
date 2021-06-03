@@ -1,0 +1,13 @@
+@id IKkR2yCOcyXh79rK
+@title PITFALL: equivalent TypeApplications expressions
+@created 1618684192961
+@text ```
+These are equivalent (per Gabriel Gonzalez,
+https://www.haskellforall.com/2021/04/how-to-replace-proxy-with.html):
+
+>>> :set -XTypeApplications
+>>> typeName (Proxy @Bool)
+"Bool"
+>>> typeName @Bool Proxy
+"Bool"
+```

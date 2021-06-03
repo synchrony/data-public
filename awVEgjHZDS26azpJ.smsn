@@ -1,0 +1,4 @@
+@id awVEgjHZDS26azpJ
+@title Continuing a set of rows below.
+@created 1618414330161
+@text The editor ought to let someone declare "I've extended these rows to the right as far as I'd like; please continue them below." The editor would append a row indicating "staff continued below" (maybe a long horizontal line, maybe an empty one), and then the same rows that were above, with the same labels. The user can then delete rows in the new set of rows that aren't needed.

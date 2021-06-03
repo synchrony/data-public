@@ -1,4 +1,4 @@
 @id UXlcbl7h78GCluyV
-@title to start it, run `magit-status` from any file in a git repo
+@title to start Magit, run `magit-status` from any file in a git repo
 @created 1593223024810
 @text `ma-stat` is enough to tab-complete the command

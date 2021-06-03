@@ -1,0 +1,8 @@
+@id P7civXCDYLq8iEkN
+@title use diff to compare the output of two commands
+@created 1620260932945
+@text ```
+diff <(tree master) <(tree online)
+
+This runs tree on both folders, and treats the output of both calls to tree as a file.
+```

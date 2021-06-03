@@ -1,0 +1,16 @@
+@id c8ASVOKoonpRB3yI
+@title example
+@created 1618409403856
+@text ```
+Commas divide bars. They're meaningless to the computer,
+just added to help the reader read this. The computer would instead
+use the "m<umber>" symbols to determine the (same) bar divisions.
+
+m2 0 (m3 0 0 0 , 0 0 0)
+   0 (m2 0 0 , 0 0)
+m3 0 0 0 , 0 0 0
+
+The top-level 0s and the parens all have the same duration (let's call it duration 1).
+In the second unit of time there are six notes, evenly spaced, in groups of threes because of the "m3" symbol at the start.
+After the top-level "m3", the notes are still the same duration, but now bars are longer.
+```

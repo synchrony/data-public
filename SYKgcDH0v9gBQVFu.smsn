@@ -1,0 +1,10 @@
+@id SYKgcDH0v9gBQVFu
+@title example
+@created 1618412466171
+@text ```
+These two passages are equivalent:
+
+"0 1 t2 3 3" -- the t2 indicates that all notes after it (in this case, the two 3s) occupy twice as much time as the notes that came before it.
+
+"0 1 3 . 3 ." -- each . indicatess that the 3 preceding it is held for a second beat.
+```

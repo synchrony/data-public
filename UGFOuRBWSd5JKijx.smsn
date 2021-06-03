@@ -1,0 +1,20 @@
+@id UGFOuRBWSd5JKijx
+@title very strange yet normal gypsy melody
+@created 1618405110723
+@text ```
+12-edo.
+Each . holds the previous pitch.
+Each . and () occupies the same time as a numbered pitch.
+Within a () the time is divided equally among the notes.
+The commas are just for readability, denoting bars.
+(This sounds swung, but the writing makes the swing explicit;
+the reader does not have to think of some notes as longer than others).
+
+0 . 7, 4 . 0, 8_ . 3, . . (0 2)
+0 . 2, 4 6 7, 8 . 11, . . (7 6)
+
+Then repeat up a fifth/down a fourth.
+The last two notes are contingent on what the next tonic center is.
+They could also be (9_ 11_) rather than (0 11_)
+relative to the next tonal center.
+```

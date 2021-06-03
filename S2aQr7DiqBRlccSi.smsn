@@ -1,0 +1,10 @@
+@id S2aQr7DiqBRlccSi
+@title to disable diff-so-fancy in Git when piping to a file
+@alias https://github.com/so-fancy/diff-so-fancy/issues/181
+@created 1622421183962
+@text ```
+The trick is to run
+  git --no-pager diff
+rather than
+  git diff
+```

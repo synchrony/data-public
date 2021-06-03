@@ -1,0 +1,12 @@
+@id R64k24iP6XU1gIVH
+@title parallel rows with names of the form "[voice[:param[:value]]]" (where anything in brackets is optional)
+@created 1618415139170
+@text ```
+If a row has no label, then the current staff represents a single voice.
+
+If a row's label is "voice", then the default parameter is pitch.
+
+If the name of a row is "voice:param", then "param" is the default param, but other params can be written in that row too; they just need the parameter made explicit. The default value is silence if that's possible. If that's not possible, there is no default, and all notes are legato, held until the next.
+
+If the name of a row is "voice:param:value", then "value" is the default value of that row.
+```
