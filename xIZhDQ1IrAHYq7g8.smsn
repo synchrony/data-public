@@ -1,0 +1,4 @@
+@id xIZhDQ1IrAHYq7g8
+@title project tree view shows only the package hierarchy, not the directory hierarchy (so pom.xml isn't visible, test and main classes appear under the same parent, etc.)
+@created 1310282022398
+* :iTET7m7WBY8XyVnT: 

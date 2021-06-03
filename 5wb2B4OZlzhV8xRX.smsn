@@ -1,0 +1,50 @@
+@id 5wb2B4OZlzhV8xRX
+@title RenameMe
+@created 1414326039647
+@text ```
+# tabs in source files
+mvn clean
+grep -RlP "\t" . | grep -v .git | grep "\(java$\)\|\(groovy$\)"
+
+# commented-out imports
+grep -Rl "//.*import" .
+
+# wildcard imports
+grep -Rl "^import .*\*.*" .
+
+
+### indentation ###
+
+# note: allow for one-space indents in class-level JavaDocs
+cat `find . -name "*.java"` | grep -v "^ *\*" | sed 's/[^ ].*//'| tr ' ' '*' | sed 's/^/\"/' | sed 's/$/\"/' | sort > /tmp/spaces.csv
+
+# in R
+s <- read.csv(file("/tmp/spaces.csv"), header=FALSE)
+lengths <- sapply(s[,1], function(x){nchar(toString(x))})
+t <- table(lengths)
+plot(t)
+
+grep -Rl "^ [^ *]" .|grep java$
+grep -Rl "^   [^ *]" .|grep java$
+
+# it may not be worth the time to look into specific large, odd indents
+# I have found these to be mainly wrapped arguments
+grep -Rl "^ \{23\}[^ *]" .|grep java$
+
+
+# long lines
+grep -Rl "^.\{121\}" . | grep "\(java$\)\|\(groovy$\)"
+
+# C-style array declarations -- e.g. String args[]
+grep -Rl "\[\] *[;=]" . | grep java$
+
+# lowercase "l" in long-valued literals (use "L" instead, e.g. 42L)
+grep -R "[0-9]l" . | grep "\(java$\)\|\(groovy$\)"
+
+# visually enclosing comments and segmenting code regions calls for refactoring
+# note: three slashes or less are commonly found in URL-like strings
+grep -Rl "////" .
+
+# one misuse of constant case which often occurs in my (older) code
+grep -Rl LOGGER .
+```
