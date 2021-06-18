@@ -1,5 +1,5 @@
 @id 5DATOcwSPZd2rsrf
-@title press 'd' to show the "diff popup"
+@title press 'd' for the "diff popup"
 @created 1593224363653
 @text ```
 The key command isn't really done at that point -- it will propmt the user for switches. For instance:

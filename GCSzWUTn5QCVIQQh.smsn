@@ -1,0 +1,17 @@
+@id GCSzWUTn5QCVIQQh
+@title "dg" vs. "g"
+@created 1618412893830
+@text ```
+The "g" stands for global, meaning the duration change applies to all following notes (until another dg command happens). This distinguishes it from "d<fraction>" which is used to modify the duration only of the following and abutting parenthetical.
+
+Thus, for example, the following all mean the same thiing. All notes are pitch 0.
+
+"0 d2(0) d2(0) 0"
+  Here the global duration never changes from 1, but two notes have local duration specified as 2.
+
+"0 dg2 0 0 dg1 0"
+  Here the global duration starts implicitly at 1, changes to 2 for two of the notes, then changes back to 1.
+
+"0 0 . 0 . 0"
+  Here the global duration is always implicitly 1, but two of the notes are held for a second duration.
+```

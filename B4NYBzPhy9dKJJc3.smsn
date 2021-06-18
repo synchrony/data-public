@@ -1,0 +1,10 @@
+@id B4NYBzPhy9dKJJc3
+@title PITFALL: requires editing .ssh/config
+@created 1620427025707
+@text ```
+Should look something like this:
+
+Host 18.231.152.118
+     User ec2-user
+     IdentityFile /home/jeff/code/aws/secret/2021-03-24.pem
+```

@@ -1,0 +1,16 @@
+@id w4KgOU1IX6XkUuBs
+@title PITFALL: the commas in Haskell list comprehensions are weird
+@created 1620398304514
+@text ```
+This is the right way:
+
+[ (f, bulk, s) |
+  f <- [0..],
+  let bulk = 16 - f*2
+      s = div bulk 13,
+  mod bulk 13 == 0
+]
+
+Notice that the let statement ends with a comma,
+but needs none internally.
+```

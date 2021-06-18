@@ -1,0 +1,8 @@
+@id dfB1P5NxHWkabP5q
+@title automatic bar marks
+@created 1618414470264
+@text ```
+Maybe this would be a separate row, or maybe it would just be literal bars (or commas?) inserted into the rows representing each voice. The editor ought to do it automatically, deducing where they go from the stated meter.
+
+If the user writes parallel voices in parallel rows, they'll need to explicitly write all rests in at least one row in order for the editor to deduce where the bar marks go.
+```

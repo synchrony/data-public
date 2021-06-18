@@ -1,0 +1,10 @@
+@id mqtsnFmrCqTf3Usi
+@title comparing them
+@created 1618507419573
+@text ```
+It's nice not to have to match brackets.
+Typing a comma is faster than typing two brackets.
+Commas are easier to machine-parse than brackets -- they effectively *are* the bar lines.
+
+For odd groupings, it's easy to prefix a number before brackets, whereas doing that to a comma seems hard to read.
+```

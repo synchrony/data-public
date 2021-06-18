@@ -1,0 +1,8 @@
+@id mbgnbVZCEjS0m0v4
+@title ? repeat something in one text row but not in another parallel row
+@created 1618414008004
+@text ```
+Is this inconsistent with the parallel-rows model?
+One could bracket a span of some parallel rows, and decorate it with a "repeats" symbol.
+But to repeat something in one row and not the other would make the timing confusing.
+```

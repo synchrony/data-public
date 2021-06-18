@@ -1,0 +1,9 @@
+@id BgmAvTrNJYYW3KG2
+@title test the changes in a git pull request
+@created 1620401233697
+@text ```
+git fetch origin pull/ID/head && git checkout FETCH_HEAD
+
+On Github the pull request IDs start at 1;
+they are not hashes.
+```

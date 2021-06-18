@@ -1,0 +1,9 @@
+@id CBBnYAcHpUBqlgPR
+@title to move an application between activities in KDE
+@created 1619800351246
+@text ```
+Alt-F3 (open the applications context menu)
+A ("show in activities")
+Select where you want it to go.
+Then do it again, because something's stupid.
+```

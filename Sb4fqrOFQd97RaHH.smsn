@@ -1,0 +1,10 @@
+@id Sb4fqrOFQd97RaHH
+@title the key sequence
+@created 1620426957039
+@text ```
+C-x C-f (the usual "open file" shortcut)
+
+followed by an ssh-style filepath: 
+
+/ssh:ec2-user@3.236.20.39:/home/ec2-user/filee.txt
+```
