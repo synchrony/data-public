@@ -1,0 +1,3 @@
+@id 5F2CN0b1yJ65OOzm
+@title because general-purpose interfaces like Map tend to change, and because they provide more functionality than the application requires (e.g. providing a clear() when the implementation does not expect the Map to change externally)
+@created 1471971211153
