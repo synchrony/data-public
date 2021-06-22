@@ -1,0 +1,3 @@
+@id seaNhmPRhSx9VbeB
+@title if a sequence of writes happens in a certain order, then anyone reading those writes will see them appear in the same order
+@created 1624320768426

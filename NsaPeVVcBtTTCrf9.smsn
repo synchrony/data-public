@@ -1,0 +1,3 @@
+@id NsaPeVVcBtTTCrf9
+@title a compromise between a clustered index (storing all row data within the index) and a nonclustered index (storing only references to data within the index)
+@created 1624298206546

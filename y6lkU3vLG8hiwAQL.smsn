@@ -1,3 +1,4 @@
 @id y6lkU3vLG8hiwAQL
 @title Cassandra takes advantage of its period compaction task, which touches everything in the database, for TTL
 @created 1423466786648
+* :j5inqWeq1wXoPk7s: 

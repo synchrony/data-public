@@ -1,0 +1,3 @@
+@id SGWl6Rpwtcgn12X2
+@title has a fixed length, but allows windows to overlap in order to provide some smoothing (unlike a tumbling window)
+@created 1624344606582

@@ -1,0 +1,3 @@
+@id 1ZxZVPCFRRzIUy3G
+@title taking an exclusive lock on an object when it is read so that no other object can read it until the update has been applied
+@created 1624330674661
