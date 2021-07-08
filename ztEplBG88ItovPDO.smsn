@@ -1,0 +1,4 @@
+@id ztEplBG88ItovPDO
+@title pipe both stdout and stderr to the same file in Bash
+@created 1623980640931
+@text command >out 2>&1

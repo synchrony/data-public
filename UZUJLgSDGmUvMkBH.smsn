@@ -1,0 +1,7 @@
+@id UZUJLgSDGmUvMkBH
+@title to insert a newline into a rectangle in Emacs
+@created 1623770026631
+@text ```
+C-q C-j
+https://stackoverflow.com/questions/52190934/emacs-inserting-line-break-into-a-rectangle/52191970
+```
