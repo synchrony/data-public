@@ -1,0 +1,9 @@
+@id 0gNmwH0lX1Hp24MX
+@title for a user
+@created 1629836570112
+@text ```
+put something like
+  alias python='/usr/bin/python3.4'
+in
+  ~/.bashrc
+```

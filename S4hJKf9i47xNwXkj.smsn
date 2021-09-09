@@ -1,0 +1,3 @@
+@id S4hJKf9i47xNwXkj
+@title `fdisk -l` shows umounted drives too. `df -h` shows only mounted ones. The latter seems dangerous for these purposes, because what if the folder assigned to the disk changed after you unmounted it?
+@created 1626533436019
