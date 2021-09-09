@@ -21,3 +21,4 @@ Because of type inference, these annotations are not necessary, and the followin
 
 fmap f . alpha = alpha . fmap f
 ```
+* :5JnxaSTZ3iR9HdNr: 

@@ -1,0 +1,9 @@
+@id dHMVf11Lajx2dq3Q
+@title read from GraphSON
+@created 1625604197803
+@text ```
+graph = TinkerGraph.open();
+reader = GraphSONReader.build().create()
+stream = new FileInputStream("/tmp/graphs-over-thrift.json")
+reader.readGraph(stream, graph);
+```

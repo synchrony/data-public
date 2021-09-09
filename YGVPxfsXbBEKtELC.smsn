@@ -1,0 +1,3 @@
+@id YGVPxfsXbBEKtELC
+@title if basic symbols like String and System are not being recognized, it could mean that the project SDK is not set correctly. Try File > Project Structure > Project Settings > Project > Project SDK
+@created 1625581724397

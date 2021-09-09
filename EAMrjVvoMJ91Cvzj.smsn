@@ -5,4 +5,7 @@
 graph = TinkerFactory.createClassic();
 g = graph.traversal()
 g.V().values()
+
+graph = TinkerGraph.open()
+g = ...
 ```
