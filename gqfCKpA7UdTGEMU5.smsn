@@ -3,6 +3,7 @@
 @created 1495173133658
 @text ```
 gallons.to.cm3 <- function(gallons) { gallons * 3785.41 }
+liters.to.cm3 <- function(liters) { liters * 1000 }
 
 water.density.gcm3 <- 1
 salt.density.gcm3 <- 2.17
@@ -11,6 +12,10 @@ red.sea.salt.grams.per.cup <- 260
 volume.gallons <- 70
 volume.cm3 <- gallons.to.cm3(volume.gallons)
 
+
+########################################
+# Go from a known start salinity to a desired end salinity
+
 start.salinity.sg <- 1.0235
 end.salinity.sg <- 1.025
 
@@ -18,5 +23,20 @@ end.salinity.sg <- 1.025
 salt.to.add.g <- (end.salinity.sg - start.salinity.sg) * volume.cm3 * water.density.gcm3
 
 salt.to.add.cups <- salt.to.add.g / red.sea.salt.grams.per.cup
+
+
+########################################
+# Add salt after a water exchange
+
+change.liters <- 18.0 # the volume of a water cooler jug, filled not quite to the top
+salinity.sg <- 1.025
+
+change.cm3 <- liters.to.cm3(change.liters)
+salt.to.add.g <- change.cm3 * salt.density.gcm3 * (salinity.sg - water.density.gcm3) / (salt.density.gcm3 - water.density.gcm3)
+salt.to.add.cups <- salt.to.add.g / red.sea.salt.grams.per.cup
+
+# Note: the above gives a very different number than the formula above it,
+# if you start by doing the water exchange (without salt), then measure the start
+# salinity. I got 1.52 cups above, 3.21 cups below. Maybe I am overestimating the volume of the tank, or maybe my new formula is wrong.
 ```
 * :VLecTJvRHlu2epos: 
