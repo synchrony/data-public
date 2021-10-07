@@ -1,0 +1,4 @@
+@id R6MENnp6K622BaA5
+@title linkedin/dali: Dali is a data access layer for Hadoop which abstracts away physical data access concerns (data format, location, etc.), allowing users to focus just on the logical concerns (dataset name, schema, etc.). By insulating users from physical details, this allows for underlying storage formats, partitioning schemes, and physical locations to evolve without requiring users to change their code. (web page)
+@alias https://github.com/linkedin/dali
+@created 1633542151738
