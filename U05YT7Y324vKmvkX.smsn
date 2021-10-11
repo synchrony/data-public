@@ -6,6 +6,9 @@ import subprocess, os
 
 my_env = os . environ . copy ()
 my_env["PYTHONPATH"] = (
+    # This matters, at least,
+    # if the Bash command to be run is Python.
+    # I'm guessing otherwise it's not needed.
     ".:" + my_env [ "PYTHONPATH" ]
     if "PYTHONPATH" in my_env . keys ()
     else "." )
