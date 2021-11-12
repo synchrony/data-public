@@ -4,15 +4,15 @@
 @text ```
 http://download.librdf.org/source/
 
-tar -xzf raptor-*.tar.gz
-tar -xzf redland-*.tar.gz
+tar -xzf raptor*.tar.gz
+tar -xzf redland*.tar.gz
+tar -xzf rasqal*.tar.gz
 
 cd raptor-*
 ./configure
 make
 make check
-su
-make install
+sudo make install
 
 cd ..
 

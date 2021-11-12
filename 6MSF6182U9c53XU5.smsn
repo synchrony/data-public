@@ -1,0 +1,7 @@
+@id 6MSF6182U9c53XU5
+@title DCAT terms to TSV
+@created 1636662739085
+@text ```
+curlr http://www.w3.org/ns/dcat# > dcat.rdf
+rapper -i rdfxml -o ntriples dcat.rdf |grep "skos/core#definition" | grep "@en" | sed 's/> .*core#definition>//' | sed 's/@en.*//' | sed 's/<http.*#//' | sort | sed 's/.$//' | tr '_' ' ' | sed 's/ "/_/' | tr '_' '\t' > ~/tmp/dcat.tsv
+```
