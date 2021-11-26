@@ -1,0 +1,3 @@
+@id v5lmmOv5hZ24HFHx
+@title the proposal aims to separate equality and comparison from the JVM, while keeping the formal semantics close to the current (JVM) semantics
+@created 1637855061254

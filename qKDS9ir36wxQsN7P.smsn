@@ -1,0 +1,3 @@
+@id qKDS9ir36wxQsN7P
+@title Ryan: "if you decide to do type inference you are 80% of the way to qualified types already.  i think they are worth it just to support records/variants and polymorphic equality and type classes like ‘functor’"
+@created 1637765240901
