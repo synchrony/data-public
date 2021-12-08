@@ -1,0 +1,3 @@
+@id aiHwwbjmIEWoi9P6
+@title in type theory, a type system is said to have the principal type property if, given a term and an environment, there exists a principal type for this term in this environment, i.e. a type such that all other types for this term in this environment are an instance of the principal type.
+@created 1637766544507

@@ -1,0 +1,3 @@
+@id htoQxHh7DaS0JrxS
+@title Ryan: rather than defining equality up front [I read: as a type class]. pass around functions of type t->bool everywhere. This provides more flexibility
+@created 1637854385538
