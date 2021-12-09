@@ -1,4 +1,14 @@
 @id ztEplBG88ItovPDO
 @title pipe both stdout and stderr to the same file in Bash
 @created 1623980640931
-@text command >out 2>&1
+@text ```
+equivalents:
+
+command > out 2> &1
+command > out 2> out
+
+for append-only mode, only the first (>) changes:
+
+command >> out 2> &1
+command >> out 2> out
+```

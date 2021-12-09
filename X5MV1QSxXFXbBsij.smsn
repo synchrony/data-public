@@ -1,0 +1,15 @@
+@id X5MV1QSxXFXbBsij
+@title how \ markdown anchors
+@created 1632097412502
+@text ```
+[description](../relative/link/to/file.md#section-name-with-dashes-instead-of-spaces)
+
+Capitalization matters.
+
+Some extraneous newlines make the above a little more readable:
+
+[description]
+(../relative/link/to/file.md
+#
+section-name-with-dashes-instead-of-spaces)
+```

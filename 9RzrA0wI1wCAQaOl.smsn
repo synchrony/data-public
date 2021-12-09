@@ -1,0 +1,9 @@
+@id 9RzrA0wI1wCAQaOl
+@title ö : pronunciation and typing
+@created 1632072024924
+@text ```
+To type that use the Spanish keyboard and use shift-accent
+(which would give a '{' on the English arrangement).
+Or, faster, `C-x 8 " o`.
+To make it really distinct, extrude lips while pronouncing.
+```

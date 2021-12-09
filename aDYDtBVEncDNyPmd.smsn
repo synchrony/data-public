@@ -1,0 +1,12 @@
+@id aDYDtBVEncDNyPmd
+@title freeing disk space in ardour projects
+@created 1633388418177
+@text ```
+serial
+
+Session > Cleanup > Delete Unused Sources
+Session > Cleanup > Delete Unused Regions
+Restart the application
+Open the same session
+Session > Cleanup > Flush Wastebasket
+```

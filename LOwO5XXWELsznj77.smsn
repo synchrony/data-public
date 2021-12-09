@@ -1,0 +1,16 @@
+@id LOwO5XXWELsznj77
+@title Creating HTML with Javascript
+@created 1627007257133
+@text ```
+<div id="new">
+    <p id="p1">A string</p>
+    <p id="p2">A second string</p>
+  </div>
+  <script>
+    var tag = document.createElement("p");
+    var text = document.createTextNode("This third string gets appended to the first two.");
+    tag.appendChild(text);
+    var element = document.getElementById("new");
+    element.appendChild(tag);
+  </script>
+```

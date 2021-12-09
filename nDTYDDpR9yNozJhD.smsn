@@ -1,0 +1,40 @@
+@id nDTYDDpR9yNozJhD
+@title how to pickle and unpickle in Python
+@created 1626801133768
+@text ```
+# Note the PITFALLs.
+
+from   dataclasses import dataclass
+import pickle
+
+## Make something ##
+
+@dataclass
+class MyUser(object):
+  # PITFALL: Class definitions are not pickled along with instances.
+  # A program deserializing an instance must already know about the class.
+  name : str
+
+user = MyUser('Peter')
+print(user)
+
+## Pickle it ##
+
+filename = 'peter.pickle'
+with open(filename,'wb') as file_object:
+  # PITFALL: use `wb`, not `w`, to indicate these are raw bytes.
+  file_object.write(
+    # PITFALL: "pickle" just turns a thing into bytes.
+    # It is not responsible for writing to disk.
+    pickle.dumps(user))
+
+## Unpickle it ##
+
+filename = 'peter.pickle'
+with open(filename,'rb') as file_object:
+  # PITFALL: similarly, use `rb`, not `r`
+  user_post_pickle = pickle.loads(
+    file_object . read () )
+
+print(user_post_pickle)
+```

@@ -1,15 +1,6 @@
 @id NRJ08EyVTgT8OsDx
-@title How to link to a section of another file in Github-flavored Markdown
+@title Markdown anchors
 @created 1593459124920
-@text ```
-[description](../relative/link/to/file.md#section-name-with-dashes-instead-of-spaces)
-
-Capitalization matters.
-
-Some extraneous newlines make the above a little more readable:
-
-[description]
-(../relative/link/to/file.md
-#
-section-name-with-dashes-instead-of-spaces)
-```
+* :ROFBvbDHURitYjaG: 
+* :X5MV1QSxXFXbBsij: 
+* :ViED7LLmdWO4COPd: 

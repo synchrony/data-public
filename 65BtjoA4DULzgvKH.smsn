@@ -1,0 +1,12 @@
+@id 65BtjoA4DULzgvKH
+@title encrypting and decrypting with a password
+@created 1633969179688
+@text ```
+*** enrypt
+    gpg --pinentry-mode loopback -c test.xlsx
+
+*** decrypt
+    gpg --pinentry-mode loopback -d --ignore-mdc-error test.xlsx.gpg > test.xlsx
+    Errors on my native system require those weird options.
+    They are unneeded from my Phaneros EC2 instance.
+```

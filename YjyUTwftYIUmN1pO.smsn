@@ -1,0 +1,23 @@
+@id YjyUTwftYIUmN1pO
+@title system-wide
+@created 1629836639976
+@text ```
+See if there are alternatives with
+  update-alternatives --list python
+
+There probably aren't initially.
+
+Add a couple versions to the alternatives table:
+
+  # update-alternatives --install /usr/bin/python python /usr/bin/python2.7 1
+  update-alternatives: using /usr/bin/python2.7 to provide /usr/bin/python (python) in auto mode
+  # update-alternatives --install /usr/bin/python python /usr/bin/python3.4 2
+  update-alternatives: using /usr/bin/python3.4 to provide /usr/bin/python (python) in auto mode
+
+The 1 and 2 are priorities. They can be anything. The highest number is the highest priority,
+so in this case 3.4.2 becomes the default.
+
+The default can later be switched in a TUI via
+
+  update-alternatives --config python
+```

@@ -22,6 +22,6 @@ For instance, the following won't work:
     print( x . stderr . decode () )
     x . returncode
 
-but of course you can just replace `"$HOSTNAME"`
+unless you replace `"$HOSTNAME"`
 with `my_env["HOSTNAME"]`.
 ```

@@ -1,0 +1,7 @@
+@id 0KAV2dRADbOqghrK
+@title pull and merge changes from upstream
+@created 1634425112211
+@text ```
+git fetch upstream
+git merge upstream/master # Merges into the checked-out branch.
+```
