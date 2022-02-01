@@ -4,4 +4,8 @@
 @text ```
 h <- hist(nchar(as.character(v$value)), breaks=500, plot=FALSE)
 plot(h$counts, log="xy")
+
+
+h <- hist(freq, breaks=500, plot=FALSE)
+plot(x=h$mids, y=h$counts, log="xy", xlab="group size", ylab="occurrences")
 ```
