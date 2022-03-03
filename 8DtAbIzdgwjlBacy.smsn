@@ -1,0 +1,3 @@
+@id 8DtAbIzdgwjlBacy
+@title The Expression Problem is a new name for an old problem. The goal is to define a datatype by cases, where one can add new cases to the datatype and new functions over the datatype, without recompiling existing code, and while retaining static type safety (e.g., no casts).
+@created 1646329482819
