@@ -1,0 +1,7 @@
+@id A1BxHlE9Qb43kcPd
+@title SHACL exploration
+@created 1657084157919
+@text ```
+curlr http://www.w3.org/ns/shacl# > /tmp/shacl.rdf
+rapper -i rdfxml -o ntriples /tmp/shacl.rdf > /tmp/shacl.nt
+```
