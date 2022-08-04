@@ -1,0 +1,75 @@
+@id MolbXuzKKlKWVBFs
+@title African airports example
+@created 1658965911500
+@text ```
+# African airports
+select distinct ?airport ?airportName ?iata ?icao ?countryName ?elevation where {
+  # It's an airport
+  ?airport wdt:P31 wd:Q1248784 .
+
+  # In Africa
+  ?airport wdt:P17 ?country .
+  ?country wdt:P30 wd:Q15 .
+  
+  optional {
+    ?airport wdt:P2044 ?elevation .
+  }
+  
+  optional {
+    ?airport wdt:P238 ?iata .
+  }
+  
+  optional {
+    ?airport wdt:P239 ?icao .
+  }
+  
+  optional {
+    ?country rdfs:label ?countryName .
+    FILTER(lang(?countryName) = 'en')    
+  }
+  
+  optional {
+    ?airport rdfs:label ?airportName .
+    FILTER(lang(?airportName) = 'en')    
+  }
+  
+  # At least one outgoing flight in the data set
+  ?flight wdt:P1427 ?airport .
+}
+
+
+# Flights originating at African airports
+select ?flight ?flightName ?operator ?operatorName ?start ?startIcao ?dest ?destIcao where {
+  ?flight wdt:P1427 ?start .
+  ?flight wdt:P1444 ?dest .
+  
+  # Start point is an airport
+  ?start wdt:P31 wd:Q1248784 .
+
+  # Destination is an airport
+  ?dest wdt:P31 wd:Q1248784 .
+  
+  # Start point is in Africa
+  ?start wdt:P17 ?country .
+  ?country wdt:P30 wd:Q15 .
+  
+  optional {
+    ?flight rdfs:label ?flightName .
+    FILTER(lang(?flightName) = 'en')    
+  }
+  
+  optional {
+    ?start wdt:P239 ?startIcao .
+  }
+
+  optional {
+    ?dest wdt:P239 ?destIcao .
+  }
+  
+  optional {
+    ?flight wdt:P137 ?operator .
+    ?operator rdfs:label ?operatorName .
+    FILTER(lang(?operatorName) = 'en') 
+  }
+}
+```
