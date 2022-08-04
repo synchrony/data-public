@@ -7,6 +7,7 @@ select (count(distinct(?airport)) as ?count) WHERE {
   ?airport ps:P31 wd:Q1248784.
 }
 
+
 # US airports with ICAO codes, names, and states
 SELECT ?airport ?code ?name ?stateName WHERE {
   ?airport wdt:P31 wd:Q1248784 .
@@ -19,18 +20,24 @@ SELECT ?airport ?code ?name ?stateName WHERE {
   FILTER (lang(?stateName) = 'en')
 }
 
+
 # Count US airports (13958 as of 2020-10-30)
 select (count(distinct(?airport)) as ?count) WHERE {
   ?airport wdt:P31 wd:Q1248784 .
   ?airport wdt:P17 wd:Q30 .
 }
 
+
 # Airports ordered by increasing distance from Reid-Hillview
 SELECT ?airport ?code ?name ?elev ?dist ?country ?state WHERE {
   ?airport wdt:P31 wd:Q1248784 .
   OPTIONAL {
     # Use FAA codes, not ICAO codes (wdt:P239), which the smallest airports don't have
-    ?airport wdt:P240 ?code .
+    ?airport wdt:P240 ?faaCode .
+  }
+  OPTIONAL {
+    # Note: the smallest airports do not have ICAO codes
+    ?airport wdt:P239 ?icaoCode .
   }
   OPTIONAL {
     ?airport rdfs:label ?name .
@@ -56,6 +63,7 @@ SELECT ?airport ?code ?name ?elev ?dist ?country ?state WHERE {
 }
 ORDER BY ?dist
 
+
 # Grass runways near me
 SELECT ?airport WHERE {
   ?airport wdt:P31 wd:Q1248784 .
@@ -73,12 +81,14 @@ select ?p ?o where {
   wd:Q1431894 ?p ?o .
 }
 
+
 # Distinct runway materials (doesn't work)
 SELECT DISTINCT ?material WHERE {
   ?airport wdt:P31 wd:Q1248784 .
   ?airport wdt:P529 ?runway .
   ?runway wdt:P186 ?material .
 }
+
 
 # Other / old
 select ?airport ?p ?o WHERE {
@@ -97,5 +107,11 @@ select distinct ?country ?countryLab WHERE {
 select ?airport ?country WHERE {
   ?airport wdt:P31 wd:Q1248784 .
   ?airport wdt:P17 ?country .
+}
+
+
+# FBOs
+SELECT ?s WHERE {
+  ?s wdt:P31 wd:Q670113 .
 }
 ```
