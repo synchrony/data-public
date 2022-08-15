@@ -1,0 +1,4 @@
+@id kCT2aFlJytB1sMNF
+@title facebookincubator/faldisco: FalDisco uses a new approach to classify data that has traditionally been difficult to classify (small integers, dates and numbers) by aligning data to be classified (target data) to the known reference data on alignment key and finding functional alignment between reference fields and target fields . (web page)
+@alias https://github.com/facebookincubator/faldisco
+@created 1660086282611
