@@ -1,0 +1,3 @@
+@id qPh6xfd00Kf7ZsAe
+@title container scanning tools such as [Trivy] essentially operate as engines that inventory the contents of a container image, then perform a look-up against a vulnerability DB for each inventoried artifact (usually an OS or framework library package)
+@created 1663000996645
