@@ -10,10 +10,10 @@
 [escaped]```
 git clone <git repository A url>
 cd <git repository A directory>
-git remote rm origin
+git remote rm origin # so you do not actually change the source repository
 git filter-branch --subdirectory-filter <directory 1> -- --all
 mkdir <directory 1>
-mv * <directory 1>
+git mv * <directory 1>
 git add .
 git commit
 [escaped]```
