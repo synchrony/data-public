@@ -1,0 +1,3 @@
+@id XU1m04UIitqgjNwI
+@title when creating keyframes, make sure that everything you want to animate is animated (including X Offset and Y Offset); otherwise, when you come back to the keyframe later, it will not look as it did when you left it (because some dimensions were not saved, and have changed)
+@created 1664155370617
