@@ -1,0 +1,3 @@
+@id HIjgFgZyjOHDwIvo
+@title "For the next generation of cyber-physical systems, it is arguable that we must build concurrent models of computation that are far more deterministic, predictable, and understandable. Threads take the opposite approach. They make programs absurdly nondeterministic, and rely on programming style to constrain that nondeterminism to achieve deterministic aims."
+@created 1666299716246
