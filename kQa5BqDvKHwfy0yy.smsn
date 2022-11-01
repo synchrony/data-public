@@ -1,0 +1,3 @@
+@id kQa5BqDvKHwfy0yy
+@title /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+@created 1666891160572

@@ -1,0 +1,3 @@
+@id XMfQ6Xi3Vhg6jgmd
+@title if permissions issues are encountered, check the ownership of the files in question with `hdfs dfs -ls /path/to/file`
+@created 1666802026313
