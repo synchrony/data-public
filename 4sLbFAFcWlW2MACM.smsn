@@ -1,0 +1,3 @@
+@id 4sLbFAFcWlW2MACM
+@title a construct which would be a functor but for the fact that it "turns morphisms around". If f:X->Y, then F(f):F(Y)->F(X), and the composition rule is correspondingly turned around
+@created 1667167505319
