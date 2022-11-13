@@ -1,0 +1,3 @@
+@id 1aijuxEviNIEFGQX
+@title the resource principal that does the deployments for the managed application. It has owner permissions only on the managed resource group and does not have any other permissions outside the resource group on the customers tenant
+@created 1667937900580

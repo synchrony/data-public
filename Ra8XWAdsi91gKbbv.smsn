@@ -1,0 +1,3 @@
+@id Ra8XWAdsi91gKbbv
+@title Ryan: For each language such as avro, identify a subcategory of F and show it is equivalent (probably not isomorphic) to that language (eg avro). That establishes the “adequacy” of hydra as a representation of eg avro. Then, show that you have a lax functor from system F to that subcategory of F - that establishes soundness of hydra as a representation of avro. Finally, we can check if the lax functor preserves various F or avro equations to get at semantics presentation (completeness). I’m slightly abusing some words but that’s the gist of it. A good example of an F to F functor is Phil wadler’s paper “recursive types for free”
+@created 1668269730311
