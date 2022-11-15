@@ -1,3 +1,4 @@
 @id KI51BHGlAIiGgvat
-@title monotonicity: p1 < p2 ∧ q1 < q2 ⇒ p1⊗p2 < q1⊗q2
+@title monotonicity: p1 < q1 ∧ p2 < q2 ⇒ p1⊗p2 < q1⊗q2
 @created 1555462954519
+* :qKHlf4PC1PH3eOzU: 
