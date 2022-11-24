@@ -1,0 +1,3 @@
+@id 0m95ubAZrMVyLUMw
+@title a node knows its adjacency list, its own state, and its incoming message for a given step. There is no global state.
+@created 1668635359920
