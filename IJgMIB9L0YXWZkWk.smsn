@@ -1,0 +1,4 @@
+@id IJgMIB9L0YXWZkWk
+@title nested unions are not supported, despite the record syntax. PDL probably inherits this antifeature from Avro, which does not support unions inside of unions
+@created 1670881720572
+* :778b7tlnCAWMqZZv: 
