@@ -1,0 +1,3 @@
+@id oubt6ASDGLLOxnAw
+@title e.g. an "employee" relation which has a "salary history" relation as one of its domains. Each employee (row) has a salary history (any number of rows).
+@created 1671827132033
