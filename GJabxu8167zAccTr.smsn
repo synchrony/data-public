@@ -1,0 +1,3 @@
+@id GJabxu8167zAccTr
+@title Ryan: "i think they are saying that you should use the conventional normal forms for databases, like 3NF, BCNF, etc, and those will naturally decompose relations into the smallest possible arity, that's how the normal forms remove redundancy that can lead to update/query decoherence"
+@created 1674106533620

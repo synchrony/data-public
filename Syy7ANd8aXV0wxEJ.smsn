@@ -1,0 +1,3 @@
+@id Syy7ANd8aXV0wxEJ
+@title Ryan: ok. that [the fact that users can't define their own type constructors] is the diving line - because you chose the type level functions, they can’t go wrong.  once users can write type level functions - which they can in Haskell using classes/instances - you need kinds to “type check to user’s type level functions”
+@created 1674233565415
