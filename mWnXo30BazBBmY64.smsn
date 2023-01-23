@@ -2,3 +2,4 @@
 @title fmap is ad-hoc polymorphic
 @created 1505707206362
 @text because when you lift a function g : a -> b to fmap g : F a -> F b, the lift depends on F
+* :quMSVg6n9rpObU1V: 
