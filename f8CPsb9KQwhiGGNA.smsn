@@ -1,0 +1,12 @@
+@id f8CPsb9KQwhiGGNA
+@title time delay for WAAS signals, in R
+@created 1676786612293
+@text ```
+geoStatKm <- 35786
+earthRadiusKm <- 6378
+speedOfLightVacKmS <- 299792
+
+# round trip to a geostationary satellite and back: around 196 ms
+2 * (geoStatKm - earthRadiusKm) / speedOfLightVacKmS
+```
+* :iG81dF7saPH5226o: 
