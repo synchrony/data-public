@@ -1,0 +1,48 @@
+@id lgEtQWcKO6ELcvTD
+@title JSON example
+@created 1679600608019
+@text ```
+{
+  "function": {
+    "domain": {
+      "variable": "v2"
+    },
+    "codomain": {
+      "record": {
+        "name": "hydra/compute.FlowState",
+        "fields": [
+          {
+            "name": "value",
+            "type": {
+              "optional": {
+                "optional": {
+                  "application": {
+                    "function": {
+                      "wrap": "hydra/core.Term"
+                    },
+                    "argument": {
+                      "wrap": "hydra/compute.Kv"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          {
+            "name": "state",
+            "type": {
+              "variable": "v2"
+            }
+          },
+          {
+            "name": "trace",
+            "type": {
+              "wrap": "hydra/compute.Trace"
+            }
+          }
+        ]
+      }
+    }
+  }
+}
+```
