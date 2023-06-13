@@ -1,0 +1,3 @@
+@id WddIGd3RjaIctpcP
+@title Ryan: i'd frame it differently.  unless you are trying to add constraints into types, you can just say that type theory admits many logics, and some particular ones that are useful in data integration are equational logic and datalog.  You can also say that F admits many extensions, including dependent types, as well as generalizations in other directions (eg higher polymorphism). like, the advantage of using a type theory is logics etc come for free, you don't have to do any work to get them
+@created 1677003858853

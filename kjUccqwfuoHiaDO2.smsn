@@ -1,0 +1,3 @@
+@id kjUccqwfuoHiaDO2
+@title Ryan: 8.3 and 8.4 can be simplified: there are a number of logics associated to each type theory, equational logic, existential horn clauses, etc, etc.  You can do a lot more than just path equations and datalog once you have the type theory. we say something like this in the APG paper: we talk about a particular logic on top of APG.  the point I'm making tho is that the reader shouldnt feel as tho only path equations and datalog can be supported
+@created 1677004157956
