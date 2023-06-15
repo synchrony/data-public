@@ -1,0 +1,3 @@
+@id ZOgvkrT4ed2gD6wQ
+@title edge src, dest are foreign key references to the vertex table. Duplicate sr/dest pairs are allowed
+@created 1686695337763
