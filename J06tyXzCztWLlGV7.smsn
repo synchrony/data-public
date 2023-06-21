@@ -1,0 +1,15 @@
+@id J06tyXzCztWLlGV7
+@title example of a Haskell expression whose type takes exponential time and space w.r.t. the size of the expression
+@created 1686857540595
+@text ```
+test = let x1 = \y -> (y, y)
+           x2 = \y -> x1 (x1 y)
+           x3 = \y -> x2 (x2 y)
+           x4 = \y -> x3 (x3 y)
+           x5 = \y -> x4 (x4 y)
+           x6 = \y -> x5 (x5 y)
+       in x6 (\z -> z)
+
+
+test = let x1 = \y -> (y, y) in x1 (\z -> z)
+```
