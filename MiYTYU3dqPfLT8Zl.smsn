@@ -1,0 +1,4 @@
+@id MiYTYU3dqPfLT8Zl
+@title vmware/differential-datalog: DDlog is a programming language for incremental computation. It is well suited for writing programs that continuously update their output in response to input changes. A DDlog programmer does not write incremental algorithms; instead they specify the desired input-output mapping in a declarative manner. (web page)
+@alias https://github.com/vmware/differential-datalog
+@created 1689389822633
