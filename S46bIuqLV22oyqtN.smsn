@@ -1,0 +1,10 @@
+@id S46bIuqLV22oyqtN
+@title in R
+@created 1692467602383
+@text ```
+f <- function(a) {tan(a / 180 * pi) * 6076.12 / 60}
+
+a <- 0 + 0.5*c(0:12)
+plot(a, f(a), type="l")
+plot(a, f(a)/a, type="l")
+```
