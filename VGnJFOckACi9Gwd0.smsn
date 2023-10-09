@@ -1,0 +1,3 @@
+@id VGnJFOckACi9Gwd0
+@title magick mogrify -monitor -format jpg *.HEIC && rm -rf *.HEIC
+@created 1696550666624
