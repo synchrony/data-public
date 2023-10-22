@@ -8,5 +8,8 @@ speedOfLightVacKmS <- 299792
 
 # round trip to a geostationary satellite and back: around 196 ms
 2 * (geoStatKm - earthRadiusKm) / speedOfLightVacKmS
+
+# BUT NOTE: GPS satellites are in medium earth orbits (MEO), not geostationary orbits
 ```
 * :iG81dF7saPH5226o: 
+* :raZbNkG73BzvNdI5: 
