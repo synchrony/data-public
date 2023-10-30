@@ -29,6 +29,7 @@ select (count(distinct(?airport)) as ?count) WHERE {
 
 
 # Airports ordered by increasing distance from Reid-Hillview
+# Note: these distances are possibly in kilometers
 SELECT ?airport ?code ?name ?elev ?dist ?country ?state WHERE {
   ?airport wdt:P31 wd:Q1248784 .
   OPTIONAL {
