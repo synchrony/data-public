@@ -1,0 +1,3 @@
+@id 6eLkyCroC8Eecglw
+@title avoid unnecessary full-table scans (which are common in graph DBs -- e.g. filter by name of the output vertex)
+@created 1694537415442
