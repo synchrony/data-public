@@ -1,0 +1,3 @@
+@id p12CxNMyfG0Vl7bl
+@title the lowest angle above the horizon at which a signal from a GPS satellite will be accepted. Apparently around 5 degrees. At lower angles, errors due to refraction may be unacceptably high, even if the receiver has an unobstructed line-of-sight.
+@created 1699105356722
