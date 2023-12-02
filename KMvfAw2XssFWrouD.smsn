@@ -1,0 +1,3 @@
+@id KMvfAw2XssFWrouD
+@title Ryan "by custom, the top level definitions in a haskell or ocaml file are generalized this way. i think the main reason this behavior isn't the default is that when combined with recursion something becomes undecidable or something weird happens, polymorphic recursion being non-trivial"
+@created 1699565066947
