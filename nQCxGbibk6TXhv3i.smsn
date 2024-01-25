@@ -1,0 +1,4 @@
+@id nQCxGbibk6TXhv3i
+@title find . -name '*.proto' -exec protoc --lint_out=. {} +
+@created 1705680210323
+* :NoEIRinxqXVO7IIM: 
