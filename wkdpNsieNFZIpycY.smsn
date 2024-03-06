@@ -1,0 +1,9 @@
+@id wkdpNsieNFZIpycY
+@title in case of "Unit ntp.service is masked"
+@created 1708875439879
+@text ```
+sudo systemctl unmask ntp.service
+sudo systemctl start ntp.service
+sudo systemctl enable ntp.service
+```
+* :dXIQWHNFOXhCUdZi: 
