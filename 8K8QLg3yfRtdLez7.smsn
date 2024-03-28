@@ -1,0 +1,3 @@
+@id 8K8QLg3yfRtdLez7
+@title only org.neo4j.rdf.sail.* is available in the project; org.neo4j.rdf.model.* and org.neo4j.rdf.fulltext.* are not; they must have been more deeply integrated into Neo4j
+@created 1711638333874
