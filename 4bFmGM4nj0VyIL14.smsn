@@ -1,0 +1,3 @@
+@id 4bFmGM4nj0VyIL14
+@title my question about whether you can detect constraints which are inconsistent with each other (e.g. minCount greater than maxCount for a property). Holger: you can define meta-shapes which constraint the shapes
+@created 1715028232035

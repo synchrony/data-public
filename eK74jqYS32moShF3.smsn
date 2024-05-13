@@ -1,0 +1,3 @@
+@id eK74jqYS32moShF3
+@title e.g. writing code which formats reports for a particular printer, rather than using an intermediate representation and separately, writing code which takes the IR to the printer format. This allows you to more easily support other printers later on
+@created 1714490381648

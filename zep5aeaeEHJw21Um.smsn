@@ -1,0 +1,3 @@
+@id zep5aeaeEHJw21Um
+@title constraints on subclasses can only be more specific than (same) constraints on superclasses. E.g. max cardinality of 1 can override max cardinality of 2
+@created 1715025738196
