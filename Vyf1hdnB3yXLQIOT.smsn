@@ -1,0 +1,3 @@
+@id Vyf1hdnB3yXLQIOT
+@title New-Item -ItemType SymbolicLink -Path "C:\Users/jshinavier\wslhome" -Target "\\wsl$\Ubuntu\home\josh"
+@created 1706659373863

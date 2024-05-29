@@ -1,0 +1,3 @@
+@id DXcbBIVkoJD9AOi5
+@title I found I had to disable the "Escape LaTeX special characters" BibTeX preference in order to avoid weird escape sequences like $\backslash$ which confused pdflatex.  I then had to make sure that all ampersands (&) in my entries were escaped as \&.
+@created 1448456651008

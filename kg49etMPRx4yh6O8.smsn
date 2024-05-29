@@ -1,0 +1,5 @@
+@id kg49etMPRx4yh6O8
+@title "node" and "relationship" were already used in the earliest days of Neo4j; for example, you can see them in the neo4j-rdf-sail implementation. "Vertex" and "edge" were introduced by TinkerPop.
+@created 1711638437413
+* :NlC0aU5O98wtVtVL: 
+* :r6ZSdLgKEyiJYrUy: 

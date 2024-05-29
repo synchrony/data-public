@@ -1,0 +1,3 @@
+@id FIJP8KQCmU4eVQ6L
+@title releases prior to 1.2 appear to have been hosted in Neo4j's own Maven repo (which no longer exists), rather than in Maven Central
+@created 1711724423086
