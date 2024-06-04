@@ -1,0 +1,3 @@
+@id U87hT1GA44zJ0lfG
+@title my summary: a simplified OMG insurance dataset was prepared, and provided with both a SQL schema and an OWL ontology, with an R2RML mapping between them. A common set of questions was prepared, where each question was placed within a matrix of low to high query complexity and low to high schema complexity. An LLM was asked to generate SQL and SPARQL queries, in parallel, for each question, and the results were compared against known correct results. The SPARQL workflow greatly outperformed the SQL workflow in terms of accuracy of results, with the difference especially pronounced when schema complexity is high.
+@created 1716873256453
