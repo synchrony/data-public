@@ -1,0 +1,3 @@
+@id SFtZZPaWU2oa79v2
+@title a development abstraction that preserves complete application state so that upon host or software failure it can seamlessly migrate execution to another machine
+@created 1718031450389
