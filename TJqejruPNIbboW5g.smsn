@@ -1,3 +1,3 @@
 @id TJqejruPNIbboW5g
-@title after running the script and pushing to this branch, you should see several notifications like "[hydra] build success on docs" a few minutes later
+@title after running the script and pushing to the 'docs' branch, you should see several notifications like "[hydra] build success on docs" a few minutes later (these currently show up in the #github channel on the LambdaGraph Discord server)
 @created 1689706035912

@@ -1,0 +1,3 @@
+@id czVeQxaz3VZa89a2
+@title when reifing a property graph edge as a vertex plus two edges, I prefer both edges to project out from the reified relationship vertex; you can think of the vertex as "owning" the edges, or you can consider that this makes both projections into many-to-one edges. However, it is tempting to make the original "in" projection into an in-edge, and the "out" projection into an out-edge, because this seems to keep the arrows going in the same direction when you write a traversal query. I don't have a strong argument against this.
+@created 1721659388185
