@@ -1,0 +1,7 @@
+@id M5WItzCTZBUUEj5y
+@title SmSn on Windows
+@created 1724782090504
+@text ```
+(setq browse-url-browser-function 'browse-url-generic
+            browse-url-generic-program "/mnt/c/Program Files/Google/Chrome/Application/chrome.exe")
+```
