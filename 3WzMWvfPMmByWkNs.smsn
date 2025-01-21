@@ -1,0 +1,3 @@
+@id 3WzMWvfPMmByWkNs
+@title export GO111MODULE=on; go install github.com/pseudomuto/protoc-gen-doc/cmd/protoc-gen-doc@latest
+@created 1733256802916

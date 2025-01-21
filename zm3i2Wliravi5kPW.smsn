@@ -1,0 +1,3 @@
+@id zm3i2Wliravi5kPW
+@title export PATH=$PATH:$(go env GOPATH)/bin
+@created 1733256850393

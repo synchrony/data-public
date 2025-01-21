@@ -1,0 +1,3 @@
+@id QFbd5fSw0JibSro2
+@title protoc --doc_out=./docs --doc_opt=html,index.html -I[path-to-proto-root] [absolute-path-to-file.proto]
+@created 1733256802917
