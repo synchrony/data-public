@@ -1,0 +1,4 @@
+@id Ru32qSzuHgcxWeMs
+@title ad-freiburg/qlever: Very fast SPARQL Engine, which can handle very large knowledge graphs like the complete Wikidata, offers context-sensitive autocompletion for SPARQL queries, and allows combination with text search. It's faster than engines like Blazegraph or Virtuoso, especially for queries involving large result sets. (web page)
+@alias https://github.com/ad-freiburg/qlever
+@created 1750176733909
