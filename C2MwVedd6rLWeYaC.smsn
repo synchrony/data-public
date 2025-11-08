@@ -1,6 +1,7 @@
 @id C2MwVedd6rLWeYaC
 @title to serve JSON, need only a subset of the tutorial
 @created 1517545172921
+@priority 0.5
 @text ```
 definitely chapter 2 and subchapter 11.2 (JSON)
 maybe chapter 6 (get, put)
@@ -8,4 +9,3 @@ maybe even others, but I very much doubt it
 
 Can skip the stuff about HTML, sessions, authentication ...
 ```
-@priority 0.5

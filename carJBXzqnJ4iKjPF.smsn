@@ -1,6 +1,7 @@
 @id carJBXzqnJ4iKjPF
 @title constraints can take arithmetic expressions on both sides, using any of these operators
 @created 1513546543712
+@priority 0.5
 @text ```
 unary -,
 +,
@@ -14,4 +15,3 @@ mod,
 rem,
 abs
 ```
-@priority 0.5

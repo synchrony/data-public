@@ -1,6 +1,7 @@
 @id rmXqWNS0awl66JdS
 @title it is not entirely functional; order matters
 @created 1513208281603
+@priority 0.5
 @text ```
 This works: 
     enjoys(vincent,X)  :-  burger(X),   
@@ -38,4 +39,3 @@ But now suppose we rewrite the first line as follows:
  have instantiated the variable X . In the new version (which goes wrong) we use \+  
  before we have done this. The difference is crucial.
 ```
-@priority 0.5

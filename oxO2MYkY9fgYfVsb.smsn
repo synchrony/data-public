@@ -1,6 +1,7 @@
 @id oxO2MYkY9fgYfVsb
 @title human information processing
 @created 1495575457159
+@priority 0.5
 @text ```
 do you believe in human information processing?
   I don't mean computer algorithms or AI. I mean humans reading, writing, contemplating and sharing information.
@@ -18,4 +19,3 @@ do you believe in human information processing?
   smsn helps because of course, you already know this
 ```
 @weight 0.25
-@priority 0.5

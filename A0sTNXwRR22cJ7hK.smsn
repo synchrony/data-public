@@ -1,6 +1,7 @@
 @id A0sTNXwRR22cJ7hK
 @title demonstrating this to brian
 @created 1491718722776
+@priority 0.5
 @text ```
 # Languages
 French
@@ -10,4 +11,3 @@ Aramaic
 ##
 ```
 @weight 0.75
-@priority 0.5

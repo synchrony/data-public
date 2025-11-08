@@ -1,5 +1,5 @@
 @id ZhchUa6tEMZtXd7Z
 @title ? how to write my own cabal package (and test it quickly)
 @created 1497000373418
-@text having to redo cabal install for each test would suck
 @priority 0.5
+@text having to redo cabal install for each test would suck

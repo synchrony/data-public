@@ -1,6 +1,7 @@
 @id XpzmgR8GPuAqvbjA
 @title nice ! categories to use when subdividing this
 @created 1493607152531
+@priority 0.5
 @text ```
 Repair
 Search
@@ -13,4 +14,3 @@ Value (e.g. whether to express|record)
 Keeping it organized
 ```
 @weight 0.75
-@priority 0.5
